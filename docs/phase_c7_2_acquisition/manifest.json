@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "dataset_version": "c7_2_palace_pilot_v1",
+  "pilot_bbox": [
+    30.307,
+    59.9365,
+    30.326,
+    59.9445
+  ],
+  "retrieved_at_utc": "2026-10-16T12:36:19.151667Z",
+  "osm_base_timestamp": null,
+  "source_format": "osm_xml",
+  "endpoint": "https://api.openstreetmap.org/api/0.6/map?bbox=30.307,59.9365,30.326,59.9445",
+  "response_date_header": "Fri, 16 Oct 2026 12:36:19 GMT",
+  "query_sha256": "374d936b7b36a9acf27cb39df840d9b1382e6bf5da6461019f6c726a087362a1",
+  "raw_file": "centre_palace.osm.xml.gz",
+  "raw_bytes": 5108862,
+  "raw_sha256": "3016af9bb9d23c1eb8e30508909db19cb7541234c7fc34755bb290308bffa084",
+  "raw_artifact_bytes": 537056,
+  "raw_artifact_sha256": "9178bb1582164737697877514a1991d5a0789622c31978b394eb37f38a22c853",
+  "license": "ODbL-1.0",
+  "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+  "attribution": "© OpenStreetMap contributors",
+  "attempts": [
+    {
+      "endpoint": "https://overpass-api.de/api/interpreter",
+      "started_at_utc": "2026-10-16T12:35:41.429597Z",
+      "completed_at_utc": "2026-10-16T12:36:17.058006Z",
+      "elapsed_seconds": 35.628,
+      "outcome": "failed",
+      "error_type": "TimeoutError",
+      "http_status": null
+    },
+    {
+      "endpoint": "https://api.openstreetmap.org/api/0.6/map?bbox=30.307,59.9365,30.326,59.9445",
+      "started_at_utc": "2026-10-16T12:36:17.058721Z",
+      "completed_at_utc": "2026-10-16T12:36:19.151667Z",
+      "status": 200,
+      "elapsed_seconds": 2.093,
+      "outcome": "success",
+      "raw_bytes": 5108862
+    }
+  ]
+}

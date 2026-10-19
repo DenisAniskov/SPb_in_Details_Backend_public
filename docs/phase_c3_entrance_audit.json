@@ -1,0 +1,344 @@
+{
+  "checked_on": "2026-10-10",
+  "method": "Bounded Overpass acquisition: entrance=* and barrier=gate nodes within 15 m of named park/garden polygons; per-park binding by response bounds plus the server-side around-filter.",
+  "routing_point_rule": "A routing coordinate is filled only for an OSM-documented visitor entrance node with entrance in {yes, main} or an explicit public gate, without access restrictions, bound to the canonical park. Absence of access=private is NOT treated as proof of publicity; untagged gates are access_uncertain.",
+  "result_summary": {
+    "accepted_way_parks_audited": 13,
+    "verified_public_entrances": 0,
+    "restricted_gates": 6,
+    "untagged_gates": 1,
+    "parks_without_documented_entrance": 6
+  },
+  "relation_park_limitation": "Entrance evidence acquisition covered way-mapped parks; relation-mapped parks were not scanned in this phase.",
+  "parks": {
+    "komsomolsky-garden": {
+      "catalog_key": "komsomolsky-garden",
+      "park_way_id": 32702194,
+      "park_bounds": {
+        "minlat": 59.8732224,
+        "minlon": 30.2586053,
+        "maxlat": 59.8753568,
+        "maxlon": 30.2618218
+      },
+      "entrance_radius_meters": 15,
+      "gate_evidence_query": "c3_park_gates_kirovsky",
+      "entrance_evidence_queries": [
+        "c3_entrances_kirovsky"
+      ],
+      "documented_entrance_nodes": [],
+      "public_entrance_count": 0,
+      "verdict": "no_documented_entrance"
+    },
+    "molvinsky-garden": {
+      "catalog_key": "molvinsky-garden",
+      "park_way_id": 96364629,
+      "park_bounds": {
+        "minlat": 59.8970985,
+        "minlon": 30.2564694,
+        "maxlat": 59.9003529,
+        "maxlon": 30.2635936
+      },
+      "entrance_radius_meters": 15,
+      "gate_evidence_query": "c3_park_gates_kirovsky",
+      "entrance_evidence_queries": [
+        "c3_entrances_kirovsky"
+      ],
+      "documented_entrance_nodes": [
+        {
+          "node": 6885497774,
+          "entrance": null,
+          "access": "private"
+        },
+        {
+          "node": 5819196743,
+          "entrance": "yes",
+          "access": "private"
+        }
+      ],
+      "public_entrance_count": 0,
+      "verdict": "restricted_access"
+    },
+    "tentelovsky-square": {
+      "catalog_key": "tentelovsky-square",
+      "park_way_id": 141623677,
+      "park_bounds": {
+        "minlat": 59.8974137,
+        "minlon": 30.2874978,
+        "maxlat": 59.8992088,
+        "maxlon": 30.2889627
+      },
+      "entrance_radius_meters": 15,
+      "gate_evidence_query": "c3_park_gates_kirovsky",
+      "entrance_evidence_queries": [
+        "c3_entrances_kirovsky"
+      ],
+      "documented_entrance_nodes": [
+        {
+          "node": 7191628818,
+          "entrance": null,
+          "access": "private"
+        }
+      ],
+      "public_entrance_count": 0,
+      "verdict": "restricted_access"
+    },
+    "general-duhanov-square": {
+      "catalog_key": "general-duhanov-square",
+      "park_way_id": 154855800,
+      "park_bounds": {
+        "minlat": 59.8488366,
+        "minlon": 30.104953,
+        "maxlat": 59.8505198,
+        "maxlon": 30.106731
+      },
+      "entrance_radius_meters": 15,
+      "gate_evidence_query": "c3_park_gates_krasnoselsky",
+      "entrance_evidence_queries": [
+        "c3_entrances_krasnoselsky"
+      ],
+      "documented_entrance_nodes": [],
+      "public_entrance_count": 0,
+      "verdict": "no_documented_entrance"
+    },
+    "komissar-grushko-square": {
+      "catalog_key": "komissar-grushko-square",
+      "park_way_id": 692406919,
+      "park_bounds": {
+        "minlat": 59.8357898,
+        "minlon": 30.1169773,
+        "maxlat": 59.8404543,
+        "maxlon": 30.1185188
+      },
+      "entrance_radius_meters": 15,
+      "gate_evidence_query": "c3_park_gates_krasnoselsky",
+      "entrance_evidence_queries": [
+        "c3_entrances_krasnoselsky"
+      ],
+      "documented_entrance_nodes": [],
+      "public_entrance_count": 0,
+      "verdict": "no_documented_entrance"
+    },
+    "mikhail-ashik-square": {
+      "catalog_key": "mikhail-ashik-square",
+      "park_way_id": 1006790808,
+      "park_bounds": {
+        "minlat": 59.8410533,
+        "minlon": 30.1349402,
+        "maxlat": 59.8417151,
+        "maxlon": 30.1396423
+      },
+      "entrance_radius_meters": 15,
+      "gate_evidence_query": "c3_park_gates_krasnoselsky",
+      "entrance_evidence_queries": [
+        "c3_entrances_krasnoselsky"
+      ],
+      "documented_entrance_nodes": [],
+      "public_entrance_count": 0,
+      "verdict": "no_documented_entrance"
+    },
+    "matsievich-square": {
+      "catalog_key": "matsievich-square",
+      "park_way_id": 143828654,
+      "park_bounds": {
+        "minlat": 59.9969022,
+        "minlon": 30.2857846,
+        "maxlat": 59.998613,
+        "maxlon": 30.2881303
+      },
+      "entrance_radius_meters": 15,
+      "gate_evidence_query": "c3_park_gates_primorsky",
+      "entrance_evidence_queries": [
+        "c3_entrances_primorsky_west",
+        "c3_entrances_primorsky_east"
+      ],
+      "documented_entrance_nodes": [
+        {
+          "node": 3687109960,
+          "entrance": null,
+          "access": "private"
+        },
+        {
+          "node": 1492184540,
+          "entrance": "staircase",
+          "access": null
+        },
+        {
+          "node": 1492184694,
+          "entrance": "staircase",
+          "access": null
+        }
+      ],
+      "public_entrance_count": 0,
+      "verdict": "restricted_access"
+    },
+    "orlovy-denisovy-estate-park": {
+      "catalog_key": "orlovy-denisovy-estate-park",
+      "park_way_id": 143828757,
+      "park_bounds": {
+        "minlat": 60.0184451,
+        "minlon": 30.2869746,
+        "maxlat": 60.0202915,
+        "maxlon": 30.2916562
+      },
+      "entrance_radius_meters": 15,
+      "gate_evidence_query": "c3_park_gates_primorsky",
+      "entrance_evidence_queries": [
+        "c3_entrances_primorsky_west",
+        "c3_entrances_primorsky_east"
+      ],
+      "documented_entrance_nodes": [
+        {
+          "node": 2371402807,
+          "entrance": null,
+          "access": "private"
+        },
+        {
+          "node": 2976853663,
+          "entrance": null,
+          "access": null
+        },
+        {
+          "node": 7649798184,
+          "entrance": null,
+          "access": null
+        },
+        {
+          "node": 7649809589,
+          "entrance": null,
+          "access": null
+        },
+        {
+          "node": 7649809591,
+          "entrance": null,
+          "access": null
+        },
+        {
+          "node": 7649809592,
+          "entrance": null,
+          "access": null
+        },
+        {
+          "node": 7649809600,
+          "entrance": null,
+          "access": null
+        }
+      ],
+      "public_entrance_count": 0,
+      "verdict": "restricted_access"
+    },
+    "kondratyevsky-garden": {
+      "catalog_key": "kondratyevsky-garden",
+      "park_way_id": 206639567,
+      "park_bounds": {
+        "minlat": 59.9668402,
+        "minlon": 30.3844436,
+        "maxlat": 59.9695948,
+        "maxlon": 30.3882391
+      },
+      "entrance_radius_meters": 15,
+      "gate_evidence_query": "c3_park_gates_kalininsky",
+      "entrance_evidence_queries": [
+        "c3_entrances_kalininsky_south",
+        "c3_entrances_kalininsky_north"
+      ],
+      "documented_entrance_nodes": [],
+      "public_entrance_count": 0,
+      "verdict": "no_documented_entrance"
+    },
+    "sverdlovsky-garden": {
+      "catalog_key": "sverdlovsky-garden",
+      "park_way_id": 261805529,
+      "park_bounds": {
+        "minlat": 59.9554276,
+        "minlon": 30.3735729,
+        "maxlat": 59.9566216,
+        "maxlon": 30.376229
+      },
+      "entrance_radius_meters": 15,
+      "gate_evidence_query": "c3_park_gates_kalininsky",
+      "entrance_evidence_queries": [
+        "c3_entrances_kalininsky_south",
+        "c3_entrances_kalininsky_north"
+      ],
+      "documented_entrance_nodes": [
+        {
+          "node": 12291919265,
+          "entrance": null,
+          "access": "private"
+        }
+      ],
+      "public_entrance_count": 0,
+      "verdict": "restricted_access"
+    },
+    "zhores-alfyorov-garden": {
+      "catalog_key": "zhores-alfyorov-garden",
+      "park_way_id": 245659313,
+      "park_bounds": {
+        "minlat": 59.9997731,
+        "minlon": 30.4251191,
+        "maxlat": 60.0047657,
+        "maxlon": 30.4322936
+      },
+      "entrance_radius_meters": 15,
+      "gate_evidence_query": "c3_park_gates_kalininsky",
+      "entrance_evidence_queries": [
+        "c3_entrances_kalininsky_south",
+        "c3_entrances_kalininsky_north"
+      ],
+      "documented_entrance_nodes": [
+        {
+          "node": 3692573272,
+          "entrance": "service",
+          "access": null
+        }
+      ],
+      "public_entrance_count": 0,
+      "verdict": "access_uncertain"
+    },
+    "polyustrovsky-garden": {
+      "catalog_key": "polyustrovsky-garden",
+      "park_way_id": 23772140,
+      "park_bounds": {
+        "minlat": 59.986224,
+        "minlon": 30.347728,
+        "maxlat": 59.9898235,
+        "maxlon": 30.3538424
+      },
+      "entrance_radius_meters": 15,
+      "gate_evidence_query": "c3_park_gates_vyborgsky",
+      "entrance_evidence_queries": [
+        "c3_entrances_vyborgsky_south",
+        "c3_entrances_vyborgsky_north"
+      ],
+      "documented_entrance_nodes": [
+        {
+          "node": 3151582577,
+          "entrance": null,
+          "access": "private"
+        }
+      ],
+      "public_entrance_count": 0,
+      "verdict": "restricted_access"
+    },
+    "blockade-survivors-square": {
+      "catalog_key": "blockade-survivors-square",
+      "park_way_id": 769365054,
+      "park_bounds": {
+        "minlat": 59.9992474,
+        "minlon": 30.3635883,
+        "maxlat": 59.9998224,
+        "maxlon": 30.3649633
+      },
+      "entrance_radius_meters": 15,
+      "gate_evidence_query": "c3_park_gates_vyborgsky",
+      "entrance_evidence_queries": [
+        "c3_entrances_vyborgsky_south",
+        "c3_entrances_vyborgsky_north"
+      ],
+      "documented_entrance_nodes": [],
+      "public_entrance_count": 0,
+      "verdict": "no_documented_entrance"
+    }
+  },
+  "decision": "No catalog record receives routing coordinates in Phase C3: zero verified public entrances. The additive routing schema ships unfilled with routing_access_status=representative_point_only everywhere."
+}

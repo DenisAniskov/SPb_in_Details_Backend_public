@@ -1,0 +1,6 @@
+{
+  "threshold_meters": 120,
+  "catalog_pairs_within_threshold": [],
+  "reviews": [],
+  "decision": "No catalog pair involving a C6.1 addition falls within the 120 m review threshold; the frozen-window pair review set is unchanged."
+}

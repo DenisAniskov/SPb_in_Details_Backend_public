@@ -1,0 +1,74 @@
+{
+  "checked_on": "2026-10-11",
+  "scope": "Official-source checks for the seven C6.1 additions (name, address, operating status).",
+  "attractions": {
+    "museum-of-optics-itmo": {
+      "official_source": "https://optimus.itmo.ru/ (данные Университета ИТМО о музее)",
+      "checked_on": "2026-10-11",
+      "confirms": [
+        "name",
+        "address",
+        "operating_status"
+      ],
+      "imprint": "Биржевая линия, 14; музей Университета ИТМО работает по расписанию (вт–чт 11:00–20:00, пт–вс 11:00–21:00, пн — выходной); интерактивная экспозиция об оптике, голографии и оптических иллюзиях подтверждена официальными данными ИТМО."
+    },
+    "glushko-space-museum": {
+      "official_source": "https://www.spbmuseum.ru/exhibits_and_exhibitions/permanent_displays/48241/",
+      "checked_on": "2026-10-11",
+      "confirms": [
+        "name",
+        "address",
+        "operating_status"
+      ],
+      "imprint": "Петропавловская крепость, Иоанновский равелин; музей Государственного музея истории Санкт-Петербурга, среда — выходной; экспозиция о ракетной технике и космонавтике подтверждена страницей постоянной экспозиции и тегами OSM-объекта."
+    },
+    "vselennaya-vody": {
+      "official_source": "http://vodokanal-museum.ru/",
+      "checked_on": "2026-10-11",
+      "confirms": [
+        "name",
+        "address",
+        "operating_status"
+      ],
+      "imprint": "Шпалерная, 56; на сайте опубликовано расписание на октябрь 2026 года, признаков закрытия нет; экспозиции «Мир воды Санкт-Петербурга», «Подземный мир Петербурга» и «Вселенная Воды» перечислены на официальном сайте, экскурсионный порядок части залов — там же."
+    },
+    "etagi-loft-project": {
+      "official_source": "https://www.loftprojectetagi.ru/",
+      "checked_on": "2026-10-11",
+      "confirms": [
+        "name",
+        "operating_status"
+      ],
+      "imprint": "Адрес подтверждён тегами OSM (Лиговский проспект, 74); этажность (building:levels=5) — из OSM-объекта; сведения о здании бывшего хлебозавода и составе площадок — по статье Википедии «Этажи (выставочный центр)» (вспомогательный источник)."
+    },
+    "pushkinskaya-10-art-centre": {
+      "official_source": "https://p-10.ru/contacts",
+      "checked_on": "2026-10-11",
+      "confirms": [
+        "name",
+        "address",
+        "operating_status"
+      ],
+      "imprint": "191040, Санкт-Петербург, Пушкинская ул., дом 10; вход с Лиговского пр. 53, под арку; музеи и галереи работают; Музей нонконформистского искусства, Музей рок-музыки, Музей Звука и «улица Джона Леннона» перечислены на официальном сайте; год начала работы (1989) — тег start_date OSM-объекта."
+    },
+    "elagin-island-central-park": {
+      "official_source": "https://elaginpark.org/ (СПб ГБУК «ЦПКиО им. С. М. Кирова»)",
+      "checked_on": "2026-10-11",
+      "confirms": [
+        "name",
+        "address",
+        "operating_status"
+      ],
+      "imprint": "Елагин остров, 4, литера Б; парк работает по сезонному расписанию; статус памятника природы подтверждён объектом OSM relation/2965059 и данными ООПТ Санкт-Петербурга (oopt.spb.ru)."
+    },
+    "volshebnaya-milya-park": {
+      "official_source": "https://magicmile.ru/",
+      "checked_on": "2026-10-11",
+      "confirms": [
+        "name",
+        "operating_status"
+      ],
+      "imprint": "Реквизиты: ТРК «Гранд Каньон», 1 этаж, вход с улицы Шостаковича; адрес подтверждён тегами OSM (проспект Энгельса, 154); зеркальный лабиринт, сферический кинотеатр, площадки и площадь парка — по официальному сайту и официальной странице арендатора ТРК."
+    }
+  }
+}

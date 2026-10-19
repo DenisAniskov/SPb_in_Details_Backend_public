@@ -1,0 +1,32 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-07-28T02:16:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1938744254,
+  "lat": 59.9441958,
+  "lon": 30.2954520,
+  "timestamp": "2022-09-27T11:17:13Z",
+  "version": 8,
+  "changeset": 126693700,
+  "user": "Anton Khorev",
+  "uid": 437809,
+  "tags": {
+    "email": "optimus@corp.ifmo.ru",
+    "name": "Музей оптики",
+    "name:en": "Optics Museum",
+    "opening_hours": "Tu-Th 11:00-20:00; Fr-Su 11:00-21:00",
+    "phone": "+7 812 4571779",
+    "tourism": "museum",
+    "website": "http://optimus.ifmo.ru"
+  }
+}
+
+  ]
+}

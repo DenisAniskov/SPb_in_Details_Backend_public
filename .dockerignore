@@ -1,0 +1,28 @@
+# Allowlist the complete image context; secrets/data/dev artifacts stay outside.
+**
+!Dockerfile
+!.dockerignore
+!requirements.runtime.lock
+!run.py
+!container_entrypoint.py
+!scripts/
+!scripts/sqlite_backup.py
+!app/
+!app/**
+# Apply exclusions after reopening app so caches and unexpected env files stay out.
+**/__pycache__/**
+**/*.py[cod]
+**/.env
+**/.env.*
+**/*.db
+**/*.db-*
+**/*.sqlite*
+**/*.key
+**/*.pem
+**/*.log
+# Reopen only the verified immutable runtime pilots after the SQLite exclusion.
+!data/
+!data/shade_buildings_spb_pilot.sqlite
+!data/puddle_ways_spb_pilot.json
+!data/quiet_spb_pilot.json.gz
+!data/quiet_spb_pilot.manifest.json

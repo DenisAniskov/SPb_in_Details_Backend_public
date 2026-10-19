@@ -1,0 +1,772 @@
+{
+  "checked_on": "2026-10-10",
+  "method": "Unchanged deterministic Smart Walk; Haversine / 75 m per minute plus editorial visit estimates",
+  "limitation": "Synthetic district starts. Geometric estimates are not real MapKit pedestrian distances or times.",
+  "cases": [
+    {
+      "scenario": "central",
+      "district_label": "Центральная часть города",
+      "start": {
+        "latitude": 59.939,
+        "longitude": 30.3158
+      },
+      "time_budget_minutes": 30,
+      "original_25": {
+        "status": "empty",
+        "catalog_keys": [],
+        "estimated_total_duration_minutes": 0,
+        "estimated_walking_duration_seconds": 0,
+        "estimated_visit_duration_minutes": 0,
+        "estimated_total_distance_meters": 0.0,
+        "first_leg_haversine_meters": null
+      },
+      "expanded": {
+        "status": "empty",
+        "catalog_keys": [],
+        "estimated_total_duration_minutes": 0,
+        "estimated_walking_duration_seconds": 0,
+        "estimated_visit_duration_minutes": 0,
+        "estimated_total_distance_meters": 0.0,
+        "first_leg_haversine_meters": null
+      }
+    },
+    {
+      "scenario": "central",
+      "district_label": "Центральная часть города",
+      "start": {
+        "latitude": 59.939,
+        "longitude": 30.3158
+      },
+      "time_budget_minutes": 60,
+      "original_25": {
+        "status": "success",
+        "catalog_keys": [
+          "hermitage-winter-palace"
+        ],
+        "estimated_total_duration_minutes": 53,
+        "estimated_walking_duration_seconds": 159,
+        "estimated_visit_duration_minutes": 50,
+        "estimated_total_distance_meters": 197.9,
+        "first_leg_haversine_meters": 197.9
+      },
+      "expanded": {
+        "status": "success",
+        "catalog_keys": [
+          "hermitage-winter-palace"
+        ],
+        "estimated_total_duration_minutes": 53,
+        "estimated_walking_duration_seconds": 159,
+        "estimated_visit_duration_minutes": 50,
+        "estimated_total_distance_meters": 197.9,
+        "first_leg_haversine_meters": 197.9
+      }
+    },
+    {
+      "scenario": "central",
+      "district_label": "Центральная часть города",
+      "start": {
+        "latitude": 59.939,
+        "longitude": 30.3158
+      },
+      "time_budget_minutes": 120,
+      "original_25": {
+        "status": "success",
+        "catalog_keys": [
+          "hermitage-winter-palace",
+          "kunstkamera"
+        ],
+        "estimated_total_duration_minutes": 90,
+        "estimated_walking_duration_seconds": 594,
+        "estimated_visit_duration_minutes": 80,
+        "estimated_total_distance_meters": 741.8,
+        "first_leg_haversine_meters": 197.9
+      },
+      "expanded": {
+        "status": "success",
+        "catalog_keys": [
+          "hermitage-winter-palace",
+          "kunstkamera"
+        ],
+        "estimated_total_duration_minutes": 90,
+        "estimated_walking_duration_seconds": 594,
+        "estimated_visit_duration_minutes": 80,
+        "estimated_total_distance_meters": 741.8,
+        "first_leg_haversine_meters": 197.9
+      }
+    },
+    {
+      "scenario": "central",
+      "district_label": "Центральная часть города",
+      "start": {
+        "latitude": 59.939,
+        "longitude": 30.3158
+      },
+      "time_budget_minutes": 240,
+      "original_25": {
+        "status": "success",
+        "catalog_keys": [
+          "hermitage-winter-palace",
+          "kunstkamera",
+          "saint-isaacs-cathedral",
+          "popov-communications-museum",
+          "berthold-centre",
+          "gorokhovaya-rotunda"
+        ],
+        "estimated_total_duration_minutes": 236,
+        "estimated_walking_duration_seconds": 2712,
+        "estimated_visit_duration_minutes": 190,
+        "estimated_total_distance_meters": 3389.8,
+        "first_leg_haversine_meters": 197.9
+      },
+      "expanded": {
+        "status": "success",
+        "catalog_keys": [
+          "hermitage-winter-palace",
+          "kunstkamera",
+          "saint-isaacs-cathedral",
+          "popov-communications-museum",
+          "berthold-centre",
+          "gorokhovaya-rotunda"
+        ],
+        "estimated_total_duration_minutes": 236,
+        "estimated_walking_duration_seconds": 2712,
+        "estimated_visit_duration_minutes": 190,
+        "estimated_total_distance_meters": 3389.8,
+        "first_leg_haversine_meters": 197.9
+      }
+    },
+    {
+      "scenario": "vasilyevsky",
+      "district_label": "Василеостровский район",
+      "start": {
+        "latitude": 59.939,
+        "longitude": 30.281
+      },
+      "time_budget_minutes": 30,
+      "original_25": {
+        "status": "success",
+        "catalog_keys": [
+          "pel-apothecary"
+        ],
+        "estimated_total_duration_minutes": 23,
+        "estimated_walking_duration_seconds": 146,
+        "estimated_visit_duration_minutes": 20,
+        "estimated_total_distance_meters": 181.7,
+        "first_leg_haversine_meters": 181.7
+      },
+      "expanded": {
+        "status": "success",
+        "catalog_keys": [
+          "pel-apothecary"
+        ],
+        "estimated_total_duration_minutes": 23,
+        "estimated_walking_duration_seconds": 146,
+        "estimated_visit_duration_minutes": 20,
+        "estimated_total_distance_meters": 181.7,
+        "first_leg_haversine_meters": 181.7
+      }
+    },
+    {
+      "scenario": "vasilyevsky",
+      "district_label": "Василеостровский район",
+      "start": {
+        "latitude": 59.939,
+        "longitude": 30.281
+      },
+      "time_budget_minutes": 60,
+      "original_25": {
+        "status": "success",
+        "catalog_keys": [
+          "pel-apothecary",
+          "mariinsky-theatre"
+        ],
+        "estimated_total_duration_minutes": 59,
+        "estimated_walking_duration_seconds": 1408,
+        "estimated_visit_duration_minutes": 35,
+        "estimated_total_distance_meters": 1759.9,
+        "first_leg_haversine_meters": 181.7
+      },
+      "expanded": {
+        "status": "success",
+        "catalog_keys": [
+          "pel-apothecary",
+          "mariinsky-theatre"
+        ],
+        "estimated_total_duration_minutes": 59,
+        "estimated_walking_duration_seconds": 1408,
+        "estimated_visit_duration_minutes": 35,
+        "estimated_total_distance_meters": 1759.9,
+        "first_leg_haversine_meters": 181.7
+      }
+    },
+    {
+      "scenario": "vasilyevsky",
+      "district_label": "Василеостровский район",
+      "start": {
+        "latitude": 59.939,
+        "longitude": 30.281
+      },
+      "time_budget_minutes": 120,
+      "original_25": {
+        "status": "success",
+        "catalog_keys": [
+          "pel-apothecary",
+          "new-holland",
+          "mariinsky-theatre"
+        ],
+        "estimated_total_duration_minutes": 89,
+        "estimated_walking_duration_seconds": 1423,
+        "estimated_visit_duration_minutes": 65,
+        "estimated_total_distance_meters": 1777.9,
+        "first_leg_haversine_meters": 181.7
+      },
+      "expanded": {
+        "status": "success",
+        "catalog_keys": [
+          "pel-apothecary",
+          "new-holland",
+          "mariinsky-theatre"
+        ],
+        "estimated_total_duration_minutes": 89,
+        "estimated_walking_duration_seconds": 1423,
+        "estimated_visit_duration_minutes": 65,
+        "estimated_total_distance_meters": 1777.9,
+        "first_leg_haversine_meters": 181.7
+      }
+    },
+    {
+      "scenario": "vasilyevsky",
+      "district_label": "Василеостровский район",
+      "start": {
+        "latitude": 59.939,
+        "longitude": 30.281
+      },
+      "time_budget_minutes": 240,
+      "original_25": {
+        "status": "success",
+        "catalog_keys": [
+          "pel-apothecary",
+          "new-holland",
+          "mariinsky-theatre",
+          "popov-communications-museum",
+          "saint-isaacs-cathedral",
+          "berthold-centre"
+        ],
+        "estimated_total_duration_minutes": 209,
+        "estimated_walking_duration_seconds": 2921,
+        "estimated_visit_duration_minutes": 160,
+        "estimated_total_distance_meters": 3650.2,
+        "first_leg_haversine_meters": 181.7
+      },
+      "expanded": {
+        "status": "success",
+        "catalog_keys": [
+          "pel-apothecary",
+          "new-holland",
+          "yusupov-moika-palace",
+          "popov-communications-museum",
+          "saint-isaacs-cathedral"
+        ],
+        "estimated_total_duration_minutes": 238,
+        "estimated_walking_duration_seconds": 1928,
+        "estimated_visit_duration_minutes": 205,
+        "estimated_total_distance_meters": 2409.4,
+        "first_leg_haversine_meters": 181.7
+      }
+    },
+    {
+      "scenario": "petrogradsky",
+      "district_label": "Петроградский район",
+      "start": {
+        "latitude": 59.966,
+        "longitude": 30.311
+      },
+      "time_budget_minutes": 30,
+      "original_25": {
+        "status": "empty",
+        "catalog_keys": [],
+        "estimated_total_duration_minutes": 0,
+        "estimated_walking_duration_seconds": 0,
+        "estimated_visit_duration_minutes": 0,
+        "estimated_total_distance_meters": 0.0,
+        "first_leg_haversine_meters": null
+      },
+      "expanded": {
+        "status": "empty",
+        "catalog_keys": [],
+        "estimated_total_duration_minutes": 0,
+        "estimated_walking_duration_seconds": 0,
+        "estimated_visit_duration_minutes": 0,
+        "estimated_total_distance_meters": 0.0,
+        "first_leg_haversine_meters": null
+      }
+    },
+    {
+      "scenario": "petrogradsky",
+      "district_label": "Петроградский район",
+      "start": {
+        "latitude": 59.966,
+        "longitude": 30.311
+      },
+      "time_budget_minutes": 60,
+      "original_25": {
+        "status": "success",
+        "catalog_keys": [
+          "peter-great-botanical-garden"
+        ],
+        "estimated_total_duration_minutes": 53,
+        "estimated_walking_duration_seconds": 731,
+        "estimated_visit_duration_minutes": 40,
+        "estimated_total_distance_meters": 913.5,
+        "first_leg_haversine_meters": 913.5
+      },
+      "expanded": {
+        "status": "success",
+        "catalog_keys": [
+          "peter-great-botanical-garden"
+        ],
+        "estimated_total_duration_minutes": 53,
+        "estimated_walking_duration_seconds": 731,
+        "estimated_visit_duration_minutes": 40,
+        "estimated_total_distance_meters": 913.5,
+        "first_leg_haversine_meters": 913.5
+      }
+    },
+    {
+      "scenario": "petrogradsky",
+      "district_label": "Петроградский район",
+      "start": {
+        "latitude": 59.966,
+        "longitude": 30.311
+      },
+      "time_budget_minutes": 120,
+      "original_25": {
+        "status": "success",
+        "catalog_keys": [
+          "peter-great-botanical-garden",
+          "mosaic-courtyard"
+        ],
+        "estimated_total_duration_minutes": 108,
+        "estimated_walking_duration_seconds": 2865,
+        "estimated_visit_duration_minutes": 60,
+        "estimated_total_distance_meters": 3581.2,
+        "first_leg_haversine_meters": 913.5
+      },
+      "expanded": {
+        "status": "success",
+        "catalog_keys": [
+          "peter-great-botanical-garden",
+          "grenadersky-garden",
+          "sampsonievsky-cathedral"
+        ],
+        "estimated_total_duration_minutes": 106,
+        "estimated_walking_duration_seconds": 1541,
+        "estimated_visit_duration_minutes": 80,
+        "estimated_total_distance_meters": 1925.4,
+        "first_leg_haversine_meters": 913.5
+      }
+    },
+    {
+      "scenario": "petrogradsky",
+      "district_label": "Петроградский район",
+      "start": {
+        "latitude": 59.966,
+        "longitude": 30.311
+      },
+      "time_budget_minutes": 240,
+      "original_25": {
+        "status": "success",
+        "catalog_keys": [
+          "peter-great-botanical-garden",
+          "leningrad-zoo",
+          "peter-paul-fortress",
+          "kunstkamera"
+        ],
+        "estimated_total_duration_minutes": 224,
+        "estimated_walking_duration_seconds": 3823,
+        "estimated_visit_duration_minutes": 160,
+        "estimated_total_distance_meters": 4777.7,
+        "first_leg_haversine_meters": 913.5
+      },
+      "expanded": {
+        "status": "success",
+        "catalog_keys": [
+          "peter-great-botanical-garden",
+          "grenadersky-garden",
+          "sampsonievsky-cathedral",
+          "sampsonievsky-garden",
+          "alfred-nobel-memorial",
+          "cabin-of-peter-great"
+        ],
+        "estimated_total_duration_minutes": 219,
+        "estimated_walking_duration_seconds": 3225,
+        "estimated_visit_duration_minutes": 165,
+        "estimated_total_distance_meters": 4030.4,
+        "first_leg_haversine_meters": 913.5
+      }
+    },
+    {
+      "scenario": "primorsky",
+      "district_label": "Приморский район",
+      "start": {
+        "latitude": 60.008,
+        "longitude": 30.252
+      },
+      "time_budget_minutes": 30,
+      "original_25": {
+        "status": "empty",
+        "catalog_keys": [],
+        "estimated_total_duration_minutes": 0,
+        "estimated_walking_duration_seconds": 0,
+        "estimated_visit_duration_minutes": 0,
+        "estimated_total_distance_meters": 0.0,
+        "first_leg_haversine_meters": null
+      },
+      "expanded": {
+        "status": "empty",
+        "catalog_keys": [],
+        "estimated_total_duration_minutes": 0,
+        "estimated_walking_duration_seconds": 0,
+        "estimated_visit_duration_minutes": 0,
+        "estimated_total_distance_meters": 0.0,
+        "first_leg_haversine_meters": null
+      }
+    },
+    {
+      "scenario": "primorsky",
+      "district_label": "Приморский район",
+      "start": {
+        "latitude": 60.008,
+        "longitude": 30.252
+      },
+      "time_budget_minutes": 60,
+      "original_25": {
+        "status": "empty",
+        "catalog_keys": [],
+        "estimated_total_duration_minutes": 0,
+        "estimated_walking_duration_seconds": 0,
+        "estimated_visit_duration_minutes": 0,
+        "estimated_total_distance_meters": 0.0,
+        "first_leg_haversine_meters": null
+      },
+      "expanded": {
+        "status": "empty",
+        "catalog_keys": [],
+        "estimated_total_duration_minutes": 0,
+        "estimated_walking_duration_seconds": 0,
+        "estimated_visit_duration_minutes": 0,
+        "estimated_total_distance_meters": 0.0,
+        "first_leg_haversine_meters": null
+      }
+    },
+    {
+      "scenario": "primorsky",
+      "district_label": "Приморский район",
+      "start": {
+        "latitude": 60.008,
+        "longitude": 30.252
+      },
+      "time_budget_minutes": 120,
+      "original_25": {
+        "status": "success",
+        "catalog_keys": [
+          "peter-great-botanical-garden"
+        ],
+        "estimated_total_duration_minutes": 119,
+        "estimated_walking_duration_seconds": 4695,
+        "estimated_visit_duration_minutes": 40,
+        "estimated_total_distance_meters": 5867.5,
+        "first_leg_haversine_meters": 5867.5
+      },
+      "expanded": {
+        "status": "success",
+        "catalog_keys": [
+          "datsan-gunzechoinei",
+          "kamennoostrovsky-palace"
+        ],
+        "estimated_total_duration_minutes": 118,
+        "estimated_walking_duration_seconds": 4372,
+        "estimated_visit_duration_minutes": 45,
+        "estimated_total_distance_meters": 5464.8,
+        "first_leg_haversine_meters": 2732.7
+      }
+    },
+    {
+      "scenario": "primorsky",
+      "district_label": "Приморский район",
+      "start": {
+        "latitude": 60.008,
+        "longitude": 30.252
+      },
+      "time_budget_minutes": 240,
+      "original_25": {
+        "status": "success",
+        "catalog_keys": [
+          "peter-great-botanical-garden",
+          "leningrad-zoo",
+          "kunstkamera"
+        ],
+        "estimated_total_duration_minutes": 239,
+        "estimated_walking_duration_seconds": 7411,
+        "estimated_visit_duration_minutes": 115,
+        "estimated_total_distance_meters": 9263.6,
+        "first_leg_haversine_meters": 5867.5
+      },
+      "expanded": {
+        "status": "success",
+        "catalog_keys": [
+          "datsan-gunzechoinei",
+          "yelagin-palace-museum",
+          "kamennoostrovsky-palace"
+        ],
+        "estimated_total_duration_minutes": 210,
+        "estimated_walking_duration_seconds": 4452,
+        "estimated_visit_duration_minutes": 135,
+        "estimated_total_distance_meters": 5564.9,
+        "first_leg_haversine_meters": 2732.7
+      }
+    },
+    {
+      "scenario": "moskovsky",
+      "district_label": "Московский район",
+      "start": {
+        "latitude": 59.851,
+        "longitude": 30.322
+      },
+      "time_budget_minutes": 30,
+      "original_25": {
+        "status": "empty",
+        "catalog_keys": [],
+        "estimated_total_duration_minutes": 0,
+        "estimated_walking_duration_seconds": 0,
+        "estimated_visit_duration_minutes": 0,
+        "estimated_total_distance_meters": 0.0,
+        "first_leg_haversine_meters": null
+      },
+      "expanded": {
+        "status": "empty",
+        "catalog_keys": [],
+        "estimated_total_duration_minutes": 0,
+        "estimated_walking_duration_seconds": 0,
+        "estimated_visit_duration_minutes": 0,
+        "estimated_total_distance_meters": 0.0,
+        "first_leg_haversine_meters": null
+      }
+    },
+    {
+      "scenario": "moskovsky",
+      "district_label": "Московский район",
+      "start": {
+        "latitude": 59.851,
+        "longitude": 30.322
+      },
+      "time_budget_minutes": 60,
+      "original_25": {
+        "status": "empty",
+        "catalog_keys": [],
+        "estimated_total_duration_minutes": 0,
+        "estimated_walking_duration_seconds": 0,
+        "estimated_visit_duration_minutes": 0,
+        "estimated_total_distance_meters": 0.0,
+        "first_leg_haversine_meters": null
+      },
+      "expanded": {
+        "status": "success",
+        "catalog_keys": [
+          "chesme-palace"
+        ],
+        "estimated_total_duration_minutes": 31,
+        "estimated_walking_duration_seconds": 623,
+        "estimated_visit_duration_minutes": 20,
+        "estimated_total_distance_meters": 778.7,
+        "first_leg_haversine_meters": 778.7
+      }
+    },
+    {
+      "scenario": "moskovsky",
+      "district_label": "Московский район",
+      "start": {
+        "latitude": 59.851,
+        "longitude": 30.322
+      },
+      "time_budget_minutes": 120,
+      "original_25": {
+        "status": "success",
+        "catalog_keys": [
+          "grand-maket-russia"
+        ],
+        "estimated_total_duration_minutes": 101,
+        "estimated_walking_duration_seconds": 3320,
+        "estimated_visit_duration_minutes": 45,
+        "estimated_total_distance_meters": 4149.1,
+        "first_leg_haversine_meters": 4149.1
+      },
+      "expanded": {
+        "status": "success",
+        "catalog_keys": [
+          "chesme-palace",
+          "moskovsky-victory-park"
+        ],
+        "estimated_total_duration_minutes": 107,
+        "estimated_walking_duration_seconds": 1582,
+        "estimated_visit_duration_minutes": 80,
+        "estimated_total_distance_meters": 1977.2,
+        "first_leg_haversine_meters": 778.7
+      }
+    },
+    {
+      "scenario": "moskovsky",
+      "district_label": "Московский район",
+      "start": {
+        "latitude": 59.851,
+        "longitude": 30.322
+      },
+      "time_budget_minutes": 240,
+      "original_25": {
+        "status": "success",
+        "catalog_keys": [
+          "grand-maket-russia",
+          "planetarium-one",
+          "neptune-oceanarium"
+        ],
+        "estimated_total_duration_minutes": 238,
+        "estimated_walking_duration_seconds": 6152,
+        "estimated_visit_duration_minutes": 135,
+        "estimated_total_distance_meters": 7689.3,
+        "first_leg_haversine_meters": 4149.1
+      },
+      "expanded": {
+        "status": "success",
+        "catalog_keys": [
+          "chesme-palace",
+          "moskovsky-victory-park",
+          "aviators-park",
+          "victory-defenders-monument"
+        ],
+        "estimated_total_duration_minutes": 238,
+        "estimated_walking_duration_seconds": 5272,
+        "estimated_visit_duration_minutes": 150,
+        "estimated_total_distance_meters": 6589.4,
+        "first_leg_haversine_meters": 778.7
+      }
+    },
+    {
+      "scenario": "nevsky",
+      "district_label": "Невский район",
+      "start": {
+        "latitude": 59.877,
+        "longitude": 30.447
+      },
+      "time_budget_minutes": 30,
+      "original_25": {
+        "status": "empty",
+        "catalog_keys": [],
+        "estimated_total_duration_minutes": 0,
+        "estimated_walking_duration_seconds": 0,
+        "estimated_visit_duration_minutes": 0,
+        "estimated_total_distance_meters": 0.0,
+        "first_leg_haversine_meters": null
+      },
+      "expanded": {
+        "status": "empty",
+        "catalog_keys": [],
+        "estimated_total_duration_minutes": 0,
+        "estimated_walking_duration_seconds": 0,
+        "estimated_visit_duration_minutes": 0,
+        "estimated_total_distance_meters": 0.0,
+        "first_leg_haversine_meters": null
+      }
+    },
+    {
+      "scenario": "nevsky",
+      "district_label": "Невский район",
+      "start": {
+        "latitude": 59.877,
+        "longitude": 30.447
+      },
+      "time_budget_minutes": 60,
+      "original_25": {
+        "status": "empty",
+        "catalog_keys": [],
+        "estimated_total_duration_minutes": 0,
+        "estimated_walking_duration_seconds": 0,
+        "estimated_visit_duration_minutes": 0,
+        "estimated_total_distance_meters": 0.0,
+        "first_leg_haversine_meters": null
+      },
+      "expanded": {
+        "status": "success",
+        "catalog_keys": [
+          "kurakina-dacha-park"
+        ],
+        "estimated_total_duration_minutes": 53,
+        "estimated_walking_duration_seconds": 471,
+        "estimated_visit_duration_minutes": 45,
+        "estimated_total_distance_meters": 587.8,
+        "first_leg_haversine_meters": 587.8
+      }
+    },
+    {
+      "scenario": "nevsky",
+      "district_label": "Невский район",
+      "start": {
+        "latitude": 59.877,
+        "longitude": 30.447
+      },
+      "time_budget_minutes": 120,
+      "original_25": {
+        "status": "empty",
+        "catalog_keys": [],
+        "estimated_total_duration_minutes": 0,
+        "estimated_walking_duration_seconds": 0,
+        "estimated_visit_duration_minutes": 0,
+        "estimated_total_distance_meters": 0.0,
+        "first_leg_haversine_meters": null
+      },
+      "expanded": {
+        "status": "success",
+        "catalog_keys": [
+          "kurakina-dacha-park"
+        ],
+        "estimated_total_duration_minutes": 53,
+        "estimated_walking_duration_seconds": 471,
+        "estimated_visit_duration_minutes": 45,
+        "estimated_total_distance_meters": 587.8,
+        "first_leg_haversine_meters": 587.8
+      }
+    },
+    {
+      "scenario": "nevsky",
+      "district_label": "Невский район",
+      "start": {
+        "latitude": 59.877,
+        "longitude": 30.447
+      },
+      "time_budget_minutes": 240,
+      "original_25": {
+        "status": "success",
+        "catalog_keys": [
+          "grand-maket-russia",
+          "planetarium-one"
+        ],
+        "estimated_total_duration_minutes": 228,
+        "estimated_walking_duration_seconds": 7378,
+        "estimated_visit_duration_minutes": 105,
+        "estimated_total_distance_meters": 9222.2,
+        "first_leg_haversine_meters": 6593.7
+      },
+      "expanded": {
+        "status": "success",
+        "catalog_keys": [
+          "kurakina-dacha-park",
+          "babushkin-park"
+        ],
+        "estimated_total_duration_minutes": 132,
+        "estimated_walking_duration_seconds": 1572,
+        "estimated_visit_duration_minutes": 105,
+        "estimated_total_distance_meters": 1964.3,
+        "first_leg_haversine_meters": 587.8
+      }
+    }
+  ]
+}

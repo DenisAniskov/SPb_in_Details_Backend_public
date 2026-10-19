@@ -1,0 +1,31 @@
+# Runtime closure from the tested Python 3.14.7 environment, 2026-10-10.
+# Fully pin transitive packages too; update deliberately and rerun the backend suite.
+# Plain uvicorn uses h11; pytest and uvicorn[standard] development extras stay out.
+aiosqlite==0.22.1
+annotated-doc==0.0.5
+annotated-types==0.8.0
+anyio==4.15.1
+certifi==2026.7.22
+click==8.5.0
+fastapi==0.142.2
+greenlet==3.5.6
+h11==0.16.0
+httpcore==1.0.9
+httpx==0.28.1
+idna==3.20
+# Shade Engine (Phase C7.1): GEOS rasterization of shadow polygons must not
+# be re-implemented by hand; tzdata makes ZoneInfo("Europe/Moscow") portable
+# to images without system zoneinfo (Windows dev, slim bases).
+numpy==2.5.4
+opentelemetry-api==1.45.0
+pydantic==2.13.5
+pydantic-core==2.46.5
+pydantic-settings==2.15.0
+python-dotenv==1.2.4
+shapely==2.2.0
+sqlalchemy==2.0.54
+starlette==1.7.0
+tzdata==2026.5
+typing-extensions==4.16.0
+typing-inspection==0.4.4
+uvicorn==0.54.0

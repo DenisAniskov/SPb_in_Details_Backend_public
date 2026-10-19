@@ -1,0 +1,260 @@
+{
+ "generatedOn": "2026-10-11",
+ "datasetVersion": "2026.10.11+1",
+ "method": {
+  "level": "geometric pre-filter (Haversine corridor counting)",
+  "disclaimer": "NOT a MapKit-native metric; real pedestrian routing results and time deltas are device-checked separately and were NOT_TESTED in this phase.",
+  "corridorMeters": 400,
+  "minSeparationMeters": 150,
+  "syntheticStageMeters": 600
+ },
+ "datasetCoverage": {
+  "central": {
+   "features": 76,
+   "byType": {
+    "embankment": 8,
+    "pedestrianStreet": 36,
+    "square": 32
+   }
+  },
+  "petrogradsky": {
+   "features": 33,
+   "byType": {
+    "embankment": 26,
+    "pedestrianStreet": 3,
+    "square": 4
+   }
+  },
+  "vasileostrovsky": {
+   "features": 30,
+   "byType": {
+    "embankment": 11,
+    "pedestrianStreet": 3,
+    "square": 16
+   }
+  },
+  "nevsky": {
+   "features": 6,
+   "byType": {
+    "embankment": 1,
+    "pedestrianStreet": 0,
+    "square": 5
+   }
+  },
+  "primorsky": {
+   "features": 42,
+   "byType": {
+    "embankment": 27,
+    "pedestrianStreet": 5,
+    "square": 10
+   }
+  }
+ },
+ "scenarios": [
+  {
+   "startId": "nevsky_phase_b",
+   "district": "Невский район",
+   "start": {
+    "lat": 59.877,
+    "lon": 30.447
+   },
+   "syntheticStageMeters": 600,
+   "probeDirections": 8,
+   "directionCandidateCounts": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "corridorCandidates": 0,
+   "nearestFeatureMeters": 2011.8,
+   "topCandidates": []
+  },
+  {
+   "startId": "nevsky_bolshevikov",
+   "district": "Невский район",
+   "start": {
+    "lat": 59.919,
+    "lon": 30.468
+   },
+   "syntheticStageMeters": 600,
+   "probeDirections": 8,
+   "directionCandidateCounts": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "corridorCandidates": 0,
+   "nearestFeatureMeters": 2810.6,
+   "topCandidates": []
+  },
+  {
+   "startId": "nevsky_dybenko",
+   "district": "Невский район",
+   "start": {
+    "lat": 59.907,
+    "lon": 30.483
+   },
+   "syntheticStageMeters": 600,
+   "probeDirections": 8,
+   "directionCandidateCounts": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "corridorCandidates": 0,
+   "nearestFeatureMeters": 3080.2,
+   "topCandidates": []
+  },
+  {
+   "startId": "nevsky_rybatskoye",
+   "district": "Невский район",
+   "start": {
+    "lat": 59.831,
+    "lon": 30.5
+   },
+   "syntheticStageMeters": 600,
+   "probeDirections": 8,
+   "directionCandidateCounts": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "corridorCandidates": 0,
+   "nearestFeatureMeters": 7921.3,
+   "topCandidates": []
+  },
+  {
+   "startId": "nevsky_elizarovskaya",
+   "district": "Невский район",
+   "start": {
+    "lat": 59.897,
+    "lon": 30.423
+   },
+   "syntheticStageMeters": 600,
+   "probeDirections": 8,
+   "directionCandidateCounts": [
+    0,
+    0,
+    0,
+    1,
+    1,
+    0,
+    0,
+    0
+   ],
+   "corridorCandidates": 1,
+   "nearestFeatureMeters": 586.8,
+   "topCandidates": [
+    {
+     "id": "spb-scenic-nevsky-way-638354040",
+     "type": "square",
+     "name": "площадь Культуры",
+     "crossTrackMeters": 92.7
+    }
+   ]
+  },
+  {
+   "startId": "primorsky_komendantsky",
+   "district": "Приморский район",
+   "start": {
+    "lat": 60.008,
+    "lon": 30.252
+   },
+   "syntheticStageMeters": 600,
+   "probeDirections": 8,
+   "directionCandidateCounts": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "corridorCandidates": 1,
+   "nearestFeatureMeters": 337.1,
+   "topCandidates": [
+    {
+     "id": "spb-scenic-primorsky-way-638330318",
+     "type": "square",
+     "name": "Комендантская площадь",
+     "crossTrackMeters": 337.0
+    }
+   ]
+  },
+  {
+   "startId": "primorsky_begovaya",
+   "district": "Приморский район",
+   "start": {
+    "lat": 59.987,
+    "lon": 30.201
+   },
+   "syntheticStageMeters": 600,
+   "probeDirections": 8,
+   "directionCandidateCounts": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "corridorCandidates": 0,
+   "nearestFeatureMeters": 1727.7,
+   "topCandidates": []
+  },
+  {
+   "startId": "primorsky_pionerskaya",
+   "district": "Приморский район",
+   "start": {
+    "lat": 60.002,
+    "lon": 30.296
+   },
+   "syntheticStageMeters": 600,
+   "probeDirections": 8,
+   "directionCandidateCounts": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "corridorCandidates": 0,
+   "nearestFeatureMeters": 1102.8,
+   "topCandidates": []
+  }
+ ],
+ "summary": {
+  "scenariosEvaluated": 8,
+  "scenariosWithCorridorCandidates": 2,
+  "shareWithCandidates": 0.25,
+  "note": "A scenario counts as covered when at least one of the 8 deterministic 600 m probe directions has corridor candidates.",
+  "medianCandidates": 0
+ }
+}

@@ -1,0 +1,718 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-11T13:34:05Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 501596014,
+  "lat": 59.9518817,
+  "lon": 30.3212726,
+  "timestamp": "2025-04-14T06:28:15Z",
+  "version": 12,
+  "changeset": 164922532,
+  "user": "Dinamik",
+  "uid": 39040,
+  "tags": {
+    "contact:email": "kosmos_spb@mail.ru",
+    "contact:phone": "+7 812 2300332",
+    "contact:website": "https://www.spbmuseum.ru/exhibits_and_exhibitions/permanent_displays/48241/",
+    "description": "В музее представлены технологические образцы ракетной техники, уникальные документы, авторские свидетельства, воссозданы кабинеты конструкторов, уголок мастерских.",
+    "description:en": "The exposition includes rocket engineering items, unique documents and reports, rooms of engineers and developers, landing section of Soyuz 16, space suits, in flight suits and sample of foodstuffs",
+    "description:ru": "В музее представлены технологические образцы ракетной техники, уникальные документы, авторские свидетельства, воссозданы кабинеты конструкторов, уголок мастерских.",
+    "fee": "yes",
+    "full_name": "Музей космонавтики и ракетной техники имени В. П. Глушко",
+    "full_name:en": "V. P. Glushko Museum of Cosmonautics and Rocket Technology",
+    "full_name:ru": "Музей космонавтики и ракетной техники имени В. П. Глушко",
+    "name": "Музей космонавтики и ракетной техники им. В. П. Глушко",
+    "name:de": "Museum für Raketenbau und Raumfahrt",
+    "name:en": "Museum of Cosmonautics and Rocket Technology",
+    "name:fr": "Musée de l'espace et des fusées",
+    "name:ru": "Музей космонавтики и ракетной техники им. В. П. Глушко",
+    "name:zh": "宇宙航行和火箭技術博物館",
+    "opening_hours": "Th-Tu 11:00-19:00; We off",
+    "tourism": "museum",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1486061637,
+  "lat": 59.9534635,
+  "lon": 30.3142041,
+  "timestamp": "2025-10-25T23:40:04Z",
+  "version": 15,
+  "changeset": 173775205,
+  "user": "ComradeSukhov",
+  "uid": 9059129,
+  "tags": {
+    "addr:housenumber": "7",
+    "addr:place": "Александровский парк",
+    "check_date": "2025-10-26",
+    "contact:email": "artillery@yandex.ru",
+    "contact:phone": "+7 812 2320296",
+    "contact:website": "http://www.artillery-museum.ru/",
+    "fee": "yes",
+    "name": "Военно-исторический музей артиллерии, инженерных войск и войск связи",
+    "name:de": "Artilleriemuseum",
+    "name:en": "Artillery Museum",
+    "name:es": "Museo de Artillería",
+    "name:fr": "Musée de l'artillerie",
+    "opening_hours": "We-Su 11:00-18:00",
+    "payment": "cards; cash; bank_transfer",
+    "tourism": "museum",
+    "wheelchair": "yes",
+    "wikidata": "Q2388030",
+    "wikipedia": "ru:Военно-исторический музей артиллерии, инженерных войск и войск связи"
+  }
+},
+{
+  "type": "node",
+  "id": 1521311711,
+  "lat": 59.9486788,
+  "lon": 30.3135921,
+  "timestamp": "2024-06-19T17:07:18Z",
+  "version": 6,
+  "changeset": 152906422,
+  "user": "b-jazz-bot",
+  "uid": 9451067,
+  "tags": {
+    "description:en": "Peter the Great's high-security political prison.",
+    "fee": "yes",
+    "name": "Музей тюрьмы Трубецкого бастиона",
+    "name:en": "Trubetskoy Bastion Prison",
+    "opening_hours": "Mo-Su 10:00-19:00",
+    "tourism": "museum",
+    "website": "https://www.spbmuseum.ru/"
+  }
+},
+{
+  "type": "node",
+  "id": 4171192716,
+  "lat": 59.9488754,
+  "lon": 30.3164895,
+  "timestamp": "2021-04-27T13:20:09Z",
+  "version": 5,
+  "changeset": 103709942,
+  "user": "ComradeSukhov",
+  "uid": 9059129,
+  "tags": {
+    "name": "Орудия пыток средневековья",
+    "name:en": "Torture instruments of the middle ages",
+    "name:fr": "Instruments de torture du moyen-âge",
+    "name:zh": "中世纪的酷刑工具",
+    "opening_hours": "Mo-Su 10:00-19:00",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 5774146592,
+  "lat": 59.9506678,
+  "lon": 30.3189235,
+  "timestamp": "2024-06-11T04:18:34Z",
+  "version": 7,
+  "changeset": 152522494,
+  "user": "ComradeSukhov",
+  "uid": 9059129,
+  "tags": {
+    "fee": "yes",
+    "name": "Восковые фигуры",
+    "name:fr": "Musée de cire",
+    "name:zh": "蠟像館",
+    "opening_hours": "Mo-Sa 10:30-19:00",
+    "tourism": "museum",
+    "website": "https://www.spbmuseum.ru/exhibits_and_exhibitions/92/46754/"
+  }
+},
+{
+  "type": "node",
+  "id": 8655323872,
+  "lat": 59.9512039,
+  "lon": 30.3157918,
+  "timestamp": "2024-10-03T15:08:03Z",
+  "version": 5,
+  "changeset": 157423033,
+  "user": "woolfesss",
+  "uid": 16738479,
+  "tags": {
+    "contact:vk": "museum_goznak",
+    "email": "museum@goznak.ru",
+    "fee": "yes",
+    "name": "Музей истории денег",
+    "name:en": "Museum of the History of Money",
+    "opening_hours": "Mo-Su, PH 10:00-20:00, Oct 1-Apr 30 Th off",
+    "payment:cash": "yes",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "payment:visa_electron": "yes",
+    "phone": "+7 812 324 14 68;+7 921 415 25 34",
+    "tourism": "museum",
+    "website": "https://museum.goznak.ru/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11426709418,
+  "lat": 59.9504695,
+  "lon": 30.3208709,
+  "timestamp": "2026-04-17T19:31:21Z",
+  "version": 2,
+  "changeset": 181473745,
+  "user": "yuricle",
+  "uid": 599580,
+  "tags": {
+    "fee": "yes",
+    "name": "Потерна",
+    "opening_hours": "Mo, Th-Su 11:00-17:30; Tu 11:00-16:30",
+    "tourism": "museum",
+    "website": "https://www.spbmuseum.ru/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12481595031,
+  "lat": 59.9499814,
+  "lon": 30.3198391,
+  "timestamp": "2026-04-17T17:32:05Z",
+  "version": 2,
+  "changeset": 181469832,
+  "user": "yuricle",
+  "uid": 599580,
+  "tags": {
+    "check_date": "2025-01-07",
+    "name": "Керамарх",
+    "tourism": "museum",
+    "website": "https://keramarch.ru/"
+  }
+},
+{
+  "type": "node",
+  "id": 12481595032,
+  "lat": 59.9496572,
+  "lon": 30.3189674,
+  "timestamp": "2025-01-07T20:55:08Z",
+  "version": 1,
+  "changeset": 161111027,
+  "user": "Daniil Musatov",
+  "uid": 2261094,
+  "tags": {
+    "check_date": "2025-01-07",
+    "name": "Музей истории Петропавловской крепости",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 43679385,
+  "timestamp": "2026-08-27T19:41:19Z",
+  "version": 19,
+  "changeset": 188115377,
+  "user": "Alexey_ND",
+  "uid": 515330,
+  "center": {
+    "lat": 59.9545728,
+    "lon": 30.3252899
+  },
+  "nodes": [
+    552638874,
+    990317398,
+    990317541,
+    990317349,
+    990317488,
+    9293927070,
+    990317573,
+    990317459,
+    990317428,
+    10245075677,
+    990317567,
+    990317468,
+    552637629,
+    7771129716,
+    9293927071,
+    7041916434,
+    552637631,
+    9293927072,
+    10244921838,
+    7771129715,
+    10244921835,
+    13960123871,
+    13960123874,
+    10119317409,
+    552637615,
+    990317571,
+    990317486,
+    10244921829,
+    10244921832,
+    10244921831,
+    10244921830,
+    990317345,
+    552637623,
+    990317520,
+    990317373,
+    4693438354,
+    7041916425,
+    552637029,
+    552637027,
+    552638882,
+    10244921883,
+    552638836,
+    990317496,
+    990317492,
+    990317374,
+    7041916447,
+    990317582,
+    10244924225,
+    990317409,
+    10244924215,
+    990317557,
+    10244924218,
+    990317587,
+    10244924227,
+    10244924228,
+    552638840,
+    990317540,
+    10244924232,
+    990317370,
+    552638845,
+    552638861,
+    10244924229,
+    10244924231,
+    10244924230,
+    990317544,
+    552638863,
+    990317426,
+    990317530,
+    990317402,
+    7041916451,
+    990317563,
+    4132443556,
+    552638874
+  ],
+  "tags": {
+    "addr:city": "Санкт-Петербург",
+    "addr:country": "RU",
+    "addr:housenumber": "2-4",
+    "addr:postcode": "197046",
+    "addr:street": "улица Куйбышева",
+    "building": "yes",
+    "building:levels": "2",
+    "contact:email": "info@polithistory.ru",
+    "contact:ok": "https://ok.ru/group/polithistory",
+    "contact:phone": "+7 812 3136163",
+    "contact:telegram": "https://t.me/polithistorymuseum",
+    "contact:vk": "https://vk.com/polithistorymuseum",
+    "contact:website": "https://polithistory.ru",
+    "fee": "yes",
+    "name": "Музей политической истории России",
+    "name:de": "Staatliches Museum für politische Geschichte Russlands",
+    "name:en": "State Museum of Political History of Russia",
+    "opening_hours": "10:00-18:00; We 10:00-20:00; Th off; Mo[-1] off; Jan 01,Jan 02,Jan 07,May 01,Dec 31 off",
+    "operator": "Министерства культуры Российской Федерации.",
+    "tourism": "museum",
+    "wikidata": "Q15097244",
+    "wikipedia": "ru:Музей политической истории России"
+  }
+},
+{
+  "type": "relation",
+  "id": 227970,
+  "timestamp": "2025-12-21T21:44:12Z",
+  "version": 21,
+  "changeset": 176236494,
+  "user": "Jobigutenburg",
+  "uid": 10504312,
+  "center": {
+    "lat": 59.9495704,
+    "lon": 30.3166560
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 30325198,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "addr:city": "Санкт-Петербург",
+    "addr:country": "RU",
+    "addr:housenumber": "3 литА",
+    "addr:place": "Петропавловская крепость",
+    "building": "yes",
+    "building:colour": "indianred",
+    "building:levels": "1",
+    "building:parts": "vertical",
+    "name": "Комендантский дом",
+    "name:ar": "بيت القائد",
+    "name:de": "Kommandantenhaus",
+    "name:en": "Commandant's House",
+    "name:fr": "Maison du Commandant de la Place",
+    "name:zh": "指挥官的房子",
+    "roof:shape": "hipped",
+    "source": "rgis.spb.ru",
+    "tourism": "museum",
+    "type": "multipolygon",
+    "wikidata": "Q4229523",
+    "wikipedia": "ru:Комендантский дом (Петропавловская крепость)"
+  }
+},
+{
+  "type": "relation",
+  "id": 2594678,
+  "timestamp": "2025-12-21T21:44:12Z",
+  "version": 17,
+  "changeset": 176236494,
+  "user": "Jobigutenburg",
+  "uid": 10504312,
+  "center": {
+    "lat": 59.9506662,
+    "lon": 30.3173390
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 240446844,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 240446843,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 240446845,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 240446840,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 30325193,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 192533583,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "addr:place": "Петропавловская крепость",
+    "description:en": "Purpose-built mausoleum of the Grand Dukes and Duchesses of Russia (Source: Wikipedia)",
+    "name": "Великокняжеская усыпальница",
+    "name:ar": "قبو الدفن الدوقي الكبير",
+    "name:de": "Großherzogliche Gruft",
+    "name:en": "Grand Ducal Burial Vault",
+    "name:fr": "Mausolée grand-ducal de Saint-Pétersbourg",
+    "name:zh": "Grand-Ducal埋藏库",
+    "tourism": "museum",
+    "type": "multipolygon",
+    "wikidata": "Q3301865",
+    "wikipedia": "ru:Великокняжеская усыпальница"
+  }
+},
+{
+  "type": "relation",
+  "id": 2594680,
+  "timestamp": "2026-08-06T13:40:43Z",
+  "version": 19,
+  "changeset": 187034308,
+  "user": "Vladisl0ve",
+  "uid": 23823691,
+  "center": {
+    "lat": 59.9495097,
+    "lon": 30.3145567
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 30325204,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 241544981,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 241544975,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1073294325,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 241544996,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1073294324,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 241544986,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 241544993,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1073294319,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 241544995,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 241544989,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 241544978,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 192533602,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 192533576,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 192533596,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 192533603,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 192533587,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 153673007,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 241544974,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 241544994,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 241544987,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 241544982,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "description:en": "Mint founded by Peter the Great.",
+    "name": "Монетный двор",
+    "name:de": "Münzprägeanstalt",
+    "name:en": "Saint Petersburg Mint",
+    "name:fr": "Monnaie de Saint-Pétersbourg",
+    "name:ru": "Монетный двор",
+    "name:zh": "薄荷",
+    "tourism": "museum",
+    "type": "multipolygon",
+    "wikidata": "Q2361481",
+    "wikipedia": "ru:Санкт-Петербургский монетный двор"
+  }
+},
+{
+  "type": "relation",
+  "id": 2594681,
+  "timestamp": "2026-07-07T19:28:16Z",
+  "version": 48,
+  "changeset": 185291038,
+  "user": "Константин Гам",
+  "uid": 392109,
+  "center": {
+    "lat": 59.9502002,
+    "lon": 30.3164704
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 229786572,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1073294285,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 240407642,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1073294279,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1073294280,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 240407629,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 240407643,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1073294283,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 240407625,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 240416131,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 30325192,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "addr:housenumber": "3 литЖ",
+    "addr:place": "Петропавловская крепость",
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "building:colour": "lemonchiffon",
+    "building:parts": "mixed",
+    "denomination": "orthodox",
+    "name": "Петропавловский собор",
+    "name:ar": "كاتدرائية بطرس وبولس",
+    "name:ca": "Catedral de Pere i Pau",
+    "name:de": "Peter-und-Paul-Kathedrale",
+    "name:en": "Peter and Paul Cathedral",
+    "name:fa": "کلیسای پیتر و پاول",
+    "name:fr": "Cathédrale Pierre-et-Paul",
+    "name:ru": "Петропавловский собор",
+    "name:zh": "彼得和圣保罗大教堂",
+    "phone": "+78124980550;+78124980526",
+    "religion": "christian",
+    "start_date": "1712..1733",
+    "tourism": "museum",
+    "type": "multipolygon",
+    "website": "https://www.spbmuseum.ru/",
+    "wikidata": "Q736587",
+    "wikipedia": "ru:Петропавловский собор"
+  }
+},
+{
+  "type": "relation",
+  "id": 3213835,
+  "timestamp": "2023-09-16T23:21:35Z",
+  "version": 22,
+  "changeset": 141361719,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "center": {
+    "lat": 59.9500765,
+    "lon": 30.3159450
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 373635233,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 193156203,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 108747260,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 373634489,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 373634487,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "email": "spbmuseuminfo@yandex.ru",
+    "name": "Государственный музей истории Санкт-Петербурга",
+    "name:de": "Staatliches Museum für die Geschichte von St. Petersburg",
+    "name:en": "State Museum of the History of Saint Petersburg",
+    "name:fr": "Musée d'État de l'histoire de Saint-Pétersbourg",
+    "name:ru": "Государственный музей истории Санкт-Петербурга",
+    "name:zh": "国家历史博物馆的圣彼得堡",
+    "phone": "+7 812 2306431",
+    "tourism": "museum",
+    "type": "multipolygon",
+    "website": "https://www.spbmuseum.ru/",
+    "website:en": "https://www.spbmuseum.ru/?lang_ui=en",
+    "website:ru": "https://www.spbmuseum.ru/",
+    "wikidata": "Q4146886",
+    "wikipedia": "ru:Государственный музей истории Санкт-Петербурга"
+  }
+}
+
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-11T13:56:36Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 56077126,
+  "timestamp": "2024-02-28T01:25:18Z",
+  "version": 19,
+  "changeset": 147994443,
+  "user": "mini-me",
+  "uid": 3846961,
+  "center": {
+    "lat": 59.9218844,
+    "lon": 30.3562674
+  },
+  "nodes": [
+    703831803,
+    1766828993,
+    1766828987,
+    703831664,
+    703831698,
+    703831679,
+    703831786,
+    5000462621,
+    703831810,
+    703831671,
+    10069694681,
+    703831658,
+    10069720741,
+    5963265397,
+    5963265398,
+    703831806,
+    5963265391,
+    5963265390,
+    703831666,
+    1766828984,
+    5963265394,
+    5963265393,
+    5963265392,
+    703831663,
+    703831803
+  ],
+  "tags": {
+    "addr:housenumber": "74",
+    "addr:postcode": "191040",
+    "addr:street": "Лиговский проспект",
+    "alt_name": "Лофт Проект Этажи",
+    "amenity": "arts_centre",
+    "building": "yes",
+    "building:levels": "5",
+    "contact:instagram": "loftprojectetagi",
+    "contact:telegram": "https://t.me/loftprojektetagi",
+    "contact:vk": "loftproektetagi",
+    "email": "all-one-mail@loftprojectetagi.ru",
+    "name": "Этажи",
+    "name:en": "Etagi",
+    "name:ru": "Этажи",
+    "phone": "+78124585005",
+    "website": "https://www.loftprojectetagi.ru/",
+    "wikidata": "Q4532932",
+    "wikipedia": "ru:Этажи (выставочный центр)"
+  }
+}
+
+  ]
+}

@@ -1,0 +1,362 @@
+{
+  "checked_on": "2026-10-11",
+  "source": "OpenStreetMap via cached bounded Overpass GET (overpass-api.de, maps.mail.ru, overpass.kumi.systems)",
+  "license": "ODbL 1.0",
+  "attribution": "© OpenStreetMap contributors",
+  "acquisition_evidence": [
+    "c61_elagin_park_de_retry5.json",
+    "c61_etagi_de_retry6.json",
+    "c61_glushko_museum_mail_retry4.json",
+    "c61_museum_of_optics_kumi_retry8.json",
+    "c61_pushkinskaya_10_de_retry5.json",
+    "c61_volshebnaya_milya_de_retry5.json",
+    "c61_vselennaya_vody_mail_retry5.json"
+  ],
+  "coordinate_snapshot_timestamps": {
+    "c61_glushko_museum": "2026-10-11T13:47:20Z",
+    "c61_vselennaya_vody": "2026-10-11T13:53:29Z",
+    "c61_etagi": "2026-10-11T13:56:36Z",
+    "c61_pushkinskaya_10": "2026-10-11T13:55:36Z",
+    "c61_elagin_park": "2026-10-11T13:55:36Z",
+    "c61_volshebnaya_milya": "2026-10-11T13:55:36Z",
+    "c61_museum_of_optics": "2026-07-28T02:16:18Z"
+  },
+  "current_object_evidence": [
+    "phase_c6_1_acquisition/current_node_0.json",
+    "phase_c6_1_acquisition/current_way_0.json",
+    "phase_c6_1_acquisition/current_relation_0.json"
+  ],
+  "scope": "Exactly the 7 C6.1 additions; union with the unchanged Phase B/C2/C3 snapshots for the complete catalog.",
+  "elements": [
+    {
+      "type": "node",
+      "id": 1938744254,
+      "lat": 59.9441958,
+      "lon": 30.295452,
+      "timestamp": "2022-09-27T11:17:13Z",
+      "version": 8,
+      "changeset": 126693700,
+      "user": "Anton Khorev",
+      "uid": 437809,
+      "tags": {
+        "email": "optimus@corp.ifmo.ru",
+        "name": "Музей оптики",
+        "name:en": "Optics Museum",
+        "opening_hours": "Tu-Th 11:00-20:00; Fr-Su 11:00-21:00",
+        "phone": "+7 812 4571779",
+        "tourism": "museum",
+        "website": "http://optimus.ifmo.ru"
+      }
+    },
+    {
+      "type": "node",
+      "id": 501596014,
+      "lat": 59.9518817,
+      "lon": 30.3212726,
+      "timestamp": "2025-04-14T06:28:15Z",
+      "version": 12,
+      "changeset": 164922532,
+      "user": "Dinamik",
+      "uid": 39040,
+      "tags": {
+        "contact:email": "kosmos_spb@mail.ru",
+        "contact:phone": "+7 812 2300332",
+        "contact:website": "https://www.spbmuseum.ru/exhibits_and_exhibitions/permanent_displays/48241/",
+        "description": "В музее представлены технологические образцы ракетной техники, уникальные документы, авторские свидетельства, воссозданы кабинеты конструкторов, уголок мастерских.",
+        "description:en": "The exposition includes rocket engineering items, unique documents and reports, rooms of engineers and developers, landing section of Soyuz 16, space suits, in flight suits and sample of foodstuffs",
+        "description:ru": "В музее представлены технологические образцы ракетной техники, уникальные документы, авторские свидетельства, воссозданы кабинеты конструкторов, уголок мастерских.",
+        "fee": "yes",
+        "full_name": "Музей космонавтики и ракетной техники имени В. П. Глушко",
+        "full_name:en": "V. P. Glushko Museum of Cosmonautics and Rocket Technology",
+        "full_name:ru": "Музей космонавтики и ракетной техники имени В. П. Глушко",
+        "name": "Музей космонавтики и ракетной техники им. В. П. Глушко",
+        "name:de": "Museum für Raketenbau und Raumfahrt",
+        "name:en": "Museum of Cosmonautics and Rocket Technology",
+        "name:fr": "Musée de l'espace et des fusées",
+        "name:ru": "Музей космонавтики и ракетной техники им. В. П. Глушко",
+        "name:zh": "宇宙航行和火箭技術博物館",
+        "opening_hours": "Th-Tu 11:00-19:00; We off",
+        "tourism": "museum",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3937153654,
+      "lat": 59.9501043,
+      "lon": 30.3753068,
+      "timestamp": "2018-12-28T16:13:58Z",
+      "version": 7,
+      "changeset": 65845910,
+      "user": "parukhin",
+      "uid": 519501,
+      "tags": {
+        "name": "Вселенная воды",
+        "opening_hours": "We-Su 10:00-19:00",
+        "phone": "+7 812 4384375",
+        "tourism": "museum",
+        "website": "http://vodokanal-museum.ru/",
+        "wikidata": "Q4127329",
+        "wikipedia": "ru:Вселенная воды"
+      }
+    },
+    {
+      "type": "way",
+      "id": 56077126,
+      "timestamp": "2024-02-28T01:25:18Z",
+      "version": 19,
+      "changeset": 147994443,
+      "user": "mini-me",
+      "uid": 3846961,
+      "center": {
+        "lat": 59.9218844,
+        "lon": 30.3562674
+      },
+      "nodes": [
+        703831803,
+        1766828993,
+        1766828987,
+        703831664,
+        703831698,
+        703831679,
+        703831786,
+        5000462621,
+        703831810,
+        703831671,
+        10069694681,
+        703831658,
+        10069720741,
+        5963265397,
+        5963265398,
+        703831806,
+        5963265391,
+        5963265390,
+        703831666,
+        1766828984,
+        5963265394,
+        5963265393,
+        5963265392,
+        703831663,
+        703831803
+      ],
+      "tags": {
+        "addr:housenumber": "74",
+        "addr:postcode": "191040",
+        "addr:street": "Лиговский проспект",
+        "alt_name": "Лофт Проект Этажи",
+        "amenity": "arts_centre",
+        "building": "yes",
+        "building:levels": "5",
+        "contact:instagram": "loftprojectetagi",
+        "contact:telegram": "https://t.me/loftprojektetagi",
+        "contact:vk": "loftproektetagi",
+        "email": "all-one-mail@loftprojectetagi.ru",
+        "name": "Этажи",
+        "name:en": "Etagi",
+        "name:ru": "Этажи",
+        "phone": "+78124585005",
+        "website": "https://www.loftprojectetagi.ru/",
+        "wikidata": "Q4532932",
+        "wikipedia": "ru:Этажи (выставочный центр)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5844613928,
+      "lat": 59.9292066,
+      "lon": 30.359036,
+      "timestamp": "2025-10-17T19:19:32Z",
+      "version": 19,
+      "changeset": 173425262,
+      "user": "TrickyFoxy",
+      "uid": 11528195,
+      "tags": {
+        "amenity": "arts_centre",
+        "check_date": "2025-10-17",
+        "contact:vk": "https://vk.com/pushkinskaya10",
+        "name": "Пушкинская-10",
+        "start_date": "1989",
+        "website": "https://p-10.ru/",
+        "wikidata": "Q11996510",
+        "wikipedia": "ru:Пушкинская, 10 (арт-центр)"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 1445800,
+      "timestamp": "2023-10-23T15:42:24Z",
+      "version": 40,
+      "changeset": 143024375,
+      "user": "ncuxota",
+      "uid": 20455538,
+      "center": {
+        "lat": 59.9788276,
+        "lon": 30.2551019
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 112175865,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 907143557,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 907143559,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 907143558,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 112176698,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 907143573,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 907143572,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 907143574,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 907143577,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 907143578,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 907014582,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 907143567,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 907143566,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 907143562,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 907143560,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 907143561,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 112187548,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 907014584,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 907014583,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1217811693,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1217811692,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1217811702,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 112187550,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 243349186,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 243349185,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 243349184,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 243349183,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "leisure": "park",
+        "name": "Центральный парк культуры и отдыха имени С. М. Кирова",
+        "type": "multipolygon",
+        "wikidata": "Q4504340",
+        "wikipedia": "ru:Центральный парк культуры и отдыха имени С. М. Кирова"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9961754793,
+      "lat": 60.0586919,
+      "lon": 30.3341041,
+      "timestamp": "2024-08-19T14:35:09Z",
+      "version": 2,
+      "changeset": 155464113,
+      "user": "asdfwqer",
+      "uid": 20626553,
+      "tags": {
+        "addr:city": "Санкт-Петербург",
+        "addr:housenumber": "154",
+        "addr:street": "проспект Энгельса",
+        "name": "Волшебная миля",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "tourism": "theme_park",
+        "website": "https://magicmile.ru/"
+      }
+    }
+  ]
+}

@@ -1,0 +1,4454 @@
+{
+  "checked_on": "2026-10-10",
+  "source": "OpenStreetMap via Overpass API",
+  "license": "ODbL 1.0",
+  "elements": [
+    {
+      "type": "relation",
+      "id": 69424,
+      "center": {
+        "lat": 59.9404659,
+        "lon": 30.3137851
+      },
+      "tags": {
+        "addr:housenumber": "38 литА",
+        "addr:postcode": "190000",
+        "addr:street": "Дворцовая набережная",
+        "building": "yes",
+        "building:colour": "aquamarine",
+        "building:levels": "3",
+        "building:part": "base",
+        "castle_type": "palace",
+        "height": "22",
+        "historic": "castle",
+        "name": "Зимний дворец",
+        "name:ar": "القصر الشتوي",
+        "name:ca": "Palau d'Hivern",
+        "name:cs": "Zimní palác",
+        "name:de": "Winterpalast",
+        "name:en": "Winter Palace",
+        "name:es": "Palacio de Invierno",
+        "name:fi": "Talvipalatsi",
+        "name:fr": "Palais d'Hiver",
+        "name:it": "Palazzo d'Inverno",
+        "name:ko": "겨울궁전",
+        "name:lt": "Ermitažas",
+        "name:nl": "Winterpaleis",
+        "name:pl": "Pałac Zimowy",
+        "name:ru": "Зимний дворец",
+        "type": "multipolygon",
+        "website": "https://www.hermitagemuseum.org/wps/portal/hermitage/explore/buildings/locations/building/B10/",
+        "wikidata": "Q182147",
+        "wikipedia": "ru:Зимний дворец"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 3229838,
+      "center": {
+        "lat": 59.9340838,
+        "lon": 30.3061563
+      },
+      "tags": {
+        "addr:housenumber": "4",
+        "addr:postcode": "190031",
+        "addr:street": "Исаакиевская площадь",
+        "alt_name": "Собор Исаакия Далматского",
+        "amenity": "place_of_worship",
+        "building": "cathedral",
+        "building:architecture": "neoclassicism",
+        "building:parts": "mixed",
+        "contact:phone": "+7 812 315-97-32",
+        "contact:vk": "isaac_cathedral",
+        "contact:website": "https://cathedral.ru",
+        "denomination": "russian_orthodox",
+        "fee": "yes",
+        "name": "Исаакиевский собор",
+        "name:ar": "كاتدرائية القديس إسحاق",
+        "name:ca": "Catedral de Sant Isaac",
+        "name:cs": "Katedrála svatého Izáka",
+        "name:de": "Isaakskathedrale",
+        "name:en": "St Isaac's Cathedral",
+        "name:es": "Catedral de San Isaac",
+        "name:etymology:wikidata": "Q705202",
+        "name:fa": "کلیسای جامع سنت اسحاق",
+        "name:fi": "Iisakinkirkko",
+        "name:fr": "Cathédrale Saint-Isaac",
+        "name:ja": "イサク聖堂",
+        "name:ru": "Исаакиевский собор",
+        "name:zh": "聖以薩主教座堂",
+        "opening_hours": "10:00-18:00; May-Sep 10:00-21:00",
+        "operator": "Государственный музей-памятник \"Исаакиевский собор\"",
+        "panoramax": "9bbe1873-7d60-4098-ad83-2da59c780b40",
+        "payment:cash": "yes",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "payment:visa_electron": "yes",
+        "ref:sobory.ru": "01555",
+        "religion": "christian",
+        "start_date": "1818..1858",
+        "tourism": "museum",
+        "type": "multipolygon",
+        "wheelchair": "limited",
+        "wikidata": "Q215423",
+        "wikipedia": "ru:Исаакиевский собор"
+      }
+    },
+    {
+      "type": "way",
+      "id": 28966446,
+      "center": {
+        "lat": 59.9400907,
+        "lon": 30.3288445
+      },
+      "tags": {
+        "addr:city": "Санкт-Петербург",
+        "addr:country": "RU",
+        "addr:housenumber": "2Б",
+        "addr:postcode": "191186",
+        "addr:street": "набережная канала Грибоедова",
+        "alt_name": "Храм Спаса на Крови",
+        "amenity": "place_of_worship",
+        "building": "cathedral",
+        "denomination": "russian_orthodox",
+        "fee": "yes",
+        "height": "81",
+        "name": "Собор Воскресения Христова на Крови",
+        "name:ca": "Església del Salvador sobre la Sang Vessada",
+        "name:cs": "Katedrála Vzkříšení Ježíše Krista",
+        "name:de": "Auferstehungskirche",
+        "name:en": "The Church of Our Savior on the Spilled Blood",
+        "name:es": "iglesia del Salvador sobre la Sangre Derramada",
+        "name:fa": "کلیسای منجی در خون ریخته",
+        "name:fi": "Kristuksen ylösnousemuksen katedraali",
+        "name:fr": "Cathédrale Saint-Sauveur-sur-le-Sang-Versé",
+        "name:ja": "血の上の救世主教会",
+        "name:ko": "피의 구원 사원",
+        "name:pt": "Catedral do Sangue Derramado",
+        "name:ru": "Собор Воскресения Христова на Крови",
+        "name:zh": "滴血教堂",
+        "opening_hours": "Oct 01-Apr 30: Th-Tu 10:00-18:00; May 01-Sep 30: Th-Tu 10:00-22:30; We off",
+        "operator": "Государственный музей-памятник \"Исаакиевский собор\"",
+        "religion": "christian",
+        "start_date": "1907-08-06",
+        "tourism": "museum",
+        "website": "https://cathedral.ru/",
+        "wikidata": "Q215208",
+        "wikipedia": "ru:Спас на Крови"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 227969,
+      "center": {
+        "lat": 59.9500638,
+        "lon": 30.3164295
+      },
+      "tags": {
+        "addr:housenumber": "3 литД",
+        "addr:place": "Петропавловская крепость",
+        "architect": "В. А. Кирштенштейн;Ж. Г. Ламбер де Герен",
+        "building": "castle",
+        "castle_type": "citadel",
+        "description:en": "Original citadel of St. Petersburg, founded by OPeter the Great in 1703",
+        "historic": "castle",
+        "layer": "2",
+        "name": "Петропавловская крепость",
+        "name:ar": "قلعة بطرس وبولس",
+        "name:bg": "Петропавловска крепост",
+        "name:ca": "Fortalesa de Sant Pere i Sant Pau",
+        "name:de": "Peter-und-Paul-Festung",
+        "name:en": "Peter and Paul Fortress",
+        "name:eo": "Petropaŭla fortikaĵo",
+        "name:es": "Fortaleza de San Pedro y San Pablo",
+        "name:fi": "Pietari-Paavalin linnoitus",
+        "name:fr": "Forteresse Pierre-et-Paul",
+        "name:he": "מבצר פטרופבלובסקיה",
+        "name:it": "Fortezza di Pietro e Paolo",
+        "name:ja": "ペトロパヴロフスク要塞",
+        "name:ka": "პეტრე-პავლეს ციხესიმაგრე",
+        "name:ko": "페트로파블롭스크 요새",
+        "name:lt": "Petropavlovsko tvirtovė",
+        "name:nl": "Petrus- en Paulusvesting",
+        "name:no": "Peter-Paulus-festningen",
+        "name:os": "Пётр æмæ Павелы гæнах",
+        "name:pl": "Twierdza Pietropawłowska",
+        "name:pt": "Fortaleza de São Pedro e São Paulo",
+        "name:ru": "Петропавловская крепость",
+        "name:sr": "Петропавловска тврђава",
+        "name:sv": "Peter-Paulfästningen",
+        "name:uk": "Петропавлівська фортеця",
+        "name:vi": "Pháo đài Thánh Phêrô và Phaolô",
+        "name:zh": "彼得保罗要塞",
+        "phone": "+78122306431",
+        "source:description:en": "Wikipedia",
+        "start_date": "1704-04-04",
+        "tourism": "attraction",
+        "type": "multipolygon",
+        "website": "https://www.spbmuseum.ru/themuseum/museum_complex/peterpaul_fortress/",
+        "wikidata": "Q38646",
+        "wikipedia": "ru:Петропавловская крепость"
+      }
+    },
+    {
+      "type": "way",
+      "id": 102305449,
+      "center": {
+        "lat": 59.9358632,
+        "lon": 30.3258905
+      },
+      "tags": {
+        "addr:housenumber": "28",
+        "addr:postcode": "191186",
+        "addr:street": "Невский проспект",
+        "architect": "Павел Юльевич Сюзор",
+        "architect:wikidata": "Q4353585",
+        "architect:wikipedia": "ru:Сюзор, Павел Юльевич",
+        "building": "yes",
+        "building:architecture": "art_nouveau",
+        "building:levels": "6",
+        "name": "Дом Зингера",
+        "name:ca": "Casa Singer",
+        "name:en": "Singer House",
+        "name:fr": "Maison Singer",
+        "name:ru": "Дом Зингера",
+        "start_date": "1904",
+        "tourism": "attraction",
+        "wikidata": "Q737377",
+        "wikipedia": "ru:Дом компании «Зингер»"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 2614475,
+      "center": {
+        "lat": 59.9385846,
+        "lon": 30.3307196
+      },
+      "tags": {
+        "museum": "art",
+        "museum_type": "national",
+        "name": "Русский музей",
+        "name:ar": "المتحف الروسي",
+        "name:ca": "Museu Rus",
+        "name:de": "Russisches Museum",
+        "name:en": "Russian Museum",
+        "name:fr": "Musée russe",
+        "name:ru": "Русский музей",
+        "name:zh": "俄罗斯博物馆",
+        "note": "Кассы закрываются на полчаса раньше",
+        "official_name": "Государственный Русский музей",
+        "opening_hours": "Mo,We,Fr-Su 10:00-18:00; Th 13:00-21:00; Tu off",
+        "phone": "+7 812 595-42-48",
+        "toilets": "yes",
+        "tourism": "museum",
+        "type": "multipolygon",
+        "website": "https://www.rusmuseum.ru",
+        "wheelchair": "no",
+        "wikidata": "Q211043",
+        "wikipedia": "ru:Государственный Русский музей"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3702115194,
+      "lat": 59.9347199,
+      "lon": 30.3431283,
+      "tags": {
+        "check_date": "2026-04-12",
+        "contact:facebook": "fabergemuseum",
+        "contact:instagram": "faberge_museum",
+        "contact:twitter": "faberge_museum",
+        "contact:vk": "fabergemuseum",
+        "email": "3332655@fsv.ru",
+        "fee": "yes",
+        "name": "Музей Фаберже",
+        "name:de": "Fabergé-Museum",
+        "name:en": "Fabergé Museum",
+        "name:fr": "Musée Fabergé",
+        "name:it": "Museo Fabergé",
+        "name:ru": "Музей Фаберже",
+        "name:zh": "法贝热的博物馆",
+        "opening_hours": "10:00-21:00",
+        "operator": "Культурно-исторический фонд \"Связь Времён\"",
+        "payment:cash": "yes",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "payment:visa_electron": "yes",
+        "phone": "+7 812 3332655",
+        "tourism": "museum",
+        "website": "https://fabergemuseum.ru/",
+        "wheelchair": "yes",
+        "wikidata": "Q17489369",
+        "wikipedia": "ru:Музей Фаберже в Санкт-Петербурге"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 1690283,
+      "center": {
+        "lat": 59.9254301,
+        "lon": 30.295909
+      },
+      "tags": {
+        "addr:housenumber": "1",
+        "addr:postcode": "190068",
+        "addr:street": "Театральная площадь",
+        "amenity": "theatre",
+        "building": "yes",
+        "building:colour": "olive",
+        "building:levels": "4",
+        "building:material": "plaster",
+        "building:parts": "vertical",
+        "contact:foursquare": "foursquare.com/v/мариинский-театр--mariinsky-theatre/4bbf4b39b083a5939c23a3e9",
+        "contact:instagram": "https://www.instagram.com/mariinsky/",
+        "contact:ok": "https://ok.ru/mariinsky",
+        "contact:telegram": "https://t.me/mariinsky",
+        "contact:twitter": "https://twitter.com/mariinskyru",
+        "contact:vk": "https://vk.com/mariinskytheatre",
+        "contact:youtube": "https://youtube.com/mariinsky",
+        "email": "post@mariinsky.ru",
+        "name": "Мариинский театр",
+        "name:ca": "Teatre Mariïnski",
+        "name:de": "Mariinski-Theater",
+        "name:en": "Mariinsky Theatre",
+        "name:es": "Teatro Mariinski",
+        "name:fi": "Mariinski-teatteri",
+        "name:fr": "Théâtre Mariinsky",
+        "name:ru": "Мариинский театр",
+        "opening_hours": "Mo-Su 11:00-19:00",
+        "operator": "ФГБУК «Государственный академический Мариинский театр»",
+        "phone": "+7 812 3264141",
+        "ref:mkrf_theaters": "9541",
+        "type": "multipolygon",
+        "website": "https://www.mariinsky.ru/",
+        "wikidata": "Q207028",
+        "wikipedia": "ru:Мариинский театр"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7932398588,
+      "lat": 59.9470834,
+      "lon": 30.3391853,
+      "tags": {
+        "addr:housenumber": "2",
+        "addr:street": "улица Чайковского",
+        "name": "Мозаичный дворик",
+        "opening_hours": "24/7",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 3296328,
+      "center": {
+        "lat": 59.9415303,
+        "lon": 30.3042545
+      },
+      "tags": {
+        "addr:city": "Санкт-Петербург",
+        "addr:country": "RU",
+        "addr:housenumber": "3 литБ",
+        "addr:street": "Университетская набережная",
+        "alt_name": "Кунсткамера",
+        "building": "museum",
+        "building:architecture": "baroque",
+        "building:levels": "5",
+        "building:parts": "horizontal",
+        "int_name": "Kunstkamera",
+        "name": "Музей антропологии и этнографии имени Петра Великого Российской Академии наук",
+        "name:de": "Kunstkammer",
+        "name:en": "Peter the Great Museum of Anthropology and Ethnography",
+        "name:zh": "内阁的好奇心",
+        "opening_hours": "Tu-Su 10:00-18:00;Mo off;Tu[-1] off",
+        "phone": "+7 812 3281412",
+        "start_date": "1718..1734",
+        "tourism": "museum",
+        "type": "multipolygon",
+        "website": "https://www.kunstkamera.ru/",
+        "wheelchair": "no",
+        "wikidata": "Q1277585",
+        "wikipedia": "ru:Кунсткамера"
+      }
+    },
+    {
+      "type": "way",
+      "id": 61650354,
+      "center": {
+        "lat": 59.9326534,
+        "lon": 30.3022684
+      },
+      "tags": {
+        "addr:housenumber": "7",
+        "addr:postcode": "190121",
+        "addr:street": "Почтамтская улица",
+        "building": "mansion",
+        "building:levels": "2",
+        "contact:vk": "https://vk.com/popovradio",
+        "name": "Центральный музей связи имени А. С. Попова",
+        "old_name": "Дворец А. А. Безбородко",
+        "opening_hours": "We-Su 10:30-18:00",
+        "phone": "+7 812 571-00-60",
+        "ref:egrokn": "781510403360016",
+        "start_date": "C18",
+        "tourism": "museum",
+        "website": "https://rustelecom-museum.ru/",
+        "wheelchair": "limited",
+        "wikidata": "Q4504316",
+        "wikipedia": "ru:Центральный музей связи имени А. С. Попова"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 3283438,
+      "center": {
+        "lat": 59.9278478,
+        "lon": 30.2689987
+      },
+      "tags": {
+        "building": "ship",
+        "email": "krassin.visitors@yandex.ru",
+        "historic": "ship",
+        "museum": "history",
+        "name": "Ледокол «Красин»",
+        "name:en": "Icebreaker «Krasin»",
+        "note": "Начало экскурсий: 11.00, 12.00, 13.00, 14.00, 15.00, 16.00, 17.00",
+        "opening_hours": "We-Su 11:00-18:00",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "payment:notes": "yes",
+        "phone": "+7 812 3253547",
+        "ship:type": "icebreaker",
+        "start_date": "1916",
+        "tourism": "museum",
+        "type": "multipolygon",
+        "website": "https://www.krassin.ru/",
+        "wikidata": "Q281147",
+        "wikipedia": "ru:Красин (ледокол, 1916)"
+      }
+    },
+    {
+      "type": "way",
+      "id": 153957591,
+      "center": {
+        "lat": 59.9116843,
+        "lon": 30.3310735
+      },
+      "tags": {
+        "addr:housenumber": "74 литЦ",
+        "addr:street": "набережная Обводного канала",
+        "amenity": "planetarium",
+        "building": "industrial",
+        "email": "hello@planetarium.one",
+        "height": "20",
+        "name": "Планетарий 1",
+        "opening_hours": "10:00-22:00",
+        "phone": "+7 (999) 222 20 00",
+        "roof:shape": "dome",
+        "website": "https://www.planetarium.one",
+        "wheelchair": "yes",
+        "wikidata": "Q124609839",
+        "wikipedia": "ru:Планетарий № 1",
+        "wikipedia:ru": "Планетарий № 1"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 2653740,
+      "center": {
+        "lat": 59.9445853,
+        "lon": 30.3350962
+      },
+      "tags": {
+        "leisure": "park",
+        "name": "Летний сад",
+        "name:ar": "حديقة صيفية",
+        "name:ca": "Jardins d' Estiu",
+        "name:de": "Sommergarten",
+        "name:en": "Summer Garden",
+        "name:es": "Jardín de Verano",
+        "name:fi": "Kesäpuisto",
+        "name:fr": "Jardin d’été",
+        "name:ru": "Летний сад",
+        "name:zh": "夏园",
+        "note": "Летний сад является достопримечательностью. Рекомендую отметить как tourism=attraction",
+        "opening_hours": "May-Sep: We-Mo 10:00-22:00; Tu off; Oct-Mar: We-Mo 10:00-20:00; Tu off; Apr: off",
+        "ref:okn": "781620417890006",
+        "start_date": "1704",
+        "type": "multipolygon",
+        "wikidata": "Q1229234",
+        "wikipedia": "ru:Летний сад"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 2123949,
+      "center": {
+        "lat": 59.9700433,
+        "lon": 30.3252898
+      },
+      "tags": {
+        "boundary": "protected_area",
+        "garden:type": "botanical",
+        "leisure": "nature_reserve",
+        "name": "Ботанический сад Петра Великого",
+        "name:de": "Botanischer Garten Peters des Großen",
+        "name:en": "Peter the Great Botanical Garden",
+        "name:ru": "Ботанический сад Петра Великого",
+        "name:uk": "Ботанічний сад Петра Великого",
+        "opening_hours": "Tu-Su 10:00-18:00",
+        "source": "http://oopt.aari.ru/oopt/%D0%91%D0%BE%D1%82%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-%D1%81%D0%B0%D0%B4-%D0%9F%D0%B5%D1%82%D1%80%D0%B0-%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B3%D0%BE",
+        "type": "multipolygon",
+        "website": "https://botsad-spb.com/",
+        "wikidata": "Q1990013",
+        "wikipedia": "ru:Ботанический сад Петра Великого"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 2614476,
+      "center": {
+        "lat": 59.9398334,
+        "lon": 30.3326266
+      },
+      "tags": {
+        "leisure": "park",
+        "name": "Михайловский сад",
+        "name:ar": "حديقة ميخائيلوفسكي",
+        "name:de": "Michailowski-Park",
+        "name:en": "Mikhailovsky garden",
+        "name:etymology:wikidata": "Q1930409",
+        "name:fr": "Jardin Michel",
+        "name:ru": "Михайловский сад",
+        "name:zh": "米哈伊洛夫斯基的花园",
+        "type": "multipolygon",
+        "wikidata": "Q4297751",
+        "wikipedia": "ru:Михайловский сад"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 1582734,
+      "center": {
+        "lat": 59.946101,
+        "lon": 30.3728761
+      },
+      "tags": {
+        "leisure": "park",
+        "name": "Таврический сад",
+        "name:ar": "حديقة تاوريد",
+        "name:de": "Taurischer Garten",
+        "name:en": "Tauride Garden",
+        "name:fi": "Taurian puisto",
+        "name:fr": "Jardin de Tauride",
+        "name:ru": "Таврический сад",
+        "name:zh": "塔夫利花园",
+        "opening_hours": "05:30-24:00",
+        "start_date": "1783",
+        "type": "multipolygon",
+        "wikidata": "Q2855965",
+        "wikipedia": "ru:Таврический сад"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 1576204,
+      "center": {
+        "lat": 59.9296195,
+        "lon": 30.2897366
+      },
+      "tags": {
+        "contact:website": "https://www.newhollandsp.ru/",
+        "name": "остров Новая Голландия",
+        "name:de": "Neu-Holland Insel",
+        "name:en": "New Holland Island",
+        "name:fi": "Uusi Hollanti",
+        "name:fr": "Île de la Nouvelle-Hollande",
+        "name:ru": "остров Новая Голландия",
+        "place": "island",
+        "type": "multipolygon",
+        "wikidata": "Q2367357",
+        "wikipedia": "ru:Новая Голландия"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 1411921,
+      "center": {
+        "lat": 59.9237294,
+        "lon": 30.2431486
+      },
+      "tags": {
+        "landuse": "commercial",
+        "name": "Порт Севкабель",
+        "type": "multipolygon",
+        "website": "https://sevcableport.ru/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6848299386,
+      "lat": 59.9283229,
+      "lon": 30.3122764,
+      "tags": {
+        "amenity": "community_centre",
+        "contact:vk": "https://vk.com/bertholdcentre",
+        "name": "Бертгольд Центр",
+        "name:en": "Berthold Centre",
+        "phone": "+7 812 2417360",
+        "website": "https://bertholdcentre.com/"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 3296313,
+      "center": {
+        "lat": 59.9517488,
+        "lon": 30.3087747
+      },
+      "tags": {
+        "contact:email": "info@spbzoo.ru",
+        "contact:phone": "+7 812 2328260;+7 921 1884007",
+        "contact:telegram": "https://t.me/lenzoopark",
+        "contact:vk": "https://vk.com/spbzoopark",
+        "contact:website": "http://www.spbzoo.ru",
+        "contact:youtube": "http://www.youtube.com/user/spbzoopark",
+        "name": "Ленинградский зоопарк",
+        "name:de": "Leningrader Zoo",
+        "name:en": "Leningrad Zoo",
+        "name:fi": "Leningradin eläintarha",
+        "name:fr": "Zoo Leningrad",
+        "name:ru": "Ленинградский зоопарк",
+        "name:zh": "列宁格勒动物园",
+        "old_name": "Ленинградский зоосад",
+        "opening_hours": "10:00-21:00 \"вход до 20:00\"",
+        "smoking": "no",
+        "start_date": "1865-07-01",
+        "tourism": "zoo",
+        "type": "multipolygon",
+        "wikidata": "Q1149264",
+        "wikipedia": "ru:Ленинградский зоопарк"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 2662030,
+      "center": {
+        "lat": 59.8880456,
+        "lon": 30.3308909
+      },
+      "tags": {
+        "addr:city": "Санкт-Петербург",
+        "addr:country": "RU",
+        "addr:housenumber": "16 литЛ",
+        "addr:postcode": "196006",
+        "addr:street": "Цветочная улица",
+        "alt_name": "Гранд Макет",
+        "building": "retail",
+        "contact:email": "info@grandmaket.ru",
+        "contact:facebook": "https://www.facebook.com/GrandMaketRu/",
+        "contact:instagram": "https://www.instagram.com/grandmaket/",
+        "contact:ok": "https://ok.ru/group/51961675972818",
+        "contact:phone": "+7 812 4955465",
+        "contact:tripadvisor": "https://www.tripadvisor.ru/Attraction_Review-g298507-d3396387-Reviews-Grand_Maket_Russia_Interactive_Museum-St_Petersburg_Northwestern_District.html",
+        "contact:twitter": "https://twitter.com/GrandMaketRu",
+        "contact:vk": "https://vk.com/grand.maket",
+        "contact:website": "https://grandmaket.ru/",
+        "contact:youtube": "https://www.youtube.com/channel/UC_gpOCfjN6nHVxT4IkPVHug",
+        "int_name": "Grand Maket Russia",
+        "name": "Гранд Макет Россия",
+        "name:de": "Grand Maket Russland",
+        "name:en": "Grand Maket Russia",
+        "name:ru": "Гранд Макет Россия",
+        "note": "Самый большой в России макет России",
+        "opening_hours": "10:00-20:00",
+        "operator": "ООО Производственно-образовательный центр \"ГРАНД МАКЕТ\"",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "tourism": "museum",
+        "type": "multipolygon",
+        "wikidata": "Q18755202",
+        "wikipedia": "ru:Гранд Макет Россия"
+      }
+    },
+    {
+      "type": "node",
+      "id": 986234938,
+      "lat": 59.9190485,
+      "lon": 30.3382664,
+      "tags": {
+        "addr:housenumber": "86",
+        "addr:street": "улица Марата",
+        "check_date": "2025-08-19",
+        "name": "Океанариум",
+        "name:ru": "Океанариум",
+        "opening_hours": "Mo-Su 10:00-20:00; Jan 01 off;Mo[3] off",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "phone": "+7 812 4480077",
+        "tourism": "aquarium",
+        "website": "https://океанариум.рф/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2400928307,
+      "lat": 59.9256318,
+      "lon": 30.3257431,
+      "tags": {
+        "contact:vk": "https://vk.com/rotondaeveryday",
+        "name": "Ротонда",
+        "name:en": "Rotunda",
+        "opening_hours": "Mo-Fr 18:00-22:00; Sa-Su 11:00-22:00",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 951709409,
+      "lat": 59.9382943,
+      "lon": 30.2839421,
+      "tags": {
+        "check_date": "2025-10-19",
+        "contact:email": "info@aptekapelya.ru",
+        "contact:phone": "+7 812 3280188;+7 931 6398699",
+        "contact:vk": "aptekapelyamuseum",
+        "contact:website": "https://aptekapelya.ru",
+        "name": "Аптека доктора Пеля и сыновей",
+        "opening_hours": "Mo-Su 11:00-20:00",
+        "reservation": "required",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9890438,
+      "timestamp": "2025-09-06T07:57:33Z",
+      "version": 39,
+      "changeset": 171529277,
+      "user": "Серый Еж",
+      "uid": 23034906,
+      "bounds": {
+        "minlat": 59.9939709,
+        "minlon": 30.415481,
+        "maxlat": 59.999561,
+        "maxlon": 30.4276879
+      },
+      "nodes": [
+        80230608,
+        2764840620,
+        2764840600,
+        80230610,
+        1536389347,
+        1536389346,
+        1536389342,
+        1536389343,
+        1536389344,
+        80230611,
+        1417925805,
+        1417925808,
+        1536389345,
+        1417925811,
+        80230613,
+        709000105,
+        709000101,
+        709000033,
+        1417925817,
+        9828674182,
+        80230614,
+        80230615,
+        1417925818,
+        80230616,
+        11281161295,
+        11281161297,
+        11281161296,
+        11281161294,
+        11281161308,
+        11281161310,
+        11281161311,
+        11281161309,
+        11281161307,
+        10947339982,
+        4217367320,
+        242159807,
+        80230617,
+        11281144492,
+        80230618,
+        2764840276,
+        11281144493,
+        1750953461,
+        1750953510,
+        1536389378,
+        80230608
+      ],
+      "tags": {
+        "landuse": "cemetery",
+        "name": "Пискарёвское мемориальное кладбище",
+        "name:de": "Piskarjowskoje-Gedenkfriedhof",
+        "name:en": "Piskaryovskoye Memorial Cemetery",
+        "name:fr": "Cimetière mémorial de Piskarevskoïe",
+        "name:ru": "Пискарёвское мемориальное кладбище",
+        "wikidata": "Q2097034",
+        "wikipedia": "ru:Пискарёвское мемориальное кладбище"
+      },
+      "center": {
+        "lat": 59.99676595,
+        "lon": 30.421584449999997
+      },
+      "center_derivation": "Local arithmetic midpoint of Overpass out bb min/max bounds; not centroid or entrance."
+    },
+    {
+      "type": "way",
+      "id": 23688060,
+      "timestamp": "2023-09-16T23:08:44Z",
+      "version": 35,
+      "changeset": 141361502,
+      "user": "traveleditor",
+      "uid": 8726248,
+      "bounds": {
+        "minlat": 59.9833786,
+        "minlon": 30.2557785,
+        "maxlat": 59.98363,
+        "maxlon": 30.2561658
+      },
+      "nodes": [
+        256510256,
+        256510257,
+        1646567411,
+        1646567443,
+        1646567450,
+        1646567416,
+        256510260,
+        256510274,
+        1268415920,
+        1268437360,
+        1268415986,
+        1268437362,
+        1268415988,
+        1268415973,
+        1268415937,
+        256510256
+      ],
+      "tags": {
+        "addr:housenumber": "91",
+        "addr:street": "Приморский проспект",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "contact:email": "info@dazanspb.ru",
+        "contact:phone": "+7 812 6799108",
+        "contact:website": "https://dazanspb.ru",
+        "height": "24",
+        "name": "Дацан Гунзэчойнэй",
+        "opening_hours": "Th-Tu 10:00-19:00",
+        "religion": "buddhist",
+        "tourism": "attraction",
+        "wikidata": "Q2640832",
+        "wikipedia": "ru:Санкт-Петербургский буддийский храм"
+      },
+      "center": {
+        "lat": 59.9835043,
+        "lon": 30.25597215
+      },
+      "center_derivation": "Local arithmetic midpoint of Overpass out bb min/max bounds; not centroid or entrance."
+    },
+    {
+      "type": "way",
+      "id": 28055973,
+      "timestamp": "2023-11-05T14:26:14Z",
+      "version": 22,
+      "changeset": 143652372,
+      "user": "mini-me",
+      "uid": 3846961,
+      "bounds": {
+        "minlat": 59.979486,
+        "minlon": 30.3040027,
+        "maxlat": 59.9802382,
+        "maxlon": 30.3050836
+      },
+      "nodes": [
+        308066769,
+        3700364923,
+        3700365200,
+        3700365197,
+        3700365198,
+        308066808,
+        308066684,
+        308066764,
+        308066736,
+        308066689,
+        308066675,
+        308066691,
+        308066803,
+        308066677,
+        308066718,
+        308066739,
+        308066672,
+        308066694,
+        308066782,
+        308066775,
+        308066769
+      ],
+      "tags": {
+        "addr:city": "Санкт-Петербург",
+        "addr:country": "RU",
+        "addr:housenumber": "1",
+        "addr:postcode": "197022",
+        "addr:street": "набережная реки Малой Невки",
+        "building": "yes",
+        "building:levels": "2",
+        "castle_type": "palace",
+        "historic": "castle",
+        "name": "Каменноостровский дворец",
+        "wikidata": "Q4211217",
+        "wikipedia": "ru:Каменноостровский дворец"
+      },
+      "center": {
+        "lat": 59.979862100000005,
+        "lon": 30.30454315
+      },
+      "center_derivation": "Local arithmetic midpoint of Overpass out bb min/max bounds; not centroid or entrance."
+    },
+    {
+      "type": "way",
+      "id": 28691883,
+      "timestamp": "2026-05-25T20:51:59Z",
+      "version": 32,
+      "changeset": 183177273,
+      "user": "Peter_Otp",
+      "uid": 11373580,
+      "bounds": {
+        "minlat": 59.9756982,
+        "minlon": 30.3024784,
+        "maxlat": 59.9779894,
+        "maxlon": 30.3093781
+      },
+      "nodes": [
+        4154082311,
+        1985924226,
+        1985924232,
+        1985924228,
+        1985924227,
+        1985924217,
+        12395424908,
+        1985924229,
+        1985924214,
+        1985924219,
+        1985924211,
+        1502859998,
+        1502859959,
+        1502859968,
+        315373560,
+        1502860076,
+        10933490885,
+        10933490884,
+        10933490878,
+        814049801,
+        344452161,
+        10933490877,
+        344451879,
+        344451877,
+        7715575047,
+        7715575048,
+        1389360216,
+        1389360222,
+        1389360215,
+        344451920,
+        344451918,
+        1985924210,
+        13878943694,
+        315373563,
+        1985924224,
+        1985924220,
+        315373564,
+        13878939467,
+        814049724,
+        1502860046,
+        4154082311
+      ],
+      "tags": {
+        "leisure": "park",
+        "name": "Лопухинский сад",
+        "name:en": "Lopukhinsky Garden",
+        "wikidata": "Q4266865",
+        "wikipedia": "ru:Лопухинский сад"
+      },
+      "center": {
+        "lat": 59.9768438,
+        "lon": 30.30592825
+      },
+      "center_derivation": "Local arithmetic midpoint of Overpass out bb min/max bounds; not centroid or entrance."
+    },
+    {
+      "type": "way",
+      "id": 28712430,
+      "timestamp": "2026-04-11T11:58:47Z",
+      "version": 34,
+      "changeset": 181185893,
+      "user": "soundchaser",
+      "uid": 251867,
+      "bounds": {
+        "minlat": 59.9549542,
+        "minlon": 30.3235125,
+        "maxlat": 59.9554229,
+        "maxlon": 30.3243328
+      },
+      "nodes": [
+        315638859,
+        990317425,
+        315638860,
+        315638861,
+        10244921837,
+        10244921836,
+        990287142,
+        990287161,
+        10244921816,
+        10244921815,
+        10244921814,
+        990287147,
+        990287151,
+        990287133,
+        10244921813,
+        990287155,
+        990287165,
+        315638862,
+        315638859
+      ],
+      "tags": {
+        "addr:city": "Санкт-Петербург",
+        "addr:country": "RU",
+        "addr:housenumber": "7",
+        "addr:postcode": "197046",
+        "addr:street": "Кронверкский проспект",
+        "amenity": "place_of_worship",
+        "building": "mosque",
+        "building:levels": "3",
+        "building:part": "base",
+        "check_date": "2026-04-11",
+        "height": "22",
+        "name": "Соборная мечеть",
+        "name:ar": "مسجد سانت بطرسبرغ",
+        "name:ca": "Mesquita de Sant Petersburg",
+        "name:de": "Sankt Petersburger Moschee",
+        "name:en": "Saint Petersburg Mosque",
+        "name:fa": "مسجد سنت پیترزبورگ",
+        "name:fi": "Pietarin moskeija",
+        "religion": "muslim",
+        "source": "rgis",
+        "wheelchair": "limited",
+        "wikidata": "Q281900",
+        "wikipedia": "ru:Санкт-Петербургская соборная мечеть"
+      },
+      "center": {
+        "lat": 59.95518855,
+        "lon": 30.32392265
+      },
+      "center_derivation": "Local arithmetic midpoint of Overpass out bb min/max bounds; not centroid or entrance."
+    },
+    {
+      "type": "node",
+      "id": 3702115489,
+      "lat": 59.9793024,
+      "lon": 30.2700127,
+      "timestamp": "2023-01-09T06:29:20Z",
+      "version": 3,
+      "changeset": 131039911,
+      "user": "mini-me",
+      "uid": 3846961,
+      "tags": {
+        "contact:phone": "+7 812 4300911",
+        "contact:website": "https://elaginpark.org/central-park/museums/elaginoostrovskiy-dvorets-muzey",
+        "name": "Елагин дворец",
+        "opening_hours": "Nov 01-Mar 31,Apr 01-Oct 31 Tu-Su 10:00-18:30; Nov 01-Mar 31 Th 12:00-20:00; Apr 01-Oct 31 Th 13:00-21:00",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 1692338,
+      "timestamp": "2025-03-14T13:48:43Z",
+      "version": 27,
+      "changeset": 163611140,
+      "user": "MosKartograf",
+      "uid": 382604,
+      "bounds": {
+        "minlat": 60.0686052,
+        "minlon": 30.2903541,
+        "maxlat": 60.0830518,
+        "maxlon": 30.3189992
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 1367333796,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1367333790,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1367333791,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1367333781,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1367333783,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1367333767,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 123874541,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1367333760,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 123874552,
+          "role": "inner"
+        },
+        {
+          "type": "way",
+          "ref": 123874549,
+          "role": "inner"
+        },
+        {
+          "type": "way",
+          "ref": 1367333771,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 123874544,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1367333797,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1367333798,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1367333757,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 123874546,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1367333774,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1367333769,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 123874545,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "leisure": "park",
+        "name": "Шуваловский парк",
+        "note": "граница объекта Всемирного наследия в другом отношении",
+        "type": "multipolygon",
+        "wikidata": "Q2753218",
+        "wikipedia": "ru:Шуваловский парк"
+      },
+      "center": {
+        "lat": 60.0758285,
+        "lon": 30.304676649999998
+      },
+      "center_derivation": "Local arithmetic midpoint of Overpass out bb min/max bounds; not centroid or entrance."
+    },
+    {
+      "type": "relation",
+      "id": 1773211,
+      "timestamp": "2023-09-16T23:59:15Z",
+      "version": 28,
+      "changeset": 141362250,
+      "user": "Fizzie-DWG",
+      "uid": 461130,
+      "bounds": {
+        "minlat": 59.9597732,
+        "minlon": 30.4169198,
+        "maxlat": 59.9704536,
+        "maxlon": 30.4308618
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 1194222812,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1194222813,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 396736272,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1194222839,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1194224660,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1194224661,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 132052407,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1194222823,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "leisure": "park",
+        "name": "Полюстровский парк",
+        "old_name": "парк 50-летия Октября",
+        "type": "multipolygon",
+        "wikidata": "Q4371292",
+        "wikipedia": "ru:Полюстровский парк"
+      },
+      "center": {
+        "lat": 59.9651134,
+        "lon": 30.4238908
+      },
+      "center_derivation": "Local arithmetic midpoint of Overpass out bb min/max bounds; not centroid or entrance."
+    },
+    {
+      "type": "relation",
+      "id": 2149267,
+      "timestamp": "2023-09-16T23:59:15Z",
+      "version": 34,
+      "changeset": 141362250,
+      "user": "Fizzie-DWG",
+      "uid": 461130,
+      "bounds": {
+        "minlat": 60.0018665,
+        "minlon": 30.2981384,
+        "maxlat": 60.0137063,
+        "maxlon": 30.3269304
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 160689890,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 128954161,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 128960984,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 127724441,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 128954171,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 128954181,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 128960985,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 128954270,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 128954234,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 128954185,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 128954213,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 142909727,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 128954170,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 440196820,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 440196822,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 440196818,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 168839724,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 168839734,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 128954262,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 128954207,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 128954238,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 128954219,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 699029455,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 128954290,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 97317445,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 699029454,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 128954208,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 160689892,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 128954283,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 153231477,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 160689894,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 153231495,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 206788716,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 153231468,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 153231475,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 206788714,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 128954206,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 128954196,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 128954187,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 128954203,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 128954175,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 106983067,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 132594172,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "leisure": "park",
+        "name": "Удельный парк",
+        "name:en": "Udelny park",
+        "name:ru": "Удельный парк",
+        "old_name": "парк Челюскинцев",
+        "source": "RGis",
+        "type": "multipolygon",
+        "wikidata": "Q13668122",
+        "wikipedia": "ru:Удельный парк"
+      },
+      "center": {
+        "lat": 60.0077864,
+        "lon": 30.312534399999997
+      },
+      "center_derivation": "Local arithmetic midpoint of Overpass out bb min/max bounds; not centroid or entrance."
+    },
+    {
+      "type": "relation",
+      "id": 2917380,
+      "timestamp": "2025-08-13T11:53:35Z",
+      "version": 33,
+      "changeset": 170385938,
+      "user": "Andy_Morgan",
+      "uid": 221981,
+      "bounds": {
+        "minlat": 60.016777,
+        "minlon": 30.3653071,
+        "maxlat": 60.0357031,
+        "maxlon": 30.4315522
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 104468859,
+          "role": "inner"
+        },
+        {
+          "type": "way",
+          "ref": 104468847,
+          "role": "inner"
+        },
+        {
+          "type": "way",
+          "ref": 104468960,
+          "role": "inner"
+        },
+        {
+          "type": "way",
+          "ref": 1154418783,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1422030324,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 22586681,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 220623577,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1107566731,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 672948817,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 160690114,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 160690121,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 104372641,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 74327227,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 160690119,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 220623576,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 160690117,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 193854622,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 10222722,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 133661385,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 591851529,
+          "role": "inner"
+        }
+      ],
+      "tags": {
+        "leisure": "park",
+        "name": "Муринский парк",
+        "name:en": "Murinsky park",
+        "name:etymology:wikidata": "Q4308062",
+        "type": "multipolygon",
+        "wikidata": "Q4308059",
+        "wikipedia": "ru:Муринский парк"
+      },
+      "center": {
+        "lat": 60.02624005,
+        "lon": 30.398429649999997
+      },
+      "center_derivation": "Local arithmetic midpoint of Overpass out bb min/max bounds; not centroid or entrance."
+    },
+    {
+      "type": "relation",
+      "id": 10947986,
+      "timestamp": "2023-09-16T23:59:15Z",
+      "version": 23,
+      "changeset": 141362250,
+      "user": "Fizzie-DWG",
+      "uid": 461130,
+      "bounds": {
+        "minlat": 59.9804608,
+        "minlon": 30.4133935,
+        "maxlat": 59.984184,
+        "maxlon": 30.4235851
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 786598637,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 786598635,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "leisure": "park",
+        "name": "Пионерский парк",
+        "name:de": "Pionierspark",
+        "name:en": "Pioneer Park",
+        "source": "rgis",
+        "type": "multipolygon"
+      },
+      "center": {
+        "lat": 59.9823224,
+        "lon": 30.4184893
+      },
+      "center_derivation": "Local arithmetic midpoint of Overpass out bb min/max bounds; not centroid or entrance."
+    },
+    {
+      "type": "node",
+      "id": 339816778,
+      "lat": 59.9554731,
+      "lon": 30.3208039,
+      "timestamp": "2026-04-24T11:47:16Z",
+      "version": 20,
+      "changeset": 181761031,
+      "user": "TrickyFoxy",
+      "uid": 11528195,
+      "tags": {
+        "architect": "А. И. фон Гоген",
+        "artist_name": "К. В. Изенберг",
+        "heritage": "2",
+        "historic": "memorial",
+        "material": "bronze",
+        "memorial": "war_memorial",
+        "memorial:conflict": "Russo-Japanese War",
+        "name": "Стерегущему",
+        "name:en": "Steregushchy Torpedo Boat",
+        "start_date": "1911",
+        "wheelchair": "yes",
+        "wikidata": "Q18121501",
+        "wikipedia": "ru:Памятник «Стерегущему»"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1486061637,
+      "lat": 59.9534635,
+      "lon": 30.3142041,
+      "timestamp": "2025-10-25T23:40:04Z",
+      "version": 15,
+      "changeset": 173775205,
+      "user": "ComradeSukhov",
+      "uid": 9059129,
+      "tags": {
+        "addr:housenumber": "7",
+        "addr:place": "Александровский парк",
+        "check_date": "2025-10-26",
+        "contact:email": "artillery@yandex.ru",
+        "contact:phone": "+7 812 2320296",
+        "contact:website": "http://www.artillery-museum.ru/",
+        "fee": "yes",
+        "name": "Военно-исторический музей артиллерии, инженерных войск и войск связи",
+        "name:de": "Artilleriemuseum",
+        "name:en": "Artillery Museum",
+        "name:es": "Museo de Artillería",
+        "name:fr": "Musée de l'artillerie",
+        "opening_hours": "We-Su 11:00-18:00",
+        "payment": "cards; cash; bank_transfer",
+        "tourism": "museum",
+        "wheelchair": "yes",
+        "wikidata": "Q2388030",
+        "wikipedia": "ru:Военно-исторический музей артиллерии, инженерных войск и войск связи"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1986132168,
+      "lat": 59.9608066,
+      "lon": 30.3349835,
+      "timestamp": "2023-09-16T23:16:38Z",
+      "version": 17,
+      "changeset": 141361632,
+      "user": "traveleditor",
+      "uid": 8726248,
+      "tags": {
+        "historic": "memorial",
+        "memorial": "sculpture",
+        "memorial:subject": "Альфред Нобель",
+        "name": "Альфред Нобель",
+        "name:en": "Alfred Nobel",
+        "subject:wikidata": "Q23810",
+        "subject:wikipedia": "ru:Нобель, Альфред"
+      }
+    },
+    {
+      "type": "way",
+      "id": 28712275,
+      "timestamp": "2022-06-14T21:57:32Z",
+      "version": 22,
+      "changeset": 122391201,
+      "user": "Miikul",
+      "uid": 16111475,
+      "bounds": {
+        "minlat": 59.9531782,
+        "minlon": 30.3306539,
+        "maxlat": 59.9534103,
+        "maxlon": 30.331043
+      },
+      "nodes": [
+        315637632,
+        1558527449,
+        1558527453,
+        315637633,
+        1558527455,
+        1558527460,
+        315637634,
+        1558527458,
+        1558527451,
+        315637635,
+        1558527447,
+        1558527445,
+        315637632
+      ],
+      "tags": {
+        "addr:city": "Санкт-Петербург",
+        "addr:housenumber": "6",
+        "addr:postcode": "197046",
+        "addr:street": "Петровская набережная",
+        "building": "yes",
+        "building:levels": "1",
+        "fee": "yes",
+        "name": "Домик Петра I",
+        "name:de": "Hütte von Peter dem Großen",
+        "name:en": "Cabin of Peter the Great",
+        "name:fa": "کلبه پیتر کبیر",
+        "name:fr": "Maisonette de Pierre le Grand",
+        "name:it": "Casetta di Pietro il Grande",
+        "name:ru": "Домик Петра I",
+        "name:zh": "彼得大帝木屋",
+        "opening_hours": "Mo,We,Fr-Su 10:00-18:00; Tu off; Th 13:00-21:00",
+        "phone": "+78123148368",
+        "tourism": "museum",
+        "website": "http://www.rusmuseum.ru/",
+        "wikidata": "Q3661730",
+        "wikipedia": "ru:Домик Петра I (Санкт-Петербург)"
+      },
+      "center": {
+        "lat": 59.95329425,
+        "lon": 30.33084845
+      },
+      "center_derivation": "Local arithmetic midpoint of Overpass out bb min/max bounds; not centroid or entrance."
+    },
+    {
+      "type": "way",
+      "id": 43679385,
+      "timestamp": "2026-08-27T19:41:19Z",
+      "version": 19,
+      "changeset": 188115377,
+      "user": "Alexey_ND",
+      "uid": 515330,
+      "bounds": {
+        "minlat": 59.9541826,
+        "minlon": 30.3244027,
+        "maxlat": 59.9549631,
+        "maxlon": 30.3261771
+      },
+      "nodes": [
+        552638874,
+        990317398,
+        990317541,
+        990317349,
+        990317488,
+        9293927070,
+        990317573,
+        990317459,
+        990317428,
+        10245075677,
+        990317567,
+        990317468,
+        552637629,
+        7771129716,
+        9293927071,
+        7041916434,
+        552637631,
+        9293927072,
+        10244921838,
+        7771129715,
+        10244921835,
+        13960123871,
+        13960123874,
+        10119317409,
+        552637615,
+        990317571,
+        990317486,
+        10244921829,
+        10244921832,
+        10244921831,
+        10244921830,
+        990317345,
+        552637623,
+        990317520,
+        990317373,
+        4693438354,
+        7041916425,
+        552637029,
+        552637027,
+        552638882,
+        10244921883,
+        552638836,
+        990317496,
+        990317492,
+        990317374,
+        7041916447,
+        990317582,
+        10244924225,
+        990317409,
+        10244924215,
+        990317557,
+        10244924218,
+        990317587,
+        10244924227,
+        10244924228,
+        552638840,
+        990317540,
+        10244924232,
+        990317370,
+        552638845,
+        552638861,
+        10244924229,
+        10244924231,
+        10244924230,
+        990317544,
+        552638863,
+        990317426,
+        990317530,
+        990317402,
+        7041916451,
+        990317563,
+        4132443556,
+        552638874
+      ],
+      "tags": {
+        "addr:city": "Санкт-Петербург",
+        "addr:country": "RU",
+        "addr:housenumber": "2-4",
+        "addr:postcode": "197046",
+        "addr:street": "улица Куйбышева",
+        "building": "yes",
+        "building:levels": "2",
+        "contact:email": "info@polithistory.ru",
+        "contact:ok": "https://ok.ru/group/polithistory",
+        "contact:phone": "+7 812 3136163",
+        "contact:telegram": "https://t.me/polithistorymuseum",
+        "contact:vk": "https://vk.com/polithistorymuseum",
+        "contact:website": "https://polithistory.ru",
+        "fee": "yes",
+        "name": "Музей политической истории России",
+        "name:de": "Staatliches Museum für politische Geschichte Russlands",
+        "name:en": "State Museum of Political History of Russia",
+        "opening_hours": "10:00-18:00; We 10:00-20:00; Th off; Mo[-1] off; Jan 01,Jan 02,Jan 07,May 01,Dec 31 off",
+        "operator": "Министерства культуры Российской Федерации.",
+        "tourism": "museum",
+        "wikidata": "Q15097244",
+        "wikipedia": "ru:Музей политической истории России"
+      },
+      "center": {
+        "lat": 59.954572850000005,
+        "lon": 30.3252899
+      },
+      "center_derivation": "Local arithmetic midpoint of Overpass out bb min/max bounds; not centroid or entrance."
+    },
+    {
+      "type": "relation",
+      "id": 1434538,
+      "timestamp": "2026-08-03T13:07:01Z",
+      "version": 75,
+      "changeset": 186869918,
+      "user": "BR_pebble",
+      "uid": 15458791,
+      "bounds": {
+        "minlat": 60.0109419,
+        "minlon": 30.3290616,
+        "maxlat": 60.0320528,
+        "maxlon": 30.3667814
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 131243299,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 100873832,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 131317151,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 100873913,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 131317145,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 100873859,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 100873876,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 100873840,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 100874101,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 100873818,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 770741683,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 770741682,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 770648885,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 770648886,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 770648887,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 100873769,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 100873795,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 100873820,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 770648871,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 100873863,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 770648867,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 770648866,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 770648880,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 770648881,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 770648883,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 770648864,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 770648865,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 770648889,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 770648890,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 770648891,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 770648892,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 770648894,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 770648893,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 770648895,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 770648896,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 770648898,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 770648905,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 770648897,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 770673251,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 100873827,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 770673252,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 105764644,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 100874069,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 105764513,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 105764561,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 100873864,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 100873974,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 105764482,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 105764630,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 770673315,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 132213507,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 132213506,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 132432428,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 100873895,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 131243263,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 100873960,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 37921151,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 100149947,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 101004107,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 37921162,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 472432025,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 100149961,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 100873929,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 130897170,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 100150026,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 100873981,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 100329180,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 100873803,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 100873778,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 100874037,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 100873783,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 101004109,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 100873900,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1543332206,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1543332205,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 100874003,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 100873922,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1546952286,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 38087242,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 100873780,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 131243270,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "leisure": "park",
+        "name": "парк Сосновка",
+        "name:en": "Sosnovka park",
+        "type": "multipolygon",
+        "wikidata": "Q4429631",
+        "wikipedia": "ru:Сосновка (парк)"
+      },
+      "center": {
+        "lat": 60.021497350000004,
+        "lon": 30.347921499999998
+      },
+      "center_derivation": "Local arithmetic midpoint of Overpass out bb min/max bounds; not centroid or entrance."
+    },
+    {
+      "type": "relation",
+      "id": 2163883,
+      "timestamp": "2023-09-16T23:59:15Z",
+      "version": 27,
+      "changeset": 141362250,
+      "user": "Fizzie-DWG",
+      "uid": 461130,
+      "bounds": {
+        "minlat": 60.0166698,
+        "minlon": 30.3675939,
+        "maxlat": 60.0209754,
+        "maxlon": 30.3740887
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 22330876,
+          "role": "inner"
+        },
+        {
+          "type": "way",
+          "ref": 161565476,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 161565486,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 161565492,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 161565488,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 22330877,
+          "role": "inner"
+        }
+      ],
+      "tags": {
+        "leisure": "park",
+        "name": "сад Бенуа",
+        "name:etymology:wikidata": "Q3189839",
+        "type": "multipolygon",
+        "website": "https://benua1890.ru/",
+        "wikidata": "Q4404478",
+        "wikipedia": "ru:Сад Бенуа"
+      },
+      "center": {
+        "lat": 60.0188226,
+        "lon": 30.370841300000002
+      },
+      "center_derivation": "Local arithmetic midpoint of Overpass out bb min/max bounds; not centroid or entrance."
+    },
+    {
+      "type": "relation",
+      "id": 2186244,
+      "timestamp": "2025-10-15T09:23:32Z",
+      "version": 56,
+      "changeset": 173310401,
+      "user": "scenicdimmers0e",
+      "uid": 17097086,
+      "bounds": {
+        "minlat": 59.9797382,
+        "minlon": 30.1879169,
+        "maxlat": 59.986019,
+        "maxlon": 30.2093116
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 112682610,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 163856899,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 112682611,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 163856903,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 178824075,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 886683715,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 163856892,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 163856878,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 163856922,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 163856909,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 163856917,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 163856912,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 163856872,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 163856911,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 163856907,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 163856921,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 163856914,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 163856908,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 163856902,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 163856905,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 163856916,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 163856924,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 871585170,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1255282195,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 871585169,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 179013124,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 163902571,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 163902568,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "addr:city": "Санкт-Петербург",
+        "addr:postcode": "197374",
+        "email": "spbpark300@yandex.ru",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "leisure": "park",
+        "loc_name": "Парк Зоолетия",
+        "name": "Парк имени 300-летия Санкт-Петербурга",
+        "name:en": "Saint Petersburg's 300th Anniversary Park",
+        "name:es": "Parque del Tricentenario de San Petersburgo",
+        "name:ru": "Парк имени 300-летия Санкт-Петербурга",
+        "opening_hours": "24/7",
+        "phone": "+7 812 3451080",
+        "source:name": "RGis",
+        "start_date": "1995",
+        "type": "multipolygon",
+        "website": "https://park300spb.ru/",
+        "wikidata": "Q4345198",
+        "wikipedia": "ru:Парк имени 300-летия Санкт-Петербурга"
+      },
+      "center": {
+        "lat": 59.9828786,
+        "lon": 30.19861425
+      },
+      "center_derivation": "Local arithmetic midpoint of Overpass out bb min/max bounds; not centroid or entrance."
+    },
+    {
+      "type": "relation",
+      "id": 2569944,
+      "timestamp": "2026-10-03T14:41:32Z",
+      "version": 19,
+      "changeset": 189934246,
+      "user": "Nine-tailed",
+      "uid": 2006945,
+      "bounds": {
+        "minlat": 59.9715409,
+        "minlon": 30.2435933,
+        "maxlat": 59.9738842,
+        "maxlon": 30.2585604
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 111332021,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 190383520,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 523464750,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 523464749,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 190383516,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "check_date": "2026-10-03",
+        "email": "office@divo-ostrov.ru",
+        "fee": "yes",
+        "name": "Диво-остров",
+        "name:en": "Divo Ostrov",
+        "name:ru": "Диво-остров",
+        "opening_hours": "Mo-Fr 12:00-20:00; Sa-Su,PH 11:00-21:00",
+        "phone": "+7 812 3821080; +7 812 3821081",
+        "tourism": "theme_park",
+        "type": "multipolygon",
+        "website": "https://www.divo-ostrov.ru/"
+      },
+      "center": {
+        "lat": 59.97271255,
+        "lon": 30.25107685
+      },
+      "center_derivation": "Local arithmetic midpoint of Overpass out bb min/max bounds; not centroid or entrance."
+    },
+    {
+      "type": "relation",
+      "id": 2569945,
+      "timestamp": "2023-09-16T23:59:15Z",
+      "version": 30,
+      "changeset": 141362250,
+      "user": "Fizzie-DWG",
+      "uid": 461130,
+      "bounds": {
+        "minlat": 59.9657403,
+        "minlon": 30.2307015,
+        "maxlat": 59.9752172,
+        "maxlon": 30.262227
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 190383520,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 190383513,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 131887145,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 131887144,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 131887146,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 111330388,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 190383514,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 190383517,
+          "role": "inner"
+        },
+        {
+          "type": "way",
+          "ref": 190383518,
+          "role": "inner"
+        }
+      ],
+      "tags": {
+        "leisure": "park",
+        "name": "Приморский парк Победы",
+        "name:en": "Maritime Victory Park",
+        "name:fr": "Parc maritime de la Victoire",
+        "name:ru": "Приморский парк Победы",
+        "type": "multipolygon",
+        "wikidata": "Q3364400",
+        "wikipedia": "ru:Приморский парк Победы (Санкт-Петербург)"
+      },
+      "center": {
+        "lat": 59.97047875,
+        "lon": 30.24646425
+      },
+      "center_derivation": "Local arithmetic midpoint of Overpass out bb min/max bounds; not centroid or entrance."
+    },
+    {
+      "type": "relation",
+      "id": 3272566,
+      "timestamp": "2024-10-10T19:37:08Z",
+      "version": 61,
+      "changeset": 157730726,
+      "user": "真中あお",
+      "uid": 16786727,
+      "bounds": {
+        "minlat": 59.954914,
+        "minlon": 30.3373429,
+        "maxlat": 59.955916,
+        "maxlon": 30.3382736
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 243227912,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 243227913,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 243227807,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 243227806,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 243227805,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 242589842,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 242589830,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 242363971,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 242589816,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 242363973,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 243226242,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 243226246,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 243226245,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 242572944,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 242572945,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 243225319,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 243225331,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 243225328,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 242247160,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 242589833,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 242589836,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 242589817,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 242589840,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 242589828,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 243227541,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 243227543,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 242363991,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 243227984,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 243227985,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 243228053,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 243228056,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 243224974,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 243224973,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 243224887,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 243224886,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 242572850,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 242589831,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 242589834,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 242589835,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 243224824,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 243224823,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 243224829,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 243224819,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 243224830,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 242376342,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 243224827,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 242573522,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 242573517,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 242573505,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 242573521,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 242573334,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 242573346,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 242244948,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 242573344,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 242581972,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 242581970,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 242581961,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 242581969,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 242363976,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 242581966,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 22983286,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 242400687,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 243224425,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 243224427,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 243224444,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 243224601,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 243224599,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 243224603,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 243228085,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 243228086,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 242581959,
+          "role": "inner"
+        },
+        {
+          "type": "way",
+          "ref": 242376336,
+          "role": "inner"
+        },
+        {
+          "type": "way",
+          "ref": 242581957,
+          "role": "inner"
+        },
+        {
+          "type": "way",
+          "ref": 242581962,
+          "role": "inner"
+        },
+        {
+          "type": "way",
+          "ref": 242581963,
+          "role": "inner"
+        },
+        {
+          "type": "way",
+          "ref": 242573340,
+          "role": "inner"
+        },
+        {
+          "type": "way",
+          "ref": 242244981,
+          "role": "inner"
+        },
+        {
+          "type": "way",
+          "ref": 242230548,
+          "role": "inner"
+        },
+        {
+          "type": "way",
+          "ref": 242573347,
+          "role": "inner"
+        },
+        {
+          "type": "way",
+          "ref": 242573510,
+          "role": "inner"
+        },
+        {
+          "type": "way",
+          "ref": 242573519,
+          "role": "inner"
+        },
+        {
+          "type": "way",
+          "ref": 242244951,
+          "role": "inner"
+        },
+        {
+          "type": "way",
+          "ref": 242244974,
+          "role": "inner"
+        }
+      ],
+      "tags": {
+        "building": "ship",
+        "building:parts": "mixed",
+        "description": "Судно представляет собой бронепалубный крейсер 1900 года и является в наши дни музейный объектом. Одновременно \"Аврора\" является и самым старым судном Российского флота, находящимся в строю.",
+        "description:en": "The ship is a 1900 Russian protected cruiser, currently preserved as a museum ship. In the same time Aurora stands today as the oldest commissioned ship of the Russian Navy.",
+        "email": "navalmuseum_dm@mil.ru",
+        "fee": "yes",
+        "full_name": "Центральный военно-морской музей, Крейсер \"Аврора\"",
+        "full_name:en": "The Central Naval Museum, Cruiser \"Aurora\"",
+        "full_name:ru": "Центральный военно-морской музей, Крейсер \"Аврора\"",
+        "full_name:zh": "曙光女神阿芙乐尔号巡洋舰博物馆",
+        "historic": "ship",
+        "museum": "military",
+        "name": "Крейсер \"Аврора\"",
+        "name:ca": "Creuer Aurora",
+        "name:cs": "Křižník Aurora",
+        "name:de": "Aurora",
+        "name:en": "Aurora cruiser",
+        "name:fi": "Aurora",
+        "name:fr": "Croiseur Aurore",
+        "name:ru": "Крейсер \"Аврора\"",
+        "name:sk": "cruiser Aurora",
+        "name:zh": "阿芙乐尔号巡洋舰",
+        "opening_hours": "We-Su 11:00-18:00",
+        "operator": "Центральный военно-морской музей имени императора Петра Великого",
+        "operator:ref:inn": "7801018179",
+        "operator:type": "public",
+        "phone": "+7 812 6074922;+7 812 3038513",
+        "ship:type": "protected_cruiser",
+        "start_date": "1900",
+        "tourism": "museum",
+        "type": "multipolygon",
+        "website": "https://navalmuseum.ru/filials/cruiser_aurora",
+        "wheelchair": "no",
+        "wikidata": "Q168713",
+        "wikipedia": "ru:Аврора (крейсер)"
+      },
+      "center": {
+        "lat": 59.955415,
+        "lon": 30.337808250000002
+      },
+      "center_derivation": "Local arithmetic midpoint of Overpass out bb min/max bounds; not centroid or entrance."
+    },
+    {
+      "type": "relation",
+      "id": 5622070,
+      "timestamp": "2023-09-16T23:59:15Z",
+      "version": 29,
+      "changeset": 141362250,
+      "user": "Fizzie-DWG",
+      "uid": 461130,
+      "bounds": {
+        "minlat": 59.9899431,
+        "minlon": 30.3304887,
+        "maxlat": 59.9975551,
+        "maxlon": 30.3542134
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 10225983,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 669381679,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 91936786,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 97852537,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 97852538,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 464921622,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 98573171,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 973967198,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 973967199,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 779943646,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 779943645,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 377365092,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 98573136,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 779943649,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 779943648,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 377365077,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 377365080,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 377365093,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 377365091,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 494158841,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 494158839,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 494158840,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 494158844,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "leisure": "park",
+        "name": "парк Лесотехнической академии",
+        "type": "multipolygon",
+        "wikidata": "Q50272464",
+        "wikipedia": "ru:Парк Лесотехнической академии"
+      },
+      "center": {
+        "lat": 59.9937491,
+        "lon": 30.342351049999998
+      },
+      "center_derivation": "Local arithmetic midpoint of Overpass out bb min/max bounds; not centroid or entrance."
+    },
+    {
+      "type": "relation",
+      "id": 8801435,
+      "timestamp": "2026-08-27T09:31:02Z",
+      "version": 22,
+      "changeset": 188085748,
+      "user": "King10k",
+      "uid": 3188260,
+      "bounds": {
+        "minlat": 59.9673141,
+        "minlon": 30.3426486,
+        "maxlat": 59.9700047,
+        "maxlon": 30.3493276
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 632986237,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27781773,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 239953845,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "leisure": "park",
+        "name": "Сампсониевский сад",
+        "opening_hours": "24/7",
+        "type": "multipolygon"
+      },
+      "center": {
+        "lat": 59.9686594,
+        "lon": 30.3459881
+      },
+      "center_derivation": "Local arithmetic midpoint of Overpass out bb min/max bounds; not centroid or entrance."
+    },
+    {
+      "type": "relation",
+      "id": 9907863,
+      "timestamp": "2023-09-16T23:58:12Z",
+      "version": 21,
+      "changeset": 141362224,
+      "user": "Fizzie-DWG",
+      "uid": 461130,
+      "bounds": {
+        "minlat": 59.9682492,
+        "minlon": 30.3424329,
+        "maxlat": 59.9685806,
+        "maxlon": 30.3434427
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 712694058,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 27781727,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 712694059,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 498843988,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "addr:city": "Санкт-Петербург",
+        "addr:country": "RU",
+        "addr:housenumber": "41",
+        "addr:street": "Большой Сампсониевский проспект",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "building:levels": "2",
+        "denomination": "orthodox",
+        "name": "Сампсониевский собор",
+        "religion": "christian",
+        "roof:shape": "hipped",
+        "start_date": "1728..1733",
+        "type": "multipolygon",
+        "wikidata": "Q1990726"
+      },
+      "center": {
+        "lat": 59.9684149,
+        "lon": 30.3429378
+      },
+      "center_derivation": "Local arithmetic midpoint of Overpass out bb min/max bounds; not centroid or entrance."
+    },
+    {
+      "type": "relation",
+      "id": 10952258,
+      "timestamp": "2023-09-16T23:59:15Z",
+      "version": 24,
+      "changeset": 141362250,
+      "user": "Fizzie-DWG",
+      "uid": 461130,
+      "bounds": {
+        "minlat": 59.9421174,
+        "minlon": 30.463277,
+        "maxlat": 59.9466288,
+        "maxlon": 30.4771816
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 787273667,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 787491725,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 68247648,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 787273668,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 787273670,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 787273671,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 787691211,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 787273675,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 787691213,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 787273673,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 787273676,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 787273677,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 787273685,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 787262846,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 787273679,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "leisure": "park",
+        "name": "парк Малиновка",
+        "type": "multipolygon",
+        "wikidata": "Q16673767",
+        "wikipedia": "ru:Малиновка (парк)"
+      },
+      "center": {
+        "lat": 59.9443731,
+        "lon": 30.4702293
+      },
+      "center_derivation": "Local arithmetic midpoint of Overpass out bb min/max bounds; not centroid or entrance."
+    },
+    {
+      "type": "relation",
+      "id": 15905263,
+      "timestamp": "2024-10-13T20:23:43Z",
+      "version": 18,
+      "changeset": 157850930,
+      "user": "mini-me",
+      "uid": 3846961,
+      "bounds": {
+        "minlat": 59.9403149,
+        "minlon": 30.4506269,
+        "maxlat": 59.9454786,
+        "maxlon": 30.465093
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 1323698184,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1323698185,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 338583308,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1176082164,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "leisure": "park",
+        "name": "Ладожский парк",
+        "type": "multipolygon"
+      },
+      "center": {
+        "lat": 59.94289675,
+        "lon": 30.45785995
+      },
+      "center_derivation": "Local arithmetic midpoint of Overpass out bb min/max bounds; not centroid or entrance."
+    },
+    {
+      "type": "relation",
+      "id": 15815222,
+      "timestamp": "2023-09-16T23:10:34Z",
+      "version": 17,
+      "changeset": 141361523,
+      "user": "traveleditor",
+      "uid": 8726248,
+      "bounds": {
+        "minlat": 59.9756242,
+        "minlon": 30.403473,
+        "maxlat": 59.9815636,
+        "maxlon": 30.4203632
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 143830049,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1169120798,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "leisure": "park",
+        "name": "парк Академика Сахарова",
+        "type": "multipolygon",
+        "wikidata": "Q4345292",
+        "wikipedia": "ru:Парк имени Академика Сахарова"
+      },
+      "center": {
+        "lat": 59.9785939,
+        "lon": 30.4119181
+      },
+      "center_derivation": "Local arithmetic midpoint of Overpass out bb min/max bounds; not centroid or entrance."
+    },
+    {
+      "type": "relation",
+      "id": 21293555,
+      "timestamp": "2026-08-28T20:56:38Z",
+      "version": 1,
+      "changeset": 188169782,
+      "user": "masmirnov",
+      "uid": 16256027,
+      "bounds": {
+        "minlat": 59.9687922,
+        "minlon": 30.3381606,
+        "maxlat": 59.9698402,
+        "maxlon": 30.3411672
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 27781687,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1553302503,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1553302502,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1553302501,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "leisure": "park",
+        "name": "Гренадерский сад",
+        "old_name": "Крапивный сад",
+        "type": "multipolygon"
+      },
+      "center": {
+        "lat": 59.9693162,
+        "lon": 30.339663899999998
+      },
+      "center_derivation": "Local arithmetic midpoint of Overpass out bb min/max bounds; not centroid or entrance."
+    },
+    {
+      "type": "node",
+      "id": 445108711,
+      "lat": 60.0189426,
+      "lon": 30.3510136,
+      "timestamp": "2023-09-16T23:16:38Z",
+      "version": 15,
+      "changeset": 141361632,
+      "user": "traveleditor",
+      "uid": 8726248,
+      "tags": {
+        "historic": "monument",
+        "name": "Военному аэродрому Сосновка"
+      }
+    },
+    {
+      "type": "way",
+      "id": 717881701,
+      "timestamp": "2023-11-05T14:26:14Z",
+      "version": 17,
+      "changeset": 143652372,
+      "user": "mini-me",
+      "uid": 3846961,
+      "bounds": {
+        "minlat": 59.9791092,
+        "minlon": 30.2697435,
+        "maxlat": 59.9795337,
+        "maxlon": 30.2703108
+      },
+      "nodes": [
+        6742144221,
+        6742144209,
+        6742144208,
+        1840538583,
+        1840538628,
+        6742144218,
+        6742144207,
+        6742144193,
+        6742144194,
+        6742144192,
+        6742144195,
+        6742144191,
+        6742144196,
+        6742144190,
+        6742144197,
+        6742144189,
+        6742144201,
+        6742144188,
+        6742144198,
+        6742144187,
+        6742144199,
+        6742144186,
+        6742144200,
+        6742144185,
+        6742144206,
+        6742144219,
+        6742144220,
+        1840538620,
+        1840538573,
+        6742144113,
+        6742144214,
+        6742144212,
+        6742144205,
+        6742144204,
+        6742144213,
+        6742144215,
+        6742144116,
+        6742144216,
+        6742144210,
+        6742144203,
+        6742144211,
+        6742144202,
+        6742144217,
+        6742144114,
+        6742144221
+      ],
+      "tags": {
+        "addr:housenumber": "4 литА",
+        "addr:place": "Елагин остров",
+        "addr:postcode": "197110",
+        "alt_name": "Елагинский дворец",
+        "building": "public",
+        "building:levels": "2",
+        "castle_type": "palace",
+        "historic": "castle",
+        "name": "Елагин дворец",
+        "name:de": "Jelagin-Palast",
+        "name:en": "Yelagin Palace",
+        "name:ru": "Елагин дворец",
+        "wikidata": "Q2568720"
+      },
+      "center": {
+        "lat": 59.97932145,
+        "lon": 30.27002715
+      },
+      "center_derivation": "Local arithmetic midpoint of Overpass out bb min/max bounds; not centroid or entrance."
+    },
+    {
+      "type": "node",
+      "id": 12132373031,
+      "lat": 59.9321619,
+      "lon": 30.2512193,
+      "tags": {
+        "addr:housenumber": "2",
+        "addr:postcode": "199106",
+        "addr:street": "28-29-я линии В.О.",
+        "contact:email": "info@erarta.com",
+        "contact:phone": "+7 812 3240809",
+        "contact:website": "https://www.erarta.com",
+        "description": "Самый крупный негосударственный музей современного искусства в России",
+        "description:en": "The largest private modern art museum in Russia",
+        "description:ru": "Самый крупный негосударственный музей современного искусства в России",
+        "full_name": "Музей и галереи современного искусства \"Эрарта\"",
+        "full_name:en": "\"Erarta\", Museum and Galleries of Contemporary Art",
+        "full_name:ru": "Музей и галереи современного искусства \"Эрарта\"",
+        "internet_access": "wlan",
+        "name": "Эрарта",
+        "name:en": "Erarta",
+        "name:ru": "Эрарта",
+        "opening_hours": "We-Mo 11:00-23:00",
+        "operator": "АО \"Эрарта\"",
+        "operator:type": "private",
+        "tourism": "museum",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10112046572,
+      "lat": 59.92936,
+      "lon": 30.2695023,
+      "tags": {
+        "contact:vk": "https://vk.com/miningmuseumspb",
+        "museum": "science",
+        "name": "Горный музей",
+        "name:en": "Mining Museum",
+        "name:ru": "Горный музей",
+        "opening_hours": "Mo-Th 08:30-17:15; Fr 08:30-16:15",
+        "phone": "+78123288035",
+        "tourism": "museum",
+        "website": "https://museum.spmi.ru/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13047979401,
+      "lat": 59.9056436,
+      "lon": 30.2976711,
+      "tags": {
+        "addr:housenumber": "4 к2",
+        "addr:street": "Библиотечный переулок",
+        "contact:vk": "rzd_museum",
+        "fee": "yes",
+        "name": "Музей железных дорог России",
+        "opening_hours": "We-Mo 10:00-18:00",
+        "phone": "+7 (812) 718-37-62",
+        "tourism": "museum",
+        "website": "https://rzd-museum.ru/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 23094526,
+      "center": {
+        "lat": 59.8828843,
+        "lon": 30.4390992
+      },
+      "tags": {
+        "barrier": "fence",
+        "fence_type": "metal",
+        "leisure": "park",
+        "name": "парк имени Бабушкина",
+        "name:en": "Park Babushkina",
+        "name:ru": "Парк культуры и отдыха им. Бабушкина",
+        "opening_hours": "09:00-21:00",
+        "website": "https://www.parkskazok.ru/",
+        "wikidata": "Q4345299",
+        "wikipedia": "ru:Парк имени И. В. Бабушкина"
+      }
+    },
+    {
+      "type": "way",
+      "id": 28664845,
+      "center": {
+        "lat": 59.8430844,
+        "lon": 30.321931
+      },
+      "tags": {
+        "addr:housenumber": "с1",
+        "addr:street": "площадь Победы",
+        "historic": "monument",
+        "name": "Монумент героическим защитникам Ленинграда",
+        "name:ar": "نصب تذكاري للمدافعين الأبطال عن لينينغراد",
+        "name:en": "Monument to the heroic defenders of Leningrad",
+        "start_date": "1974",
+        "website": "https://www.spbmuseum.ru/themuseum/museum_complex/monument_lenigrad/",
+        "wikidata": "Q19842255",
+        "wikipedia": "ru:Монумент героическим защитникам Ленинграда"
+      }
+    },
+    {
+      "type": "way",
+      "id": 28893849,
+      "center": {
+        "lat": 59.9317928,
+        "lon": 30.336182
+      },
+      "tags": {
+        "addr:housenumber": "6",
+        "addr:postcode": "191023",
+        "addr:street": "площадь Островского",
+        "amenity": "theatre",
+        "architect": "Карл Иванович Росси",
+        "building": "public",
+        "check_date": "2022-12-09",
+        "contact:facebook": "https://www.facebook.com/newstagealexandrinskytheater",
+        "contact:instagram": "https://www.instagram.com/alexandrinsky/",
+        "contact:telegram": "https://t.me/alexandrinsky",
+        "contact:vk": "https://vk.com/alexandrinskytheater",
+        "email": "theatre@alexandrinsky.ru",
+        "fax": "+7 812 7104192",
+        "historic": "yes",
+        "loc_name": "Александринка",
+        "name": "Александринский театр",
+        "name:ar": "مسرح ألكسندرينسكي",
+        "name:ca": "Teatre Alexandrinski",
+        "name:de": "Alexandrinski-Theater",
+        "name:en": "Alexandrinsky Theatre",
+        "name:fr": "Théâtre Alexandra",
+        "name:it": "Teatro Aleksandrinskij",
+        "name:ru": "Александринский театр",
+        "name:zh": "亚力山大剧院",
+        "opening_hours": "We-Su 13:00-23:00",
+        "phone": "+7 812 4015341",
+        "ref:mkrf_theaters": "12853",
+        "website": "https://alexandrinsky.ru/",
+        "wheelchair": "limited",
+        "wikidata": "Q1186567",
+        "wikipedia": "ru:Александринский театр"
+      }
+    },
+    {
+      "type": "way",
+      "id": 123243367,
+      "center": {
+        "lat": 59.9292647,
+        "lon": 30.2991789
+      },
+      "tags": {
+        "addr:housenumber": "94",
+        "addr:postcode": "190068",
+        "addr:street": "набережная реки Мойки",
+        "alt_name": "дворец Юсуповых",
+        "building": "yes",
+        "building:levels": "3",
+        "castle_type": "palace",
+        "contact:vk": "yusupov_palace",
+        "fee": "yes",
+        "historic": "castle",
+        "name": "Юсуповский дворец",
+        "name:fr": "Palais Ioussoupov",
+        "name:ru": "Юсуповский дворец",
+        "name:zh": "尤蘇波夫宮",
+        "opening_hours": "Mo-Su 10:00-19:30",
+        "phone": "+7 812 314 98 83",
+        "tourism": "museum",
+        "website": "https://yusupov-palace.ru/",
+        "wikidata": "Q2991838",
+        "wikipedia": "ru:Дворец Юсуповых на Мойке"
+      }
+    },
+    {
+      "type": "way",
+      "id": 256460711,
+      "center": {
+        "lat": 59.8984365,
+        "lon": 30.3211727
+      },
+      "tags": {
+        "amenity": "monastery",
+        "community:gender": "female",
+        "denomination": "orthodox",
+        "historic": "monastery",
+        "landuse": "religious",
+        "name": "Воскресенский Новодевичий монастырь",
+        "religion": "christian",
+        "tourism": "attraction",
+        "website": "https://novodev.spb.ru/",
+        "wikidata": "Q4126217",
+        "wikipedia": "ru:Воскресенский Новодевичий монастырь"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 238571,
+      "center": {
+        "lat": 59.9403819,
+        "lon": 30.3377162
+      },
+      "tags": {
+        "addr:housenumber": "2",
+        "addr:postcode": "191023",
+        "addr:street": "Садовая улица",
+        "alt_name": "Инженерный замок",
+        "alt_name:fr": "Château des Ingénieurs",
+        "alt_name:pt": "Castelo do Engenheiro",
+        "architect:wikidata": "Q299687",
+        "building": "yes",
+        "building:levels": "3",
+        "castle_type": "palace",
+        "historic": "castle",
+        "name": "Михайловский замок",
+        "name:ar": "قلعة القديس ميخائيل",
+        "name:de": "Michaelsburg",
+        "name:en": "Saint Michael's Castle",
+        "name:es": "Castillo de San Miguel",
+        "name:etymology:wikidata": "Q45581",
+        "name:fa": "قلعه سنت مایکل",
+        "name:fi": "Mikaelinlinna",
+        "name:fr": "Château Saint-Michel",
+        "name:ja": "ミハイロフスキー城",
+        "name:pt": "Castelo de São Miguel",
+        "name:zh": "聖米歇爾城堡",
+        "opening_hours": "Mo,We,Fr-Su 10:00-18:00; Th 13:00-21:00; Tu off",
+        "phone": "+7 812 5954248",
+        "start_date": "1800-11-08",
+        "tourism": "museum",
+        "type": "multipolygon",
+        "website": "https://www.rusmuseum.ru/mikhailovsky-castle/",
+        "wikidata": "Q2000542",
+        "wikipedia": "ru:Михайловский замок"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 1106905,
+      "center": {
+        "lat": 59.8681503,
+        "lon": 30.3287189
+      },
+      "tags": {
+        "leisure": "park",
+        "name": "Московский парк Победы",
+        "name:de": "Moskauer Siegespark",
+        "name:en": "Moskovsky Victory Park",
+        "name:et": "Võidu park",
+        "name:fr": "Parc de la Victoire",
+        "name:ru": "Московский парк Победы",
+        "ref": "11001",
+        "type": "multipolygon",
+        "website": "https://gupmpp.ru/",
+        "wikidata": "Q4304236",
+        "wikipedia": "ru:Московский парк Победы (Санкт-Петербург)"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 1980423,
+      "center": {
+        "lat": 59.8369318,
+        "lon": 30.1933801
+      },
+      "tags": {
+        "leisure": "park",
+        "name": "Полежаевский парк",
+        "name:en": "Polezhaevsky Park",
+        "name:fr": "Parc Polezhayevskiy",
+        "opening_hours": "24/7",
+        "source": "RGis",
+        "type": "multipolygon",
+        "wikidata": "Q4369708",
+        "wikipedia": "ru:Полежаевский парк"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 2278181,
+      "center": {
+        "lat": 59.8370392,
+        "lon": 30.2271878
+      },
+      "tags": {
+        "leisure": "park",
+        "name": "парк Александрино",
+        "opening_hours": "24/7",
+        "type": "multipolygon",
+        "wikidata": "Q18121494",
+        "wikipedia": "ru:Александрино (парк)"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 2294342,
+      "center": {
+        "lat": 59.9032975,
+        "lon": 30.2616679
+      },
+      "tags": {
+        "alt_name": "Екатерингофский парк",
+        "leisure": "park",
+        "name": "парк Екатерингоф",
+        "name:de": "Jekaterinhof-Park",
+        "name:en": "Catherinehof Park",
+        "name:etymology:wikidata": "Q4174338",
+        "name:fr": "Parc de Yekareningof",
+        "name:ru": "парк Екатерингоф",
+        "type": "multipolygon",
+        "wikidata": "Q691377",
+        "wikipedia": "ru:Екатерингоф"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 2864743,
+      "center": {
+        "lat": 59.9488981,
+        "lon": 30.3953924
+      },
+      "tags": {
+        "addr:housenumber": "1",
+        "addr:postcode": "191124",
+        "addr:street": "площадь Растрелли",
+        "alt_name": "Смольный собор",
+        "alt_name:ru": "Смольный собор",
+        "amenity": "place_of_worship",
+        "building": "cathedral",
+        "check_date": "2022-05-20",
+        "contact:website": "https://smolnyspb.ru",
+        "denomination": "russian_orthodox",
+        "name": "Воскресенский всех учебных заведений Смольный собор",
+        "name:ar": "كاتدرائية سمولني",
+        "name:be": "Смольны сабор",
+        "name:de": "Smolny-Kathedrale",
+        "name:en": "Smolny Cathedral",
+        "name:fr": "Cathédrale de la Résurrection de Smolny",
+        "name:ro": "Catedrala Învierea Domnului",
+        "name:ru": "Воскресенский всех учебных заведений Смольный собор",
+        "ref:sobory.ru": "02579",
+        "religion": "christian",
+        "type": "multipolygon",
+        "wikidata": "Q2330130",
+        "wikipedia": "ru:Смольный монастырь"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 3100461,
+      "center": {
+        "lat": 59.8573828,
+        "lon": 30.3277373
+      },
+      "tags": {
+        "addr:housenumber": "15",
+        "addr:street": "улица Гастелло",
+        "building": "university",
+        "building:levels": "4",
+        "castle_type": "palace",
+        "historic": "castle",
+        "name": "Чесменский дворец",
+        "name:de": "Tschesmensker Palais",
+        "name:en": "Chesme Palace",
+        "name:fr": "Palais de Tchesmé",
+        "roof:shape": "flat",
+        "start_date": "1774",
+        "type": "multipolygon",
+        "wikidata": "Q11838753",
+        "wikipedia": "ru:Чесменский дворец"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 3801086,
+      "center": {
+        "lat": 59.9359467,
+        "lon": 30.3462484
+      },
+      "tags": {
+        "addr:city": "Санкт-Петербург",
+        "addr:housenumber": "53",
+        "addr:street": "Литейный проспект",
+        "charge": "500-285 RUB",
+        "contact:facebook": "https://www.facebook.com/Akhmatova.Museum/",
+        "contact:instagram": "https://www.instagram.com/akhmatova.museum/",
+        "contact:telegram": "https://t.me/akhmatova_museum",
+        "contact:twitter": "https://twitter.com/akhmatovamuseum",
+        "contact:vk": "https://vk.com/akhmatova.museum",
+        "email": "museum@akhmatova.spb.ru",
+        "fee": "yes",
+        "level": "0;1",
+        "museum": "person",
+        "name": "Музей Анны Ахматовой в Фонтанном доме",
+        "opening_hours": "Tu-Su 10:30-18:30; We 12:00-20:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:nfc": "yes",
+        "phone": "+78123205010;+78125797239",
+        "tourism": "museum",
+        "type": "multipolygon",
+        "website": "https://akhmatova.spb.ru/",
+        "wikidata": "Q2066165",
+        "wikipedia": "ru:Музей Анны Ахматовой в Фонтанном доме"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 3801092,
+      "center": {
+        "lat": 59.9479232,
+        "lon": 30.3758862
+      },
+      "tags": {
+        "addr:city": "Санкт-Петербург",
+        "addr:country": "RU",
+        "addr:housenumber": "47",
+        "addr:postcode": "191015",
+        "addr:street": "Шпалерная улица",
+        "building": "castle",
+        "building:levels": "2",
+        "castle_type": "palace",
+        "heritage": "2",
+        "heritage:name": "Дворец Таврический",
+        "historic": "castle",
+        "name": "Таврический дворец",
+        "name:ar": "قصر تاوريد",
+        "name:de": "Taurisches Palais",
+        "name:en": "Tauride Palace",
+        "name:es": "Palacio Táuride",
+        "name:fr": "Palais de Tauride",
+        "name:it": "Palazzo di Tauride",
+        "name:nl": "Taurisch Paleis",
+        "name:pl": "Pałac Taurydzki",
+        "name:pt": "Palácio Tauride",
+        "name:ru": "Таврический дворец",
+        "name:zh": "塔夫利宫",
+        "ref:egrokn": "781520319430006",
+        "start_date": "1789",
+        "type": "multipolygon",
+        "wikidata": "Q676093",
+        "wikipedia": "ru:Таврический дворец"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 9171863,
+      "center": {
+        "lat": 59.8725121,
+        "lon": 30.4525654
+      },
+      "tags": {
+        "leisure": "park",
+        "name": "парк Куракина Дача",
+        "name:en": "Kurakina Dacha park",
+        "name:ru": "парк Куракина Дача",
+        "type": "multipolygon",
+        "wikidata": "Q4247750",
+        "wikipedia": "ru:Куракина Дача"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 11763697,
+      "center": {
+        "lat": 59.9344641,
+        "lon": 30.3247729
+      },
+      "tags": {
+        "addr:housenumber": "2",
+        "addr:postcode": "191186",
+        "addr:street": "Казанская площадь",
+        "amenity": "place_of_worship",
+        "building": "cathedral",
+        "denomination": "russian_orthodox",
+        "height": "22",
+        "name": "Казанский собор",
+        "name:ca": "Catedral de Kazan",
+        "name:de": "Kasaner Kathedrale",
+        "name:en": "Kazansky Cathedral",
+        "name:es": "Catedral de Nuestra Señora de Kazán",
+        "name:etymology:wikidata": "Q540173",
+        "name:fa": "کلیسای جامع کازان",
+        "name:fr": "Cathédrale Notre Dame de Kazan",
+        "name:ja": "カザン聖堂",
+        "name:pt": "Catedral Kazansky",
+        "name:ru": "Казанский собор",
+        "name:zh": "喀山大教堂",
+        "official_name": "Кафедральный Собор Казанской иконы Божией Матери",
+        "religion": "christian",
+        "tourism": "attraction",
+        "type": "multipolygon",
+        "website": "http://kazansky-spb.ru/",
+        "wikidata": "Q404571",
+        "wikipedia": "ru:Казанский собор (Санкт-Петербург)"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 12943845,
+      "center": {
+        "lat": 59.8525245,
+        "lon": 30.1674193
+      },
+      "tags": {
+        "leisure": "park",
+        "name": "Южно-Приморский парк",
+        "name:de": "Südlicher Küstenpark",
+        "name:en": "South Seaside Park",
+        "name:ru": "Южно-Приморский парк",
+        "old_name": "Южно-Приморский парк им. В. И. Ленина",
+        "opening_hours": "24/7",
+        "source:name": "RGis",
+        "type": "multipolygon",
+        "wikidata": "Q4533978",
+        "wikipedia": "ru:Южно-Приморский парк"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 19027234,
+      "center": {
+        "lat": 59.8473027,
+        "lon": 30.1302949
+      },
+      "tags": {
+        "leisure": "park",
+        "name": "парк Новознаменка",
+        "opening_hours": "24/7",
+        "type": "multipolygon"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 21162326,
+      "center": {
+        "lat": 59.8680714,
+        "lon": 30.3003493
+      },
+      "tags": {
+        "leisure": "park",
+        "name": "Парк Авиаторов",
+        "name:en": "Aviatorov Park",
+        "type": "multipolygon",
+        "wikidata": "Q4345211",
+        "wikipedia": "ru:Парк Авиаторов (Санкт-Петербург)"
+      }
+    }
+  ],
+  "original_source_snapshot": {
+    "checked_on": "2026-10-03",
+    "source": "OpenStreetMap via Overpass API",
+    "license": "ODbL 1.0"
+  },
+  "attribution": "© OpenStreetMap contributors",
+  "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+  "acquisition": [
+    {
+      "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+      "query": "[out:json][timeout:45];nwr[\"name\"~\"^(Парк 300-летия Санкт-Петербурга|Удельный парк|Шуваловский парк|Сосновка|Муринский парк|Пискарёвское мемориальное кладбище|Полюстровский парк|Лопухинский сад|Каменноостровский дворец|Диво Остров|Аврора|Санкт-Петербургская соборная мечеть|Соборная мечеть|Елагин дворец|Парк имени Академика Сахарова|Пионерский парк|Гороховский сад|Гренадерский сквер|Дацан Гунзэчойнэй)$\"](59.945,30.12,60.11,30.55);out meta bb;",
+      "requested_at": "2026-10-10T09:42:59.8626807Z",
+      "status": 200,
+      "osm3s": {
+        "timestamp_osm_base": "2026-10-10T09:41:31Z",
+        "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+      }
+    },
+    {
+      "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+      "query": "[out:json][timeout:45];(nwr[\"name\"~\"300-летия|Сосновка|Диво|Аврора|Сахаров|Гороховский|Гренадерский|Приморский парк Победы|ЦПК|Бенуа|Маринеско|Лесотехничес|Сампсониев|Лахта|политической истории|Петербургский планетарий|артиллерии|Домик Петра|Стерегущ|Нобел|Малоохтинский парк|Охтинский мыс|Малиновка|Ладожский парк\",i][\"leisure\"~\"park|garden\"](59.945,30.12,60.11,30.55);nwr[\"name\"~\"300-летия|Сосновка|Диво|Аврора|Сахаров|Гороховский|Гренадерский|Приморский парк Победы|ЦПК|Бенуа|Маринеско|Лесотехничес|Сампсониев|Лахта|политической истории|Петербургский планетарий|артиллерии|Домик Петра|Стерегущ|Нобел|Малоохтинский парк|Охтинский мыс|Малиновка|Ладожский парк\",i][\"tourism\"~\"museum|attraction|artwork|theme_park\"](59.945,30.12,60.11,30.55);nwr[\"name\"~\"300-летия|Сосновка|Диво|Аврора|Сахаров|Гороховский|Гренадерский|Приморский парк Победы|ЦПК|Бенуа|Маринеско|Лесотехничес|Сампсониев|Лахта|политической истории|Петербургский планетарий|артиллерии|Домик Петра|Стерегущ|Нобел|Малоохтинский парк|Охтинский мыс|Малиновка|Ладожский парк\",i][\"historic\"](59.945,30.12,60.11,30.55);nwr[\"name\"~\"300-летия|Сосновка|Диво|Аврора|Сахаров|Гороховский|Гренадерский|Приморский парк Победы|ЦПК|Бенуа|Маринеско|Лесотехничес|Сампсониев|Лахта|политической истории|Петербургский планетарий|артиллерии|Домик Петра|Стерегущ|Нобел|Малоохтинский парк|Охтинский мыс|Малиновка|Ладожский парк\",i][\"amenity\"=\"place_of_worship\"](59.945,30.12,60.11,30.55););out meta bb;",
+      "requested_at": "2026-10-10T09:44:00.9922526Z",
+      "status": 200,
+      "osm3s": {
+        "timestamp_osm_base": "2026-10-10T09:42:35Z",
+        "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+      }
+    },
+    {
+      "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+      "query": "[out:json][timeout:35];(nwr[\"name\"~\"планетарий|Маринеско|Кирова|Малоохтинский|Охтинский мыс|ЦПКиО|Елагин.*парк|Гороховский\",i][\"leisure\"~\"park|garden\"](59.94,30.15,60.04,30.49);nwr[\"name\"~\"планетарий|Маринеско|Кирова|Малоохтинский|Охтинский мыс|ЦПКиО|Елагин.*парк|Гороховский\",i][\"tourism\"~\"museum|attraction\"](59.94,30.15,60.04,30.49);nwr[\"name\"~\"планетарий|Маринеско|Кирова|Малоохтинский|Охтинский мыс|ЦПКиО|Елагин.*парк|Гороховский\",i][\"historic\"](59.94,30.15,60.04,30.49););out meta bb;",
+      "requested_at": "2026-10-10T09:45:30.9250387Z",
+      "error": "Response status code does not indicate success: 504 (Gateway Time-out).",
+      "status": 504,
+      "retry_after": null
+    },
+    {
+      "retrieved_at_utc": "2026-10-10T09:45:54.668882+00:00",
+      "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+      "query": "[out:json][timeout:45];(nwr[\"name\"~\"Московский парк Победы|Парк Авиаторов|Пулковский парк|Чесменская церковь|Чесменский дворец|Героическим защитникам Ленинграда|Нарвские триумфальные ворота|Екатерингоф|Музей железных дорог России|Гранд Макет|Куракина Дача|Куракина дача|парк имени Бабушкина|Южно-Приморский|Полежаевский парк|Новознаменка|Александрино|Никольский морской собор|Юсуповский дворец|Севкабель Порт|Эрарта|Горный музей|Сфинксы|Ксении Блаженной|Смольный собор|Таврический дворец|Казанский собор|Михайловский замок|Александринский театр|Анны Ахматовой|Аптека Пеля|Воскресенский Новодевичий|Кировский завод|Музей истории подводных сил|Болшевиков|Кудрово\",i][\"leisure\"](59.78,30.10,60.08,30.58);nwr[\"name\"~\"Московский парк Победы|Парк Авиаторов|Пулковский парк|Чесменская церковь|Чесменский дворец|Героическим защитникам Ленинграда|Нарвские триумфальные ворота|Екатерингоф|Музей железных дорог России|Гранд Макет|Куракина Дача|Куракина дача|парк имени Бабушкина|Южно-Приморский|Полежаевский парк|Новознаменка|Александрино|Никольский морской собор|Юсуповский дворец|Севкабель Порт|Эрарта|Горный музей|Сфинксы|Ксении Блаженной|Смольный собор|Таврический дворец|Казанский собор|Михайловский замок|Александринский театр|Анны Ахматовой|Аптека Пеля|Воскресенский Новодевичий|Кировский завод|Музей истории подводных сил|Болшевиков|Кудрово\",i][\"tourism\"](59.78,30.10,60.08,30.58);nwr[\"name\"~\"Московский парк Победы|Парк Авиаторов|Пулковский парк|Чесменская церковь|Чесменский дворец|Героическим защитникам Ленинграда|Нарвские триумфальные ворота|Екатерингоф|Музей железных дорог России|Гранд Макет|Куракина Дача|Куракина дача|парк имени Бабушкина|Южно-Приморский|Полежаевский парк|Новознаменка|Александрино|Никольский морской собор|Юсуповский дворец|Севкабель Порт|Эрарта|Горный музей|Сфинксы|Ксении Блаженной|Смольный собор|Таврический дворец|Казанский собор|Михайловский замок|Александринский театр|Анны Ахматовой|Аптека Пеля|Воскресенский Новодевичий|Кировский завод|Музей истории подводных сил|Болшевиков|Кудрово\",i][\"historic\"](59.78,30.10,60.08,30.58);nwr[\"name\"~\"Московский парк Победы|Парк Авиаторов|Пулковский парк|Чесменская церковь|Чесменский дворец|Героическим защитникам Ленинграда|Нарвские триумфальные ворота|Екатерингоф|Музей железных дорог России|Гранд Макет|Куракина Дача|Куракина дача|парк имени Бабушкина|Южно-Приморский|Полежаевский парк|Новознаменка|Александрино|Никольский морской собор|Юсуповский дворец|Севкабель Порт|Эрарта|Горный музей|Сфинксы|Ксении Блаженной|Смольный собор|Таврический дворец|Казанский собор|Михайловский замок|Александринский театр|Анны Ахматовой|Аптека Пеля|Воскресенский Новодевичий|Кировский завод|Музей истории подводных сил|Болшевиков|Кудрово\",i][\"amenity\"](59.78,30.10,60.08,30.58););out center tags;",
+      "osm3s": {
+        "timestamp_osm_base": "2026-10-10T09:44:36Z",
+        "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+      },
+      "selected_count": 22,
+      "response_count": 51
+    }
+  ],
+  "source_selection_notes": [
+    "Транспортные остановки, гостиницы, коммерческие точки, одноимённые скульптуры и мемориальные доски исключены.",
+    "Одноимённый участок Муринского парка way/33229966 исключён для предотвращения двойной идентичности.",
+    "Музей Елагина дворца node/3702115489 поддерживается зданием way/717881701; только одна запись каталога.",
+    "Крейсер Аврора relation/3272566 выбран вместо мемориальной стелы; только одна запись корабля.",
+    "Диво-остров — тематический парк120мин; Приморский парк Победы — прогулка60мин. Географически соседние отдельные цели.",
+    "Памятник аэродрому Сосновка — самостоятельный мемориал15мин внутри парка; парк Сосновка — прогулка60мин.",
+    "Все оценки времени редакционные; фактическое посещение, часы, билеты, доступность и входы не верифицированы независимо.",
+    "Районы предварительно назначены по географии и подлежат проверке отдельным запросом административных границ.",
+    "South/west/central query manually rejects transit/commercial names and duplicate railway complex; museum node13047979401 is the sole canonical identity.",
+    "Excluded access=private manor node11801753099; accepted park relation19027234 is a separate named park, not a claimed public manor.",
+    "Supplemental discovery and district Overpass queries failed; no objects fabricated from those failures. Administrative boundary lookup continues with OSM API exact IDs."
+  ],
+  "acquisition_failures": [
+    {
+      "endpoint": "https://overpass-api.de/api/interpreter",
+      "status": 504,
+      "purpose": "bounded south/west named discovery",
+      "action": "no rapid retries; alternative instance"
+    },
+    {
+      "endpoint": "https://overpass-api.de/api/status",
+      "status": 406,
+      "purpose": "availability check",
+      "action": "stopped using this instance"
+    },
+    {
+      "endpoint": "https://overpass.private.coffee/api/interpreter",
+      "status": 500,
+      "purpose": "POST discovery and single-node GET diagnostic",
+      "requests": 2,
+      "action": "stopped using this instance"
+    },
+    {
+      "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+      "status": 504,
+      "purpose": "unfiltered root discovery, supplemental discovery and district discovery",
+      "requests": 4,
+      "action": "reduced queries; excluded failed-query candidates"
+    },
+    {
+      "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+      "status": "runtime timeout",
+      "purpose": "single-point is_in administrative probe",
+      "action": "use exact OSM boundary IDs with direct API"
+    }
+  ]
+}

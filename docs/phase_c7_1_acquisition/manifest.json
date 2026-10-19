@@ -1,0 +1,90 @@
+{
+ "phase": "C7.1",
+ "generated_at_utc": "2026-10-11T17:17:29.530696+00:00",
+ "source": "OpenStreetMap via the official OSM API 0.6 map call",
+ "source_endpoint": "https://api.openstreetmap.org/api/0.6/map",
+ "client": "SmartNavigator-SPb-Phase-C7-1/1.0 (bounded pilot building-footprint acquisition; https://github.com/DenisAniskov/SmartNavigator_Spb)",
+ "license": "Open Database License (ODbL) 1.0 — © OpenStreetMap contributors",
+ "attribution": "© OpenStreetMap contributors (https://www.openstreetmap.org/copyright)",
+ "acquisition_channel_note": "Public Overpass instances were probed and failed in this environment (see requests.json); the bounded official OSM API map call is the acquisition channel. Same OpenStreetMap source data, official endpoint.",
+ "zones": [
+  {
+   "zone_id": "centre_palace",
+   "description": "Пилот 1 — Исторический центр: Дворцовая площадь и Эрмитаж (плотная застройка, дворы, открытая площадь)",
+   "bbox_s_w_n_e": [
+    59.9358,
+    30.3075,
+    59.9438,
+    30.3245
+   ],
+   "file": "centre_palace.osm.xml",
+   "bytes": 5168768,
+   "sha256": "c29de4bec2c1834a4c85c61d83a80938963d22dd5f469756bba661f0d2fa2d9f"
+  },
+  {
+   "zone_id": "centre_nevsky",
+   "description": "Пилот 2 — Исторический центр: Невский проспект у Гостиного двора (прямая улица-коридор, непрерывный фронт застройки)",
+   "bbox_s_w_n_e": [
+    59.9305,
+    30.3265,
+    59.9385,
+    30.3435
+   ],
+   "file": "centre_nevsky.osm.xml",
+   "bytes": 4561420,
+   "sha256": "688aa09a3deaa065a6d6995f17b51a6f3173ee7d471993eaee8a3c7cf6bb1703"
+  },
+  {
+   "zone_id": "admiralteysky",
+   "description": "Пилот 3 — Адмиралтейская часть: Исаакиевский собор и окрестные кварталы (дворы-колодцы, разновысотная застройка)",
+   "bbox_s_w_n_e": [
+    59.928,
+    30.2975,
+    59.936,
+    30.3145
+   ],
+   "file": "admiralteysky.osm.xml",
+   "bytes": 5157483,
+   "sha256": "468e3e75fd3c293b3f10745b1630aa797de12ebda89c5d881477578adf82bf8d"
+  },
+  {
+   "zone_id": "petrogradsky",
+   "description": "Пилот 4 — Петроградская сторона: Петропавловская крепость и Аврора (набережные, крепостные стены, зелень)",
+   "bbox_s_w_n_e": [
+    59.954,
+    30.3085,
+    59.962,
+    30.3255
+   ],
+   "file": "petrogradsky.osm.xml",
+   "bytes": 4812016,
+   "sha256": "116cd6b614d17966a496a78bf092339fb166dc51c9724a6e96cb8f6cc60e1cba"
+  },
+  {
+   "zone_id": "vasileostrovsky",
+   "description": "Пилот 5 — Васильевский остров: Университетская набережная и Стрелка (набережная, широкие проспекты, исторические корпуса)",
+   "bbox_s_w_n_e": [
+    59.938,
+    30.29,
+    59.946,
+    30.307
+   ],
+   "file": "vasileostrovsky.osm.xml",
+   "bytes": 5189923,
+   "sha256": "a8addc921c2a8a33f5fb3771e56175d0c2888a8825d16d026d92405cd9a007e7"
+  },
+  {
+   "zone_id": "control_kupchino",
+   "description": "Контрольная территория вне исторического центра: Купчино (типовая жилая застройка, свободная планировка)",
+   "bbox_s_w_n_e": [
+    59.849,
+    30.3915,
+    59.857,
+    30.4085
+   ],
+   "file": "control_kupchino.osm.xml",
+   "bytes": 5054474,
+   "sha256": "8fda9e668e889ee543508ee588e6913db3719b0f799ef4bc55782a0f0ff57874"
+  }
+ ]
+}

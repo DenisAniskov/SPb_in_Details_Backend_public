@@ -1,0 +1,3682 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-10T16:43:20Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 747804664,
+  "lat": 59.8688665,
+  "lon": 30.2997429,
+  "timestamp": "2026-06-29T20:21:23Z",
+  "version": 25,
+  "changeset": 184817007,
+  "user": "vasagavavv",
+  "uid": 20180190,
+  "tags": {
+    "architect": "А.С. Червякова; С.А. Ушаков; инженер А.И. Рыбин",
+    "description": "Cамолёт-истребитель МиГ-19",
+    "height": "12",
+    "historic": "monument",
+    "monument": "airplane",
+    "name": "Героическим военным лётчикам",
+    "name:en": "Monument to heroic military pilots"
+  }
+},
+{
+  "type": "node",
+  "id": 775285134,
+  "lat": 59.8462054,
+  "lon": 30.1571596,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 17,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "historic": "memorial",
+    "inscription": "здесь в жестоких сентябрьских боях 1941 года доблестные защитники Ленинграда, не щадя своей жизни, остановили фашистские полчища.",
+    "material": "stone",
+    "memorial": "war_memorial",
+    "name": "памятник защитникам Ленинграда"
+  }
+},
+{
+  "type": "node",
+  "id": 930208536,
+  "lat": 59.8339567,
+  "lon": 30.1684649,
+  "timestamp": "2023-10-20T21:40:08Z",
+  "version": 14,
+  "changeset": 142896160,
+  "user": "VovanWing",
+  "uid": 14231853,
+  "tags": {
+    "historic": "memorial",
+    "memorial": "war_memorial",
+    "name": "Мемориальные захоронения 2-й Мировой войны"
+  }
+},
+{
+  "type": "node",
+  "id": 975610334,
+  "lat": 59.8460253,
+  "lon": 30.1794362,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 17,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "historic": "memorial",
+    "memorial": "stele",
+    "name": "Стелла в память переднего края обороны Ленинграда"
+  }
+},
+{
+  "type": "node",
+  "id": 1236966093,
+  "lat": 59.8525063,
+  "lon": 30.2395527,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 14,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "historic": "memorial",
+    "inscription": "Героям Нарвской заставы, кто выстрадал в боях победу и с ней в бессмертие шагнул",
+    "memorial": "war_memorial",
+    "memorial:conflict": "WW2",
+    "name": "Героям Нарвской заставы"
+  }
+},
+{
+  "type": "node",
+  "id": 1236966107,
+  "lat": 59.8522716,
+  "lon": 30.2390729,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 13,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "historic": "memorial",
+    "inscription": "Православный крест",
+    "memorial": "cross",
+    "name": "Православный крест"
+  }
+},
+{
+  "type": "node",
+  "id": 1340264515,
+  "lat": 59.8610719,
+  "lon": 30.2585109,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 17,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "historic": "memorial",
+    "inscription": "Тяжёлый танк КВ-85. Создан на Кировском заводе. Участвовал в боях в годы Великой Отечественной Войны 1941-1945 г.г.",
+    "material": "metal",
+    "memorial": "war_memorial",
+    "name": "Танк-победитель",
+    "wikidata": "Q4343008",
+    "wikipedia": "ru:Памятник «Танк-победитель»"
+  }
+},
+{
+  "type": "node",
+  "id": 1368607035,
+  "lat": 59.8595956,
+  "lon": 30.2560414,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 13,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "historic": "memorial",
+    "inscription": "Здесь в сентябре 1941 г. Петергофское шоссе было перекрыто трамвайными вагонами для защиты Ленинграда от фашистских танков",
+    "memorial": "war_memorial",
+    "name": "Блокадный трамвай"
+  }
+},
+{
+  "type": "node",
+  "id": 1395683540,
+  "lat": 59.8243064,
+  "lon": 30.1867123,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 18,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "historic": "memorial",
+    "inscription": "На этом рубеже 18 сентября 1941 года героические защитники Ленинграда остановили германские полчища и заняли несокрушимую оборону",
+    "material": "granite",
+    "memorial": "obelisk",
+    "memorial:conflict": "WW2",
+    "name": "Обелиск воинского захоронения «Лигово»",
+    "wikidata": "Q4221639",
+    "wikipedia": "ru:Кировский вал"
+  }
+},
+{
+  "type": "node",
+  "id": 1519933984,
+  "lat": 59.8481774,
+  "lon": 30.1487811,
+  "timestamp": "2021-11-16T11:41:54Z",
+  "version": 6,
+  "changeset": 113848153,
+  "user": "VovanWing",
+  "uid": 14231853,
+  "tags": {
+    "artwork_type": "sculpture",
+    "material": "metal",
+    "name": "Древо Жизни",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 2304998439,
+  "lat": 59.8394307,
+  "lon": 30.2624627,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 15,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "historic": "memorial",
+    "memorial": "war_memorial",
+    "name": "Памятник бойцам народного ополчения"
+  }
+},
+{
+  "type": "node",
+  "id": 2463438527,
+  "lat": 59.8614459,
+  "lon": 30.1332718,
+  "timestamp": "2013-09-19T01:03:36Z",
+  "version": 1,
+  "changeset": 17915599,
+  "user": "Константин Гам",
+  "uid": 392109,
+  "tags": {
+    "name": "Колокол 300-летия",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 2463438532,
+  "lat": 59.8614918,
+  "lon": 30.1327608,
+  "timestamp": "2013-09-19T01:03:37Z",
+  "version": 1,
+  "changeset": 17915599,
+  "user": "Константин Гам",
+  "uid": 392109,
+  "tags": {
+    "name": "Якорь",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 2463438533,
+  "lat": 59.8614932,
+  "lon": 30.1326666,
+  "timestamp": "2013-09-19T01:03:37Z",
+  "version": 1,
+  "changeset": 17915599,
+  "user": "Константин Гам",
+  "uid": 392109,
+  "tags": {
+    "name": "Яхт-клуб \"Балтиец\"",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 2703464737,
+  "lat": 59.7999040,
+  "lon": 30.2731460,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 15,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "artist_name": "Дмитрий Каминкер",
+    "artist_name:ru": "Дмитрий Каминкер",
+    "artwork_type": "sculpture",
+    "historic": "memorial",
+    "name": "Авиатор",
+    "name:en": "Aviator",
+    "name:ru": "Авиатор",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 3355720713,
+  "lat": 59.7924965,
+  "lon": 30.1577556,
+  "timestamp": "2024-03-26T04:26:40Z",
+  "version": 15,
+  "changeset": 149157563,
+  "user": "Soshal Distan Singh",
+  "uid": 11327915,
+  "tags": {
+    "historic": "memorial",
+    "inscription": "Вечная память защитникам Ленинграда",
+    "memorial": "war_memorial",
+    "name": "Защитникам Ленинграда"
+  }
+},
+{
+  "type": "node",
+  "id": 3514312991,
+  "lat": 59.8418189,
+  "lon": 30.2294918,
+  "timestamp": "2022-06-12T17:30:19Z",
+  "version": 2,
+  "changeset": 122291577,
+  "user": "podkyr",
+  "uid": 16262714,
+  "tags": {
+    "fee": "no",
+    "name": "Музейная экспозиция «Три века Петергофской дороги»",
+    "operator": "Библиотека им. М.А. Шолохова",
+    "source": "http://pandia.ru/text/77/497/8415-2.php",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 3514337018,
+  "lat": 59.8683343,
+  "lon": 30.2682161,
+  "timestamp": "2026-10-07T22:44:31Z",
+  "version": 6,
+  "changeset": 190171706,
+  "user": "mini-me",
+  "uid": 3846961,
+  "tags": {
+    "contact:email": "mus_akhmatova@mail.ru",
+    "contact:phone": "+7 812 7850442",
+    "contact:website": "https://akhmatova-museum.ru/",
+    "fee": "yes",
+    "museum": "person",
+    "name": "Анна Ахматова. Серебряный век",
+    "name:en": "Anna Akhmatova. The Silver Century",
+    "name:ru": "Анна Ахматова. Серебряный век",
+    "note": "Касса закрывается во все дни на час раньше",
+    "opening_hours": "Mo-Th 10:00-18:00; Fr 10:00-17:00; Sa 10:00-16:30",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 4320400092,
+  "lat": 59.8331918,
+  "lon": 30.1939276,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 16,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "historic": "memorial",
+    "memorial": "stele",
+    "name": "Памятная стела «Советская эпоха»"
+  }
+},
+{
+  "type": "node",
+  "id": 4426033113,
+  "lat": 59.8478464,
+  "lon": 30.1706220,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 17,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "historic": "memorial",
+    "inscription": "Южно-Приморский парк открыт в год столетия со дня рождения Владимира Ильича Ленина",
+    "material": "stone",
+    "memorial": "stone",
+    "name": "Закладной камень"
+  }
+},
+{
+  "type": "node",
+  "id": 4485821359,
+  "lat": 59.8310180,
+  "lon": 30.1820719,
+  "timestamp": "2024-07-16T19:28:40Z",
+  "version": 3,
+  "changeset": 154029975,
+  "user": "ComradeSukhov",
+  "uid": 9059129,
+  "tags": {
+    "historic": "memorial",
+    "memorial": "plaque",
+    "name": "Место проведения операции Подкоп"
+  }
+},
+{
+  "type": "node",
+  "id": 4485821372,
+  "lat": 59.8385504,
+  "lon": 30.1668600,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 12,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "description": "Памятник воинам 6-й роты 2-го батальона 104-го гвардейского парашютно-десантного полка 76-й гвардейской воздушно-десантной дивизии (Псковской)",
+    "historic": "memorial",
+    "memorial": "war_memorial",
+    "name": "Памятник воинам 6-й роты",
+    "subject:wikidata": "Q1530585",
+    "subject:wikipedia": "ru:Бой у высоты 776"
+  }
+},
+{
+  "type": "node",
+  "id": 4556959789,
+  "lat": 59.8326959,
+  "lon": 30.1762689,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 18,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "historic": "memorial",
+    "memorial": "stele",
+    "memorial:subject": "Александр Викторович Герман",
+    "name": "Партизану Герману",
+    "subject:wikidata": "Q4137216",
+    "subject:wikipedia": "ru:Герман, Александр Викторович"
+  }
+},
+{
+  "type": "node",
+  "id": 4796200924,
+  "lat": 59.8105040,
+  "lon": 30.3035200,
+  "timestamp": "2026-06-10T17:10:37Z",
+  "version": 14,
+  "changeset": 183934518,
+  "user": "iuvi",
+  "uid": 24048118,
+  "tags": {
+    "historic": "memorial",
+    "memorial": "helicopter",
+    "name": "Вертолет МИ-4",
+    "name:en": "Mi-4",
+    "wikidata": "Q169427",
+    "wikipedia": "ru:Ми-4"
+  }
+},
+{
+  "type": "node",
+  "id": 4850272121,
+  "lat": 59.8394076,
+  "lon": 30.1288497,
+  "timestamp": "2023-11-16T16:54:14Z",
+  "version": 2,
+  "changeset": 144104567,
+  "user": "ComradeSukhov",
+  "uid": 9059129,
+  "tags": {
+    "artwork_type": "sculpture",
+    "name": "Декоративное сооружение \"Стрелки\"",
+    "name:ru": "Декоративное сооружение \"Стрелки\"",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 5423059522,
+  "lat": 59.8699209,
+  "lon": 30.2666815,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 16,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "historic": "memorial",
+    "inscription": "В этом доме жил Александр Иванович Маринеско",
+    "memorial": "plaque",
+    "memorial:subject": "Александр Иванович Маринеско",
+    "name": "А. И. Маринеско",
+    "subject:wikidata": "Q162676",
+    "subject:wikipedia": "ru:Маринеско, Александр Иванович"
+  }
+},
+{
+  "type": "node",
+  "id": 5475042357,
+  "lat": 59.7995310,
+  "lon": 30.2729258,
+  "timestamp": "2021-04-26T13:38:20Z",
+  "version": 2,
+  "changeset": 103641269,
+  "user": "VlIvYur",
+  "uid": 345975,
+  "tags": {
+    "artwork_type": "sculpture",
+    "material": "metal",
+    "name": "Символ мира и доброты \"Одуванчик\"",
+    "start_date": "2017-06-09",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 5833471111,
+  "lat": 59.7848410,
+  "lon": 30.2403329,
+  "timestamp": "2023-08-26T20:56:39Z",
+  "version": 7,
+  "changeset": 140428988,
+  "user": "avi32",
+  "uid": 285369,
+  "tags": {
+    "historic": "memorial",
+    "memorial": "grave",
+    "name": "Братская могила"
+  }
+},
+{
+  "type": "node",
+  "id": 5931504252,
+  "lat": 59.8440469,
+  "lon": 30.2494351,
+  "timestamp": "2025-04-16T13:14:02Z",
+  "version": 2,
+  "changeset": 165028951,
+  "user": "Fedor Filimonov",
+  "uid": 3914050,
+  "tags": {
+    "artwork_type": "sculpture",
+    "name": "Конь",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 6033790125,
+  "lat": 59.8327954,
+  "lon": 30.1937483,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 14,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "historic": "memorial",
+    "memorial": "stele",
+    "name": "Памятная стела «Советская эпоха»"
+  }
+},
+{
+  "type": "node",
+  "id": 6498533078,
+  "lat": 59.8629108,
+  "lon": 30.1073000,
+  "timestamp": "2024-08-11T17:14:20Z",
+  "version": 5,
+  "changeset": 155113788,
+  "user": "Cmapuk-noxa6bl4",
+  "uid": 20024786,
+  "tags": {
+    "name": "Вид на залив",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6647557524,
+  "lat": 59.8150026,
+  "lon": 30.1831414,
+  "timestamp": "2024-10-09T19:35:37Z",
+  "version": 4,
+  "changeset": 157687123,
+  "user": "Soshal Distan Singh",
+  "uid": 11327915,
+  "tags": {
+    "historic": "memorial",
+    "material": "stone",
+    "memorial": "stele",
+    "memorial:conflict": "WW2",
+    "name": "Защитникам Старо-Паново",
+    "war_memorial": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6959416215,
+  "lat": 59.8419360,
+  "lon": 30.2462372,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 16,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "historic": "memorial",
+    "memorial": "statue",
+    "memorial:subject": "Виктор Робертович Цой",
+    "name": "В. Р. Цой",
+    "subject:wikidata": "Q487125",
+    "subject:wikipedia": "ru:Цой, Виктор Робертович"
+  }
+},
+{
+  "type": "node",
+  "id": 7064493801,
+  "lat": 59.7922116,
+  "lon": 30.1633914,
+  "timestamp": "2023-08-26T20:56:39Z",
+  "version": 12,
+  "changeset": 140428988,
+  "user": "avi32",
+  "uid": 285369,
+  "tags": {
+    "historic": "memorial",
+    "inscription": "Стела установлена в честь основания будущего посёлка Новогорелово. Открыта губернатором Ленинградской области. 2013 год.",
+    "material": "granite",
+    "memorial": "obelisk",
+    "name": "Новогорелово"
+  }
+},
+{
+  "type": "node",
+  "id": 7215212349,
+  "lat": 59.8287137,
+  "lon": 30.1893809,
+  "timestamp": "2024-03-05T20:50:43Z",
+  "version": 6,
+  "changeset": 148267621,
+  "user": "Soshal Distan Singh",
+  "uid": 11327915,
+  "tags": {
+    "historic": "memorial",
+    "inscription": "Передний край обороны Ленинграда 1941—1944. Бессмертны в памяти народа имена защитников города Ленина",
+    "material": "granite",
+    "memorial": "stele",
+    "memorial:conflict": "WW2",
+    "name": "Передний край обороны Ленинграда",
+    "start_date": "1965",
+    "subject:wikidata": "Q4221639",
+    "subject:wikipedia": "ru:Кировский вал",
+    "wikimedia_commons": "File:Мемориал в память обороны города в 1941 - 1944 гг. Санкт-Петербург, Красносельский район, напротив дома 38 корпуса 1 по улице Стойкости.jpg"
+  }
+},
+{
+  "type": "node",
+  "id": 7817211392,
+  "lat": 59.7913344,
+  "lon": 30.1643671,
+  "timestamp": "2023-08-26T20:56:39Z",
+  "version": 8,
+  "changeset": 140428988,
+  "user": "avi32",
+  "uid": 285369,
+  "tags": {
+    "historic": "memorial",
+    "material": "steel",
+    "memorial": "sculpture",
+    "memorial:conflict": "Second_Chechen_War",
+    "name": "6-й роте 104-го ПДП 76-й ВДД",
+    "subject:wikidata": "Q1530585",
+    "subject:wikipedia": "ru:Бой у высоты 776",
+    "war_memorial": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7820233871,
+  "lat": 59.7907381,
+  "lon": 30.1471850,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 13,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "historic": "memorial",
+    "memorial": "plaque",
+    "memorial:subject": "Зиновий Григорьевич Колобанов",
+    "name": "З. Г. Колобанову",
+    "subject:wikidata": "Q4228062",
+    "subject:wikipedia": "ru:Колобанов, Зиновий Григорьевич"
+  }
+},
+{
+  "type": "node",
+  "id": 8143204691,
+  "lat": 59.8361565,
+  "lon": 30.1177197,
+  "timestamp": "2022-05-02T06:55:57Z",
+  "version": 4,
+  "changeset": 120446316,
+  "user": "ComradeSukhov",
+  "uid": 9059129,
+  "tags": {
+    "artwork_type": "sculpture",
+    "material": "steel",
+    "name": "Металлическая сфера",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 8200186879,
+  "lat": 59.8383144,
+  "lon": 30.2293512,
+  "timestamp": "2021-08-03T11:58:32Z",
+  "version": 2,
+  "changeset": 109091402,
+  "user": "mini-me",
+  "uid": 3846961,
+  "tags": {
+    "artwork_type": "statue",
+    "name": "Артемида",
+    "subject": "Артемида Эфесская",
+    "subject:wikidata": "Q10858700",
+    "subject:wikipedia": "ru:Артемида Эфесская",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 8668681685,
+  "lat": 59.7995946,
+  "lon": 30.2722246,
+  "timestamp": "2021-04-26T13:38:20Z",
+  "version": 1,
+  "changeset": 103641269,
+  "user": "VlIvYur",
+  "uid": 345975,
+  "tags": {
+    "artist_name": "Шорин Д.А.",
+    "artwork_type": "statue",
+    "level": "3",
+    "name": "I Believe in Angels",
+    "start_date": "2013-12",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 8668681687,
+  "lat": 59.7994996,
+  "lon": 30.2711682,
+  "timestamp": "2021-04-26T13:38:20Z",
+  "version": 1,
+  "changeset": 103641269,
+  "user": "VlIvYur",
+  "uid": 345975,
+  "tags": {
+    "artist_name": "Шорин Д.А.",
+    "artwork_type": "statue",
+    "level": "3",
+    "name": "I Believe in Angels",
+    "start_date": "2013-12",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 8668681688,
+  "lat": 59.7998276,
+  "lon": 30.2723541,
+  "timestamp": "2021-04-26T13:38:20Z",
+  "version": 1,
+  "changeset": 103641269,
+  "user": "VlIvYur",
+  "uid": 345975,
+  "tags": {
+    "artist_name": "Шорин Д.А.",
+    "artwork_type": "statue",
+    "name": "I Believe in Angels",
+    "start_date": "2013-12",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 8668681690,
+  "lat": 59.8002376,
+  "lon": 30.2724972,
+  "timestamp": "2021-04-26T13:38:20Z",
+  "version": 1,
+  "changeset": 103641269,
+  "user": "VlIvYur",
+  "uid": 345975,
+  "tags": {
+    "artist_name": "Шорин Д.А.",
+    "artwork_type": "statue",
+    "name": "I Believe in Angels",
+    "start_date": "2013-12",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 8702586806,
+  "lat": 59.8189723,
+  "lon": 30.1789089,
+  "timestamp": "2023-11-02T23:21:48Z",
+  "version": 13,
+  "changeset": 143552283,
+  "user": "Soshal Distan Singh",
+  "uid": 11327915,
+  "tags": {
+    "historic": "memorial",
+    "memorial": "war_memorial",
+    "name": "Защитникам Лигово и Старо-Паново"
+  }
+},
+{
+  "type": "node",
+  "id": 8901844318,
+  "lat": 59.8475921,
+  "lon": 30.1722222,
+  "timestamp": "2021-07-07T18:45:32Z",
+  "version": 1,
+  "changeset": 107584592,
+  "user": "Sergey Astakhov",
+  "uid": 143266,
+  "tags": {
+    "artwork_type": "sculpture",
+    "name": "Алые паруса",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 9248631505,
+  "lat": 59.8460749,
+  "lon": 30.1794512,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 11,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "historic": "memorial",
+    "material": "steel",
+    "memorial": "war_memorial",
+    "name": "Якорь"
+  }
+},
+{
+  "type": "node",
+  "id": 9260700726,
+  "lat": 59.8429723,
+  "lon": 30.2182681,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 12,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "historic": "memorial",
+    "material": "concrete",
+    "memorial": "war_memorial",
+    "name": "Советский командно-наблюдательный пункт"
+  }
+},
+{
+  "type": "node",
+  "id": 9349890817,
+  "lat": 59.8650627,
+  "lon": 30.2627977,
+  "timestamp": "2024-04-17T04:50:39Z",
+  "version": 13,
+  "changeset": 150109586,
+  "user": "Soshal Distan Singh",
+  "uid": 11327915,
+  "tags": {
+    "historic": "memorial",
+    "material": "metal",
+    "memorial": "sculpture",
+    "name": "Трактор «Фордзон-Путиловец»",
+    "subject:wikidata": "Q11859808",
+    "subject:wikipedia": "ru:Фордзон-Путиловец"
+  }
+},
+{
+  "type": "node",
+  "id": 9501558443,
+  "lat": 59.8359295,
+  "lon": 30.1180918,
+  "timestamp": "2022-05-02T06:54:29Z",
+  "version": 2,
+  "changeset": 120446257,
+  "user": "ComradeSukhov",
+  "uid": 9059129,
+  "tags": {
+    "artwork_type": "stele",
+    "description": "Выездной знак",
+    "name": "Солнечный Город",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 9593260957,
+  "lat": 59.8568420,
+  "lon": 30.2333508,
+  "timestamp": "2024-08-26T17:19:13Z",
+  "version": 13,
+  "changeset": 155794157,
+  "user": "Soshal Distan Singh",
+  "uid": 11327915,
+  "tags": {
+    "historic": "memorial",
+    "inscription": "В честь Памяти ликвидаторов последствий катастрофы на Чернобыльской АЭС 1986 года.",
+    "memorial": "stone",
+    "name": "Ликвидаторам последствий катастрофы на Чернобыльской АЭС",
+    "subject:wikidata": "Q1377734",
+    "subject:wikipedia": "ru:Ликвидаторы последствий аварии на Чернобыльской АЭС"
+  }
+},
+{
+  "type": "node",
+  "id": 9798527418,
+  "lat": 59.8524552,
+  "lon": 30.2806886,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 12,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "historic": "memorial",
+    "memorial": "sculpture",
+    "name": "Дот №104 рубежа \"Ижора\""
+  }
+},
+{
+  "type": "node",
+  "id": 9825750564,
+  "lat": 59.8405677,
+  "lon": 30.2416096,
+  "timestamp": "2022-06-17T15:39:44Z",
+  "version": 1,
+  "changeset": 122514005,
+  "user": "rlog58",
+  "uid": 16304496,
+  "tags": {
+    "artwork_type": "statue",
+    "name": "Слоны",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 9890701397,
+  "lat": 59.8284304,
+  "lon": 30.1630399,
+  "timestamp": "2023-10-18T17:42:54Z",
+  "version": 19,
+  "changeset": 142774675,
+  "user": "VovanWing",
+  "uid": 14231853,
+  "tags": {
+    "abandoned": "yes",
+    "building": "bunker",
+    "bunker_type": "tobruk",
+    "historic": "memorial",
+    "military": "bunker",
+    "name": "Немецкий тобрук (рингштанд) DL-2"
+  }
+},
+{
+  "type": "node",
+  "id": 9890701398,
+  "lat": 59.8315684,
+  "lon": 30.1633837,
+  "timestamp": "2023-10-18T17:42:54Z",
+  "version": 18,
+  "changeset": 142774675,
+  "user": "VovanWing",
+  "uid": 14231853,
+  "tags": {
+    "building": "bunker",
+    "bunker_type": "tobruk",
+    "historic": "memorial",
+    "military": "bunker",
+    "name": "Немецкий тобрук (рингштанд) DL-1"
+  }
+},
+{
+  "type": "node",
+  "id": 10583170482,
+  "lat": 59.8138765,
+  "lon": 30.1725669,
+  "timestamp": "2024-04-25T20:21:07Z",
+  "version": 2,
+  "changeset": 150513017,
+  "user": "Soshal Distan Singh",
+  "uid": 11327915,
+  "tags": {
+    "historic": "memorial",
+    "inscription": "Матрёна Николаевна Белова. 1907 – 1993.",
+    "material": "wood",
+    "memorial": "cross",
+    "name": "М.Н. Беловой (1907-1993)"
+  }
+},
+{
+  "type": "node",
+  "id": 10716268205,
+  "lat": 59.8348857,
+  "lon": 30.1602288,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 11,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "historic": "ruins",
+    "name": "Немецкий тобрук (рингштанд) DL-4"
+  }
+},
+{
+  "type": "node",
+  "id": 10716332406,
+  "lat": 59.7814054,
+  "lon": 30.2822635,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 11,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "historic": "ruins",
+    "name": "Немецкий рингштанд (тобрук) DF-23"
+  }
+},
+{
+  "type": "node",
+  "id": 10716339205,
+  "lat": 59.7834599,
+  "lon": 30.2321747,
+  "timestamp": "2023-08-26T20:56:39Z",
+  "version": 7,
+  "changeset": 140428988,
+  "user": "avi32",
+  "uid": 285369,
+  "tags": {
+    "historic": "ruins",
+    "name": "Немецкий амбразурный ДОТ DF-4"
+  }
+},
+{
+  "type": "node",
+  "id": 10762379550,
+  "lat": 59.7943931,
+  "lon": 30.1575485,
+  "timestamp": "2023-03-26T03:26:59Z",
+  "version": 1,
+  "changeset": 134123526,
+  "user": "Soshal Distan Singh",
+  "uid": 11327915,
+  "tags": {
+    "artwork_type": "statue",
+    "name": "Олень",
+    "statue": "animal",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 10762379551,
+  "lat": 59.7945280,
+  "lon": 30.1570456,
+  "timestamp": "2023-03-26T03:26:59Z",
+  "version": 1,
+  "changeset": 134123526,
+  "user": "Soshal Distan Singh",
+  "uid": 11327915,
+  "tags": {
+    "artwork_type": "statue",
+    "name": "Медведь",
+    "statue": "animal",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 10762379552,
+  "lat": 59.7946474,
+  "lon": 30.1563992,
+  "timestamp": "2023-03-26T03:26:59Z",
+  "version": 1,
+  "changeset": 134123526,
+  "user": "Soshal Distan Singh",
+  "uid": 11327915,
+  "tags": {
+    "artwork_type": "statue",
+    "name": "Медведь",
+    "statue": "animal",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 10796667009,
+  "lat": 59.8494711,
+  "lon": 30.2868017,
+  "timestamp": "2023-09-05T14:11:58Z",
+  "version": 3,
+  "changeset": 140851252,
+  "user": "ComradeSukhov",
+  "uid": 9059129,
+  "tags": {
+    "name": "ДОТ № 99 рубежа «Ижора»",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 11108749771,
+  "lat": 59.7913157,
+  "lon": 30.1644245,
+  "timestamp": "2023-08-26T20:56:39Z",
+  "version": 7,
+  "changeset": 140428988,
+  "user": "avi32",
+  "uid": 285369,
+  "tags": {
+    "historic": "memorial",
+    "memorial": "plaque",
+    "memorial:conflict": "Second_Chechen_War",
+    "memorial:subject": "Вадим Владимирович Чугунов",
+    "name": "В. В. Чугунову",
+    "subject:wikidata": "Q109485353",
+    "war_memorial": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11108749773,
+  "lat": 59.7915178,
+  "lon": 30.1639407,
+  "timestamp": "2023-08-11T23:13:49Z",
+  "version": 1,
+  "changeset": 139769220,
+  "user": "Soshal Distan Singh",
+  "uid": 11327915,
+  "tags": {
+    "artwork_type": "sculpture",
+    "name": "Новое Горелово",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 11164995395,
+  "lat": 59.8522773,
+  "lon": 30.2472525,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 4,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "historic": "memorial",
+    "inscription": "Именем прославленного сапёра, участника обороны Ленинграда Ивана Ивановича Соломахина (1908-1989) назван этот проезд.",
+    "memorial": "plaque",
+    "name": "И. И. Соломахину",
+    "subject:wikipedia": "ru:Соломахин, Иван Иванович"
+  }
+},
+{
+  "type": "node",
+  "id": 11278404315,
+  "lat": 59.8343535,
+  "lon": 30.1684523,
+  "timestamp": "2024-11-20T09:46:40Z",
+  "version": 2,
+  "changeset": 159357987,
+  "user": "Soshal Distan Singh",
+  "uid": 11327915,
+  "tags": {
+    "historic": "memorial",
+    "memorial": "war_memorial",
+    "name": "Вечный огонь"
+  }
+},
+{
+  "type": "node",
+  "id": 11281752042,
+  "lat": 59.8622866,
+  "lon": 30.2482776,
+  "timestamp": "2023-10-22T16:27:08Z",
+  "version": 1,
+  "changeset": 142975715,
+  "user": "isfky",
+  "uid": 12300382,
+  "tags": {
+    "historic": "memorial",
+    "memorial": "war_memorial",
+    "name": "Подвигу морских пехотинцев 1941-1945"
+  }
+},
+{
+  "type": "node",
+  "id": 11384381226,
+  "lat": 59.8263937,
+  "lon": 30.1947526,
+  "timestamp": "2023-11-29T19:09:33Z",
+  "version": 1,
+  "changeset": 144600781,
+  "user": "mystery2008",
+  "uid": 9329003,
+  "tags": {
+    "historic": "memorial",
+    "memorial": "plaque",
+    "name": "Виктору Цою"
+  }
+},
+{
+  "type": "node",
+  "id": 11509686446,
+  "lat": 59.8636067,
+  "lon": 30.2719954,
+  "timestamp": "2024-01-11T22:59:23Z",
+  "version": 1,
+  "changeset": 146160864,
+  "user": "mystery2008",
+  "uid": 9329003,
+  "tags": {
+    "building": "bunker",
+    "military": "bunker",
+    "name": "ДОТ № 126 с башней КВ-1 рубежа «Ижора»",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 11509686447,
+  "lat": 59.8636394,
+  "lon": 30.2738364,
+  "timestamp": "2024-01-11T22:59:23Z",
+  "version": 1,
+  "changeset": 146160864,
+  "user": "mystery2008",
+  "uid": 9329003,
+  "tags": {
+    "building": "bunker",
+    "military": "bunker",
+    "name": "ДОТ А-10 рубежа «Ижора» - могила Н. Ф. Седаш",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 11509689494,
+  "lat": 59.8646464,
+  "lon": 30.2396210,
+  "timestamp": "2026-05-09T02:05:20Z",
+  "version": 2,
+  "changeset": 182406376,
+  "user": "b-jazz-bot",
+  "uid": 9451067,
+  "tags": {
+    "building": "bunker",
+    "military": "bunker",
+    "name": "ДОТ № 110 рубежа \"Ижора\"",
+    "tourism": "attraction",
+    "website": "https://www.lendot.ru/ru/documents/objects/dot110/"
+  }
+},
+{
+  "type": "node",
+  "id": 11725156455,
+  "lat": 59.8556249,
+  "lon": 30.1950753,
+  "timestamp": "2024-03-12T17:16:20Z",
+  "version": 1,
+  "changeset": 148559596,
+  "user": "Soshal Distan Singh",
+  "uid": 11327915,
+  "tags": {
+    "artwork_type": "statue",
+    "name": "Павлин",
+    "statue": "animal",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 11725712428,
+  "lat": 59.8563253,
+  "lon": 30.1956137,
+  "timestamp": "2024-03-12T20:35:44Z",
+  "version": 1,
+  "changeset": 148559596,
+  "user": "Soshal Distan Singh",
+  "uid": 11327915,
+  "tags": {
+    "artwork_type": "statue",
+    "name": "Бегемот",
+    "statue": "animal",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 11725712429,
+  "lat": 59.8563132,
+  "lon": 30.1955862,
+  "timestamp": "2024-03-12T20:35:44Z",
+  "version": 1,
+  "changeset": 148559596,
+  "user": "Soshal Distan Singh",
+  "uid": 11327915,
+  "tags": {
+    "artwork_type": "statue",
+    "name": "Медведь",
+    "statue": "animal",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 11725712430,
+  "lat": 59.8558259,
+  "lon": 30.1941291,
+  "timestamp": "2024-03-12T20:35:44Z",
+  "version": 1,
+  "changeset": 148559596,
+  "user": "Soshal Distan Singh",
+  "uid": 11327915,
+  "tags": {
+    "artwork_type": "sculpture",
+    "name": "Солнце",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 11725712431,
+  "lat": 59.8559691,
+  "lon": 30.1947373,
+  "timestamp": "2024-03-12T20:35:44Z",
+  "version": 1,
+  "changeset": 148559596,
+  "user": "Soshal Distan Singh",
+  "uid": 11327915,
+  "tags": {
+    "artwork_type": "statue",
+    "name": "Дети с кувшином",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 11801753099,
+  "lat": 59.8455369,
+  "lon": 30.1317707,
+  "timestamp": "2024-04-08T09:57:46Z",
+  "version": 1,
+  "changeset": 149726974,
+  "user": "VovanWing",
+  "uid": 14231853,
+  "tags": {
+    "access": "private",
+    "historic": "manor",
+    "name": "Усадьба \"Новознаменка\""
+  }
+},
+{
+  "type": "node",
+  "id": 11808383116,
+  "lat": 59.8504193,
+  "lon": 30.1770743,
+  "timestamp": "2024-04-11T18:13:54Z",
+  "version": 2,
+  "changeset": 149877213,
+  "user": "Soshal Distan Singh",
+  "uid": 11327915,
+  "tags": {
+    "historic": "memorial",
+    "image": "https://ru.wikipedia.org/wiki/Файл:Мемориальная_доска_Р._Зорге.jpg",
+    "memorial": "plaque",
+    "memorial:subject": "Рихард Зорге",
+    "name": "Рихарду Зорге",
+    "name:de": "Richard Sorge",
+    "name:ru": "Рихарду Зорге",
+    "subject:wikidata": "Q44580",
+    "subject:wikipedia": "ru:Зорге, Рихард"
+  }
+},
+{
+  "type": "node",
+  "id": 11831626016,
+  "lat": 59.7956347,
+  "lon": 30.1593452,
+  "timestamp": "2024-04-19T19:37:21Z",
+  "version": 1,
+  "changeset": 150238681,
+  "user": "Soshal Distan Singh",
+  "uid": 11327915,
+  "tags": {
+    "artwork_type": "mural",
+    "name": "Зимний пейзаж (Кандинский, 1909)",
+    "name:en": "Winter Landscape (Kandinsky, 1909)",
+    "name:ru": "Зимний пейзаж (Кандинский, 1909)",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 11844286792,
+  "lat": 59.8468304,
+  "lon": 30.1715588,
+  "timestamp": "2024-04-24T12:31:40Z",
+  "version": 1,
+  "changeset": 150444943,
+  "user": "м1т",
+  "uid": 3765990,
+  "tags": {
+    "name": "Якорь",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 11844286793,
+  "lat": 59.8468310,
+  "lon": 30.1716741,
+  "timestamp": "2024-04-24T12:31:40Z",
+  "version": 1,
+  "changeset": 150444943,
+  "user": "м1т",
+  "uid": 3765990,
+  "tags": {
+    "name": "Якорь",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 11860974069,
+  "lat": 59.8303955,
+  "lon": 30.2030179,
+  "timestamp": "2024-04-27T23:48:24Z",
+  "version": 1,
+  "changeset": 150599928,
+  "user": "m0x3mkx",
+  "uid": 14275589,
+  "tags": {
+    "name": "Торгово-бытовой центр «Бублик»",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 11872736269,
+  "lat": 59.8420461,
+  "lon": 30.2461332,
+  "timestamp": "2024-08-24T02:51:30Z",
+  "version": 2,
+  "changeset": 155677825,
+  "user": "ComradeSukhov",
+  "uid": 9059129,
+  "tags": {
+    "name": "Гитара",
+    "tourism": "attraction",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12155292510,
+  "lat": 59.8194527,
+  "lon": 30.2909857,
+  "timestamp": "2024-09-04T12:11:37Z",
+  "version": 1,
+  "changeset": 156183236,
+  "user": "s777n",
+  "uid": 615344,
+  "tags": {
+    "fixme": "position",
+    "name": "Музей гражданской авиации",
+    "name:en": "Museum of Civil Aviation",
+    "name:ru": "Музей гражданской авиации",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 12663554451,
+  "lat": 59.8631609,
+  "lon": 30.1526675,
+  "timestamp": "2025-03-14T22:11:15Z",
+  "version": 1,
+  "changeset": 163629121,
+  "user": "Soshal Distan Singh",
+  "uid": 11327915,
+  "tags": {
+    "artwork_type": "sculpture",
+    "name": "Маяк",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 12694839739,
+  "lat": 59.8296649,
+  "lon": 30.1770912,
+  "timestamp": "2025-03-23T18:01:26Z",
+  "version": 1,
+  "changeset": 163999634,
+  "user": "Soshal Distan Singh",
+  "uid": 11327915,
+  "tags": {
+    "artwork_type": "statue",
+    "name": "Заяц",
+    "subject:wikidata": "Q333637",
+    "subject:wikipedia": "ru:Ну, погоди!",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 12694839740,
+  "lat": 59.8296553,
+  "lon": 30.1771119,
+  "timestamp": "2025-03-23T18:01:26Z",
+  "version": 1,
+  "changeset": 163999634,
+  "user": "Soshal Distan Singh",
+  "uid": 11327915,
+  "tags": {
+    "artwork_type": "statue",
+    "name": "Волк",
+    "subject:wikidata": "Q333637",
+    "subject:wikipedia": "ru:Ну, погоди!",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 12694839742,
+  "lat": 59.8297367,
+  "lon": 30.1770860,
+  "timestamp": "2025-03-23T18:01:26Z",
+  "version": 1,
+  "changeset": 163999634,
+  "user": "Soshal Distan Singh",
+  "uid": 11327915,
+  "tags": {
+    "artwork_type": "statue",
+    "name": "Крокодил Гена, Чебурашка и старуха Шапокляк",
+    "subject:wikidata": "Q1965370",
+    "subject:wikipedia": "ru:Крокодил Гена (мультфильм)",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 12823280102,
+  "lat": 59.8126484,
+  "lon": 30.2948296,
+  "timestamp": "2025-05-09T10:50:38Z",
+  "version": 1,
+  "changeset": 166022106,
+  "user": "mystery2008",
+  "uid": 9329003,
+  "tags": {
+    "historic": "memorial",
+    "name": "Викентий Григорьевич Грязнов"
+  }
+},
+{
+  "type": "node",
+  "id": 12967131901,
+  "lat": 59.8368780,
+  "lon": 30.1746863,
+  "timestamp": "2025-07-01T19:24:02Z",
+  "version": 1,
+  "changeset": 168368418,
+  "user": "Дмитрий ГРАНИН",
+  "uid": 21756370,
+  "tags": {
+    "historic": "memorial",
+    "name": "Место нахождения Урицкой школы 1 - штаб фашистов в ВОВ. Взорвана Красной Армией в 08.30 18.07.1943 года."
+  }
+},
+{
+  "type": "node",
+  "id": 13450949095,
+  "lat": 59.8592380,
+  "lon": 30.2354260,
+  "timestamp": "2026-01-13T20:11:26Z",
+  "version": 3,
+  "changeset": 177194490,
+  "user": "masmirnov",
+  "uid": 16256027,
+  "tags": {
+    "historic": "memorial",
+    "inscription": "Улица названа в честь Героя Советского Союза маршала артиллерии Василия Ивановича Казакова (1898 - 1968). Выдающийся военачальник Великой Отечественной войны. Один из мастеров высочайшего класса по организации артиллерийского наступления",
+    "memorial": "plaque",
+    "name": "В. И. Казакову"
+  }
+},
+{
+  "type": "node",
+  "id": 13807267201,
+  "lat": 59.8346847,
+  "lon": 30.2050873,
+  "timestamp": "2026-05-07T23:14:15Z",
+  "version": 1,
+  "changeset": 182359955,
+  "user": "Hfuhhffhbhi",
+  "uid": 22144515,
+  "tags": {
+    "addr:housenumber": "99",
+    "addr:postcode": "198261",
+    "addr:street": "проспект Ветеранов",
+    "name": "Дом В. Цоя (1984-1987)",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 31729841,
+  "timestamp": "2026-09-10T14:43:35Z",
+  "version": 23,
+  "changeset": 188829016,
+  "user": "Vladisl0ve",
+  "uid": 23823691,
+  "center": {
+    "lat": 59.8464029,
+    "lon": 30.1243349
+  },
+  "nodes": [
+    355001911,
+    355001913,
+    2195544793,
+    2195544794,
+    2195544792,
+    2195544791,
+    355001915,
+    355001916,
+    355001911
+  ],
+  "tags": {
+    "addr:housenumber": "19",
+    "addr:street": "улица Чекистов",
+    "alt_name": "Усадьба Миниха",
+    "building": "yes",
+    "building:levels": "2",
+    "historic": "building",
+    "int_name": "House and estate of Münnich",
+    "name": "Дача Миниха",
+    "roof:shape": "hipped",
+    "source": "http://kulturnoe-nasledie.ru/monuments.php?id=7810258001",
+    "tourism": "attraction",
+    "wikidata": "Q67219576",
+    "wikipedia": "ru:Дача Миниха"
+  }
+},
+{
+  "type": "way",
+  "id": 77361127,
+  "timestamp": "2024-09-10T16:55:05Z",
+  "version": 31,
+  "changeset": 156449719,
+  "user": "Kaverzin3",
+  "uid": 381925,
+  "center": {
+    "lat": 59.8387910,
+    "lon": 30.1635827
+  },
+  "nodes": [
+    910635271,
+    9170432867,
+    910635273,
+    910635274,
+    6040409270,
+    7217181412,
+    7217181411,
+    6040409271,
+    6040409272,
+    6040409273,
+    910635276,
+    6040409274,
+    910635277,
+    930208409,
+    930208525,
+    930208527,
+    10861124661,
+    930208436,
+    2463438630,
+    10861124837,
+    10861125024,
+    7217181419,
+    910635279,
+    7217181417,
+    7217181418,
+    10861125032,
+    10861124844,
+    10861124843,
+    910635280,
+    910635281,
+    910635282,
+    2463438648,
+    2463438649,
+    910635283,
+    910635284,
+    910635285,
+    910635290,
+    910635291,
+    2463438660,
+    910635295,
+    2463438663,
+    2463438665,
+    1899558317,
+    2023073798,
+    2023073800,
+    2023073804,
+    2023073806,
+    2023073814,
+    2023073812,
+    2023073816,
+    9170432868,
+    910635299,
+    6580376654,
+    9264948568,
+    9264948567,
+    910635271
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Нижне-Ивановский сквер"
+  }
+},
+{
+  "type": "way",
+  "id": 77363698,
+  "timestamp": "2023-10-20T21:40:08Z",
+  "version": 30,
+  "changeset": 142896160,
+  "user": "VovanWing",
+  "uid": 14231853,
+  "center": {
+    "lat": 59.8342073,
+    "lon": 30.1689965
+  },
+  "nodes": [
+    910662644,
+    910662645,
+    3814255892,
+    3814255897,
+    910662646,
+    910662648,
+    910662650,
+    910662651,
+    910662652,
+    910662654,
+    11278358533,
+    930208532,
+    910662667,
+    1709906168,
+    910662655,
+    9300603207,
+    9300603206,
+    910662657,
+    7217181423,
+    7217181422,
+    910662658,
+    7217181424,
+    9300603192,
+    9300603215,
+    910662644
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Егоровский сквер",
+    "name:ru": "Егоровский сквер"
+  }
+},
+{
+  "type": "way",
+  "id": 119225860,
+  "timestamp": "2024-04-17T13:04:40Z",
+  "version": 22,
+  "changeset": 150128801,
+  "user": "Soshal Distan Singh",
+  "uid": 11327915,
+  "center": {
+    "lat": 59.8610290,
+    "lon": 30.2595221
+  },
+  "nodes": [
+    1340264392,
+    1340264397,
+    11824747768,
+    11231047358,
+    11231047357,
+    11231047356,
+    11231047359,
+    1340264390,
+    11231047361,
+    1340264378,
+    11231047360,
+    1340264392
+  ],
+  "tags": {
+    "addr:city": "Санкт-Петербург",
+    "addr:housenumber": "106 соор1",
+    "addr:postcode": "198207",
+    "addr:street": "проспект Стачек",
+    "building": "bunker",
+    "building:levels": "1",
+    "bunker_type": "pillbox",
+    "description": "Объект культурного наследия.",
+    "historic": "memorial",
+    "memorial": "war_memorial",
+    "military": "bunker",
+    "name": "Кировский вал"
+  }
+},
+{
+  "type": "way",
+  "id": 121506085,
+  "timestamp": "2023-09-16T23:10:34Z",
+  "version": 21,
+  "changeset": 141361523,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "center": {
+    "lat": 59.8127487,
+    "lon": 30.2950061
+  },
+  "nodes": [
+    1360039328,
+    1360039318,
+    1360039306,
+    1360039313,
+    1360039323,
+    1360039325,
+    1360039327,
+    1360039328
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "сквер Викентия Грязнова",
+    "name:etymology:wikidata": "Q4151112"
+  }
+},
+{
+  "type": "way",
+  "id": 154855800,
+  "timestamp": "2025-03-30T02:57:49Z",
+  "version": 8,
+  "changeset": 164271689,
+  "user": "Soshal Distan Singh",
+  "uid": 11327915,
+  "center": {
+    "lat": 59.8496782,
+    "lon": 30.1058420
+  },
+  "nodes": [
+    1673213285,
+    2272820469,
+    1673213281,
+    2272820461,
+    9315869129,
+    1673213278,
+    1673213275,
+    9150229573,
+    9150229574,
+    1673213258,
+    9315865528,
+    9315865529,
+    1673213252,
+    9316852637,
+    1673213251,
+    9316852636,
+    1673213243,
+    1673213245,
+    1673213285
+  ],
+  "tags": {
+    "access": "yes",
+    "leisure": "park",
+    "name": "сквер Генерала Духанова",
+    "name:etymology": "Генерал-лейтенант Михаил Павлович Духанов",
+    "name:etymology:wikidata": "Q4171258",
+    "name:etymology:wikipedia": "ru:Духанов, Михаил Павлович"
+  }
+},
+{
+  "type": "way",
+  "id": 161617092,
+  "timestamp": "2024-09-12T19:27:33Z",
+  "version": 2,
+  "changeset": 156543544,
+  "user": "s777n",
+  "uid": 615344,
+  "center": {
+    "lat": 59.8204238,
+    "lon": 30.2909084
+  },
+  "nodes": [
+    1735909400,
+    1735909401,
+    1735909398,
+    1735909395,
+    1735909393,
+    1735909388,
+    1735909387,
+    1735909392,
+    1735909391,
+    1735909389,
+    1735909390,
+    1735909394,
+    1735909399,
+    1735909396,
+    1735909397,
+    1735909402,
+    1735909403,
+    1735909400
+  ],
+  "tags": {
+    "aircraft:type": "military",
+    "historic": "aircraft",
+    "model": "МиГ-31",
+    "model:wikidata": "Q150050",
+    "model:wikipedia": "ru:МиГ-31",
+    "name": "МиГ-31",
+    "name:ru": "МиГ-31",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 209346465,
+  "timestamp": "2026-02-19T14:40:07Z",
+  "version": 19,
+  "changeset": 178775905,
+  "user": "ComradeSukhov",
+  "uid": 9059129,
+  "center": {
+    "lat": 59.8279685,
+    "lon": 30.2498460
+  },
+  "nodes": [
+    2195687270,
+    2430613981,
+    2430613980,
+    2430613978,
+    2430613977,
+    2430613976,
+    2430613975,
+    2430613973,
+    2430613974,
+    2195687265,
+    2195687267,
+    2195687261,
+    2430613979,
+    2195687263,
+    2195687259,
+    2195687257,
+    2195687254,
+    2195687256,
+    2195687251,
+    2430613982,
+    2430613985,
+    2430613984,
+    2430613983,
+    2430613986,
+    2430613988,
+    2430613992,
+    2430613991,
+    2430613990,
+    2430613998,
+    2430614006,
+    2430614008,
+    2430614009,
+    2430614012,
+    2430614011,
+    2430614010,
+    2430614007,
+    2430614005,
+    2430614001,
+    2430614002,
+    2430614004,
+    2430614003,
+    2430614000,
+    2430613995,
+    2430613996,
+    2430613999,
+    2430613997,
+    2430613994,
+    2430613993,
+    2430613987,
+    2430613989,
+    2195687270
+  ],
+  "tags": {
+    "building": "yes",
+    "building:levels": "1",
+    "building:material": "metal",
+    "height": "16",
+    "layer": "1",
+    "name": "Ил-86",
+    "ref": "RA-86106",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 218510379,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 18,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "center": {
+    "lat": 59.8623484,
+    "lon": 30.2859768
+  },
+  "nodes": [
+    2277461501,
+    7658609622,
+    2277461502,
+    7658609623,
+    2277461500,
+    7658609621,
+    7658692549,
+    7658692548,
+    2277461501
+  ],
+  "tags": {
+    "building": "bunker",
+    "bunker_type": "pillbox",
+    "historic": "memorial",
+    "memorial": "war_memorial",
+    "military": "bunker",
+    "name": "ДОТ №127",
+    "name:uk": "ДОТ №127",
+    "ref:egrkn": "781510331730785",
+    "start_date": "1943",
+    "url": "http://www.lendot.ru/ru/documents/objects/dot127/"
+  }
+},
+{
+  "type": "way",
+  "id": 341370979,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 23,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "center": {
+    "lat": 59.8550086,
+    "lon": 30.2818281
+  },
+  "nodes": [
+    3485653441,
+    3485653439,
+    3485653437,
+    3485653440,
+    7663380436,
+    3485653441
+  ],
+  "tags": {
+    "building": "yes",
+    "building:levels": "1",
+    "building:material": "concrete",
+    "bunker_type": "pillbox",
+    "historic": "memorial",
+    "military": "bunker",
+    "name": "Дот №988 рубежа \"Ижора\"",
+    "name:uk": "Дот №988 рубежу \"Іжора\"",
+    "roof:shape": "flat"
+  }
+},
+{
+  "type": "way",
+  "id": 519624274,
+  "timestamp": "2024-04-17T12:38:52Z",
+  "version": 21,
+  "changeset": 150127725,
+  "user": "Soshal Distan Singh",
+  "uid": 11327915,
+  "center": {
+    "lat": 59.8635890,
+    "lon": 30.2622044
+  },
+  "nodes": [
+    5066388091,
+    11231031532,
+    5066388092,
+    11231031531,
+    5066388093,
+    5066388094,
+    11231031530,
+    11231031533,
+    5066388091
+  ],
+  "tags": {
+    "building": "bunker",
+    "building:levels": "1",
+    "bunker_type": "pillbox",
+    "description": "Объект культурного наследия.",
+    "historic": "memorial",
+    "memorial": "war_memorial",
+    "military": "bunker",
+    "name": "ДОТ № 108 рубежа «Ижора»",
+    "start_date": "1943"
+  }
+},
+{
+  "type": "way",
+  "id": 692406919,
+  "timestamp": "2025-12-28T17:18:06Z",
+  "version": 16,
+  "changeset": 176539993,
+  "user": "Kaverzin3",
+  "uid": 381925,
+  "center": {
+    "lat": 59.8381220,
+    "lon": 30.1177480
+  },
+  "nodes": [
+    4603827282,
+    5282183905,
+    4603827270,
+    9160823368,
+    10571345695,
+    3137156819,
+    9183594389,
+    9160823369,
+    6499614594,
+    9445736492,
+    6499614591,
+    6499614592,
+    6499614593,
+    9501235871,
+    8143204676,
+    9501235865,
+    9445736505,
+    12917724146,
+    9501235872,
+    9148666969,
+    9288900422,
+    9160823344,
+    9160823345,
+    9288900438,
+    4603827282
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "сквер Комиссара Грушко"
+  }
+},
+{
+  "type": "way",
+  "id": 821141986,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 16,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "center": {
+    "lat": 59.8589536,
+    "lon": 30.2896664
+  },
+  "nodes": [
+    7667117408,
+    7667117399,
+    7667117407,
+    7667117398,
+    7667117406,
+    7667117405,
+    7667117400,
+    7667117401,
+    7667117402,
+    7667117403,
+    7667117404,
+    7667117408
+  ],
+  "tags": {
+    "building": "yes",
+    "building:levels": "1",
+    "bunker_type": "pillbox",
+    "historic": "memorial",
+    "military": "bunker",
+    "name": "ДОТ №95",
+    "name:uk": "ДОТ №95",
+    "url": "http://www.lendot.ru/ru/documents/objects/dot95/"
+  }
+},
+{
+  "type": "way",
+  "id": 1002076982,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 11,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "center": {
+    "lat": 59.8460172,
+    "lon": 30.1794515
+  },
+  "nodes": [
+    9248631480,
+    9248631481,
+    9248631482,
+    9248631483,
+    9248631491,
+    2475199359,
+    9248631484,
+    9248631480
+  ],
+  "tags": {
+    "historic": "memorial",
+    "inscription": "Здесь проходил передний край обороны Ленинграда в Великой Отечественной войне 1941-1945 годов.",
+    "material": "concrete",
+    "memorial": "stele",
+    "name": "Мемориал в память обороны города \"Стелла и якорь\"",
+    "start_date": "1966",
+    "wikidata": "Q4221639",
+    "wikipedia": "ru:Кировский вал"
+  }
+},
+{
+  "type": "way",
+  "id": 1006790808,
+  "timestamp": "2026-03-10T14:11:51Z",
+  "version": 20,
+  "changeset": 179641535,
+  "user": "Константин Гам",
+  "uid": 392109,
+  "center": {
+    "lat": 59.8413842,
+    "lon": 30.1372912
+  },
+  "nodes": [
+    9288603187,
+    9288603189,
+    9288603190,
+    9288603191,
+    9288603200,
+    10676389431,
+    9288603192,
+    9211170286,
+    9211170285,
+    9933093085,
+    9288603194,
+    9288603195,
+    9288603198,
+    9288603199,
+    9288603185,
+    9288603186,
+    9288603187
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "сквер Михаила Ашика",
+    "opening_hours": "24/7"
+  }
+},
+{
+  "type": "way",
+  "id": 1097095771,
+  "timestamp": "2024-12-09T20:34:23Z",
+  "version": 5,
+  "changeset": 160105782,
+  "user": "ComradeSukhov",
+  "uid": 9059129,
+  "center": {
+    "lat": 59.8143648,
+    "lon": 30.1839611
+  },
+  "nodes": [
+    10045875020,
+    10045875021,
+    10045875022,
+    10045875023,
+    10045875019,
+    10045875020
+  ],
+  "tags": {
+    "building": "bunker",
+    "contact:phone": "+7 952 3985991",
+    "contact:vk": "https://vk.com/club12288109",
+    "contact:website": "http://a-n.cerkov.ru/muzej-dot",
+    "description": "Музей открыт для посещения с экскурсионной программой по воскресеньям после Божественной Литургии (с 12.00 до 14.00). В будние дни экскурсии проводятся по предварительному согласованию.",
+    "museum": "military",
+    "name": "Музей-ДОТ",
+    "opening_hours": "Su 12:00-14:00 || \"by appointment\"",
+    "operator": "Православный приход церкви святых мучеников Адриана и Наталии",
+    "operator:type": "religious",
+    "start_date": "2015-05-07",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 1097601660,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 12,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "center": {
+    "lat": 59.8248344,
+    "lon": 30.2075871
+  },
+  "nodes": [
+    10050065078,
+    10050065077,
+    10050065076,
+    10050065075,
+    10050065078
+  ],
+  "tags": {
+    "historic": "memorial",
+    "memorial": "sculpture",
+    "name": "300-летию Российского флота"
+  }
+},
+{
+  "type": "way",
+  "id": 1102614405,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 11,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "center": {
+    "lat": 59.8456762,
+    "lon": 30.2160832
+  },
+  "nodes": [
+    10089734145,
+    10089734143,
+    10089734144,
+    872842894,
+    10089734145
+  ],
+  "tags": {
+    "description": "На этом месте рабочими Кировского завода было построено оборонительное сооружение 2-го эшелона передней линии обороны Ленинграда.",
+    "historic": "memorial",
+    "inscription": "Слава защитникам города Ленинграда 1941 - 1944",
+    "material": "stone",
+    "memorial": "obelisk",
+    "name": "Слава защитникам Ленинграда"
+  }
+},
+{
+  "type": "way",
+  "id": 1197496092,
+  "timestamp": "2025-08-02T22:28:16Z",
+  "version": 19,
+  "changeset": 169882486,
+  "user": "VovanWing",
+  "uid": 14231853,
+  "center": {
+    "lat": 59.8293750,
+    "lon": 30.1636708
+  },
+  "nodes": [
+    6040417564,
+    6040417570,
+    6040417569,
+    6040417568,
+    6040417567,
+    6040417566,
+    9890706560,
+    9890706566,
+    9890706652,
+    2309936793,
+    2309936795,
+    9890706567,
+    3847512444,
+    3847512446,
+    3847512425,
+    3847512426,
+    3847512412,
+    9890706651,
+    9890706650,
+    9890706649,
+    9890706602,
+    9890706603,
+    9890706604,
+    590553289,
+    9890706605,
+    9890706594,
+    9215019038,
+    3847515236,
+    910613119,
+    9215019029,
+    9215019025,
+    9215019015,
+    9215019012,
+    9215019014,
+    6040417554,
+    6040417553,
+    6040417552,
+    3847513838,
+    3847513851,
+    6040417549,
+    6040417548,
+    6040417564
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Верхне-Ивановский сквер"
+  }
+},
+{
+  "type": "way",
+  "id": 1272198906,
+  "timestamp": "2024-04-13T12:54:59Z",
+  "version": 1,
+  "changeset": 149950447,
+  "user": "м1т",
+  "uid": 3765990,
+  "center": {
+    "lat": 59.8460670,
+    "lon": 30.1737560
+  },
+  "nodes": [
+    11813658061,
+    11813658062
+  ],
+  "tags": {
+    "artwork_type": "installation",
+    "name": "Красносельский район",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "way",
+  "id": 1272198907,
+  "timestamp": "2024-04-13T12:54:59Z",
+  "version": 1,
+  "changeset": 149950447,
+  "user": "м1т",
+  "uid": 3765990,
+  "center": {
+    "lat": 59.8251176,
+    "lon": 30.1875966
+  },
+  "nodes": [
+    11813658063,
+    11813658064,
+    11813658065
+  ],
+  "tags": {
+    "artwork_type": "installation",
+    "name": "Кировский район",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "way",
+  "id": 1273249172,
+  "timestamp": "2024-04-17T04:50:39Z",
+  "version": 1,
+  "changeset": 150109586,
+  "user": "Soshal Distan Singh",
+  "uid": 11327915,
+  "center": {
+    "lat": 59.8658042,
+    "lon": 30.2597069
+  },
+  "nodes": [
+    11823821287,
+    11823821288,
+    11823821289,
+    11823821290,
+    11823821291,
+    11823821292,
+    11823821293,
+    11823821294,
+    2208937054,
+    11823821295,
+    11823821296,
+    11823821297,
+    11823821298,
+    11823821287
+  ],
+  "tags": {
+    "building": "bunker",
+    "building:levels": "1",
+    "bunker_type": "pillbox",
+    "contact:phone": "+7 931 2736471",
+    "contact:vk": "https://vk.com/club69448072",
+    "description": "ДОТ № 112 рубежа «Ижора». Объект культурного наследия.",
+    "military": "bunker",
+    "museum": "history",
+    "name": "Одноамбразурная пулемётная долговременная огневая точка",
+    "opening_hours": "Sa[3] 11:00-16:00",
+    "operator": "Поисковый отряд «Проводник»",
+    "start_date": "1943",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 1311710378,
+  "timestamp": "2025-04-03T08:10:17Z",
+  "version": 2,
+  "changeset": 164452158,
+  "user": "Константин Гам",
+  "uid": 392109,
+  "center": {
+    "lat": 59.8331976,
+    "lon": 30.2541187
+  },
+  "nodes": [
+    12141595405,
+    12141595406,
+    12141595407,
+    12141595408,
+    12141595415,
+    12141595420,
+    12141595419,
+    12141595418,
+    12141595417,
+    12141595416,
+    12141595405
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "сквер Ополченцев-Кировцев"
+  }
+},
+{
+  "type": "relation",
+  "id": 1980423,
+  "timestamp": "2023-09-16T23:59:15Z",
+  "version": 29,
+  "changeset": 141362250,
+  "user": "Fizzie-DWG",
+  "uid": 461130,
+  "center": {
+    "lat": 59.8369318,
+    "lon": 30.1933801
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 944326249,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 37870480,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 963628262,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 944326261,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 121308308,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 963628260,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 963628257,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 963628258,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 963628255,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Полежаевский парк",
+    "name:en": "Polezhaevsky Park",
+    "name:fr": "Parc Polezhayevskiy",
+    "opening_hours": "24/7",
+    "source": "RGis",
+    "type": "multipolygon",
+    "wikidata": "Q4369708",
+    "wikipedia": "ru:Полежаевский парк"
+  }
+},
+{
+  "type": "relation",
+  "id": 2278181,
+  "timestamp": "2025-03-05T07:13:41Z",
+  "version": 57,
+  "changeset": 163231156,
+  "user": "asdfwqer",
+  "uid": 20626553,
+  "center": {
+    "lat": 59.8370392,
+    "lon": 30.2271878
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 1102626542,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1102626541,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1102839812,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1102839811,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1102655101,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1102655100,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1102655099,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 171355999,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1104934286,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1104934285,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1104934321,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1102626537,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1102626538,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1102614416,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1102626534,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1102626530,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1102626540,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1102626521,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1102626519,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1102626518,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 171355992,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 127721231,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 394710535,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "парк Александрино",
+    "opening_hours": "24/7",
+    "type": "multipolygon",
+    "wikidata": "Q18121494",
+    "wikipedia": "ru:Александрино (парк)"
+  }
+},
+{
+  "type": "relation",
+  "id": 3365494,
+  "timestamp": "2024-02-18T22:17:14Z",
+  "version": 24,
+  "changeset": 147627044,
+  "user": "trolleway",
+  "uid": 397326,
+  "center": {
+    "lat": 59.8467567,
+    "lon": 30.2378760
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 250516848,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 77347799,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Воронцовский сквер",
+    "name:etymology:wikidata": "Q4125775",
+    "type": "multipolygon",
+    "wikidata": "Q16631819"
+  }
+},
+{
+  "type": "relation",
+  "id": 9289244,
+  "timestamp": "2023-09-16T23:59:15Z",
+  "version": 23,
+  "changeset": 141362250,
+  "user": "Fizzie-DWG",
+  "uid": 461130,
+  "center": {
+    "lat": 59.8650876,
+    "lon": 30.2610466
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 173818651,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 181616551,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "сквер Петра Семененко",
+    "ref": "5081",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 11000398,
+  "timestamp": "2023-09-16T23:59:15Z",
+  "version": 24,
+  "changeset": 141362250,
+  "user": "Fizzie-DWG",
+  "uid": 461130,
+  "center": {
+    "lat": 59.8375391,
+    "lon": 30.2475257
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 792195393,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 792195381,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 792195380,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 792195379,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 792195382,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 792195383,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 792195384,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 792195385,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 792195386,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 463871381,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 792195390,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 792195388,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 792195389,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 792195391,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 792195394,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 792195395,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 344741001,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 28956540,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 792195373,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 792195372,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 792195375,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Шереметьевский сквер",
+    "ref": "5127",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 11014441,
+  "timestamp": "2023-09-16T23:59:15Z",
+  "version": 24,
+  "changeset": 141362250,
+  "user": "Fizzie-DWG",
+  "uid": 461130,
+  "center": {
+    "lat": 59.8306634,
+    "lon": 30.1329583
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 31798288,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1024673909,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 440819507,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "парк Сосновая Поляна",
+    "opening_hours": "24/7",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 12737077,
+  "timestamp": "2023-09-16T23:59:15Z",
+  "version": 26,
+  "changeset": 141362250,
+  "user": "Fizzie-DWG",
+  "uid": 461130,
+  "center": {
+    "lat": 59.8337293,
+    "lon": 30.1735782
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 945182018,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 943911243,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 945182019,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 945182034,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 945182033,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 945182036,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 945182031,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 945182030,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 945182026,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 945182021,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 945182020,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 945182025,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 158853883,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Раевский сквер",
+    "name:ru": "Раевский сквер",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 12943845,
+  "timestamp": "2025-08-23T20:10:35Z",
+  "version": 35,
+  "changeset": 170898193,
+  "user": "Atalanttore",
+  "uid": 291453,
+  "center": {
+    "lat": 59.8525245,
+    "lon": 30.1674193
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 963685878,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 963685879,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 963685877,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 963685875,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 963685874,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 963685872,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 963685871,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 963685870,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 963685840,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 964968710,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 964968709,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 964627629,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 964627628,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 964627620,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 964627619,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 963685820,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 964627661,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 964627657,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 964627653,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 964627643,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 964627655,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 964627647,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 964627648,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 964627646,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1156156319,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 963685819,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 964640092,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 964640091,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 963685782,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 963685796,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 963685794,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 963685793,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 963685801,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 963685792,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 963685791,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 352468836,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 963685816,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 964928781,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 113927928,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 964928782,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 963685829,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 963685882,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 963685835,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 963685880,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Южно-Приморский парк",
+    "name:de": "Südlicher Küstenpark",
+    "name:en": "South Seaside Park",
+    "name:ru": "Южно-Приморский парк",
+    "old_name": "Южно-Приморский парк им. В. И. Ленина",
+    "opening_hours": "24/7",
+    "source:name": "RGis",
+    "type": "multipolygon",
+    "wikidata": "Q4533978",
+    "wikipedia": "ru:Южно-Приморский парк"
+  }
+},
+{
+  "type": "relation",
+  "id": 12943853,
+  "timestamp": "2023-09-16T23:25:51Z",
+  "version": 17,
+  "changeset": 141361808,
+  "user": "Bloodmage",
+  "uid": 149719,
+  "center": {
+    "lat": 59.8480093,
+    "lon": 30.1727349
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 963685905,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 962975641,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "historic": "memorial",
+    "material": "stone",
+    "memorial": "war_memorial",
+    "name": "60 лет Победы",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 15879393,
+  "timestamp": "2023-09-16T23:10:34Z",
+  "version": 18,
+  "changeset": 141361523,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "center": {
+    "lat": 59.8352563,
+    "lon": 30.1587939
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 998013054,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1174462763,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1174462766,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1174462762,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1174462765,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1174462761,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1174462764,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1174462775,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 995942831,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1174462774,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1174462772,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1174462771,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1174462760,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1174462770,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1174462777,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1174462759,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1174462768,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 995942828,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 995942827,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "сквер Владимира Шалимова",
+    "ref": "8003",
+    "source:geometry:ref": "Постановление Правительства Санкт-Петербурга № 434 от 15.05.2023",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 16463657,
+  "timestamp": "2023-10-10T04:47:11Z",
+  "version": 1,
+  "changeset": 142374570,
+  "user": "Soshal Distan Singh",
+  "uid": 11327915,
+  "center": {
+    "lat": 59.8256136,
+    "lon": 30.1871909
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 1214454981,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1043757427,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 126823692,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1043757426,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 171976763,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "сквер «Передний Край Обороны»",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 16533075,
+  "timestamp": "2024-11-20T09:46:40Z",
+  "version": 3,
+  "changeset": 159357987,
+  "user": "Soshal Distan Singh",
+  "uid": 11327915,
+  "center": {
+    "lat": 59.8343465,
+    "lon": 30.1684838
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 991547201,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1217205743,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 1217205746,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 1217205747,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "area:highway": "footway",
+    "historic": "memorial",
+    "material": "granite",
+    "memorial": "war_memorial",
+    "memorial:conflict": "WW2",
+    "name": "Урицкий Рубеж",
+    "start_date": "2020",
+    "surface": "paving_stones",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 17482754,
+  "timestamp": "2024-04-17T13:46:45Z",
+  "version": 1,
+  "changeset": 150130959,
+  "user": "Soshal Distan Singh",
+  "uid": 11327915,
+  "center": {
+    "lat": 59.8602420,
+    "lon": 30.2576701
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 153341606,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 153341605,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 153341603,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 317365123,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Ленинградский сквер",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 19027233,
+  "timestamp": "2025-04-24T21:23:59Z",
+  "version": 2,
+  "changeset": 165398844,
+  "user": "VovanWing",
+  "uid": 14231853,
+  "center": {
+    "lat": 59.8442478,
+    "lon": 30.1528111
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 31798301,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Новознаменка",
+    "old_name": "парк Литания;Парк усадьбы Демидова-Эбсворта;парк дачи Эбсворта «Литания»;парк «Ленфильма»",
+    "opening_hours": "24/7"
+  }
+},
+{
+  "type": "relation",
+  "id": 19027234,
+  "timestamp": "2025-04-23T23:21:16Z",
+  "version": 1,
+  "changeset": 165355124,
+  "user": "Soshal Distan Singh",
+  "uid": 11327915,
+  "center": {
+    "lat": 59.8473027,
+    "lon": 30.1302949
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 277864330,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 134146030,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 31798301,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 166340036,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1009755799,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 113771173,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 123177610,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "парк Новознаменка",
+    "opening_hours": "24/7",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 21162326,
+  "timestamp": "2026-07-29T17:16:39Z",
+  "version": 1,
+  "changeset": 186598220,
+  "user": "mini-me",
+  "uid": 3846961,
+  "center": {
+    "lat": 59.8680714,
+    "lon": 30.3003493
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 1540281968,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Парк Авиаторов",
+    "name:en": "Aviatorov Park",
+    "type": "multipolygon",
+    "wikidata": "Q4345211",
+    "wikipedia": "ru:Парк Авиаторов (Санкт-Петербург)"
+  }
+}
+
+  ]
+}

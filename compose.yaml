@@ -1,0 +1,40 @@
+services:
+  backend:
+    build:
+      context: .
+    # The hashed runtime lock is validated for this platform only.
+    platform: linux/amd64
+    image: smartnavigator-backend:local
+    env_file:
+      - path: .env
+        required: false
+    environment:
+      BACKEND_ENV: production
+      HOST: 0.0.0.0
+      PORT: "8000"
+      WORKERS: "1"
+      RELOAD: "false"
+      DATABASE_URL: sqlite+aiosqlite:////data/smart_navigator_spb.db
+    # A reverse proxy on this host provides HTTPS; no public bind by default.
+    ports:
+      - "127.0.0.1:8000:8000"
+    volumes:
+      - backend-data:/data
+    read_only: true
+    tmpfs:
+      - /tmp:rw,noexec,nosuid,size=16m,mode=1777
+    init: true
+    cap_drop:
+      - ALL
+    security_opt:
+      - no-new-privileges:true
+    restart: unless-stopped
+    stop_grace_period: 20s
+    logging:
+      driver: json-file
+      options:
+        max-size: "10m"
+        max-file: "3"
+
+volumes:
+  backend-data:

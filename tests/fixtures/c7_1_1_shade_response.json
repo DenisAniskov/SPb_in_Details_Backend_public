@@ -1,0 +1,795 @@
+{
+  "_provenance": "C7.1.1 contract fixture: real response of the production wiring (committed pilot dataset c7_1_pilot_v1, shade_engine_c7_1_time_aware_2.5d_noaa method_version c7_1.2) for the real gostiny_dvor_arcade route at 2026-07-01T14:00:00+03:00. Regenerate with backend/scripts/extract_c7_1_1_response_fixture.py. Model output, not a field measurement.",
+  "response": {
+    "status": "available",
+    "method": "shade_engine_c7_1_time_aware_2.5d_noaa",
+    "method_version": "c7_1.2",
+    "estimate": true,
+    "evaluated_period": {
+      "start": "2026-07-01T14:00:00+03:00",
+      "end": "2026-07-01T15:00:00+03:00",
+      "timezone": "+03:00"
+    },
+    "dataset_version": "c7_1_pilot_v1",
+    "dataset_provenance": "OpenStreetMap (ODbL 1.0, © OpenStreetMap contributors), снимок 2026-10-11, датасет c7_1_pilot_v1, пилотные зоны: admiralteysky, centre_nevsky, centre_palace, control_kupchino, petrogradsky, vasileostrovsky. Высоты: OSM height=* и оценка по building:levels × 3.3 м; здания без высоты тень не отбрасывают и учитываются отдельно.",
+    "solar_summary": {
+      "min_elevation_deg": 47.92,
+      "max_elevation_deg": 51.36,
+      "min_azimuth_deg": 204.84,
+      "max_azimuth_deg": 221.82,
+      "bucket_count": 6
+    },
+    "route_length_meters": 997.6,
+    "estimated_shaded_meters": 997.6,
+    "estimated_exposed_meters": 0.0,
+    "unknown_meters": 0.0,
+    "shade_fraction": 1.0,
+    "confidence": "medium",
+    "confidence_reason": null,
+    "coverage_metrics": {
+      "dataset_zones_touched": [
+        "centre_nevsky"
+      ],
+      "outside_coverage_meters": 0.0,
+      "coverage_share": 1.0
+    },
+    "height_provenance_metrics": {
+      "externally_verified": 0,
+      "osm_declared": 0,
+      "levels_estimate": 56,
+      "unavailable": 27,
+      "buildings_considered": 83
+    },
+    "weather_relevance": "unknown",
+    "weather_relevance_explanation": "Облачность неизвестна; оценка тени не уточнена по погоде.",
+    "limitations": [
+      "Результат — ОЦЕНКА по доступной геометрии зданий, а не измерение тени на месте.",
+      "Модель 2.5D: здания — вертикальные призмы с плоской крышей на плоской земле; форма крыш, рельеф, деревья, навесы и прозрачные конструкции не учитываются.",
+      "Время ходьбы распределяется по геометрии этапа пропорционально длине: реальная скорость пешехода может отличаться.",
+      "Каждый участок прогулки (≈40 м РЕАЛЬНОЙ геометрии, включая её повороты) классифицируется в момент своей середины; положение Солнца берётся с шагом 10 минут, а границы теневых полос — измеренные, а не усреднённые по участку.",
+      "Зданий без известной высоты в области расчёта: 27 — их возможная тень отнесена к «неизвестно» (конверт 40 м).",
+      "Ни одна высота не подтверждена внешним источником: уровень достоверности ограничен «medium» (§9)."
+    ],
+    "classified_segments": [
+      {
+        "leg_index": 0,
+        "geometry": [
+          {
+            "latitude": 59.9340976,
+            "longitude": 30.3337161
+          },
+          {
+            "latitude": 59.934186,
+            "longitude": 30.3330219
+          }
+        ],
+        "length_meters": 39.9,
+        "shaded_meters": 39.9,
+        "unknown_meters": 0.0,
+        "state": "estimated_shaded",
+        "starts_at_seconds": 0.0,
+        "ends_at_seconds": 144.0,
+        "shaded_spans": [
+          [
+            0.0,
+            39.9
+          ]
+        ],
+        "unknown_spans": []
+      },
+      {
+        "leg_index": 0,
+        "geometry": [
+          {
+            "latitude": 59.934186,
+            "longitude": 30.3330219
+          },
+          {
+            "latitude": 59.9342622,
+            "longitude": 30.3324236
+          },
+          {
+            "latitude": 59.9342745,
+            "longitude": 30.3323277
+          }
+        ],
+        "length_meters": 39.9,
+        "shaded_meters": 39.9,
+        "unknown_meters": 0.0,
+        "state": "estimated_shaded",
+        "starts_at_seconds": 144.0,
+        "ends_at_seconds": 288.0,
+        "shaded_spans": [
+          [
+            0.0,
+            39.9
+          ]
+        ],
+        "unknown_spans": []
+      },
+      {
+        "leg_index": 0,
+        "geometry": [
+          {
+            "latitude": 59.9342745,
+            "longitude": 30.3323277
+          },
+          {
+            "latitude": 59.9343639,
+            "longitude": 30.331634
+          }
+        ],
+        "length_meters": 39.9,
+        "shaded_meters": 39.9,
+        "unknown_meters": 0.0,
+        "state": "estimated_shaded",
+        "starts_at_seconds": 288.0,
+        "ends_at_seconds": 432.0,
+        "shaded_spans": [
+          [
+            0.0,
+            39.9
+          ]
+        ],
+        "unknown_spans": []
+      },
+      {
+        "leg_index": 0,
+        "geometry": [
+          {
+            "latitude": 59.9343639,
+            "longitude": 30.331634
+          },
+          {
+            "latitude": 59.9344533,
+            "longitude": 30.3309403
+          }
+        ],
+        "length_meters": 39.9,
+        "shaded_meters": 39.9,
+        "unknown_meters": 0.0,
+        "state": "estimated_shaded",
+        "starts_at_seconds": 432.0,
+        "ends_at_seconds": 576.0,
+        "shaded_spans": [
+          [
+            0.0,
+            39.9
+          ]
+        ],
+        "unknown_spans": []
+      },
+      {
+        "leg_index": 0,
+        "geometry": [
+          {
+            "latitude": 59.9344533,
+            "longitude": 30.3309403
+          },
+          {
+            "latitude": 59.9344799,
+            "longitude": 30.3307335
+          },
+          {
+            "latitude": 59.93449,
+            "longitude": 30.3306543
+          },
+          {
+            "latitude": 59.9344826,
+            "longitude": 30.3305953
+          },
+          {
+            "latitude": 59.9344678,
+            "longitude": 30.3305537
+          },
+          {
+            "latitude": 59.9343383,
+            "longitude": 30.330384
+          }
+        ],
+        "length_meters": 39.9,
+        "shaded_meters": 39.9,
+        "unknown_meters": 0.0,
+        "state": "estimated_shaded",
+        "starts_at_seconds": 576.0,
+        "ends_at_seconds": 720.0,
+        "shaded_spans": [
+          [
+            0.0,
+            39.9
+          ]
+        ],
+        "unknown_spans": []
+      },
+      {
+        "leg_index": 0,
+        "geometry": [
+          {
+            "latitude": 59.9343383,
+            "longitude": 30.330384
+          },
+          {
+            "latitude": 59.9340384,
+            "longitude": 30.3299908
+          }
+        ],
+        "length_meters": 39.9,
+        "shaded_meters": 39.9,
+        "unknown_meters": 0.0,
+        "state": "estimated_shaded",
+        "starts_at_seconds": 720.0,
+        "ends_at_seconds": 864.0,
+        "shaded_spans": [
+          [
+            0.0,
+            39.9
+          ]
+        ],
+        "unknown_spans": []
+      },
+      {
+        "leg_index": 0,
+        "geometry": [
+          {
+            "latitude": 59.9340384,
+            "longitude": 30.3299908
+          },
+          {
+            "latitude": 59.9337384,
+            "longitude": 30.3295975
+          }
+        ],
+        "length_meters": 39.9,
+        "shaded_meters": 39.9,
+        "unknown_meters": 0.0,
+        "state": "estimated_shaded",
+        "starts_at_seconds": 864.0,
+        "ends_at_seconds": 1008.0,
+        "shaded_spans": [
+          [
+            0.0,
+            39.9
+          ]
+        ],
+        "unknown_spans": []
+      },
+      {
+        "leg_index": 0,
+        "geometry": [
+          {
+            "latitude": 59.9337384,
+            "longitude": 30.3295975
+          },
+          {
+            "latitude": 59.9334385,
+            "longitude": 30.3292043
+          }
+        ],
+        "length_meters": 39.9,
+        "shaded_meters": 39.9,
+        "unknown_meters": 0.0,
+        "state": "estimated_shaded",
+        "starts_at_seconds": 1008.0,
+        "ends_at_seconds": 1152.0,
+        "shaded_spans": [
+          [
+            0.0,
+            39.9
+          ]
+        ],
+        "unknown_spans": []
+      },
+      {
+        "leg_index": 0,
+        "geometry": [
+          {
+            "latitude": 59.9334385,
+            "longitude": 30.3292043
+          },
+          {
+            "latitude": 59.9333823,
+            "longitude": 30.3291307
+          },
+          {
+            "latitude": 59.9331385,
+            "longitude": 30.3288111
+          }
+        ],
+        "length_meters": 39.9,
+        "shaded_meters": 39.9,
+        "unknown_meters": 0.0,
+        "state": "estimated_shaded",
+        "starts_at_seconds": 1152.0,
+        "ends_at_seconds": 1296.0,
+        "shaded_spans": [
+          [
+            0.0,
+            39.9
+          ]
+        ],
+        "unknown_spans": []
+      },
+      {
+        "leg_index": 0,
+        "geometry": [
+          {
+            "latitude": 59.9331385,
+            "longitude": 30.3288111
+          },
+          {
+            "latitude": 59.9328386,
+            "longitude": 30.3284179
+          }
+        ],
+        "length_meters": 39.9,
+        "shaded_meters": 39.9,
+        "unknown_meters": 0.0,
+        "state": "estimated_shaded",
+        "starts_at_seconds": 1296.0,
+        "ends_at_seconds": 1440.0,
+        "shaded_spans": [
+          [
+            0.0,
+            39.9
+          ]
+        ],
+        "unknown_spans": []
+      },
+      {
+        "leg_index": 0,
+        "geometry": [
+          {
+            "latitude": 59.9328386,
+            "longitude": 30.3284179
+          },
+          {
+            "latitude": 59.9325387,
+            "longitude": 30.3280247
+          }
+        ],
+        "length_meters": 39.9,
+        "shaded_meters": 39.9,
+        "unknown_meters": 0.0,
+        "state": "estimated_shaded",
+        "starts_at_seconds": 1440.0,
+        "ends_at_seconds": 1584.0,
+        "shaded_spans": [
+          [
+            0.0,
+            39.9
+          ]
+        ],
+        "unknown_spans": []
+      },
+      {
+        "leg_index": 0,
+        "geometry": [
+          {
+            "latitude": 59.9325387,
+            "longitude": 30.3280247
+          },
+          {
+            "latitude": 59.9322878,
+            "longitude": 30.3276958
+          },
+          {
+            "latitude": 59.9322422,
+            "longitude": 30.3276985
+          },
+          {
+            "latitude": 59.9322346,
+            "longitude": 30.3277199
+          }
+        ],
+        "length_meters": 39.9,
+        "shaded_meters": 39.9,
+        "unknown_meters": 0.0,
+        "state": "estimated_shaded",
+        "starts_at_seconds": 1584.0,
+        "ends_at_seconds": 1728.0,
+        "shaded_spans": [
+          [
+            0.0,
+            39.9
+          ]
+        ],
+        "unknown_spans": []
+      },
+      {
+        "leg_index": 0,
+        "geometry": [
+          {
+            "latitude": 59.9322346,
+            "longitude": 30.3277199
+          },
+          {
+            "latitude": 59.9320277,
+            "longitude": 30.328305
+          }
+        ],
+        "length_meters": 39.9,
+        "shaded_meters": 39.9,
+        "unknown_meters": 0.0,
+        "state": "estimated_shaded",
+        "starts_at_seconds": 1728.0,
+        "ends_at_seconds": 1872.0,
+        "shaded_spans": [
+          [
+            0.0,
+            39.9
+          ]
+        ],
+        "unknown_spans": []
+      },
+      {
+        "leg_index": 0,
+        "geometry": [
+          {
+            "latitude": 59.9320277,
+            "longitude": 30.328305
+          },
+          {
+            "latitude": 59.9318207,
+            "longitude": 30.3288902
+          }
+        ],
+        "length_meters": 39.9,
+        "shaded_meters": 39.9,
+        "unknown_meters": 0.0,
+        "state": "estimated_shaded",
+        "starts_at_seconds": 1872.0,
+        "ends_at_seconds": 2016.0,
+        "shaded_spans": [
+          [
+            0.0,
+            39.9
+          ]
+        ],
+        "unknown_spans": []
+      },
+      {
+        "leg_index": 0,
+        "geometry": [
+          {
+            "latitude": 59.9318207,
+            "longitude": 30.3288902
+          },
+          {
+            "latitude": 59.9317218,
+            "longitude": 30.3291699
+          },
+          {
+            "latitude": 59.9317886,
+            "longitude": 30.3293296
+          },
+          {
+            "latitude": 59.9318418,
+            "longitude": 30.3294569
+          }
+        ],
+        "length_meters": 39.9,
+        "shaded_meters": 39.9,
+        "unknown_meters": 0.0,
+        "state": "estimated_shaded",
+        "starts_at_seconds": 2016.0,
+        "ends_at_seconds": 2160.0,
+        "shaded_spans": [
+          [
+            0.0,
+            39.9
+          ]
+        ],
+        "unknown_spans": []
+      },
+      {
+        "leg_index": 0,
+        "geometry": [
+          {
+            "latitude": 59.9318418,
+            "longitude": 30.3294569
+          },
+          {
+            "latitude": 59.9320717,
+            "longitude": 30.3300068
+          }
+        ],
+        "length_meters": 39.9,
+        "shaded_meters": 39.9,
+        "unknown_meters": 0.0,
+        "state": "estimated_shaded",
+        "starts_at_seconds": 2160.0,
+        "ends_at_seconds": 2304.0,
+        "shaded_spans": [
+          [
+            0.0,
+            39.9
+          ]
+        ],
+        "unknown_spans": []
+      },
+      {
+        "leg_index": 0,
+        "geometry": [
+          {
+            "latitude": 59.9320717,
+            "longitude": 30.3300068
+          },
+          {
+            "latitude": 59.9321053,
+            "longitude": 30.3300872
+          },
+          {
+            "latitude": 59.9323021,
+            "longitude": 30.330556
+          }
+        ],
+        "length_meters": 39.9,
+        "shaded_meters": 39.9,
+        "unknown_meters": 0.0,
+        "state": "estimated_shaded",
+        "starts_at_seconds": 2304.0,
+        "ends_at_seconds": 2448.0,
+        "shaded_spans": [
+          [
+            0.0,
+            39.9
+          ]
+        ],
+        "unknown_spans": []
+      },
+      {
+        "leg_index": 0,
+        "geometry": [
+          {
+            "latitude": 59.9323021,
+            "longitude": 30.330556
+          },
+          {
+            "latitude": 59.9325325,
+            "longitude": 30.3311051
+          }
+        ],
+        "length_meters": 39.9,
+        "shaded_meters": 39.9,
+        "unknown_meters": 0.0,
+        "state": "estimated_shaded",
+        "starts_at_seconds": 2448.0,
+        "ends_at_seconds": 2592.0,
+        "shaded_spans": [
+          [
+            0.0,
+            39.9
+          ]
+        ],
+        "unknown_spans": []
+      },
+      {
+        "leg_index": 0,
+        "geometry": [
+          {
+            "latitude": 59.9325325,
+            "longitude": 30.3311051
+          },
+          {
+            "latitude": 59.9327629,
+            "longitude": 30.3316542
+          }
+        ],
+        "length_meters": 39.9,
+        "shaded_meters": 39.9,
+        "unknown_meters": 0.0,
+        "state": "estimated_shaded",
+        "starts_at_seconds": 2592.0,
+        "ends_at_seconds": 2736.0,
+        "shaded_spans": [
+          [
+            0.0,
+            39.9
+          ]
+        ],
+        "unknown_spans": []
+      },
+      {
+        "leg_index": 0,
+        "geometry": [
+          {
+            "latitude": 59.9327629,
+            "longitude": 30.3316542
+          },
+          {
+            "latitude": 59.9327667,
+            "longitude": 30.3316632
+          },
+          {
+            "latitude": 59.9329954,
+            "longitude": 30.3321998
+          }
+        ],
+        "length_meters": 39.9,
+        "shaded_meters": 39.9,
+        "unknown_meters": 0.0,
+        "state": "estimated_shaded",
+        "starts_at_seconds": 2736.0,
+        "ends_at_seconds": 2880.0,
+        "shaded_spans": [
+          [
+            0.0,
+            39.9
+          ]
+        ],
+        "unknown_spans": []
+      },
+      {
+        "leg_index": 0,
+        "geometry": [
+          {
+            "latitude": 59.9329954,
+            "longitude": 30.3321998
+          },
+          {
+            "latitude": 59.9330551,
+            "longitude": 30.3323399
+          },
+          {
+            "latitude": 59.933226,
+            "longitude": 30.3327486
+          }
+        ],
+        "length_meters": 39.9,
+        "shaded_meters": 39.9,
+        "unknown_meters": 0.0,
+        "state": "estimated_shaded",
+        "starts_at_seconds": 2880.0,
+        "ends_at_seconds": 3024.0,
+        "shaded_spans": [
+          [
+            0.0,
+            39.9
+          ]
+        ],
+        "unknown_spans": []
+      },
+      {
+        "leg_index": 0,
+        "geometry": [
+          {
+            "latitude": 59.933226,
+            "longitude": 30.3327486
+          },
+          {
+            "latitude": 59.933456,
+            "longitude": 30.3332984
+          }
+        ],
+        "length_meters": 39.9,
+        "shaded_meters": 39.9,
+        "unknown_meters": 0.0,
+        "state": "estimated_shaded",
+        "starts_at_seconds": 3024.0,
+        "ends_at_seconds": 3168.0,
+        "shaded_spans": [
+          [
+            0.0,
+            39.9
+          ]
+        ],
+        "unknown_spans": []
+      },
+      {
+        "leg_index": 0,
+        "geometry": [
+          {
+            "latitude": 59.933456,
+            "longitude": 30.3332984
+          },
+          {
+            "latitude": 59.9335009,
+            "longitude": 30.3334058
+          },
+          {
+            "latitude": 59.933535,
+            "longitude": 30.3334873
+          },
+          {
+            "latitude": 59.9336878,
+            "longitude": 30.3338451
+          }
+        ],
+        "length_meters": 39.9,
+        "shaded_meters": 39.9,
+        "unknown_meters": 0.0,
+        "state": "estimated_shaded",
+        "starts_at_seconds": 3168.0,
+        "ends_at_seconds": 3312.0,
+        "shaded_spans": [
+          [
+            0.0,
+            39.9
+          ]
+        ],
+        "unknown_spans": []
+      },
+      {
+        "leg_index": 0,
+        "geometry": [
+          {
+            "latitude": 59.9336878,
+            "longitude": 30.3338451
+          },
+          {
+            "latitude": 59.9338022,
+            "longitude": 30.3341129
+          },
+          {
+            "latitude": 59.9338743,
+            "longitude": 30.3342846
+          },
+          {
+            "latitude": 59.9339352,
+            "longitude": 30.3343112
+          },
+          {
+            "latitude": 59.9339428,
+            "longitude": 30.3343065
+          }
+        ],
+        "length_meters": 39.9,
+        "shaded_meters": 39.9,
+        "unknown_meters": 0.0,
+        "state": "estimated_shaded",
+        "starts_at_seconds": 3312.0,
+        "ends_at_seconds": 3456.0,
+        "shaded_spans": [
+          [
+            0.0,
+            39.9
+          ]
+        ],
+        "unknown_spans": []
+      },
+      {
+        "leg_index": 0,
+        "geometry": [
+          {
+            "latitude": 59.9339428,
+            "longitude": 30.3343065
+          },
+          {
+            "latitude": 59.9339948,
+            "longitude": 30.3342743
+          },
+          {
+            "latitude": 59.9340377,
+            "longitude": 30.3341852
+          },
+          {
+            "latitude": 59.9340412,
+            "longitude": 30.3341613
+          },
+          {
+            "latitude": 59.9340837,
+            "longitude": 30.3338288
+          },
+          {
+            "latitude": 59.9340976,
+            "longitude": 30.3337161
+          }
+        ],
+        "length_meters": 39.9,
+        "shaded_meters": 39.9,
+        "unknown_meters": 0.0,
+        "state": "estimated_shaded",
+        "starts_at_seconds": 3456.0,
+        "ends_at_seconds": 3600.0,
+        "shaded_spans": [
+          [
+            0.0,
+            39.9
+          ]
+        ],
+        "unknown_spans": []
+      }
+    ],
+    "reason": null
+  }
+}

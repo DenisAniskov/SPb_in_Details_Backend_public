@@ -1,0 +1,3060 @@
+{
+  "candidate_count": 436,
+  "accepted_count": 49,
+  "reviews": [
+    {
+      "osm_type": "node",
+      "osm_id": 21626280,
+      "name": "В. И. Ленин",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 249235969,
+      "name": "Александр Невский",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 262615345,
+      "name": "Г. К. Жукову",
+      "status": "accepted",
+      "reason": "Explicit editorial selection; representative coordinate and access uncertainty retained."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 356880631,
+      "name": "Карл Маркс",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 356880633,
+      "name": "Фридрих Энгельс",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 587067921,
+      "name": "Феликс Эдмундович Дзержинский",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 727663875,
+      "name": "Девушка с венком",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 920198932,
+      "name": "Колоски",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 968065187,
+      "name": "Н. К. Крупская",
+      "status": "accepted",
+      "reason": "Explicit editorial selection; representative coordinate and access uncertainty retained."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 1128375988,
+      "name": "Уткина дача",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 1213312029,
+      "name": "Обелиск в память о патриотизме крестьян-добровольцев в Русско-шведской войне",
+      "status": "accepted",
+      "reason": "Explicit editorial selection; representative coordinate and access uncertainty retained."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 1266486020,
+      "name": "Памятник добровольцам 3-й Фрунзенской дивизии народного ополчения",
+      "status": "accepted",
+      "reason": "Explicit editorial selection; representative coordinate and access uncertainty retained."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 1347276565,
+      "name": "Танк Т-80",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 1350846847,
+      "name": "В. И. Ленину",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 1372027612,
+      "name": "Памятник Иоанису Каподистрия",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 1376494766,
+      "name": "Н. А. Некрасов",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 1383043649,
+      "name": "Музей городской скульптуры",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 1390323921,
+      "name": "«Башня» Вячеслава Иванова",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 1398837246,
+      "name": "Ленинград",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 1423894126,
+      "name": "В. М. Бехтерев",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 1464061387,
+      "name": "Городовой",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 1478089328,
+      "name": "Галине Старовойтовой",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 1480465728,
+      "name": "2000 лет с Рождества Христова",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 1550672469,
+      "name": "Парижский дворик",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 1550672474,
+      "name": "Эйфелева башня",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 1732981183,
+      "name": "Октябрь",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 1762452682,
+      "name": "Обелиск умершим от голода и от ран невинно убиенным в блокаду",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 1777073235,
+      "name": "Памяти поколений",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 1854022884,
+      "name": "Мемориальная доска Богайчуку Павлу Петровичу",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 1911139960,
+      "name": "Пожарному",
+      "status": "accepted",
+      "reason": "Explicit editorial selection; representative coordinate and access uncertainty retained."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 1920127293,
+      "name": "Петру Первому от благодарных охтинцев",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 1936080260,
+      "name": "Памятник бравому солдату Швейку",
+      "status": "accepted",
+      "reason": "Explicit editorial selection; representative coordinate and access uncertainty retained."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2290807216,
+      "name": "Набережная Невы",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2290807265,
+      "name": "Памятник Ткачам",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2290810212,
+      "name": "Анна Ахматова",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2291291449,
+      "name": "В. И. Ленину",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2298379048,
+      "name": "В. И. Ленину",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2343436176,
+      "name": "Памятник Володарскому",
+      "status": "accepted",
+      "reason": "Explicit editorial selection; representative coordinate and access uncertainty retained."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2401327584,
+      "name": "Памятник фонарщику",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2412369536,
+      "name": "Император Александр II",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2449942415,
+      "name": "С. М. Киров",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2470916029,
+      "name": "Памятник подвигу братских народов",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2513047006,
+      "name": "Мадагаскар",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2633330477,
+      "name": "Надгробие Ивана Фёдоровича Кёнига",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2661549863,
+      "name": "Музей Кофе",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2678535854,
+      "name": "Крест на месте Успенской церкви на Александровском кладбище и могила В.И. Колчака",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2678535900,
+      "name": "Памятный крест на развалинах храма Преподобного Серафима Саровского",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2681749433,
+      "name": "Гамбургская площадь",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2689630653,
+      "name": "С. А. Есенину",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2850643829,
+      "name": "Карл Фаберже",
+      "status": "accepted",
+      "reason": "Explicit editorial selection; representative coordinate and access uncertainty retained."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2861472221,
+      "name": "В. И. Ленин",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2875597165,
+      "name": "Мишка",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2963283780,
+      "name": "Ю. Н. Тынянову",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2974761162,
+      "name": "П. И. Чайковский",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3010825418,
+      "name": "Генерал-адъютант Алексей Алексеевич Брусилов",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3013597660,
+      "name": "Пейзаж из сказок Пушкина",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3067326952,
+      "name": "Памятник морякам полярных конвоев",
+      "status": "accepted",
+      "reason": "Explicit editorial selection; representative coordinate and access uncertainty retained."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3084288774,
+      "name": "Памятник бойцам Псковской дивизии ВДВ",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3140979976,
+      "name": "Нева",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3241632803,
+      "name": "В. И. Ленину",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3280622040,
+      "name": "Годовщине вывода войск из Афганистана",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3280638926,
+      "name": "Труженикам Воркуты",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3441221755,
+      "name": "Сергей Бодров",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3493599131,
+      "name": "Материнство",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3514508479,
+      "name": "Музей отечественной киноаппаратуры",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3514533236,
+      "name": "Истоки жизни-Невская застава",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3514545041,
+      "name": "Музей Императорского фарфорового завода",
+      "status": "accepted",
+      "reason": "Explicit editorial selection; representative coordinate and access uncertainty retained."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3514716689,
+      "name": "Церковно-археологический музей",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3514729546,
+      "name": "Музей истории милиции",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3514951221,
+      "name": "Музей-квартира Аллилуевых",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3515072703,
+      "name": "Историко-мемориальный музей «Смольный»",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3515113872,
+      "name": "Музей-квартира П. К. Козлова",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3515167998,
+      "name": "Центр истории парламентаризма",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3648433991,
+      "name": "Крокодил Гена",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3648433993,
+      "name": "Чебурашка",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3658412519,
+      "name": "Парус",
+      "status": "accepted",
+      "reason": "Explicit editorial selection; representative coordinate and access uncertainty retained."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3676707159,
+      "name": "Даная",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3676707160,
+      "name": "Кариатида",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3676707161,
+      "name": "Орфей",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3688300235,
+      "name": "Водовоз",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3688300236,
+      "name": "Голубь Экзюпери",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3688300237,
+      "name": "Жертвам политических репрессий",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3688300238,
+      "name": "Жертвам политических репрессий",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3688300239,
+      "name": "Труженикам «Водоканала», погибшим в годы блокады Ленинграда",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3736513615,
+      "name": "О. Ф. Берггольц",
+      "status": "accepted",
+      "reason": "Explicit editorial selection; representative coordinate and access uncertainty retained."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3932750026,
+      "name": "Мир воды Санкт-Петербурга",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3932750027,
+      "name": "Подземный мир Санкт-Петербурга",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3932750030,
+      "name": "П. И. Палибин",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4133911164,
+      "name": "Памятный знак эсминцу «Строгий»",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4140882290,
+      "name": "B.B. King",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4186236011,
+      "name": "Пионерам-героям",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4212941885,
+      "name": "Шушары",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4222941889,
+      "name": "С. А. Есенин",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4224010900,
+      "name": "Памятный знак первой ленинской листовке",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4265943414,
+      "name": "Зина Портнова",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4270056445,
+      "name": "Памяти погибших работников депо",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4270056453,
+      "name": "Б. К. Саламбекову",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4326499589,
+      "name": "Взятию крепости „Ниеншанц“",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4339905994,
+      "name": "Колокол Смольного собора",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4398452096,
+      "name": "Место гражданской казни Н. Г. Чернышевского",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4424889896,
+      "name": "Светлая Русь",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4677314430,
+      "name": "«Хищник»",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4931699527,
+      "name": "Скамья примирения",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4932781191,
+      "name": "И. В. Бабушкин",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4934341840,
+      "name": "Загадай желание",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4951661221,
+      "name": "Mbl",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5023927979,
+      "name": "Танк-памятник Т-34/85",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5190319719,
+      "name": "Пламя",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5191853977,
+      "name": "А. В. Шотману",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5191853978,
+      "name": "В. А. Шелгунову",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5191853979,
+      "name": "Г. М. Кржижановскому",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5191853980,
+      "name": "Н. К. Крупской",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5191853981,
+      "name": "И. В. Бабушкину",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5206720473,
+      "name": "Чайки Петербурга",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5232693630,
+      "name": "Православным воинам, погибшим на Кавказе",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5232693632,
+      "name": "Священномученику Вениамину",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5232693633,
+      "name": "Детям Беслана",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5233792107,
+      "name": "Водонапорная башня Обуховского завода",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5257740630,
+      "name": "Первый панельный дом в Ленинграде",
+      "status": "accepted",
+      "reason": "Explicit editorial selection; representative coordinate and access uncertainty retained."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5311834621,
+      "name": "Д. К. Чернову",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5324730821,
+      "name": "Дом Колбаса",
+      "status": "accepted",
+      "reason": "Explicit editorial selection; representative coordinate and access uncertainty retained."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5339453374,
+      "name": "Статуя крокодила",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5392515452,
+      "name": "Бронзовый лев",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5392515453,
+      "name": "Бронзовый лев",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5591269770,
+      "name": "СО17-2873",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5611483567,
+      "name": "Памятный знак эскадренному миноносцу \"Опытный\"",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5767931018,
+      "name": "Читающий мальчик",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5845588186,
+      "name": "Типография «Небо»",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5868883140,
+      "name": "Г. И. Невельскому",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5939769108,
+      "name": "Г. Т. Петровскому",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5962948066,
+      "name": "Карета",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6024918858,
+      "name": "М. З. Шагалу",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6025581762,
+      "name": "К. А. Тону",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6083413000,
+      "name": "Е. Е. Моисеенко",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6083413001,
+      "name": "Ю. В. Толубееву",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6083413002,
+      "name": "С. Б. Сперанскому",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6083422921,
+      "name": "Погибшим при артобстреле",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6086174685,
+      "name": "Эр785-49",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6203908696,
+      "name": "Н. О. Крафту",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6203908697,
+      "name": "Николаю I",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6203908698,
+      "name": "П. П. Мельникову",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6204100696,
+      "name": "Пётр I",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6411714058,
+      "name": "В. И. Ленин",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6584088232,
+      "name": "А. Н. Матюшенко",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6643747748,
+      "name": "Новомученникам",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6778424646,
+      "name": "Лев",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6778424647,
+      "name": "Лев",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7004673211,
+      "name": "Аллея памяти",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7004673212,
+      "name": "Камень памяти",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7006227242,
+      "name": "Фламенко",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7006239076,
+      "name": "Любовники",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7006243941,
+      "name": "Италия обнажённая",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7006245694,
+      "name": "Дали созерцающий",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7006250339,
+      "name": "Римская копия греческого оригинала",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7006255296,
+      "name": "Облако",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7006259884,
+      "name": "Terra Italia",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7017414019,
+      "name": "Д. А. Гранин",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7017699836,
+      "name": "И. А. Бродскому",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7020765079,
+      "name": "Колонна",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7024204921,
+      "name": "Мастерской А. Н. Лодыгина",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7024204922,
+      "name": "Первому электрическому фонарю А. Н. Лодыгина",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7029901393,
+      "name": "В. М. Бехтереву",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7029901394,
+      "name": "В. Н. Мясищеву",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7355000673,
+      "name": "Мемориал в честь 40-летия революции в Болгарии",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7435634143,
+      "name": "Лошадь",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7435634144,
+      "name": "Слон",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7471124845,
+      "name": "А. Н. Молдагулова",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7475530196,
+      "name": "Марсельеза",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7507371976,
+      "name": "Жертвам политических репрессий",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7600955769,
+      "name": "Богатырь",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7600955770,
+      "name": "Пожарный бегемот",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7600955771,
+      "name": "Незнайка",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7600955778,
+      "name": "Пожарный бегемот",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7600955779,
+      "name": "Бегемот",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7605781790,
+      "name": "ЖБОТ О-19",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7605804486,
+      "name": "ЖБОТ О-26",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7605841586,
+      "name": "ЖБОТ Y-1 14-го УР",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7993078876,
+      "name": "Чернов Д.К.",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 8004764234,
+      "name": "П. М. Обухову",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 8039937502,
+      "name": "Музей истории профессионального образования",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 8090903988,
+      "name": "Книга памяти",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 8160752515,
+      "name": "Итальянская матрона",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 8161377034,
+      "name": "Венеция",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 8192210490,
+      "name": "Инсталляция \"Глобус\"",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 8192210493,
+      "name": "Якорь",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 8192210494,
+      "name": "Торпеда",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 8192210495,
+      "name": "Якорь",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 8237607351,
+      "name": "Радуга",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 8417348096,
+      "name": "С. В. Жуков",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 8417348097,
+      "name": "К. В. Тимошинин",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 8417348098,
+      "name": "И. С. Хворостухин",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 8417348099,
+      "name": "Д. С. Щемлев",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 8465522717,
+      "name": "Особняк Г. И. Веге",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 8667542718,
+      "name": "Музей оловянного солдатика",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 8714793879,
+      "name": "Мельница",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 8714793880,
+      "name": "Колодец",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 8875349535,
+      "name": "Камень",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9222084692,
+      "name": "Святитель Николай Чудотворец",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9263719010,
+      "name": "Охта",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9686385918,
+      "name": "Противотанковые надолбы",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9815304162,
+      "name": "Город-Герой Сталинград",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9820171239,
+      "name": "Северная Война",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9969325219,
+      "name": "Музей истории телефона",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10151485618,
+      "name": "Воинам-интернационалистам",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10151497817,
+      "name": "Дом поэта Фёдора Слепушкина",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10596512962,
+      "name": "Город-герой Мурманск",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10713231615,
+      "name": "Аллея ликвидаторов Чернобыльской аварии",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10748011506,
+      "name": "Колокольня Феодоровского собора",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10748015105,
+      "name": "Крепостная стена",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10828136886,
+      "name": "Камень",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10865402628,
+      "name": "Помни войну. 1941-1945",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10879526067,
+      "name": "Сакура",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10979552951,
+      "name": "А. А. Желобовскому",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11002444771,
+      "name": "В. И. Ленин",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11157354199,
+      "name": "Обуховская оборона",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11184203937,
+      "name": "Здравствуйте",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11184203938,
+      "name": "Добро пожаловать!",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11186200576,
+      "name": "Незнайка",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11186344499,
+      "name": "Лебедь",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11229686996,
+      "name": "Героям-ленинградцам",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11256829513,
+      "name": "Ягуары",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11393373492,
+      "name": "Бронированная будка",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11465584196,
+      "name": "Ю. В. Кнорозову",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11469928549,
+      "name": "Фамильное место купцов Кокоревых",
+      "status": "excluded",
+      "reason": "Ruined/collapsed building or individual grave; no verified suitable visitor activity."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11475702233,
+      "name": "Купцы Пиккиевы",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11503527527,
+      "name": "Поцелуй душ",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11503527528,
+      "name": "Цветы Монмартра",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11509689587,
+      "name": "Памятный знак \"Сквер в честь 40-летия Победы\"",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11509689588,
+      "name": "ЖБОТ О-2 ПТО 42-й армии Ленинградского фронта",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11509689589,
+      "name": "Жертвам политических репрессий",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11510705898,
+      "name": "Памятная стела",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11510705919,
+      "name": "ЖБОТ X-13 ЛенУР",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11559704957,
+      "name": "Фамильное место купцов Скрябиных",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11563214480,
+      "name": "Последняя сигарета",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11611873969,
+      "name": "Туристы",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11626440730,
+      "name": "И. С. Уншлихту",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11738905747,
+      "name": "В. И. Ленину",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11739954350,
+      "name": "А. Н. Филатову",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11773635082,
+      "name": "Д. Баланчину",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11800052259,
+      "name": "152-мм пушка 2А36",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11837432228,
+      "name": "238 рабочим завода Трубосталь, погибшим на полях сражений Великой Отечественной войны и в блокадном Ленинграде",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11928926670,
+      "name": "Капсула времени",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11950105409,
+      "name": "Солнечные часы",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12014501284,
+      "name": "#СКА",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12033795705,
+      "name": "Вывод советских войск из Афганистана",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12069775994,
+      "name": "Николаю Петрову",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12069838894,
+      "name": "Суворовский музей",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12069838895,
+      "name": "Переход Суворова через Альпы в 1799 году",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12100701246,
+      "name": "В. И. Ленину",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12155112520,
+      "name": "Музей военного костюма",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12178087838,
+      "name": "П. Е. Дыбенко",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12202152783,
+      "name": "Жилмассив на Ивановской улице",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12307366483,
+      "name": "Мир",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12351726556,
+      "name": "Г. Н. Булдакову",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12354054365,
+      "name": "\"Человек, несущий зеркало\"",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12382223227,
+      "name": "ЖБОТ О-17",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12382223228,
+      "name": "ЖБОТ О-10",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12382223229,
+      "name": "ЖБОТ О-9",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12382223230,
+      "name": "ДОТ № 239 рубежа \"Ижора\"",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12382223231,
+      "name": "ДОТ № 248 рубежа \"Ижора\"",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12382223232,
+      "name": "ЖБОТ Z-8 ЛенУР",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12382223233,
+      "name": "ЖБОТ О-25",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12382223234,
+      "name": "ЖБОТ S-17",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12382223235,
+      "name": "СЖБОТ R-8 рубежа «Ижора»",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12628739929,
+      "name": "Мемориальная мастерская Сергея Опульса",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12663181685,
+      "name": "Неонеорусский стиль",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12841735959,
+      "name": "2ТЭ116-039",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12960809002,
+      "name": "Доходный дом А.П. Романова - Доходный дом княгини Яшвиль",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12999757727,
+      "name": "Крестьянского быта",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13144987103,
+      "name": "Слон",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13144987104,
+      "name": "Кенгуру",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13144987105,
+      "name": "Обезьяна",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13144987106,
+      "name": "Обезьяна",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13144987129,
+      "name": "Буйвол",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13145204131,
+      "name": "Панда",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13145204152,
+      "name": "Медведь",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13146034213,
+      "name": "Аллея ликвидаторов Чернобыльской аварии",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13147021822,
+      "name": "Рождение Афродиты",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13200496601,
+      "name": "Я ❤️ Кудрово",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13230206060,
+      "name": "В память о венгерских военнопленных, погибших во Второй мировой войне",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13245216727,
+      "name": "Металлострой",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13279620544,
+      "name": "Архитектор Н. Львов",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13637826731,
+      "name": "Героям СВО",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13649372839,
+      "name": "Первый дом 137-й серии",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13738812502,
+      "name": "Дом-Музей Розового Кролика",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13973313376,
+      "name": "Трудящимся завода имени Шаумяна, павшим в боях Великой Отечественной войны",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "relation",
+      "osm_id": 359832,
+      "name": "Малоохтинский парк",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "relation",
+      "osm_id": 1582734,
+      "name": "Таврический сад",
+      "status": "excluded",
+      "reason": "Already represented by original 77 canonical record."
+    },
+    {
+      "osm_type": "relation",
+      "osm_id": 1654922,
+      "name": "Литераторские мостки",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "relation",
+      "osm_id": 1721304,
+      "name": "сад Спартак",
+      "status": "accepted",
+      "reason": "Explicit editorial selection; representative coordinate and access uncertainty retained."
+    },
+    {
+      "osm_type": "relation",
+      "osm_id": 1798291,
+      "name": "сад Сан-Галли",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "relation",
+      "osm_id": 1806689,
+      "name": "сквер Галины Старовойтовой",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "relation",
+      "osm_id": 1806731,
+      "name": "Некрасовский сад",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "relation",
+      "osm_id": 1948607,
+      "name": "сад-партер Смольного",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "relation",
+      "osm_id": 2461308,
+      "name": "сквер Димитрова",
+      "status": "accepted",
+      "reason": "Explicit editorial selection; representative coordinate and access uncertainty retained."
+    },
+    {
+      "osm_type": "relation",
+      "osm_id": 2535439,
+      "name": "сад Печатников",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "relation",
+      "osm_id": 2864744,
+      "name": "сад Смольного собора",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "relation",
+      "osm_id": 2909244,
+      "name": "парк Строителей",
+      "status": "accepted",
+      "reason": "Explicit editorial selection; representative coordinate and access uncertainty retained."
+    },
+    {
+      "osm_type": "relation",
+      "osm_id": 3144817,
+      "name": "Брестский парк",
+      "status": "accepted",
+      "reason": "Explicit editorial selection; representative coordinate and access uncertainty retained."
+    },
+    {
+      "osm_type": "relation",
+      "osm_id": 3189848,
+      "name": "бульвар Красных Зорь",
+      "status": "accepted",
+      "reason": "Explicit editorial selection; representative coordinate and access uncertainty retained."
+    },
+    {
+      "osm_type": "relation",
+      "osm_id": 3757135,
+      "name": "сад Салтыкова-Щедрина",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "relation",
+      "osm_id": 3801092,
+      "name": "Таврический дворец",
+      "status": "excluded",
+      "reason": "Already represented by original 77 canonical record."
+    },
+    {
+      "osm_type": "relation",
+      "osm_id": 4657403,
+      "name": "Виноградовский сквер",
+      "status": "accepted",
+      "reason": "Explicit editorial selection; representative coordinate and access uncertainty retained."
+    },
+    {
+      "osm_type": "relation",
+      "osm_id": 5736393,
+      "name": "Г. М. Димитрову",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "relation",
+      "osm_id": 6017384,
+      "name": "сквер Воинов-Освободителей",
+      "status": "accepted",
+      "reason": "Explicit editorial selection; representative coordinate and access uncertainty retained."
+    },
+    {
+      "osm_type": "relation",
+      "osm_id": 6071458,
+      "name": "парк Рыбачья Слобода",
+      "status": "accepted",
+      "reason": "Explicit editorial selection; representative coordinate and access uncertainty retained."
+    },
+    {
+      "osm_type": "relation",
+      "osm_id": 6354126,
+      "name": "Дом рыбопромышленников Зотовых",
+      "status": "excluded",
+      "reason": "Ruined/collapsed building or individual grave; no verified suitable visitor activity."
+    },
+    {
+      "osm_type": "relation",
+      "osm_id": 7740283,
+      "name": "сад Чернова Дача",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "relation",
+      "osm_id": 9171863,
+      "name": "парк Куракина Дача",
+      "status": "excluded",
+      "reason": "Already represented by original 77 canonical record."
+    },
+    {
+      "osm_type": "relation",
+      "osm_id": 9433780,
+      "name": "Ереванский сквер",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "relation",
+      "osm_id": 9713316,
+      "name": "Невский мемориал \"Журавли\"",
+      "status": "accepted",
+      "reason": "Explicit editorial selection; representative coordinate and access uncertainty retained."
+    },
+    {
+      "osm_type": "relation",
+      "osm_id": 10005007,
+      "name": "парк Героев-Пожарных",
+      "status": "accepted",
+      "reason": "Explicit editorial selection; representative coordinate and access uncertainty retained."
+    },
+    {
+      "osm_type": "relation",
+      "osm_id": 10045022,
+      "name": "парк Интернационалистов",
+      "status": "accepted",
+      "reason": "Explicit editorial selection; representative coordinate and access uncertainty retained."
+    },
+    {
+      "osm_type": "relation",
+      "osm_id": 10103930,
+      "name": "Памятник воинам-интернационалистам",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "relation",
+      "osm_id": 10103986,
+      "name": "Фёдоровский сквер",
+      "status": "accepted",
+      "reason": "Explicit editorial selection; representative coordinate and access uncertainty retained."
+    },
+    {
+      "osm_type": "relation",
+      "osm_id": 10142370,
+      "name": "Ивановский сад",
+      "status": "accepted",
+      "reason": "Explicit editorial selection; representative coordinate and access uncertainty retained."
+    },
+    {
+      "osm_type": "relation",
+      "osm_id": 10323165,
+      "name": "сквер Кикины Палаты",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "relation",
+      "osm_id": 10323172,
+      "name": "Ливенский сквер",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "relation",
+      "osm_id": 10331757,
+      "name": "Большеохтинский сквер",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "relation",
+      "osm_id": 10333569,
+      "name": "Лесопарк «Оккервиль»",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "relation",
+      "osm_id": 10358189,
+      "name": "Сквер имени зодчего Егорова Петра Егоровича",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "relation",
+      "osm_id": 10358227,
+      "name": "Музейный шкаф-трамвай",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "relation",
+      "osm_id": 10358284,
+      "name": "Овсянниковский сад",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "relation",
+      "osm_id": 10823364,
+      "name": "парк Есенина",
+      "status": "accepted",
+      "reason": "Explicit editorial selection; representative coordinate and access uncertainty retained."
+    },
+    {
+      "osm_type": "relation",
+      "osm_id": 10952258,
+      "name": "парк Малиновка",
+      "status": "excluded",
+      "reason": "Already represented by original 77 canonical record."
+    },
+    {
+      "osm_type": "relation",
+      "osm_id": 11093020,
+      "name": "Альпийский сквер",
+      "status": "accepted",
+      "reason": "Explicit editorial selection; representative coordinate and access uncertainty retained."
+    },
+    {
+      "osm_type": "relation",
+      "osm_id": 11370401,
+      "name": "Американские мосты",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "relation",
+      "osm_id": 11376779,
+      "name": "Спецназ",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "relation",
+      "osm_id": 11513603,
+      "name": "Мега Парк",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "relation",
+      "osm_id": 12022733,
+      "name": "Лазаревский сквер",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "relation",
+      "osm_id": 12248920,
+      "name": "Дёминский сад",
+      "status": "accepted",
+      "reason": "Explicit editorial selection; representative coordinate and access uncertainty retained."
+    },
+    {
+      "osm_type": "relation",
+      "osm_id": 12320282,
+      "name": "Исфаханский сквер",
+      "status": "accepted",
+      "reason": "Explicit editorial selection; representative coordinate and access uncertainty retained."
+    },
+    {
+      "osm_type": "relation",
+      "osm_id": 12369635,
+      "name": "Филатовский сквер",
+      "status": "accepted",
+      "reason": "Explicit editorial selection; representative coordinate and access uncertainty retained."
+    },
+    {
+      "osm_type": "relation",
+      "osm_id": 12602447,
+      "name": "Карпатский сквер",
+      "status": "accepted",
+      "reason": "Explicit editorial selection; representative coordinate and access uncertainty retained."
+    },
+    {
+      "osm_type": "relation",
+      "osm_id": 12903102,
+      "name": "Парк \"Охта-Оккервиль\"",
+      "status": "accepted",
+      "reason": "Explicit editorial selection; representative coordinate and access uncertainty retained."
+    },
+    {
+      "osm_type": "relation",
+      "osm_id": 14092800,
+      "name": "сквер Николая Львова",
+      "status": "accepted",
+      "reason": "Explicit editorial selection; representative coordinate and access uncertainty retained."
+    },
+    {
+      "osm_type": "relation",
+      "osm_id": 15879427,
+      "name": "аллея Ленинградских Зенитчиц",
+      "status": "accepted",
+      "reason": "Explicit editorial selection; representative coordinate and access uncertainty retained."
+    },
+    {
+      "osm_type": "relation",
+      "osm_id": 15905263,
+      "name": "Ладожский парк",
+      "status": "excluded",
+      "reason": "Already represented by original 77 canonical record."
+    },
+    {
+      "osm_type": "relation",
+      "osm_id": 16193631,
+      "name": "Брандмейстерский бульвар",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "relation",
+      "osm_id": 17365052,
+      "name": "Старорусский сквер",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "relation",
+      "osm_id": 18752543,
+      "name": "парк Дружбы",
+      "status": "accepted",
+      "reason": "Explicit editorial selection; representative coordinate and access uncertainty retained."
+    },
+    {
+      "osm_type": "relation",
+      "osm_id": 19901603,
+      "name": "Рождественский сквер",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "relation",
+      "osm_id": 21049867,
+      "name": "бульвар Мстислава Ростроповича",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 23002927,
+      "name": "Выставочный зал «Цветы»",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 23094526,
+      "name": "Парк культуры и отдыха им. Бабушкина",
+      "status": "excluded",
+      "reason": "Already represented by original 77 canonical record."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 23239466,
+      "name": "Георгиевский сквер",
+      "status": "accepted",
+      "reason": "Explicit editorial selection; representative coordinate and access uncertainty retained."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 23241233,
+      "name": "Яблоневый сад",
+      "status": "accepted",
+      "reason": "Explicit editorial selection; representative coordinate and access uncertainty retained."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 23243126,
+      "name": "Заневский парк",
+      "status": "accepted",
+      "reason": "Explicit editorial selection; representative coordinate and access uncertainty retained."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 23566651,
+      "name": "cквер Спасателей",
+      "status": "accepted",
+      "reason": "Explicit editorial selection; representative coordinate and access uncertainty retained."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 23649849,
+      "name": "Ломоносовский сад",
+      "status": "accepted",
+      "reason": "Explicit editorial selection; representative coordinate and access uncertainty retained."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 28683142,
+      "name": "Митрополичий сад",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 28765759,
+      "name": "Старая насосная станция",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 29390114,
+      "name": "Дача Чернова",
+      "status": "excluded",
+      "reason": "Official Nevskaia Zastava museum page reports guarded grounds and future adaptation; no verified public exterior routing point. Bounds center inside guarded site is unsuitable.",
+      "supplementary_source_url": "https://nevzastava.ru/dachachernova",
+      "source_checked_on": "2026-10-10"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 30198275,
+      "name": "Мемориальный комплекс сотрудникам Водоканала, погибшим в годы Великой Отечественной войны",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 30198549,
+      "name": "Государственный мемориальный музей А. В. Суворова",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 45032941,
+      "name": "сад Крупской",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 46041696,
+      "name": "Сквер Юрия Кнорозова",
+      "status": "accepted",
+      "reason": "Explicit editorial selection; representative coordinate and access uncertainty retained."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 52959591,
+      "name": "Купчинский сквер",
+      "status": "accepted",
+      "reason": "Explicit editorial selection; representative coordinate and access uncertainty retained."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 53521462,
+      "name": "Пролёты старого Володарского моста",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 53521463,
+      "name": "Пролёты старого Володарского моста",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 53572194,
+      "name": "Весенний сквер",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 55700757,
+      "name": "Невская застава",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 59997997,
+      "name": "сквер Текстильщиков",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 61418689,
+      "name": "Императорская карточная фабрика",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 83730011,
+      "name": "сад Фонтанчик",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 86217487,
+      "name": "Сквер Ягужинского",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 92866056,
+      "name": "Палевский сад",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 106457979,
+      "name": "ДОТ № 252 рубежа «Ижора»",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 116625508,
+      "name": "ДОТ № 29 рубежа \"Ижора\"",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 116625510,
+      "name": "ДОТ № 42 рубежа \"Ижора\"",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 119557384,
+      "name": "сад Спартак",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 120478721,
+      "name": "Су252-95",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 120478722,
+      "name": "ТЭП60-1000",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 122313915,
+      "name": "ДОТ № 268а рубежа \"Ижора\"",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 123318764,
+      "name": "Будапештский сквер",
+      "status": "accepted",
+      "reason": "Explicit editorial selection; representative coordinate and access uncertainty retained."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 131484429,
+      "name": "Заводской сад",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 131484582,
+      "name": "сад Дудко",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 131485250,
+      "name": "сад Ткачей",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 131485852,
+      "name": "Смоленский сад",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 131486091,
+      "name": "сквер ДОСААФ",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 142353248,
+      "name": "ДОТ №20",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 144941813,
+      "name": "Ржевский лесопарк",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 152729674,
+      "name": "Пожарная машина",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 153072190,
+      "name": "сквер Николая Ивасюка",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 153999926,
+      "name": "сквер Пироцкого",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 164632567,
+      "name": "Памятник жертвам 9-го января",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 164632624,
+      "name": "ДОТ № 270 рубежа \"Ижора\"",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 164632638,
+      "name": "ДОТ № 269 рубежа \"Ижора\"",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 166761875,
+      "name": "ДОТ № 24 рубежа \"Ижора\"",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 174092701,
+      "name": "Плодовый сад",
+      "status": "accepted",
+      "reason": "Explicit editorial selection; representative coordinate and access uncertainty retained."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 179416197,
+      "name": "Гурдин сквер",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 192060298,
+      "name": "Днепропетровский сквер",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 193578225,
+      "name": "Сад имени 30-летия Октября",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 199228613,
+      "name": "ДОТ № 230 с башней КВ-1 рубежа \"Ижора\"",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 215253195,
+      "name": "Мгинский сквер",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 217335884,
+      "name": "Невский лесопарк",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 224187726,
+      "name": "ДОТ №204",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 227085369,
+      "name": "Музей истории Обуховского завода",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 252937042,
+      "name": "парк Боевого Братства",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 253368587,
+      "name": "Геодезический сквер",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 276511942,
+      "name": "Калужский сквер",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 281667076,
+      "name": "сквер Полярных Конвоев",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 293899897,
+      "name": "сквер Финансистов",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 313450062,
+      "name": "ДОТ № 260 рубежа \"Ижора\"",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 336857867,
+      "name": "Яблоновский сад",
+      "status": "accepted",
+      "reason": "Explicit editorial selection; representative coordinate and access uncertainty retained."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 346005439,
+      "name": "ДОТ КВ №19",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 377062144,
+      "name": "ДОТ №15",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 437165341,
+      "name": "сквер Екатерины Демидовой",
+      "status": "accepted",
+      "reason": "Explicit editorial selection; representative coordinate and access uncertainty retained."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 460964056,
+      "name": "сквер ДОСААФ",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 481348382,
+      "name": "развалины храма Преподобного Серафима Саровского",
+      "status": "excluded",
+      "reason": "Ruined/collapsed building or individual grave; no verified suitable visitor activity."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 502694057,
+      "name": "Бабочки",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 502694058,
+      "name": "Сладкоежка",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 502694078,
+      "name": "Картинг",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 502797358,
+      "name": "Шрэк",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 527686793,
+      "name": "ЖБОТ О-20",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 543957969,
+      "name": "Брусиловский сквер",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 699069079,
+      "name": "Обелиск памяти павшим в дни блокады",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 699069110,
+      "name": "Стела с журавлями",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 751397806,
+      "name": "Звонница Смольного собора",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 798841356,
+      "name": "сквер Молдагуловой",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 820418907,
+      "name": "ЖБОТ O-21",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 823180952,
+      "name": "Памятник членам экипажа ТУ-154-М погибшим при исполнении служебных обязанностей",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 908793858,
+      "name": "сквер Соловьёва-Седого",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 993117174,
+      "name": "Оборонительный рубеж \"Ижора\" ДОТ № 227",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1041624324,
+      "name": "ЖБОТ О-3",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1090576322,
+      "name": "сквер Псковских Десантников",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1149925929,
+      "name": "парк \"Косая гора\"",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1196075644,
+      "name": "Молчаливый сквер",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1206973769,
+      "name": "Ктиторский сад",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1212112608,
+      "name": "Братские могилы советских воинов",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1220463468,
+      "name": "сквер Уголок Кудрово",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1316790846,
+      "name": "Варгунинский сквер",
+      "status": "accepted",
+      "reason": "Explicit editorial selection; representative coordinate and access uncertainty retained."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1363669756,
+      "name": "ДОТ № 27 рубежа \"Ижора\"",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1456368808,
+      "name": "Ивовый сквер",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1507607041,
+      "name": "Западное полушарие",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1507607042,
+      "name": "Восточное полушарие",
+      "status": "not_accepted",
+      "reason": "Not selected: visitor usefulness, public access, district containment or independence from another site not sufficiently established in this phase. No claim that this object is inaccessible."
+    }
+  ]
+}

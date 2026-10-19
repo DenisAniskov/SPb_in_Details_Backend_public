@@ -1,0 +1,1366 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-11T13:55:36Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2022962538,
+  "lat": 59.9800256,
+  "lon": 30.2653285,
+  "timestamp": "2023-09-16T23:10:00Z",
+  "version": 25,
+  "changeset": 141361514,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "italian",
+    "name": "На Елагином"
+  }
+},
+{
+  "type": "node",
+  "id": 3702115489,
+  "lat": 59.9793024,
+  "lon": 30.2700127,
+  "timestamp": "2023-01-09T06:29:20Z",
+  "version": 3,
+  "changeset": 131039911,
+  "user": "mini-me",
+  "uid": 3846961,
+  "tags": {
+    "contact:phone": "+7 812 4300911",
+    "contact:website": "https://elaginpark.org/central-park/museums/elaginoostrovskiy-dvorets-muzey",
+    "name": "Елагин дворец",
+    "opening_hours": "Nov 01-Mar 31,Apr 01-Oct 31 Tu-Su 10:00-18:30; Nov 01-Mar 31 Th 12:00-20:00; Apr 01-Oct 31 Th 13:00-21:00",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 4461337,
+  "timestamp": "2025-08-23T20:32:10Z",
+  "version": 52,
+  "changeset": 170898832,
+  "user": "Atalanttore",
+  "uid": 291453,
+  "center": {
+    "lat": 59.9755616,
+    "lon": 30.2580962
+  },
+  "nodes": [
+    1231935214,
+    3723624261
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "footway",
+    "layer": "1",
+    "lit": "yes",
+    "name": "2-й Елагин мост",
+    "name:de": "2. Jelagin-Brücke",
+    "name:en": "2nd Elagin Bridge",
+    "name:etymology:wikidata": "Q4174533",
+    "name:ru": "2-й Елагин мост",
+    "surface": "wood"
+  }
+},
+{
+  "type": "way",
+  "id": 100868959,
+  "timestamp": "2023-09-16T23:10:34Z",
+  "version": 20,
+  "changeset": 141361523,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "center": {
+    "lat": 59.9769917,
+    "lon": 30.2522211
+  },
+  "nodes": [
+    1165702030,
+    1165702013,
+    1231936947,
+    1165702019,
+    1165702016,
+    1165702030
+  ],
+  "tags": {
+    "leisure": "marina",
+    "man_made": "pier",
+    "mooring": "yes",
+    "name": "Елагин остров"
+  }
+},
+{
+  "type": "way",
+  "id": 105637186,
+  "timestamp": "2026-07-13T17:29:45Z",
+  "version": 7,
+  "changeset": 185668142,
+  "user": "WinniePox",
+  "uid": 24286642,
+  "center": {
+    "lat": 59.9829412,
+    "lon": 30.2529377
+  },
+  "nodes": [
+    310481437,
+    1216462570,
+    1216462545,
+    1216462549,
+    310481437
+  ],
+  "tags": {
+    "building": "yes",
+    "check_date": "2023-01-10",
+    "internet_access": "no",
+    "name": "Касса Елагин остров",
+    "payment:cash": "yes",
+    "payment:mastercard": "yes",
+    "payment:mir": "yes",
+    "payment:visa": "yes",
+    "shop": "ticket",
+    "tourism": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 149248553,
+  "timestamp": "2026-07-13T17:31:47Z",
+  "version": 32,
+  "changeset": 185668245,
+  "user": "WinniePox",
+  "uid": 24286642,
+  "center": {
+    "lat": 59.9824669,
+    "lon": 30.2542688
+  },
+  "nodes": [
+    298320035,
+    298320037
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "service",
+    "layer": "1",
+    "maxweight:signed": "no",
+    "name": "3-й Елагин мост",
+    "name:de": "3. Jelagin-Brücke",
+    "name:etymology:wikidata": "Q4174533",
+    "name:ru": "3-й Елагин мост",
+    "smoothness": "excellent",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 368503777,
+  "timestamp": "2025-08-23T20:32:10Z",
+  "version": 5,
+  "changeset": 170898832,
+  "user": "Atalanttore",
+  "uid": 291453,
+  "center": {
+    "lat": 59.9755617,
+    "lon": 30.2580992
+  },
+  "nodes": [
+    1231935207,
+    28999007,
+    3723624261,
+    3723624262,
+    1231935218,
+    1231935214,
+    1231935207
+  ],
+  "tags": {
+    "bridge:structure": "beam",
+    "layer": "1",
+    "man_made": "bridge",
+    "name": "2-й Елагин мост",
+    "name:de": "2. Jelagin-Brücke",
+    "name:en": "2nd Elagin Bridge",
+    "name:ru": "2-й Елагин мост",
+    "wikidata": "Q3563156",
+    "wikipedia": "ru:2-й Елагин мост"
+  }
+},
+{
+  "type": "way",
+  "id": 368506891,
+  "timestamp": "2025-08-23T20:32:10Z",
+  "version": 6,
+  "changeset": 170898832,
+  "user": "Atalanttore",
+  "uid": 291453,
+  "center": {
+    "lat": 59.9824671,
+    "lon": 30.2542720
+  },
+  "nodes": [
+    1646567113,
+    3723658542,
+    5308362232,
+    298320037,
+    88225067,
+    28998467,
+    5308362233,
+    1646567113
+  ],
+  "tags": {
+    "bridge:structure": "beam",
+    "layer": "1",
+    "man_made": "bridge",
+    "name": "3-й Елагин мост",
+    "name:de": "3. Jelagin-Brücke",
+    "name:en": "3rd Elagin Bridge",
+    "name:ru": "3-й Елагин мост",
+    "wikidata": "Q3563073",
+    "wikipedia": "ru:3-й Елагин мост"
+  }
+},
+{
+  "type": "way",
+  "id": 369563617,
+  "timestamp": "2025-08-23T20:32:10Z",
+  "version": 6,
+  "changeset": 170898832,
+  "user": "Atalanttore",
+  "uid": 291453,
+  "center": {
+    "lat": 59.9774833,
+    "lon": 30.2716111
+  },
+  "nodes": [
+    1231347464,
+    3733386249,
+    5308362260,
+    5308362249,
+    5308362265,
+    3733386248,
+    5308362268,
+    1231347355,
+    5308362266,
+    298324400,
+    5308362261,
+    1231347464
+  ],
+  "tags": {
+    "bridge:structure": "beam",
+    "layer": "1",
+    "man_made": "bridge",
+    "name": "1-й Елагин мост",
+    "name:de": "1. Jelagin-Brücke",
+    "name:en": "1st Elagin Bridge",
+    "name:ru": "1-й Елагин мост",
+    "wikidata": "Q3563154",
+    "wikipedia": "ru:1-й Елагин мост"
+  }
+},
+{
+  "type": "way",
+  "id": 549549558,
+  "timestamp": "2025-08-23T20:32:10Z",
+  "version": 16,
+  "changeset": 170898832,
+  "user": "Atalanttore",
+  "uid": 291453,
+  "center": {
+    "lat": 59.9773888,
+    "lon": 30.2720946
+  },
+  "nodes": [
+    5308362249,
+    11908084053
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "service",
+    "layer": "1",
+    "maxweight": "12",
+    "name": "1-й Елагин мост",
+    "name:de": "1. Jelagin-Brücke",
+    "name:en": "1st Elagin Bridge",
+    "name:etymology:wikidata": "Q4174533",
+    "name:ru": "1-й Елагин мост",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 717881701,
+  "timestamp": "2023-11-05T14:26:14Z",
+  "version": 17,
+  "changeset": 143652372,
+  "user": "mini-me",
+  "uid": 3846961,
+  "center": {
+    "lat": 59.9793215,
+    "lon": 30.2700272
+  },
+  "nodes": [
+    6742144221,
+    6742144209,
+    6742144208,
+    1840538583,
+    1840538628,
+    6742144218,
+    6742144207,
+    6742144193,
+    6742144194,
+    6742144192,
+    6742144195,
+    6742144191,
+    6742144196,
+    6742144190,
+    6742144197,
+    6742144189,
+    6742144201,
+    6742144188,
+    6742144198,
+    6742144187,
+    6742144199,
+    6742144186,
+    6742144200,
+    6742144185,
+    6742144206,
+    6742144219,
+    6742144220,
+    1840538620,
+    1840538573,
+    6742144113,
+    6742144214,
+    6742144212,
+    6742144205,
+    6742144204,
+    6742144213,
+    6742144215,
+    6742144116,
+    6742144216,
+    6742144210,
+    6742144203,
+    6742144211,
+    6742144202,
+    6742144217,
+    6742144114,
+    6742144221
+  ],
+  "tags": {
+    "addr:housenumber": "4 литА",
+    "addr:place": "Елагин остров",
+    "addr:postcode": "197110",
+    "alt_name": "Елагинский дворец",
+    "building": "public",
+    "building:levels": "2",
+    "castle_type": "palace",
+    "historic": "castle",
+    "name": "Елагин дворец",
+    "name:de": "Jelagin-Palast",
+    "name:en": "Yelagin Palace",
+    "name:ru": "Елагин дворец",
+    "wikidata": "Q2568720"
+  }
+},
+{
+  "type": "way",
+  "id": 1283399395,
+  "timestamp": "2024-05-15T21:19:37Z",
+  "version": 1,
+  "changeset": 151381830,
+  "user": "Константин Гам",
+  "uid": 392109,
+  "center": {
+    "lat": 59.9775945,
+    "lon": 30.2710568
+  },
+  "nodes": [
+    11908084052,
+    298324400
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "service",
+    "layer": "1",
+    "maxweight": "12",
+    "name": "1-й Елагин мост",
+    "name:etymology:wikidata": "Q4174533",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1283399396,
+  "timestamp": "2024-05-15T21:19:37Z",
+  "version": 1,
+  "changeset": 151381830,
+  "user": "Константин Гам",
+  "uid": 392109,
+  "center": {
+    "lat": 59.9774988,
+    "lon": 30.2715394
+  },
+  "nodes": [
+    11908084053,
+    11908084052
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "service",
+    "layer": "1",
+    "maxweight": "12",
+    "name": "1-й Елагин мост",
+    "name:etymology:wikidata": "Q4174533",
+    "surface": "wood"
+  }
+},
+{
+  "type": "relation",
+  "id": 1445800,
+  "timestamp": "2023-10-23T15:42:24Z",
+  "version": 40,
+  "changeset": 143024375,
+  "user": "ncuxota",
+  "uid": 20455538,
+  "center": {
+    "lat": 59.9788276,
+    "lon": 30.2551019
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 112175865,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 907143557,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 907143559,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 907143558,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 112176698,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 907143573,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 907143572,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 907143574,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 907143577,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 907143578,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 907014582,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 907143567,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 907143566,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 907143562,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 907143560,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 907143561,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 112187548,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 907014584,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 907014583,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1217811693,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1217811692,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1217811702,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 112187550,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 243349186,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 243349185,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 243349184,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 243349183,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Центральный парк культуры и отдыха имени С. М. Кирова",
+    "type": "multipolygon",
+    "wikidata": "Q4504340",
+    "wikipedia": "ru:Центральный парк культуры и отдыха имени С. М. Кирова"
+  }
+},
+{
+  "type": "relation",
+  "id": 1576343,
+  "timestamp": "2024-02-24T20:09:35Z",
+  "version": 24,
+  "changeset": 147869335,
+  "user": "north79",
+  "uid": 1204984,
+  "center": {
+    "lat": 59.9788276,
+    "lon": 30.2551019
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 112175865,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 907143557,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 907143559,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 907143558,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 112176698,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 907143573,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 907143572,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 907143574,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 907143577,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 907143578,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 907014582,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 907143567,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 907143566,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 907143562,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 907143560,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 907143561,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 112187548,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 907014584,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 907014583,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1217811693,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1217811692,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1217811702,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 112187550,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 243349186,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 243349185,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 243349184,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 243349183,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "name": "Елагин остров",
+    "name:de": "Jelagin-Insel",
+    "name:en": "Yelagin Island",
+    "name:fi": "Mistulasaari",
+    "name:fr": "Île Yelagin",
+    "name:hr": "Jelagin",
+    "name:ru": "Елагин остров",
+    "place": "island",
+    "type": "multipolygon",
+    "wikidata": "Q4174533",
+    "wikipedia": "ru:Елагин остров"
+  }
+},
+{
+  "type": "relation",
+  "id": 2965059,
+  "timestamp": "2024-04-09T08:07:36Z",
+  "version": 41,
+  "changeset": 149764104,
+  "user": "dypa",
+  "uid": 385972,
+  "center": {
+    "lat": 59.9788276,
+    "lon": 30.2551019
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 112176698,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 907143573,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 907143572,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 907143574,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 907143577,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 907143578,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 907014582,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 907143567,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 907143566,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 907143562,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 907143560,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 907143561,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 112187548,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 907014584,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 907014583,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1217811693,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1217811692,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1217811702,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 112187550,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 243349186,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 243349185,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 243349184,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 243349183,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 112175865,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 907143557,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 907143559,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 907143558,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "boundary": "protected_area",
+    "law": "постановление Правительства Санкт-Петербурга № 647 от 26.06.2012 «О памятнике природы регионального значения „Елагин остров“»",
+    "leisure": "nature_reserve",
+    "name": "памятник природы «Елагин остров»",
+    "name:en": "Yelagin Island natural monument",
+    "name:ru": "памятник природы «Елагин остров»",
+    "name:uk": "Пам'ятник природи «Елагін острів»",
+    "protect_class": "3",
+    "protection_title": "памятник природы регионального значения",
+    "type": "multipolygon",
+    "website": "https://oopt.spb.ru/protected_area/elagin-ostrov/"
+  }
+},
+{
+  "type": "relation",
+  "id": 5633666,
+  "timestamp": "2025-08-23T20:32:10Z",
+  "version": 11,
+  "changeset": 170898832,
+  "user": "Atalanttore",
+  "uid": 291453,
+  "center": {
+    "lat": 59.9781585,
+    "lon": 30.2552805
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 368503777,
+      "role": "outline"
+    },
+    {
+      "type": "way",
+      "ref": 4461337,
+      "role": "across"
+    },
+    {
+      "type": "way",
+      "ref": 48520577,
+      "role": "under"
+    }
+  ],
+  "tags": {
+    "name": "2-й Елагин мост",
+    "name:de": "2. Jelagin-Brücke",
+    "name:en": "2nd Elagin Bridge",
+    "name:ru": "2-й Елагин мост",
+    "type": "bridge"
+  }
+},
+{
+  "type": "relation",
+  "id": 5633667,
+  "timestamp": "2025-08-23T20:32:10Z",
+  "version": 11,
+  "changeset": 170898832,
+  "user": "Atalanttore",
+  "uid": 291453,
+  "center": {
+    "lat": 59.9819962,
+    "lon": 30.2467230
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 368506891,
+      "role": "outline"
+    },
+    {
+      "type": "way",
+      "ref": 149248553,
+      "role": "across"
+    },
+    {
+      "type": "way",
+      "ref": 79629133,
+      "role": "under"
+    }
+  ],
+  "tags": {
+    "name": "3-й Елагин мост",
+    "name:de": "3. Jelagin-Brücke",
+    "name:ru": "3-й Елагин мост",
+    "type": "bridge"
+  }
+},
+{
+  "type": "relation",
+  "id": 5633668,
+  "timestamp": "2025-08-23T20:32:10Z",
+  "version": 13,
+  "changeset": 170898832,
+  "user": "Atalanttore",
+  "uid": 291453,
+  "center": {
+    "lat": 59.9781585,
+    "lon": 30.2552805
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 369563617,
+      "role": "outline"
+    },
+    {
+      "type": "way",
+      "ref": 36361150,
+      "role": "across"
+    },
+    {
+      "type": "way",
+      "ref": 549549558,
+      "role": "across"
+    },
+    {
+      "type": "way",
+      "ref": 1283399396,
+      "role": "across"
+    },
+    {
+      "type": "way",
+      "ref": 1283399395,
+      "role": "across"
+    },
+    {
+      "type": "way",
+      "ref": 48520577,
+      "role": "under"
+    }
+  ],
+  "tags": {
+    "name": "1-й Елагин мост",
+    "name:de": "1. Jelagin-Brücke",
+    "name:en": "1st Elagin Bridge",
+    "name:ru": "1-й Елагин мост",
+    "type": "bridge"
+  }
+},
+{
+  "type": "relation",
+  "id": 8613894,
+  "timestamp": "2025-11-19T17:31:37Z",
+  "version": 30,
+  "changeset": 174870497,
+  "user": "Peter_Otp",
+  "uid": 11373580,
+  "center": {
+    "lat": 59.9787920,
+    "lon": 30.2542763
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 1283257368,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1283257378,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 23150088,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1283257380,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 23150049,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1283257341,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1283257375,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1283257342,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1283257345,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1348976456,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 23149976,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1283257376,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 111342640,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 1348976442,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 9874572,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1348976454,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1348976441,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 659938233,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1348976451,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1348976480,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 174956261,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1348976467,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 659938230,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1348976445,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 9874549,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1348976443,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1348976470,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1348976485,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1348976484,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1348976489,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 23149992,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1348976469,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1283257353,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1348976486,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 659938228,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 28291454,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1348976474,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1348976475,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 659938227,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1348976477,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1348976479,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1283257352,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 111423047,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 111423056,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 1452027827,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "kpoos_id": "3230",
+    "kpoos_status": "поднадзорный",
+    "name": "Елагинские пруды",
+    "name:en": "Yelagin Ponds",
+    "name:postfix": "пруды",
+    "natural": "water",
+    "type": "multipolygon",
+    "water": "pond"
+  }
+},
+{
+  "type": "relation",
+  "id": 16106558,
+  "timestamp": "2023-07-18T21:13:23Z",
+  "version": 1,
+  "changeset": 138688027,
+  "user": "mini-me",
+  "uid": 3846961,
+  "center": {
+    "lat": 59.9839650,
+    "lon": 30.2497250
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 535340326,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1190480593,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "addr:city": "Санкт-Петербург",
+    "addr:housenumber": "104 с1",
+    "addr:postcode": "197374",
+    "addr:street": "улица Савушкина",
+    "building": "hotel",
+    "building:levels": "8",
+    "building:year_built": "2017",
+    "energy_class": "B",
+    "name": "ЖК «Елагин апарт»",
+    "roof:shape": "flat",
+    "rooms": "377",
+    "start_date": "2017-12-01",
+    "tourism": "hotel",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 21389222,
+  "timestamp": "2026-09-13T19:01:56Z",
+  "version": 1,
+  "changeset": 188976958,
+  "user": "masmirnov",
+  "uid": 16256027,
+  "center": {
+    "lat": 59.9866609,
+    "lon": 30.2570029
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 1558602832,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 231470866,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1558602829,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1558602828,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "developer": "RBI",
+    "landuse": "residential",
+    "name": "ЖК «Дом у Елагина острова»",
+    "residential": "apartments",
+    "type": "multipolygon"
+  }
+}
+
+  ]
+}

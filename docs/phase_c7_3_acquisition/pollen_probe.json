@@ -1,0 +1,134 @@
+{
+  "status": "verified_response",
+  "endpoint": "https://air-quality-api.open-meteo.com/v1/air-quality",
+  "source_url": "https://open-meteo.com/en/docs/air-quality-api",
+  "provider": "Open-Meteo",
+  "model": "cams_europe",
+  "model_name": "CAMS European Air Quality Forecast (CAMS ENSEMBLE)",
+  "data_kind": "modeled_forecast_and_recent_archived_forecast",
+  "observed_at_utc": null,
+  "model_issued_at_utc": null,
+  "pollens": [
+    "alder_pollen",
+    "birch_pollen",
+    "grass_pollen",
+    "mugwort_pollen",
+    "olive_pollen",
+    "ragweed_pollen"
+  ],
+  "concentration_unit": "grains/m³",
+  "interval_seconds": 3600,
+  "time_semantics": "instantaneous value valid for the indicated hour [t, t+1h) — NOT an accumulated preceding-hour sum",
+  "model_grid_degrees": 0.1,
+  "nominal_model_resolution_meters": 11000,
+  "forecast_horizon_days": 4,
+  "license": "CC-BY-4.0",
+  "attribution": "Pollen data by Open-Meteo.com; CAMS ENSEMBLE (Copernicus Atmosphere Monitoring Service) model",
+  "service_use": "noncommercial_research_probe",
+  "not_a_runtime_pollen_cache": true,
+  "no_sensitive_data_recorded": true,
+  "retrieved_at_utc": "2026-10-16T18:38:00.962291Z",
+  "response_date_header": "Fri, 16 Oct 2026 18:38:02 GMT",
+  "production_request": {
+    "latitude": "59.9405",
+    "longitude": "30.3165",
+    "hourly": "alder_pollen,birch_pollen,grass_pollen,mugwort_pollen,olive_pollen,ragweed_pollen",
+    "models": "cams_europe",
+    "timezone": "UTC",
+    "timeformat": "unixtime",
+    "past_days": "1",
+    "forecast_days": "4"
+  },
+  "production_response": {
+    "file": "pollen_public_pilot.json",
+    "raw_sha256": "ba91111453cb20334917ad30b162e014a411d1f5bed19bd4b8444e1e36bfa69b",
+    "bytes": 4694,
+    "returned_cell": [
+      59.9,
+      30.3
+    ],
+    "hours": 120
+  },
+  "production_known_hours_per_species": {
+    "alder_pollen": 120,
+    "birch_pollen": 120,
+    "grass_pollen": 120,
+    "mugwort_pollen": 120,
+    "olive_pollen": 120,
+    "ragweed_pollen": 120
+  },
+  "grid_response": {
+    "file": "pollen_grid_probe.json",
+    "points_sha256": "30c32a380b1f63612dde2ead3b7ff98f584b7b8ac9032f86ba802d0bf87218bd"
+  },
+  "season_request": {
+    "latitude": "59.9405",
+    "longitude": "30.3165",
+    "hourly": "alder_pollen,birch_pollen,grass_pollen,mugwort_pollen,olive_pollen,ragweed_pollen",
+    "models": "cams_europe",
+    "timezone": "UTC",
+    "timeformat": "unixtime",
+    "past_days": "92",
+    "forecast_days": "1"
+  },
+  "season_response": {
+    "file": "pollen_season_probe.json.gz",
+    "raw_sha256": "c8e3c8add3f470c98a65b07f48622aeae1a58800311a655d0ca6c7a348ca2c4c",
+    "bytes": 79701,
+    "summary": {
+      "hours": 2232,
+      "interval_start": "2026-07-16T00:00:00Z",
+      "interval_end": "2026-10-16T23:00:00Z",
+      "species": {
+        "alder_pollen": {
+          "known_hours": 2232,
+          "nonzero_hours": 0,
+          "max_grains_per_m3": null,
+          "max_at": null,
+          "first_nonzero_at": null,
+          "last_nonzero_at": null
+        },
+        "birch_pollen": {
+          "known_hours": 2232,
+          "nonzero_hours": 0,
+          "max_grains_per_m3": null,
+          "max_at": null,
+          "first_nonzero_at": null,
+          "last_nonzero_at": null
+        },
+        "grass_pollen": {
+          "known_hours": 2232,
+          "nonzero_hours": 1434,
+          "max_grains_per_m3": 32.6,
+          "max_at": "2026-07-17T11:00:00Z",
+          "first_nonzero_at": "2026-07-16T00:00:00Z",
+          "last_nonzero_at": "2026-10-08T17:00:00Z"
+        },
+        "mugwort_pollen": {
+          "known_hours": 2232,
+          "nonzero_hours": 1297,
+          "max_grains_per_m3": 348.6,
+          "max_at": "2026-08-05T18:00:00Z",
+          "first_nonzero_at": "2026-07-16T00:00:00Z",
+          "last_nonzero_at": "2026-09-19T09:00:00Z"
+        },
+        "olive_pollen": {
+          "known_hours": 2232,
+          "nonzero_hours": 0,
+          "max_grains_per_m3": null,
+          "max_at": null,
+          "first_nonzero_at": null,
+          "last_nonzero_at": null
+        },
+        "ragweed_pollen": {
+          "known_hours": 2232,
+          "nonzero_hours": 370,
+          "max_grains_per_m3": 620.5,
+          "max_at": "2026-09-05T06:00:00Z",
+          "first_nonzero_at": "2026-08-22T23:00:00Z",
+          "last_nonzero_at": "2026-09-29T11:00:00Z"
+        }
+      }
+    }
+  }
+}

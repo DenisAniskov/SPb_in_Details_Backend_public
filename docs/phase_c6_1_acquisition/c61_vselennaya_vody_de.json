@@ -1,0 +1,32 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-11T13:33:06Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 3937153654,
+  "lat": 59.9501043,
+  "lon": 30.3753068,
+  "timestamp": "2018-12-28T16:13:58Z",
+  "version": 7,
+  "changeset": 65845910,
+  "user": "parukhin",
+  "uid": 519501,
+  "tags": {
+    "name": "Вселенная воды",
+    "opening_hours": "We-Su 10:00-19:00",
+    "phone": "+7 812 4384375",
+    "tourism": "museum",
+    "website": "http://vodokanal-museum.ru/",
+    "wikidata": "Q4127329",
+    "wikipedia": "ru:Вселенная воды"
+  }
+}
+
+  ]
+}

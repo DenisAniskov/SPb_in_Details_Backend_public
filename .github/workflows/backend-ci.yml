@@ -1,0 +1,87 @@
+name: Backend CI
+
+# Public CI: no production secrets, no deployment, no registry pushes.
+# Every gate below also runs locally; see docs/DEPLOYMENT.md and README.md.
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: backend-ci-${{ github.workflow }}-${{ github.ref }}-${{ github.sha }}
+  cancel-in-progress: false
+
+jobs:
+  backend-ci:
+    name: Tests, provenance and container
+    runs-on: ubuntu-24.04
+    timeout-minutes: 30
+    env:
+      PYTHONUTF8: '1'
+      PYTHONDONTWRITEBYTECODE: '1'
+      PIP_DISABLE_PIP_VERSION_CHECK: '1'
+      BACKEND_ENV: development
+      # Untrusted runs never receive upstream keys. Empty values keep the
+      # optional products disabled and exercise the honest fallbacks instead.
+      GEOCODER_API_KEY: ''
+      SUGGEST_API_KEY: ''
+      MAPKIT_API_KEY: ''
+      OPENROUTER_API_KEY: ''
+    defaults:
+      run:
+        shell: bash
+    steps:
+      # Official v6.0.0 tag SHAs verified against upstream on 2026-10-11.
+      - name: Checkout complete history for the credential scan
+        uses: actions/checkout@1af3b93b6815bc44a9784bd300feb67ff0d1eeb3 # v6.0.0
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+      - name: Set up tested Python
+        uses: actions/setup-python@e797f83bcb11b83ae66e0230d6156d7c80228e7c # v6.0.0
+        with:
+          python-version: '3.14.7'
+      - name: Install hash-pinned runtime and pinned CI-only dependencies
+        run: |
+          mkdir -p .validation
+          python -m pip --isolated install --index-url https://pypi.org/simple --only-binary=:all: --require-hashes -r requirements.runtime.lock
+          python -m pip --isolated install --index-url https://pypi.org/simple --only-binary=:all: --no-deps pytest==9.1.1 pytest-asyncio==1.4.0 iniconfig==2.3.0 packaging==26.3 pluggy==1.6.0 pygments==2.21.0
+          python -m pip check | tee .validation/pip-check.log
+      - name: Compile sources and verify extraction provenance
+        run: |
+          python -m compileall -q app scripts tools tests container_entrypoint.py run.py
+          python tools/verify_extraction.py --output .validation/extraction-verification.json
+      - name: Scan worktree, index and complete history for credentials
+        run: python tools/scan_credentials.py | tee .validation/credential-scan.json
+      - name: Run the complete backend suite
+        run: python -m pytest -q -ra --junitxml=.validation/backend-pytest.xml | tee .validation/backend-pytest.log
+      - name: Validate catalog, history and original OSM bytes
+        run: |
+          python -m scripts.validate_phase_c6_1_catalog | tee .validation/catalog-validator.log
+          python -m app.db.validate_place_history | tee .validation/history-validator.log
+          python -m scripts.acquire_phase_c7_1_osm --verify | tee .validation/osm-verify.log
+      - name: Rebuild the OSM dataset twice and compare without overwriting committed artifacts
+        run: |
+          python -m scripts.build_phase_c7_1_buildings --check-reproducible --out "$RUNNER_TEMP/rebuilt.sqlite" --audit "$RUNNER_TEMP/rebuilt-audit.json" | tee .validation/osm-reproducibility.log
+          python tools/verify_osm_equivalence.py --original data/shade_buildings_spb_pilot.sqlite --rebuilt "$RUNNER_TEMP/rebuilt.sqlite" --output .validation/osm-equivalence.json
+      - name: Build the actual Linux amd64 runtime image
+        run: docker build --platform linux/amd64 --tag smartnavigator-backend:ci . 2>&1 | tee .validation/docker-build.log
+      - name: Run container HTTP, volume, persistence and backup acceptance
+        run: python scripts/container_smoke.py --image smartnavigator-backend:ci --report .validation/container-smoke.json | tee .validation/container-smoke.log
+      - name: Retain JSON/XML summaries only (no logs, no secrets in artifacts)
+        if: always()
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4.6.2
+        with:
+          name: backend-ci-validation
+          path: |
+            .validation/*.json
+            .validation/*.xml
+          if-no-files-found: warn
+          retention-days: 7
+          include-hidden-files: true # Only the explicit JSON/XML globs above.

@@ -1,0 +1,218 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-10T17:53:21Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2371402807,
+  "lat": 60.0196062,
+  "lon": 30.2874338,
+  "timestamp": "2013-07-02T23:23:25Z",
+  "version": 1,
+  "changeset": 16799039,
+  "user": "Danidin9",
+  "uid": 395588,
+  "tags": {
+    "access": "private",
+    "barrier": "gate"
+  }
+},
+{
+  "type": "node",
+  "id": 2976853663,
+  "lat": 60.0194575,
+  "lon": 30.2904998,
+  "timestamp": "2020-06-24T14:42:39Z",
+  "version": 2,
+  "changeset": 87092054,
+  "user": "Сергей Бокк",
+  "uid": 7966302,
+  "tags": {
+    "barrier": "gate"
+  }
+},
+{
+  "type": "node",
+  "id": 3687109960,
+  "lat": 59.9978871,
+  "lon": 30.2860051,
+  "timestamp": "2015-08-08T16:39:33Z",
+  "version": 1,
+  "changeset": 33204507,
+  "user": "Danidin9",
+  "uid": 395588,
+  "tags": {
+    "access": "private",
+    "barrier": "gate"
+  }
+},
+{
+  "type": "node",
+  "id": 7649798184,
+  "lat": 60.0185502,
+  "lon": 30.2877063,
+  "timestamp": "2026-10-07T10:44:58Z",
+  "version": 3,
+  "changeset": 190138569,
+  "user": "mavl",
+  "uid": 564990,
+  "tags": {
+    "barrier": "gate"
+  }
+},
+{
+  "type": "node",
+  "id": 7649809589,
+  "lat": 60.0199191,
+  "lon": 30.2915601,
+  "timestamp": "2026-10-07T10:45:49Z",
+  "version": 3,
+  "changeset": 190138623,
+  "user": "mavl",
+  "uid": 564990,
+  "tags": {
+    "barrier": "gate"
+  }
+},
+{
+  "type": "node",
+  "id": 7649809591,
+  "lat": 60.0188091,
+  "lon": 30.2869738,
+  "timestamp": "2026-10-07T10:45:46Z",
+  "version": 3,
+  "changeset": 190138623,
+  "user": "mavl",
+  "uid": 564990,
+  "tags": {
+    "barrier": "gate"
+  }
+},
+{
+  "type": "node",
+  "id": 7649809592,
+  "lat": 60.0201799,
+  "lon": 30.2890556,
+  "timestamp": "2026-10-07T10:44:51Z",
+  "version": 3,
+  "changeset": 190138569,
+  "user": "mavl",
+  "uid": 564990,
+  "tags": {
+    "barrier": "gate"
+  }
+},
+{
+  "type": "node",
+  "id": 7649809600,
+  "lat": 60.0184543,
+  "lon": 30.2881331,
+  "timestamp": "2026-10-07T10:45:19Z",
+  "version": 3,
+  "changeset": 190138599,
+  "user": "mavl",
+  "uid": 564990,
+  "tags": {
+    "barrier": "gate"
+  }
+},
+{
+  "type": "way",
+  "id": 143828654,
+  "timestamp": "2023-09-16T23:10:34Z",
+  "version": 22,
+  "changeset": 141361523,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "bounds": {
+    "minlat": 59.9969022,
+    "minlon": 30.2857846,
+    "maxlat": 59.9986130,
+    "maxlon": 30.2881303
+  },
+  "nodes": [
+    1573917571,
+    3687109960,
+    1573917564,
+    1573917565,
+    1573917562,
+    5016486796,
+    5016486799,
+    1573917563,
+    1573917566,
+    1573917567,
+    1573917568,
+    3687105248,
+    1573917574,
+    1573917573,
+    1573917572,
+    1573917569,
+    1573917570,
+    1573917571
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "сквер Мациевича",
+    "wikidata": "Q60851016",
+    "wikipedia": "ru:Сквер Мациевича"
+  }
+},
+{
+  "type": "way",
+  "id": 143828757,
+  "timestamp": "2026-10-07T10:46:26Z",
+  "version": 21,
+  "changeset": 190138649,
+  "user": "mavl",
+  "uid": 564990,
+  "bounds": {
+    "minlat": 60.0184451,
+    "minlon": 30.2869746,
+    "maxlat": 60.0202915,
+    "maxlon": 30.2916562
+  },
+  "nodes": [
+    1573918280,
+    2976853663,
+    7649809589,
+    1202835370,
+    1515970886,
+    1515970899,
+    7649798134,
+    1515970816,
+    1515970778,
+    1515970765,
+    1515970767,
+    1185688108,
+    1515970780,
+    1185688105,
+    1573918290,
+    1573918289,
+    1573918288,
+    1573918287,
+    1573918286,
+    1573918285,
+    1573918284,
+    1573918283,
+    1573918282,
+    1573918281,
+    7649809588,
+    7649809587,
+    7649809585,
+    7649798184,
+    7649809600,
+    1573918280
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "парк усадьбы Орловых-Денисовых"
+  }
+}
+
+  ]
+}

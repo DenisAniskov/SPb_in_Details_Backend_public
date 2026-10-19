@@ -1,0 +1,501 @@
+{
+  "checked_on": "2026-10-10",
+  "coverage_bounds": {
+    "south": 59.78,
+    "north": 60.15,
+    "west": 30.1,
+    "east": 30.58
+  },
+  "scope": "Urban Saint Petersburg. Bounding rectangle is an exclusion guard; administrative assignments use boundary evidence.",
+  "near_duplicate_threshold_meters": 120,
+  "places": [
+    {
+      "catalog_key": "hermitage-winter-palace",
+      "district": "Центральный район",
+      "osm_boundary_url": "https://www.openstreetmap.org/relation/1114902",
+      "assignment_method": "osm_boundary_point_in_polygon"
+    },
+    {
+      "catalog_key": "saint-isaacs-cathedral",
+      "district": "Адмиралтейский район",
+      "osm_boundary_url": "https://www.openstreetmap.org/relation/1114193",
+      "assignment_method": "osm_boundary_point_in_polygon"
+    },
+    {
+      "catalog_key": "savior-on-spilled-blood",
+      "district": "Центральный район",
+      "osm_boundary_url": "https://www.openstreetmap.org/relation/1114902",
+      "assignment_method": "osm_boundary_point_in_polygon"
+    },
+    {
+      "catalog_key": "peter-paul-fortress",
+      "district": "Петроградский район",
+      "osm_boundary_url": "https://www.openstreetmap.org/relation/1114905",
+      "assignment_method": "osm_boundary_point_in_polygon"
+    },
+    {
+      "catalog_key": "singer-house",
+      "district": "Центральный район",
+      "osm_boundary_url": "https://www.openstreetmap.org/relation/1114902",
+      "assignment_method": "osm_boundary_point_in_polygon"
+    },
+    {
+      "catalog_key": "russian-museum",
+      "district": "Центральный район",
+      "osm_boundary_url": "https://www.openstreetmap.org/relation/1114902",
+      "assignment_method": "osm_boundary_point_in_polygon"
+    },
+    {
+      "catalog_key": "faberge-museum",
+      "district": "Центральный район",
+      "osm_boundary_url": "https://www.openstreetmap.org/relation/1114902",
+      "assignment_method": "osm_boundary_point_in_polygon"
+    },
+    {
+      "catalog_key": "mariinsky-theatre",
+      "district": "Адмиралтейский район",
+      "osm_boundary_url": "https://www.openstreetmap.org/relation/1114193",
+      "assignment_method": "osm_boundary_point_in_polygon"
+    },
+    {
+      "catalog_key": "mosaic-courtyard",
+      "district": "Центральный район",
+      "osm_boundary_url": "https://www.openstreetmap.org/relation/1114902",
+      "assignment_method": "osm_boundary_point_in_polygon"
+    },
+    {
+      "catalog_key": "kunstkamera",
+      "district": "Василеостровский район",
+      "osm_boundary_url": "https://www.openstreetmap.org/relation/1114252",
+      "assignment_method": "osm_boundary_point_in_polygon"
+    },
+    {
+      "catalog_key": "popov-communications-museum",
+      "district": "Адмиралтейский район",
+      "osm_boundary_url": "https://www.openstreetmap.org/relation/1114193",
+      "assignment_method": "osm_boundary_point_in_polygon"
+    },
+    {
+      "catalog_key": "icebreaker-krasin",
+      "district": "Василеостровский район",
+      "osm_boundary_url": "https://www.openstreetmap.org/relation/1114252",
+      "assignment_method": "osm_boundary_point_in_polygon"
+    },
+    {
+      "catalog_key": "planetarium-one",
+      "district": "Московский район",
+      "osm_boundary_url": "https://www.openstreetmap.org/relation/338636",
+      "assignment_method": "osm_boundary_point_in_polygon"
+    },
+    {
+      "catalog_key": "summer-garden",
+      "district": "Центральный район",
+      "osm_boundary_url": "https://www.openstreetmap.org/relation/1114902",
+      "assignment_method": "osm_boundary_point_in_polygon"
+    },
+    {
+      "catalog_key": "peter-great-botanical-garden",
+      "district": "Петроградский район",
+      "osm_boundary_url": "https://www.openstreetmap.org/relation/1114905",
+      "assignment_method": "osm_boundary_point_in_polygon"
+    },
+    {
+      "catalog_key": "mikhailovsky-garden",
+      "district": "Центральный район",
+      "osm_boundary_url": "https://www.openstreetmap.org/relation/1114902",
+      "assignment_method": "osm_boundary_point_in_polygon"
+    },
+    {
+      "catalog_key": "tauride-garden",
+      "district": "Центральный район",
+      "osm_boundary_url": "https://www.openstreetmap.org/relation/1114902",
+      "assignment_method": "osm_boundary_point_in_polygon"
+    },
+    {
+      "catalog_key": "new-holland",
+      "district": "Адмиралтейский район",
+      "osm_boundary_url": "https://www.openstreetmap.org/relation/1114193",
+      "assignment_method": "osm_boundary_point_in_polygon"
+    },
+    {
+      "catalog_key": "sevkabel-port",
+      "district": "Василеостровский район",
+      "osm_boundary_url": "https://www.openstreetmap.org/relation/1114252",
+      "assignment_method": "osm_boundary_point_in_polygon"
+    },
+    {
+      "catalog_key": "berthold-centre",
+      "district": "Адмиралтейский район",
+      "osm_boundary_url": "https://www.openstreetmap.org/relation/1114193",
+      "assignment_method": "osm_boundary_point_in_polygon"
+    },
+    {
+      "catalog_key": "leningrad-zoo",
+      "district": "Петроградский район",
+      "osm_boundary_url": "https://www.openstreetmap.org/relation/1114905",
+      "assignment_method": "osm_boundary_point_in_polygon"
+    },
+    {
+      "catalog_key": "grand-maket-russia",
+      "district": "Московский район",
+      "osm_boundary_url": "https://www.openstreetmap.org/relation/338636",
+      "assignment_method": "osm_boundary_point_in_polygon"
+    },
+    {
+      "catalog_key": "neptune-oceanarium",
+      "district": "Адмиралтейский район",
+      "osm_boundary_url": "https://www.openstreetmap.org/relation/1114193",
+      "assignment_method": "osm_boundary_point_in_polygon"
+    },
+    {
+      "catalog_key": "gorokhovaya-rotunda",
+      "district": "Адмиралтейский район",
+      "osm_boundary_url": "https://www.openstreetmap.org/relation/1114193",
+      "assignment_method": "osm_boundary_point_in_polygon"
+    },
+    {
+      "catalog_key": "pel-apothecary",
+      "district": "Василеостровский район",
+      "osm_boundary_url": "https://www.openstreetmap.org/relation/1114252",
+      "assignment_method": "osm_boundary_point_in_polygon"
+    },
+    {
+      "catalog_key": "piskaryovskoye-memorial-cemetery",
+      "district": "Калининский район",
+      "osm_boundary_url": "https://www.openstreetmap.org/relation/1114806",
+      "assignment_method": "osm_boundary_point_in_polygon"
+    },
+    {
+      "catalog_key": "datsan-gunzechoinei",
+      "district": "Приморский район",
+      "osm_boundary_url": "https://www.openstreetmap.org/relation/1115367",
+      "assignment_method": "osm_boundary_point_in_polygon"
+    },
+    {
+      "catalog_key": "kamennoostrovsky-palace",
+      "district": "Петроградский район",
+      "osm_boundary_url": "https://www.openstreetmap.org/relation/1114905",
+      "assignment_method": "osm_boundary_point_in_polygon"
+    },
+    {
+      "catalog_key": "lopukhinsky-garden",
+      "district": "Петроградский район",
+      "osm_boundary_url": "https://www.openstreetmap.org/relation/1114905",
+      "assignment_method": "osm_boundary_point_in_polygon"
+    },
+    {
+      "catalog_key": "saint-petersburg-mosque",
+      "district": "Петроградский район",
+      "osm_boundary_url": "https://www.openstreetmap.org/relation/1114905",
+      "assignment_method": "osm_boundary_point_in_polygon"
+    },
+    {
+      "catalog_key": "yelagin-palace-museum",
+      "district": "Петроградский район",
+      "osm_boundary_url": "https://www.openstreetmap.org/relation/1114905",
+      "assignment_method": "osm_boundary_point_in_polygon"
+    },
+    {
+      "catalog_key": "shuvalovsky-park",
+      "district": "Выборгский район",
+      "osm_boundary_url": "https://www.openstreetmap.org/relation/1114354",
+      "assignment_method": "osm_boundary_point_in_polygon"
+    },
+    {
+      "catalog_key": "polyustrovsky-park",
+      "district": "Красногвардейский район",
+      "osm_boundary_url": "https://www.openstreetmap.org/relation/1114895",
+      "assignment_method": "osm_boundary_point_in_polygon"
+    },
+    {
+      "catalog_key": "udelny-park",
+      "district": "Приморский район",
+      "osm_boundary_url": "https://www.openstreetmap.org/relation/1115367",
+      "assignment_method": "osm_boundary_point_in_polygon"
+    },
+    {
+      "catalog_key": "murinsky-park",
+      "district": "Калининский район",
+      "osm_boundary_url": "https://www.openstreetmap.org/relation/1114806",
+      "assignment_method": "osm_boundary_point_in_polygon"
+    },
+    {
+      "catalog_key": "pionersky-park",
+      "district": "Калининский район",
+      "osm_boundary_url": "https://www.openstreetmap.org/relation/1114806",
+      "assignment_method": "osm_boundary_point_in_polygon"
+    },
+    {
+      "catalog_key": "steregushchy-memorial",
+      "district": "Петроградский район",
+      "osm_boundary_url": "https://www.openstreetmap.org/relation/1114905",
+      "assignment_method": "osm_boundary_point_in_polygon"
+    },
+    {
+      "catalog_key": "artillery-museum",
+      "district": "Петроградский район",
+      "osm_boundary_url": "https://www.openstreetmap.org/relation/1114905",
+      "assignment_method": "osm_boundary_point_in_polygon"
+    },
+    {
+      "catalog_key": "alfred-nobel-memorial",
+      "district": "Петроградский район",
+      "osm_boundary_url": "https://www.openstreetmap.org/relation/1114905",
+      "assignment_method": "osm_boundary_point_in_polygon"
+    },
+    {
+      "catalog_key": "cabin-of-peter-great",
+      "district": "Петроградский район",
+      "osm_boundary_url": "https://www.openstreetmap.org/relation/1114905",
+      "assignment_method": "osm_boundary_point_in_polygon"
+    },
+    {
+      "catalog_key": "political-history-museum",
+      "district": "Петроградский район",
+      "osm_boundary_url": "https://www.openstreetmap.org/relation/1114905",
+      "assignment_method": "osm_boundary_point_in_polygon"
+    },
+    {
+      "catalog_key": "sosnovka-park",
+      "district": "Выборгский район",
+      "osm_boundary_url": "https://www.openstreetmap.org/relation/1114354",
+      "assignment_method": "osm_boundary_point_in_polygon"
+    },
+    {
+      "catalog_key": "benua-garden",
+      "district": "Калининский район",
+      "osm_boundary_url": "https://www.openstreetmap.org/relation/1114806",
+      "assignment_method": "osm_boundary_point_in_polygon"
+    },
+    {
+      "catalog_key": "saint-petersburg-300-anniversary-park",
+      "district": "Приморский район",
+      "osm_boundary_url": "https://www.openstreetmap.org/relation/1115367",
+      "assignment_method": "osm_boundary_point_in_polygon"
+    },
+    {
+      "catalog_key": "divo-ostrov-theme-park",
+      "district": "Петроградский район",
+      "osm_boundary_url": "https://www.openstreetmap.org/relation/1114905",
+      "assignment_method": "osm_boundary_point_in_polygon"
+    },
+    {
+      "catalog_key": "maritime-victory-park",
+      "district": "Петроградский район",
+      "osm_boundary_url": "https://www.openstreetmap.org/relation/1114905",
+      "assignment_method": "osm_boundary_point_in_polygon"
+    },
+    {
+      "catalog_key": "aurora-cruiser-museum",
+      "district": "Петроградский район",
+      "osm_boundary_url": "https://www.openstreetmap.org/relation/1114905",
+      "assignment_method": "osm_boundary_point_in_polygon"
+    },
+    {
+      "catalog_key": "forestry-academy-park",
+      "district": "Выборгский район",
+      "osm_boundary_url": "https://www.openstreetmap.org/relation/1114354",
+      "assignment_method": "osm_boundary_point_in_polygon"
+    },
+    {
+      "catalog_key": "sampsonievsky-garden",
+      "district": "Выборгский район",
+      "osm_boundary_url": "https://www.openstreetmap.org/relation/1114354",
+      "assignment_method": "osm_boundary_point_in_polygon"
+    },
+    {
+      "catalog_key": "sampsonievsky-cathedral",
+      "district": "Выборгский район",
+      "osm_boundary_url": "https://www.openstreetmap.org/relation/1114354",
+      "assignment_method": "osm_boundary_point_in_polygon"
+    },
+    {
+      "catalog_key": "malinovka-park",
+      "district": "Красногвардейский район",
+      "osm_boundary_url": "https://www.openstreetmap.org/relation/1114895",
+      "assignment_method": "osm_boundary_point_in_polygon"
+    },
+    {
+      "catalog_key": "ladozhsky-park",
+      "district": "Красногвардейский район",
+      "osm_boundary_url": "https://www.openstreetmap.org/relation/1114895",
+      "assignment_method": "osm_boundary_point_in_polygon"
+    },
+    {
+      "catalog_key": "academician-sakharov-park",
+      "district": "Калининский район",
+      "osm_boundary_url": "https://www.openstreetmap.org/relation/1114806",
+      "assignment_method": "osm_boundary_point_in_polygon"
+    },
+    {
+      "catalog_key": "grenadersky-garden",
+      "district": "Выборгский район",
+      "osm_boundary_url": "https://www.openstreetmap.org/relation/1114354",
+      "assignment_method": "osm_boundary_point_in_polygon"
+    },
+    {
+      "catalog_key": "sosnovka-military-airfield-memorial",
+      "district": "Выборгский район",
+      "osm_boundary_url": "https://www.openstreetmap.org/relation/1114354",
+      "assignment_method": "osm_boundary_point_in_polygon"
+    },
+    {
+      "catalog_key": "erarta-museum",
+      "district": "Василеостровский район",
+      "osm_boundary_url": "https://www.openstreetmap.org/relation/1114252",
+      "assignment_method": "osm_boundary_point_in_polygon"
+    },
+    {
+      "catalog_key": "mining-museum",
+      "district": "Василеостровский район",
+      "osm_boundary_url": "https://www.openstreetmap.org/relation/1114252",
+      "assignment_method": "osm_boundary_point_in_polygon"
+    },
+    {
+      "catalog_key": "railway-museum",
+      "district": "Адмиралтейский район",
+      "osm_boundary_url": "https://www.openstreetmap.org/relation/1114193",
+      "assignment_method": "osm_boundary_point_in_polygon"
+    },
+    {
+      "catalog_key": "babushkin-park",
+      "district": "Невский район",
+      "osm_boundary_url": "https://www.openstreetmap.org/relation/368287",
+      "assignment_method": "osm_boundary_point_in_polygon"
+    },
+    {
+      "catalog_key": "victory-defenders-monument",
+      "district": "Московский район",
+      "osm_boundary_url": "https://www.openstreetmap.org/relation/338636",
+      "assignment_method": "osm_boundary_point_in_polygon"
+    },
+    {
+      "catalog_key": "alexandrinsky-theatre",
+      "district": "Центральный район",
+      "osm_boundary_url": "https://www.openstreetmap.org/relation/1114902",
+      "assignment_method": "osm_boundary_point_in_polygon"
+    },
+    {
+      "catalog_key": "yusupov-moika-palace",
+      "district": "Адмиралтейский район",
+      "osm_boundary_url": "https://www.openstreetmap.org/relation/1114193",
+      "assignment_method": "osm_boundary_point_in_polygon"
+    },
+    {
+      "catalog_key": "novodevichy-monastery",
+      "district": "Московский район",
+      "osm_boundary_url": "https://www.openstreetmap.org/relation/338636",
+      "assignment_method": "osm_boundary_point_in_polygon"
+    },
+    {
+      "catalog_key": "mikhailovsky-castle",
+      "district": "Центральный район",
+      "osm_boundary_url": "https://www.openstreetmap.org/relation/1114902",
+      "assignment_method": "osm_boundary_point_in_polygon"
+    },
+    {
+      "catalog_key": "moskovsky-victory-park",
+      "district": "Московский район",
+      "osm_boundary_url": "https://www.openstreetmap.org/relation/338636",
+      "assignment_method": "osm_boundary_point_in_polygon"
+    },
+    {
+      "catalog_key": "polezhaevsky-park",
+      "district": "Красносельский район",
+      "osm_boundary_url": "https://www.openstreetmap.org/relation/363103",
+      "assignment_method": "osm_boundary_point_in_polygon"
+    },
+    {
+      "catalog_key": "alexandrino-park",
+      "district": "Кировский район",
+      "osm_boundary_url": "https://www.openstreetmap.org/relation/1114809",
+      "assignment_method": "osm_boundary_point_in_polygon"
+    },
+    {
+      "catalog_key": "ekateringof-park",
+      "district": "Адмиралтейский район",
+      "osm_boundary_url": "https://www.openstreetmap.org/relation/1114193",
+      "assignment_method": "osm_boundary_point_in_polygon"
+    },
+    {
+      "catalog_key": "smolny-cathedral",
+      "district": "Центральный район",
+      "osm_boundary_url": "https://www.openstreetmap.org/relation/1114902",
+      "assignment_method": "osm_boundary_point_in_polygon"
+    },
+    {
+      "catalog_key": "chesme-palace",
+      "district": "Московский район",
+      "osm_boundary_url": "https://www.openstreetmap.org/relation/338636",
+      "assignment_method": "osm_boundary_point_in_polygon"
+    },
+    {
+      "catalog_key": "akhmatova-fountain-house",
+      "district": "Центральный район",
+      "osm_boundary_url": "https://www.openstreetmap.org/relation/1114902",
+      "assignment_method": "osm_boundary_point_in_polygon"
+    },
+    {
+      "catalog_key": "tauride-palace",
+      "district": "Центральный район",
+      "osm_boundary_url": "https://www.openstreetmap.org/relation/1114902",
+      "assignment_method": "osm_boundary_point_in_polygon"
+    },
+    {
+      "catalog_key": "kurakina-dacha-park",
+      "district": "Невский район",
+      "osm_boundary_url": "https://www.openstreetmap.org/relation/368287",
+      "assignment_method": "osm_boundary_point_in_polygon"
+    },
+    {
+      "catalog_key": "kazan-cathedral",
+      "district": "Центральный район",
+      "osm_boundary_url": "https://www.openstreetmap.org/relation/1114902",
+      "assignment_method": "osm_boundary_point_in_polygon"
+    },
+    {
+      "catalog_key": "south-primorsky-park",
+      "district": "Красносельский район",
+      "osm_boundary_url": "https://www.openstreetmap.org/relation/363103",
+      "assignment_method": "osm_boundary_point_in_polygon"
+    },
+    {
+      "catalog_key": "novoznamenka-park",
+      "district": "Красносельский район",
+      "osm_boundary_url": "https://www.openstreetmap.org/relation/363103",
+      "assignment_method": "osm_boundary_point_in_polygon"
+    },
+    {
+      "catalog_key": "aviators-park",
+      "district": "Московский район",
+      "osm_boundary_url": "https://www.openstreetmap.org/relation/338636",
+      "assignment_method": "osm_boundary_point_in_polygon"
+    }
+  ],
+  "district_counts": {
+    "Адмиралтейский район": 10,
+    "Василеостровский район": 6,
+    "Выборгский район": 7,
+    "Калининский район": 5,
+    "Кировский район": 1,
+    "Красногвардейский район": 3,
+    "Красносельский район": 3,
+    "Московский район": 7,
+    "Невский район": 2,
+    "Петроградский район": 15,
+    "Приморский район": 3,
+    "Центральный район": 15
+  },
+  "nearby_pairs": [
+    {
+      "catalog_keys": [
+        "political-history-museum",
+        "saint-petersburg-mosque"
+      ],
+      "distance_meters": 102.388,
+      "classification": "distinct_attractions",
+      "rationale": "Отдельные здания и назначения: музей политической истории (way/43679385) и соборная мечеть (way/28712430). Близость представительских маркеров 102 м не делает их одним объектом; музейный визит90мин и внешний архитектурный осмотр20мин различаются.",
+      "reviewed_on": "2026-10-10"
+    }
+  ]
+}

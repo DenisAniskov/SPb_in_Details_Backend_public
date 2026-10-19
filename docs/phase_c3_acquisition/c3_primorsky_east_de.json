@@ -1,0 +1,9260 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-10T16:46:21Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 80317281,
+  "lat": 59.9702963,
+  "lon": 30.3861357,
+  "timestamp": "2026-02-23T18:50:46Z",
+  "version": 23,
+  "changeset": 178957311,
+  "user": "Afanasovich",
+  "uid": 2101839,
+  "tags": {
+    "historic": "memorial",
+    "memorial": "statue",
+    "memorial:subject": "Михаил Иванович Калинин",
+    "name": "М. И. Калинин",
+    "subject:wikidata": "Q229828",
+    "subject:wikipedia": "ru:Калинин, Михаил Иванович",
+    "wikidata": "Q101093708",
+    "wikipedia": "ru:Памятник М. И. Калинину (Санкт-Петербург)"
+  }
+},
+{
+  "type": "node",
+  "id": 242160221,
+  "lat": 59.9975807,
+  "lon": 30.4238754,
+  "timestamp": "2024-06-21T05:48:48Z",
+  "version": 18,
+  "changeset": 152975712,
+  "user": "geozeisig",
+  "uid": 66391,
+  "tags": {
+    "historic": "monument",
+    "memorial": "war_memorial",
+    "monument": "statue",
+    "name": "Родина-Мать",
+    "name:en": "Mother-Motherland",
+    "name:ru": "Родина-Мать",
+    "wikidata": "Q18408885",
+    "wikipedia": "ru:Мать-Родина"
+  }
+},
+{
+  "type": "node",
+  "id": 245432030,
+  "lat": 60.0414506,
+  "lon": 30.3875943,
+  "timestamp": "2023-08-19T15:25:58Z",
+  "version": 9,
+  "changeset": 140099489,
+  "user": "nyapo",
+  "uid": 18785733,
+  "tags": {
+    "alt_name": "Летящий Прометей",
+    "artist_name": "Р. Красницкий;Ф. Романовский",
+    "artwork_type": "sculpture",
+    "name": "Прометей",
+    "name:en": "Promepheus",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 316059655,
+  "lat": 59.9832247,
+  "lon": 30.3992963,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 15,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "historic": "memorial",
+    "name": "Подводная лодка"
+  }
+},
+{
+  "type": "node",
+  "id": 320034011,
+  "lat": 60.0111924,
+  "lon": 30.3726686,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 17,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "description:1": "\"Памятник В.И. Чапаеву установлен здесь воинами-ленинградцами в блокадную зиму 1942/43 года как символ беспримерного мужества и стойкости защитников города Ленина.\"",
+    "description:2": "Скульптор М.С. Манизер. Архитектор Н.Ф. Бровкин. Отлит в 1988 году. Авторского повторение аналогичного памятника открытого в городе Куйбышеве (Самаре) в 1932 году.",
+    "historic": "monument",
+    "name": "Василию Ивановичу Чапаеву"
+  }
+},
+{
+  "type": "node",
+  "id": 444986433,
+  "lat": 60.0084003,
+  "lon": 30.3753026,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 12,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "historic": "memorial",
+    "inscription": "На этом месте в блокадную зиму 1941-42г.г. находился артезианский колодец, снабжавший водой семьи сотрудников Политехнического института и два расположенных поблизости военных госпиталя.",
+    "memorial": "stone",
+    "name": "Блокадный колодец"
+  }
+},
+{
+  "type": "node",
+  "id": 444997399,
+  "lat": 59.9911527,
+  "lon": 30.3459686,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 16,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "historic": "memorial",
+    "inscription": "Вечная память героям Октябрьской революции",
+    "memorial": "stele",
+    "name": "Героям Октябрьской революции"
+  }
+},
+{
+  "type": "node",
+  "id": 445108711,
+  "lat": 60.0189426,
+  "lon": 30.3510136,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 15,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "historic": "monument",
+    "name": "Военному аэродрому Сосновка"
+  }
+},
+{
+  "type": "node",
+  "id": 448465650,
+  "lat": 59.9970388,
+  "lon": 30.3346734,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 15,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "description": "В 1825 г. в парке состоялась одна из самых громких дуэлей в Санкт-Петербурге. 10 сентября в 6 часов утра стрелялись флигель-адьютант имп. Александра I Владимир Новосильцев и поручик лейб-гвардии Семёновского полка Константин Чернов, декабрист, члена Север",
+    "description:1": "10 сентября 1825 года на этом месте состоялась дуэль члена Северного тайного общества К.П. Чернова с В.Д. Новосильцевым. Секундантом К.П. Чернова был К.Ф. Рылеев.",
+    "description:2": "Похороны К.П. Чернова вылились в первую массовую демонстрацию организованную членами Северного тайного общества - декабристами.",
+    "historic": "memorial",
+    "material": "stone",
+    "memorial": "stele",
+    "name": "Место дуэли Новосильцева и Чернова 14 сентября 1825 г."
+  }
+},
+{
+  "type": "node",
+  "id": 448509913,
+  "lat": 59.9925995,
+  "lon": 30.3414433,
+  "timestamp": "2024-05-10T14:13:53Z",
+  "version": 18,
+  "changeset": 151149003,
+  "user": "mrcopperbeard",
+  "uid": 21416925,
+  "tags": {
+    "historic": "memorial",
+    "inscription": "Проработал в Лесотехнической академии на научно-педагогических работах 45 лет. Написал более 200 научных трудов. Создал научную коллекцию Дендрологического сада и благоустройство парка.",
+    "memorial": "obelisk",
+    "memorial:subject": "Эгберт Людвигович Вольф",
+    "name": "Э. Л. Вольфу",
+    "subject:wikidata": "Q4124767",
+    "subject:wikipedia": "ru:Вольф, Эгберт Людвигович"
+  }
+},
+{
+  "type": "node",
+  "id": 649424601,
+  "lat": 59.9716153,
+  "lon": 30.3227528,
+  "timestamp": "2020-07-22T16:20:36Z",
+  "version": 5,
+  "changeset": 88359027,
+  "user": "parukhin",
+  "uid": 519501,
+  "tags": {
+    "addr:door": "33",
+    "contact:email": "radioemc@yandex.ru",
+    "contact:phone": "+7 812 2345900",
+    "contact:website": "http://www.eltech.ru/ru/universitet/istoriya-universiteta/memorialnyy-muzey-as-popova",
+    "level": "2",
+    "name": "Музей-квартира А. С. Попова",
+    "opening_hours": "Mo-Fr 11:00-16:30",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 659405364,
+  "lat": 59.9830279,
+  "lon": 30.3989809,
+  "timestamp": "2022-06-25T13:06:34Z",
+  "version": 6,
+  "changeset": 122836815,
+  "user": "PNovikov",
+  "uid": 3029855,
+  "tags": {
+    "contact:vk": "clubmipsrm",
+    "email": "mipsrm@list.ru",
+    "name": "Музей подводных сил РФ",
+    "opening_hours": "We-Su 09:30-18:00",
+    "phone": "+7 812 246 49 87",
+    "tourism": "museum",
+    "website": "http://музеймаринеско.рф/"
+  }
+},
+{
+  "type": "node",
+  "id": 965442893,
+  "lat": 60.0077883,
+  "lon": 30.3710300,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 19,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "description": "Здесь учился и работал с 1912 по 1921 год академик Капица Петр Леонидович (1894 - 1984) Лауреат Нобелевской премии Дважды Герой Социалистического труда",
+    "historic": "memorial",
+    "memorial": "plaque",
+    "memorial:subject": "Пётр Леонидович Капица",
+    "name": "П. Л. Капице",
+    "subject:wikidata": "Q172844",
+    "subject:wikipedia": "ru:Капица, Пётр Леонидович"
+  }
+},
+{
+  "type": "node",
+  "id": 965442911,
+  "lat": 60.0088508,
+  "lon": 30.3724226,
+  "timestamp": "2012-12-11T12:57:36Z",
+  "version": 3,
+  "changeset": 14237839,
+  "user": "Danidin9",
+  "uid": 395588,
+  "tags": {
+    "artwork_type": "sculpture",
+    "name": "Дореволюционный студент",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 965442926,
+  "lat": 60.0039401,
+  "lon": 30.3481818,
+  "timestamp": "2011-03-06T17:14:44Z",
+  "version": 2,
+  "changeset": 7475741,
+  "user": "Danidin9",
+  "uid": 395588,
+  "tags": {
+    "artwork_type": "sculpture",
+    "name": "Сидящий мальчик",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 965442938,
+  "lat": 59.9950028,
+  "lon": 30.3299723,
+  "timestamp": "2025-04-27T19:22:03Z",
+  "version": 17,
+  "changeset": 165520496,
+  "user": "asdfwqer",
+  "uid": 20626553,
+  "tags": {
+    "historic": "memorial",
+    "memorial": "bust",
+    "memorial:subject": "Владимир Ильич Ленин",
+    "name": "В. И. Ленин",
+    "subject:wikidata": "Q1394",
+    "subject:wikipedia": "ru:Ленин, Владимир Ильич"
+  }
+},
+{
+  "type": "node",
+  "id": 965442940,
+  "lat": 60.0047459,
+  "lon": 30.3790093,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 16,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "description": "Здесь с 1950 года по 1979 год жил видный советский ученый в области автоматизированных систем управления герой социалистического труда лауреат ленинской и государственных премий профессор доктор технических наук Тарас Николаевич Соколов 1911-1979",
+    "historic": "memorial",
+    "memorial": "plaque",
+    "memorial:subject": "Тарас Николаевич Соколов",
+    "name": "Т. Н. Соколову",
+    "subject:wikidata": "Q4427252",
+    "subject:wikipedia": "ru:Соколов, Тарас Николаевич"
+  }
+},
+{
+  "type": "node",
+  "id": 965442959,
+  "lat": 59.9708086,
+  "lon": 30.3403565,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 18,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "historic": "memorial",
+    "inscription": "Смолячков",
+    "memorial": "bust",
+    "memorial:subject": "Феодосий Артемьевич Смолячков",
+    "name": "Ф. А. Смолячков",
+    "subject:wikidata": "Q4425153",
+    "subject:wikipedia": "ru:Смолячков, Феодосий Артемьевич"
+  }
+},
+{
+  "type": "node",
+  "id": 965442963,
+  "lat": 60.0078435,
+  "lon": 30.3710780,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 20,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "historic": "memorial",
+    "inscription": "Здесь работал с 1921 по 1938 год академик Семенов Николай Николаевич (1896 - 1986) Лауреат Нобелевской премии Дважды Герой Социалистического труда",
+    "memorial": "plaque",
+    "memorial:subject": "Николай Николаевич Семёнов",
+    "name": "Н. Н. Семёнову",
+    "subject:wikidata": "Q48990",
+    "subject:wikipedia": "ru:Семёнов, Николай Николаевич"
+  }
+},
+{
+  "type": "node",
+  "id": 965443006,
+  "lat": 60.0066104,
+  "lon": 30.3724521,
+  "timestamp": "2024-07-08T05:12:58Z",
+  "version": 17,
+  "changeset": 153686207,
+  "user": "asdfwqer",
+  "uid": 20626553,
+  "tags": {
+    "description": "Политехникам. За родину за коммунизм жизнь свою отдавшим в великую отечественную войну 1941-1945. Дела и ратные подвиги ваши бессмертны в памяти поколений",
+    "historic": "memorial",
+    "memorial": "war_memorial",
+    "name": "Политехникам",
+    "wikidata": "Q105304219",
+    "wikipedia": "ru:Памятник погибшим политехникам"
+  }
+},
+{
+  "type": "node",
+  "id": 965443012,
+  "lat": 60.0076835,
+  "lon": 30.3709584,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 19,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "historic": "memorial",
+    "inscription": "Здесь учился и работал с 1920 по 1938 год академик Харитон Юлий Борисович (1904–1996), выдающийся ученый-физик, трижды Герой Социалистического труда",
+    "memorial": "plaque",
+    "memorial:subject": "Юлий Борисович Харитон",
+    "name": "Ю. Б. Харитону",
+    "subject:wikidata": "Q561752",
+    "subject:wikipedia": "ru:Харитон, Юлий Борисович"
+  }
+},
+{
+  "type": "node",
+  "id": 966681697,
+  "lat": 60.0115657,
+  "lon": 30.3669813,
+  "timestamp": "2021-07-15T08:59:15Z",
+  "version": 3,
+  "changeset": 108034256,
+  "user": "Zavgor1990",
+  "uid": 11591067,
+  "tags": {
+    "artist_name": "Владимир Лащинин",
+    "artwork_type": "graffiti",
+    "name": "Клетка",
+    "start_date": "1987",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 973600021,
+  "lat": 59.9711806,
+  "lon": 30.3229412,
+  "timestamp": "2025-04-01T09:39:40Z",
+  "version": 13,
+  "changeset": 164365985,
+  "user": "Afanasovich",
+  "uid": 2101839,
+  "tags": {
+    "addr:city": "Санкт-Петербург",
+    "addr:country": "RU",
+    "addr:housenumber": "2",
+    "addr:postcode": "197376",
+    "addr:street": "улица Профессора Попова",
+    "contact:email": "bot_museum@mail.ru",
+    "contact:phone": "+7 812 2340673",
+    "contact:website": "http://www.binran.ru/botmus/",
+    "description": "Коллекция музея - натуральные экспонаты из различных регионов Земли",
+    "description:en": "Museum's cillection - natural objects from different regions of the Earth",
+    "description:ru": "Коллекция музея - натуральные экспонаты из различных регионов Земли",
+    "fee": "yes",
+    "full_name": "Ботанический институт им. В.Л. Комарова Российской Академии наук. Ботанический музей",
+    "full_name:en": "Russian Academy of Sciences Botanical Museum",
+    "full_name:ru": "Ботанический институт им. В.Л. Комарова Российской Академии наук. Ботанический музей",
+    "name": "Ботанический музей",
+    "name:de": "Botanisches Museum",
+    "name:en": "Botanical Museum",
+    "name:ru": "Ботанический музей",
+    "tourism": "museum",
+    "wikidata": "Q112055113",
+    "wikipedia": "ru:Ботанический музей"
+  }
+},
+{
+  "type": "node",
+  "id": 1003172685,
+  "lat": 59.9796174,
+  "lon": 30.3368143,
+  "timestamp": "2026-03-18T20:58:38Z",
+  "version": 22,
+  "changeset": 180079009,
+  "user": "masmirnov",
+  "uid": 16256027,
+  "tags": {
+    "historic": "memorial",
+    "memorial": "bust",
+    "memorial:subject": "Александр Матвеевич Матросов",
+    "name": "А. М. Матросов",
+    "subject:wikidata": "Q468094",
+    "subject:wikipedia": "ru:Матросов, Александр Матвеевич"
+  }
+},
+{
+  "type": "node",
+  "id": 1095822593,
+  "lat": 59.9948460,
+  "lon": 30.4209977,
+  "timestamp": "2024-03-06T17:01:22Z",
+  "version": 14,
+  "changeset": 148305484,
+  "user": "Bobropiton",
+  "uid": 2055718,
+  "tags": {
+    "historic": "memorial",
+    "name": "Вечный огонь"
+  }
+},
+{
+  "type": "node",
+  "id": 1147496993,
+  "lat": 60.0413814,
+  "lon": 30.3041036,
+  "timestamp": "2014-07-23T19:34:32Z",
+  "version": 8,
+  "changeset": 24318237,
+  "user": "VlIvYur",
+  "uid": 345975,
+  "tags": {
+    "artwork_type": "sculpture",
+    "int_name": "Rower",
+    "name": "Каменный гребец",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 1147520714,
+  "lat": 60.0301963,
+  "lon": 30.3299819,
+  "timestamp": "2024-11-21T09:08:22Z",
+  "version": 19,
+  "changeset": 159400026,
+  "user": "asdfwqer",
+  "uid": 20626553,
+  "tags": {
+    "historic": "memorial",
+    "inscription": "Сергей Есенин",
+    "int_name": "Poet Yesenin",
+    "memorial": "statue",
+    "memorial:subject": "Сергей Александрович Есенин",
+    "name": "С. А. Есенин",
+    "start_date": "2009",
+    "subject:wikidata": "Q31628",
+    "subject:wikipedia": "ru:Есенин, Сергей Александрович"
+  }
+},
+{
+  "type": "node",
+  "id": 1158861685,
+  "lat": 59.9808543,
+  "lon": 30.3004052,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 19,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "historic": "memorial",
+    "inscription": "Здесь А. С. Пушкин крестил своих детей",
+    "memorial": "plaque",
+    "memorial:subject": "Александр Сергеевич Пушкин",
+    "name": "А. С. Пушкину",
+    "subject:wikidata": "Q7200",
+    "subject:wikipedia": "ru:Пушкин, Александр Сергеевич"
+  }
+},
+{
+  "type": "node",
+  "id": 1170985313,
+  "lat": 59.9704380,
+  "lon": 30.3002832,
+  "timestamp": "2024-12-05T04:57:38Z",
+  "version": 15,
+  "changeset": 159941553,
+  "user": "mini-me",
+  "uid": 3846961,
+  "tags": {
+    "historic": "memorial",
+    "int_name": "St. John of Kronstadt",
+    "memorial": "plaque",
+    "name": "Усыпальница св. прв. Иоанна Кронштадского"
+  }
+},
+{
+  "type": "node",
+  "id": 1205392940,
+  "lat": 60.0331521,
+  "lon": 30.3741339,
+  "timestamp": "2024-12-19T20:16:59Z",
+  "version": 4,
+  "changeset": 160409280,
+  "user": "LateGuest",
+  "uid": 6873752,
+  "tags": {
+    "artist:wikidata": "Q4513695",
+    "artist_name": "А. Н. Черницкий",
+    "artwork_type": "sculpture",
+    "description": "Женская фигура",
+    "material": "granite",
+    "name": "Земля",
+    "start_date": "1987..1988",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 1205393614,
+  "lat": 60.0335857,
+  "lon": 30.3729097,
+  "timestamp": "2024-12-19T20:16:59Z",
+  "version": 4,
+  "changeset": 160409280,
+  "user": "LateGuest",
+  "uid": 6873752,
+  "tags": {
+    "artist:wikidata": "Q4513695",
+    "artist_name": "А. Н. Черницкий",
+    "artwork_type": "sculpture",
+    "description": "Женская фигура",
+    "material": "granite",
+    "name": "Девушка",
+    "start_date": "1985",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 1205393813,
+  "lat": 60.0332849,
+  "lon": 30.3730348,
+  "timestamp": "2024-12-19T20:16:59Z",
+  "version": 5,
+  "changeset": 160409280,
+  "user": "LateGuest",
+  "uid": 6873752,
+  "tags": {
+    "artist:wikidata": "Q4513695",
+    "artist_name": "А. Н. Черницкий",
+    "artwork_type": "sculpture",
+    "description": "Женская фигура",
+    "material": "granite",
+    "name": "Восходящее солнце",
+    "start_date": "1985",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 1259330875,
+  "lat": 60.0566869,
+  "lon": 30.3367033,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 14,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "historic": "memorial",
+    "memorial": "statue",
+    "memorial:subject": "Дмитрий Дмитриевич Шостакович",
+    "name": "Д. Д. Шостакович",
+    "subject:wikidata": "Q80135",
+    "subject:wikipedia": "ru:Шостакович, Дмитрий Дмитриевич"
+  }
+},
+{
+  "type": "node",
+  "id": 1326749709,
+  "lat": 60.0451454,
+  "lon": 30.4423386,
+  "timestamp": "2026-10-07T10:44:40Z",
+  "version": 12,
+  "changeset": 190138569,
+  "user": "mavl",
+  "uid": 564990,
+  "tags": {
+    "historic": "memorial",
+    "name": "Монумент военным лётчикам"
+  }
+},
+{
+  "type": "node",
+  "id": 1375788862,
+  "lat": 60.0233481,
+  "lon": 30.3074525,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 15,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "historic": "memorial",
+    "inscription": "Царю основателю",
+    "memorial": "bust",
+    "memorial:subject": "Александр III",
+    "name": "Александр III",
+    "subject:wikidata": "Q120180",
+    "subject:wikipedia": "ru:Александр III"
+  }
+},
+{
+  "type": "node",
+  "id": 1388955203,
+  "lat": 59.9910167,
+  "lon": 30.3953779,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 13,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "historic": "memorial",
+    "name": "Братские захоронения 1941-1945 гг."
+  }
+},
+{
+  "type": "node",
+  "id": 1428589170,
+  "lat": 59.9713872,
+  "lon": 30.3124463,
+  "timestamp": "2023-03-11T13:10:51Z",
+  "version": 8,
+  "changeset": 133552833,
+  "user": "mini-me",
+  "uid": 3846961,
+  "tags": {
+    "contact:phone": "+7 812 3461850;+7 911 7229217",
+    "contact:website": "http://www.photohismus.spb.ru",
+    "fee": "yes",
+    "name": "Музей истории фотографии",
+    "name:en": "Photography History Museum",
+    "opening_hours": "Tu-Sa 13:00-17:00; Jul-Aug unknown \"Only for groups of 5 or more people, booking required\"",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1431722815,
+  "lat": 60.0048425,
+  "lon": 30.3780033,
+  "timestamp": "2023-01-09T06:29:20Z",
+  "version": 6,
+  "changeset": 131039911,
+  "user": "mini-me",
+  "uid": 3846961,
+  "tags": {
+    "contact:vk": "museum.spbstu",
+    "email": "museum@spbstu.ru",
+    "name": "Музей истории Политеха",
+    "opening_hours": "Mo-Fr 11:00-17:00",
+    "phone": "+7 921 330 04 29",
+    "tourism": "museum",
+    "website": "https://museum.spbstu.ru/"
+  }
+},
+{
+  "type": "node",
+  "id": 1444910411,
+  "lat": 60.0158864,
+  "lon": 30.3524367,
+  "timestamp": "2020-07-29T18:42:52Z",
+  "version": 2,
+  "changeset": 88693888,
+  "user": "Ser9ei",
+  "uid": 10524327,
+  "tags": {
+    "artwork_type": "sculpture",
+    "name": "Каменный верблюд",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 1459051557,
+  "lat": 60.0312826,
+  "lon": 30.4057362,
+  "timestamp": "2025-07-07T11:58:07Z",
+  "version": 15,
+  "changeset": 168601511,
+  "user": "Серый Еж",
+  "uid": 23034906,
+  "tags": {
+    "historic": "memorial",
+    "inscription": "Дело учителя скромное по наружности - одно из величайших дел в истории... Ушинский К.Д.",
+    "memorial": "statue",
+    "name": "Памятник Учителю"
+  }
+},
+{
+  "type": "node",
+  "id": 1499066790,
+  "lat": 60.0256749,
+  "lon": 30.3773441,
+  "timestamp": "2011-11-11T18:15:56Z",
+  "version": 1,
+  "changeset": 9798718,
+  "user": "Danidin9",
+  "uid": 395588,
+  "tags": {
+    "artwork_type": "sculpture",
+    "name": "Бегемот",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 1499066812,
+  "lat": 60.0258996,
+  "lon": 30.3772914,
+  "timestamp": "2011-11-11T18:15:57Z",
+  "version": 1,
+  "changeset": 9798718,
+  "user": "Danidin9",
+  "uid": 395588,
+  "tags": {
+    "artwork_type": "sculpture",
+    "name": "Гномы",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 1499066815,
+  "lat": 60.0262821,
+  "lon": 30.3779356,
+  "timestamp": "2011-11-11T18:15:57Z",
+  "version": 1,
+  "changeset": 9798718,
+  "user": "Danidin9",
+  "uid": 395588,
+  "tags": {
+    "artwork_type": "sculpture",
+    "name": "Гномы",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 1499066830,
+  "lat": 60.0287938,
+  "lon": 30.3670303,
+  "timestamp": "2023-10-17T12:06:42Z",
+  "version": 2,
+  "changeset": 142710287,
+  "user": "Ser9ei",
+  "uid": 10524327,
+  "tags": {
+    "artwork_type": "sculpture",
+    "name": "Гномы",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 1499066877,
+  "lat": 60.0261546,
+  "lon": 30.3781706,
+  "timestamp": "2011-11-11T18:15:58Z",
+  "version": 1,
+  "changeset": 9798718,
+  "user": "Danidin9",
+  "uid": 395588,
+  "tags": {
+    "artwork_type": "sculpture",
+    "name": "Коты",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 1499066885,
+  "lat": 60.0261141,
+  "lon": 30.3774494,
+  "timestamp": "2011-11-11T18:15:58Z",
+  "version": 1,
+  "changeset": 9798718,
+  "user": "Danidin9",
+  "uid": 395588,
+  "tags": {
+    "artwork_type": "sculpture",
+    "name": "Лошадь",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 1499067069,
+  "lat": 60.0260676,
+  "lon": 30.3774089,
+  "timestamp": "2011-11-11T18:16:01Z",
+  "version": 1,
+  "changeset": 9798718,
+  "user": "Danidin9",
+  "uid": 395588,
+  "tags": {
+    "artwork_type": "sculpture",
+    "name": "Слон",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 1517803174,
+  "lat": 59.9974947,
+  "lon": 30.3727352,
+  "timestamp": "2024-05-07T10:45:02Z",
+  "version": 17,
+  "changeset": 151003639,
+  "user": "OSM FTW",
+  "uid": 17746333,
+  "tags": {
+    "historic": "memorial",
+    "inscription": "Здесь в суровые годы был колодец-источник жизни",
+    "memorial": "war_memorial",
+    "name": "Памятник колодцу"
+  }
+},
+{
+  "type": "node",
+  "id": 1524293063,
+  "lat": 59.9812113,
+  "lon": 30.3533717,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 15,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "description": "not enough space for all text from sign. see description:n",
+    "description:1": "Грибалёва Валентина Александровна 1919 года рождения, доброволец красной армии, механик-водитель танка.",
+    "description:2": "Отважно сражалась в боях по снятию блокады ленинграда, принимала участие в освобождении Эстонской ССР и Польши. Героически погибла в боях на одере. Посмертно награждена орденом отечественной войны I-ой степени.",
+    "historic": "memorial",
+    "inscription": "Грибалёва Валентина Александровна, 1919 года рождения, доброволец Красной Армии, механик-водитель танка. Отважно сражалась в боях по снятию блокады Ленинграда, принимала участие в освобождении Эстонской ССР и Польши.",
+    "inscription:1": "Героически погибла в боях на Одере. Посмертно награждена орденом Отечественной войны 1-й степени.",
+    "memorial": "plaque",
+    "memorial:subject": "Валентина Александровна Грибалёва",
+    "name": "В. А. Грибалёвой",
+    "subject:wikidata": "Q18238290",
+    "subject:wikipedia": "ru:Грибалёва, Валентина Александровна"
+  }
+},
+{
+  "type": "node",
+  "id": 1599278205,
+  "lat": 60.0455116,
+  "lon": 30.4507715,
+  "timestamp": "2024-08-25T13:08:20Z",
+  "version": 11,
+  "changeset": 155736448,
+  "user": "Ser9ei",
+  "uid": 10524327,
+  "tags": {
+    "historic": "memorial",
+    "memorial": "obelisk",
+    "name": "Жителям села Мурино, погибшим в Великой Отечественной войне"
+  }
+},
+{
+  "type": "node",
+  "id": 1600791220,
+  "lat": 60.0089946,
+  "lon": 30.3495886,
+  "timestamp": "2026-08-23T00:39:20Z",
+  "version": 14,
+  "changeset": 187865542,
+  "user": "mini-me",
+  "uid": 3846961,
+  "tags": {
+    "historic": "memorial",
+    "inscription": "Академик Леон Абгарович Орбели 1882–1958",
+    "memorial": "bust",
+    "memorial:subject": "Леон Абгарович Орбели",
+    "name": "Л. А. Орбели",
+    "subject:wikidata": "Q1971417",
+    "subject:wikipedia": "ru:Орбели, Леон Абгарович"
+  }
+},
+{
+  "type": "node",
+  "id": 1658342505,
+  "lat": 59.9979161,
+  "lon": 30.3617791,
+  "timestamp": "2023-10-10T19:50:45Z",
+  "version": 16,
+  "changeset": 142409479,
+  "user": "mini-me",
+  "uid": 3846961,
+  "tags": {
+    "historic": "memorial",
+    "memorial": "stone",
+    "name": "Камень в память о Преображенской часовне"
+  }
+},
+{
+  "type": "node",
+  "id": 1712940814,
+  "lat": 59.9951615,
+  "lon": 30.3301925,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 14,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "description": "В этом доме жил и работал 1959–1989 г. Валентин Иванович Курдов народный художник России",
+    "historic": "memorial",
+    "memorial": "plaque",
+    "memorial:subject": "Валентин Иванович Курдов",
+    "name": "В. И. Курдову",
+    "subject:wikidata": "Q16668981",
+    "subject:wikipedia": "ru:Курдов, Валентин Иванович"
+  }
+},
+{
+  "type": "node",
+  "id": 1712940848,
+  "lat": 59.9950429,
+  "lon": 30.3298378,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 13,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "description": "not enough space for all text from sign. see description:n",
+    "description:1": "В этом доме накануне Октябрьской социалистической революции с 7(20) октября по 24 октября (6 ноября) 1917 года скрывался от преследования контрреволюционного буржуазного Временного правительства Владимир Ильич Ленин.",
+    "description:2": "Отсюда он руководил подготовкой восстания.",
+    "historic": "memorial",
+    "memorial": "plaque",
+    "memorial:subject": "Владимир Ильич Ленин",
+    "name": "В. И. Ленину",
+    "subject:wikidata": "Q1394",
+    "subject:wikipedia": "ru:Ленин, Владимир Ильич"
+  }
+},
+{
+  "type": "node",
+  "id": 1728296506,
+  "lat": 59.9835565,
+  "lon": 30.4324470,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 16,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "historic": "memorial",
+    "memorial": "bust",
+    "memorial:subject": "Илья Ильич Мечников",
+    "name": "Илья Ильич Мечников",
+    "name:en": "Ilya Mechnikov",
+    "subject:wikidata": "Q172254",
+    "subject:wikipedia": "ru:Мечников, Илья Ильич"
+  }
+},
+{
+  "type": "node",
+  "id": 1748893819,
+  "lat": 60.0037831,
+  "lon": 30.3979847,
+  "timestamp": "2022-05-19T09:55:41Z",
+  "version": 2,
+  "changeset": 121186602,
+  "user": "Zavgor1990",
+  "uid": 11591067,
+  "tags": {
+    "artwork_type": "sculpture",
+    "name": "Кенгуру",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 1753131988,
+  "lat": 59.9998454,
+  "lon": 30.3641695,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 15,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "historic": "memorial",
+    "memorial": "stone",
+    "name": "Мужеству ленинградцев, отстоявших наш город",
+    "name:ru": "Мужеству ленинградцев, отстоявших наш город"
+  }
+},
+{
+  "type": "node",
+  "id": 1879787116,
+  "lat": 60.0040954,
+  "lon": 30.4457866,
+  "timestamp": "2026-03-15T09:33:40Z",
+  "version": 16,
+  "changeset": 179889096,
+  "user": "masmirnov",
+  "uid": 16256027,
+  "tags": {
+    "historic": "memorial",
+    "inscription": "Вечная память работникам с/х Ручьи, погибшим в боях за Родину 1941-1945 годах",
+    "memorial": "war_memorial",
+    "name": "Работникам совхоза Ручьи"
+  }
+},
+{
+  "type": "node",
+  "id": 1963684059,
+  "lat": 59.9984462,
+  "lon": 30.3643900,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 15,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "historic": "memorial",
+    "memorial": "war_memorial",
+    "name": "Орудие ЗИС-3"
+  }
+},
+{
+  "type": "node",
+  "id": 2157603435,
+  "lat": 60.0779218,
+  "lon": 30.3241938,
+  "timestamp": "2024-07-15T20:28:47Z",
+  "version": 15,
+  "changeset": 153988650,
+  "user": "masmirnov",
+  "uid": 16256027,
+  "tags": {
+    "description": "В память о Валентине Петровиче Вологдине (1881-1953), крупнейшем учёном и инженере в области радиотехники и электромашиностроения, названа эта улица",
+    "historic": "memorial",
+    "memorial": "plaque",
+    "memorial:subject": "Валентин Петрович Вологдин",
+    "name": "В. П. Вологдину",
+    "subject:wikidata": "Q4123662",
+    "subject:wikipedia": "ru:Вологдин, Валентин Петрович"
+  }
+},
+{
+  "type": "node",
+  "id": 2179769290,
+  "lat": 59.9759891,
+  "lon": 30.4152694,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 13,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "historic": "memorial",
+    "name": "Жертвам радиационных аварий и катастроф",
+    "name:en": "Victims of radiation accidents and catastrophes"
+  }
+},
+{
+  "type": "node",
+  "id": 2179769293,
+  "lat": 59.9793652,
+  "lon": 30.4151014,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 14,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "historic": "memorial",
+    "memorial": "war_memorial",
+    "memorial:conflict": "WW2",
+    "name": "Колокол мира"
+  }
+},
+{
+  "type": "node",
+  "id": 2458380092,
+  "lat": 59.9751263,
+  "lon": 30.3064717,
+  "timestamp": "2024-12-01T14:39:53Z",
+  "version": 7,
+  "changeset": 159808702,
+  "user": "PNovikov",
+  "uid": 3029855,
+  "tags": {
+    "contact:vk": "club211908341",
+    "group_only": "yes",
+    "name": "Музей истории института экспериментальной медицины",
+    "opening_hours": "Mo-Fr 10:00-17:00",
+    "phone": "+7 921 4061467",
+    "tourism": "museum",
+    "website": "https://iemspb.ru/institute/museum/"
+  }
+},
+{
+  "type": "node",
+  "id": 2498798086,
+  "lat": 59.9721653,
+  "lon": 30.3052322,
+  "timestamp": "2026-05-09T02:09:15Z",
+  "version": 5,
+  "changeset": 182406463,
+  "user": "b-jazz-bot",
+  "uid": 9451067,
+  "tags": {
+    "artwork_type": "sculpture",
+    "name": "Счастливое детство",
+    "tourism": "artwork",
+    "website": "https://www.encspb.ru/object/2805570426?lc=ru"
+  }
+},
+{
+  "type": "node",
+  "id": 2519282674,
+  "lat": 59.9775484,
+  "lon": 30.3403140,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 15,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "historic": "memorial",
+    "memorial": "bust",
+    "memorial:subject": "Александр Фёдорович Тур",
+    "name": "А. Ф. Тур",
+    "subject:wikidata": "Q4465650",
+    "subject:wikipedia": "ru:Тур, Александр Фёдорович"
+  }
+},
+{
+  "type": "node",
+  "id": 2782738541,
+  "lat": 60.0091032,
+  "lon": 30.3985222,
+  "timestamp": "2025-06-13T20:59:56Z",
+  "version": 21,
+  "changeset": 167592227,
+  "user": "Pavel239",
+  "uid": 354001,
+  "tags": {
+    "artwork_type": "sculpture",
+    "historic": "memorial",
+    "inscription": "Любите! И цените счастье! Оно рождается в семье, Что может быть её дороже На этой сказочной земле!",
+    "memorial": "sculpture",
+    "name": "Аисты",
+    "name:ru": "Аисты",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 2887303370,
+  "lat": 59.9949801,
+  "lon": 30.3012977,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 13,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "historic": "memorial",
+    "memorial": "stone",
+    "name": "Строфа из стихотворения М. Ю. Лермонтова «Смерть поэта»"
+  }
+},
+{
+  "type": "node",
+  "id": 2887303371,
+  "lat": 59.9950609,
+  "lon": 30.3013133,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 13,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "historic": "memorial",
+    "memorial": "stone",
+    "name": "Памятная надпись о дуэли"
+  }
+},
+{
+  "type": "node",
+  "id": 2896320991,
+  "lat": 59.9783846,
+  "lon": 30.3146960,
+  "timestamp": "2019-10-05T06:54:04Z",
+  "version": 3,
+  "changeset": 75309916,
+  "user": "koSS_Rus",
+  "uid": 1219486,
+  "tags": {
+    "name": "Человек сидящий в Интернете",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 2958398085,
+  "lat": 59.9741958,
+  "lon": 30.3057747,
+  "timestamp": "2024-09-13T13:38:37Z",
+  "version": 8,
+  "changeset": 156572921,
+  "user": "Afanasovich",
+  "uid": 2101839,
+  "tags": {
+    "contact:telegram": "https://t.me/shalyapinflat",
+    "contact:vk": "https://vk.com/shaliapinflat",
+    "email": "shaliapinflat@mail.ru",
+    "museum": "person",
+    "name": "Дом-музей Ф. И. Шаляпина",
+    "name:en": "The F. Chaliapin Memorial Apartment",
+    "name:ru": "Дом-музей Ф. И. Шаляпина",
+    "phone": "+7 812 2341056",
+    "source": "survey",
+    "tourism": "museum",
+    "website": "https://www.theatremuseum.ru/",
+    "wikidata": "Q125258301",
+    "wikipedia": "ru:Дом-музей Ф. И. Шаляпина"
+  }
+},
+{
+  "type": "node",
+  "id": 2964941602,
+  "lat": 60.0370593,
+  "lon": 30.3507725,
+  "timestamp": "2022-05-17T19:43:09Z",
+  "version": 2,
+  "changeset": 121115545,
+  "user": "Zavgor1990",
+  "uid": 11591067,
+  "tags": {
+    "artwork_type": "sculpture",
+    "name": "Ежевика",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 2964941603,
+  "lat": 60.0374294,
+  "lon": 30.3511909,
+  "timestamp": "2022-05-17T19:43:09Z",
+  "version": 2,
+  "changeset": 121115545,
+  "user": "Zavgor1990",
+  "uid": 11591067,
+  "tags": {
+    "artwork_type": "sculpture",
+    "name": "Змей Горыныч",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 2976250433,
+  "lat": 60.0379028,
+  "lon": 30.3515318,
+  "timestamp": "2022-05-17T19:43:09Z",
+  "version": 2,
+  "changeset": 121115545,
+  "user": "Zavgor1990",
+  "uid": 11591067,
+  "tags": {
+    "artwork_type": "sculpture",
+    "name": "Грибная поляна",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 2976250434,
+  "lat": 60.0307047,
+  "lon": 30.3012341,
+  "timestamp": "2023-12-27T21:47:17Z",
+  "version": 2,
+  "changeset": 145593944,
+  "user": "Soshal Distan Singh",
+  "uid": 11327915,
+  "tags": {
+    "artwork_type": "statue",
+    "name": "Девушка",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 2976250435,
+  "lat": 60.0306460,
+  "lon": 30.3011196,
+  "timestamp": "2023-12-27T21:47:17Z",
+  "version": 2,
+  "changeset": 145593944,
+  "user": "Soshal Distan Singh",
+  "uid": 11327915,
+  "tags": {
+    "artwork_type": "statue",
+    "name": "Джинн",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 3471404636,
+  "lat": 59.9829940,
+  "lon": 30.4313486,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 14,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "historic": "memorial",
+    "memorial": "war_memorial",
+    "name": "Сотрудникам-медикам, погибшим в ВОВ"
+  }
+},
+{
+  "type": "node",
+  "id": 3482056162,
+  "lat": 59.9933156,
+  "lon": 30.3384115,
+  "timestamp": "2024-05-10T14:22:52Z",
+  "version": 17,
+  "changeset": 151149003,
+  "user": "mrcopperbeard",
+  "uid": 21416925,
+  "tags": {
+    "description": "Михаил Елевферьевич Ткаченко (1878-1950)\n\nродился в 1878 г. в г. Валки Харьковской губерник в семье агронома. В 1899 г. окончил Уманское училище земледелия и садоводства и поступил в Петербургский лесной институт, учеба в котором блестяще завершилась в 19",
+    "historic": "memorial",
+    "memorial": "obelisk",
+    "memorial:subject": "Михаил Елевферьевич Ткаченко",
+    "name": "М. Е. Ткаченко",
+    "subject:wikidata": "Q17466804",
+    "subject:wikipedia": "ru:Ткаченко, Михаил Елевферьевич"
+  }
+},
+{
+  "type": "node",
+  "id": 3517116510,
+  "lat": 60.0280967,
+  "lon": 30.3011397,
+  "timestamp": "2018-09-24T03:56:39Z",
+  "version": 3,
+  "changeset": 62866350,
+  "user": "Danidin9",
+  "uid": 395588,
+  "tags": {
+    "artwork_type": "sculpture",
+    "name": "Иван-царевич и Жар-птица",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 3567008095,
+  "lat": 60.0761472,
+  "lon": 30.3661853,
+  "timestamp": "2023-08-11T03:56:47Z",
+  "version": 3,
+  "changeset": 139730941,
+  "user": "PNovikov",
+  "uid": 3029855,
+  "tags": {
+    "name": "Музей истории пивоварения",
+    "operator": "Завод «Балтика – Санкт-Петербург»",
+    "phone": "+7 800 333 33 03",
+    "source": "http://www.artnight.ru/program/muzei-istorii-pivovareniya",
+    "tourism": "museum",
+    "website": "https://corporate.baltika.ru/excursion/sign-up/saint-petersburg/"
+  }
+},
+{
+  "type": "node",
+  "id": 3567020589,
+  "lat": 60.0007211,
+  "lon": 30.3356658,
+  "timestamp": "2023-09-25T08:01:22Z",
+  "version": 5,
+  "changeset": 141718303,
+  "user": "PNovikov",
+  "uid": 3029855,
+  "tags": {
+    "contact:vk": "gaimuseum",
+    "name": "Музей ГАИ",
+    "opening_hours": "Mo-Fr 11:00-17:00",
+    "phone": "+7 812 301 92 45;+7 812 301 92 73",
+    "source": "http://muzej-gai.piter.tv/",
+    "tourism": "museum",
+    "website": "https://gaimuseum.vsite.biz/"
+  }
+},
+{
+  "type": "node",
+  "id": 3567071823,
+  "lat": 59.9821286,
+  "lon": 30.4212215,
+  "timestamp": "2024-10-20T20:32:28Z",
+  "version": 4,
+  "changeset": 158145060,
+  "user": "mystery2008",
+  "uid": 9329003,
+  "tags": {
+    "fee": "yes",
+    "name": "Мультисказка",
+    "phone": "+7 812 9059086;+7 812 9059086",
+    "tourism": "museum",
+    "website": "http://www.multiskazka.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 3648135125,
+  "lat": 60.0542740,
+  "lon": 30.3320358,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 14,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "description": "Пушка",
+    "historic": "memorial",
+    "memorial": "cannon",
+    "name": "Пушка"
+  }
+},
+{
+  "type": "node",
+  "id": 3655480081,
+  "lat": 60.0204856,
+  "lon": 30.3787119,
+  "timestamp": "2015-07-17T12:26:35Z",
+  "version": 1,
+  "changeset": 32696789,
+  "user": "Danidin9",
+  "uid": 395588,
+  "tags": {
+    "artwork_type": "sculpture",
+    "name": "Бегемот",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 3655480084,
+  "lat": 60.0201613,
+  "lon": 30.3793054,
+  "timestamp": "2015-07-17T12:26:35Z",
+  "version": 1,
+  "changeset": 32696789,
+  "user": "Danidin9",
+  "uid": 395588,
+  "tags": {
+    "artwork_type": "sculpture",
+    "name": "Гном",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 3655480086,
+  "lat": 60.0175227,
+  "lon": 30.3838685,
+  "timestamp": "2026-07-31T19:21:33Z",
+  "version": 2,
+  "changeset": 186725520,
+  "user": "mini-me",
+  "uid": 3846961,
+  "tags": {
+    "artwork_type": "sculpture",
+    "name": "Крокодил",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 3655480087,
+  "lat": 60.0204824,
+  "lon": 30.3785367,
+  "timestamp": "2015-07-17T12:26:36Z",
+  "version": 1,
+  "changeset": 32696789,
+  "user": "Danidin9",
+  "uid": 395588,
+  "tags": {
+    "artwork_type": "sculpture",
+    "name": "Крокодил",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 3655480091,
+  "lat": 60.0199480,
+  "lon": 30.3782011,
+  "timestamp": "2015-07-17T12:26:36Z",
+  "version": 1,
+  "changeset": 32696789,
+  "user": "Danidin9",
+  "uid": 395588,
+  "tags": {
+    "artwork_type": "sculpture",
+    "name": "Слон",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 3655480092,
+  "lat": 60.0174301,
+  "lon": 30.3837787,
+  "timestamp": "2026-07-31T19:21:33Z",
+  "version": 2,
+  "changeset": 186725520,
+  "user": "mini-me",
+  "uid": 3846961,
+  "tags": {
+    "artwork_type": "sculpture",
+    "name": "Улитка",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 3655480094,
+  "lat": 60.0175923,
+  "lon": 30.3835642,
+  "timestamp": "2026-07-31T19:21:33Z",
+  "version": 2,
+  "changeset": 186725520,
+  "user": "mini-me",
+  "uid": 3846961,
+  "tags": {
+    "artwork_type": "sculpture",
+    "name": "Черепаха",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 3692571404,
+  "lat": 60.0039258,
+  "lon": 30.4478548,
+  "timestamp": "2015-08-11T22:57:48Z",
+  "version": 1,
+  "changeset": 33280426,
+  "user": "Danidin9",
+  "uid": 395588,
+  "tags": {
+    "artwork_type": "statue",
+    "design": "typical",
+    "name": "Белоснежка и семь гномов",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 3692571411,
+  "lat": 60.0011804,
+  "lon": 30.4307671,
+  "timestamp": "2015-08-11T22:57:49Z",
+  "version": 1,
+  "changeset": 33280426,
+  "user": "Danidin9",
+  "uid": 395588,
+  "tags": {
+    "artwork_type": "statue",
+    "design": "typical",
+    "name": "Кот",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 3692571413,
+  "lat": 60.0009355,
+  "lon": 30.4338136,
+  "timestamp": "2024-10-22T12:27:31Z",
+  "version": 2,
+  "changeset": 158209436,
+  "user": "Livin_Pie",
+  "uid": 22095939,
+  "tags": {
+    "artwork_type": "statue",
+    "design": "typical",
+    "name": "Медведь",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 3692571417,
+  "lat": 60.0008317,
+  "lon": 30.4338437,
+  "timestamp": "2024-10-22T12:27:31Z",
+  "version": 2,
+  "changeset": 158209436,
+  "user": "Livin_Pie",
+  "uid": 22095939,
+  "tags": {
+    "artwork_type": "statue",
+    "design": "typical",
+    "name": "Пчела",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 3710090881,
+  "lat": 60.0313898,
+  "lon": 30.4219407,
+  "timestamp": "2015-08-23T04:16:29Z",
+  "version": 1,
+  "changeset": 33516977,
+  "user": "Danidin9",
+  "uid": 395588,
+  "tags": {
+    "artwork_type": "statue",
+    "design": "typical",
+    "name": "Белоснежка и семь гномов",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 3710090886,
+  "lat": 60.0317997,
+  "lon": 30.4249948,
+  "timestamp": "2015-08-23T04:16:29Z",
+  "version": 1,
+  "changeset": 33516977,
+  "user": "Danidin9",
+  "uid": 395588,
+  "tags": {
+    "artwork_type": "statue",
+    "design": "typical",
+    "name": "Медведь",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 3903088448,
+  "lat": 60.0463217,
+  "lon": 30.3824370,
+  "timestamp": "2024-08-14T08:14:07Z",
+  "version": 6,
+  "changeset": 155227205,
+  "user": "asdfwqer",
+  "uid": 20626553,
+  "tags": {
+    "description": "Якорь",
+    "name": "Якорь с пушкой",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 3931908622,
+  "lat": 60.0179937,
+  "lon": 30.3122638,
+  "timestamp": "2017-03-22T21:59:47Z",
+  "version": 3,
+  "changeset": 47080562,
+  "user": "DmilVDV",
+  "uid": 2617716,
+  "tags": {
+    "artwork_type": "sculpture",
+    "description": "Шарманщик с собакой",
+    "name": "Шарманщик с собачкой",
+    "name:ru": "Шарманщик с собачкой",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 4096416490,
+  "lat": 60.0103912,
+  "lon": 30.4068805,
+  "timestamp": "2024-09-03T14:39:13Z",
+  "version": 13,
+  "changeset": 156145994,
+  "user": "asdfwqer",
+  "uid": 20626553,
+  "tags": {
+    "historic": "monument",
+    "name": "Аэродром «Гражданка»"
+  }
+},
+{
+  "type": "node",
+  "id": 4119369495,
+  "lat": 59.9732010,
+  "lon": 30.3274025,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 14,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "historic": "memorial",
+    "memorial": "stele",
+    "name": "Памятник жертвам взрыва на даче П. А. Столыпина",
+    "wikidata": "Q4110405",
+    "wikipedia": "ru:Взрыв на Аптекарском острове"
+  }
+},
+{
+  "type": "node",
+  "id": 4146659535,
+  "lat": 59.9708609,
+  "lon": 30.3231602,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 19,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "historic": "memorial",
+    "inscription": "Петру Великому - основателю Ботанического Сада",
+    "memorial": "bust",
+    "memorial:subject": "Пётр I",
+    "name": "Петру Великому",
+    "subject:wikidata": "Q8479",
+    "subject:wikipedia": "ru:Пётр I"
+  }
+},
+{
+  "type": "node",
+  "id": 4171703961,
+  "lat": 59.9934746,
+  "lon": 30.4284670,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 13,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "historic": "memorial",
+    "inscription": "Нам в 43-м выдали медали, и только в 45-м – паспорта",
+    "memorial": "war_memorial",
+    "name": "Дети войны",
+    "start_date": "06.05.2013"
+  }
+},
+{
+  "type": "node",
+  "id": 4171703965,
+  "lat": 59.9928247,
+  "lon": 30.4285917,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 12,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "historic": "memorial",
+    "memorial": "war_memorial",
+    "name": "Звезда"
+  }
+},
+{
+  "type": "node",
+  "id": 4190683310,
+  "lat": 59.9749925,
+  "lon": 30.3388396,
+  "timestamp": "2016-05-16T22:08:17Z",
+  "version": 1,
+  "changeset": 39364412,
+  "user": "VlIvYur",
+  "uid": 345975,
+  "tags": {
+    "artwork_type": "relief",
+    "name": "Дерево дружбы",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 4225873862,
+  "lat": 60.0992151,
+  "lon": 30.4542968,
+  "timestamp": "2023-11-03T19:35:21Z",
+  "version": 8,
+  "changeset": 143588752,
+  "user": "mystery2008",
+  "uid": 9329003,
+  "tags": {
+    "historic": "monument",
+    "name": "Мемориал летчикам 1941-1945",
+    "name:ru": "Мемориал лётчикам 1941-1945"
+  }
+},
+{
+  "type": "node",
+  "id": 4357819089,
+  "lat": 60.0197458,
+  "lon": 30.3712462,
+  "timestamp": "2019-03-30T20:53:33Z",
+  "version": 3,
+  "changeset": 68709483,
+  "user": "b-jazz-bot",
+  "uid": 9451067,
+  "tags": {
+    "name": "Бенуарики у сада Бенуа",
+    "tourism": "attraction",
+    "website": "https://benua1890.ru/benuariki"
+  }
+},
+{
+  "type": "node",
+  "id": 4420234789,
+  "lat": 60.0070419,
+  "lon": 30.3727421,
+  "timestamp": "2024-07-08T05:12:58Z",
+  "version": 15,
+  "changeset": 153686207,
+  "user": "asdfwqer",
+  "uid": 20626553,
+  "tags": {
+    "historic": "memorial",
+    "memorial": "bust",
+    "memorial:subject": "Пётр I",
+    "name": "Пётр I",
+    "name:ru": "Пётр I",
+    "subject:wikidata": "Q8479",
+    "subject:wikipedia": "ru:Пётр I"
+  }
+},
+{
+  "type": "node",
+  "id": 4642155611,
+  "lat": 60.0336893,
+  "lon": 30.4307859,
+  "timestamp": "2025-03-10T09:20:40Z",
+  "version": 15,
+  "changeset": 163432957,
+  "user": "asdfwqer",
+  "uid": 20626553,
+  "tags": {
+    "historic": "memorial",
+    "memorial": "statue",
+    "memorial:subject": "Шота Руставели",
+    "name": "Шота Руставели",
+    "subject:wikidata": "Q132984",
+    "subject:wikipedia": "ru:Шота Руставели"
+  }
+},
+{
+  "type": "node",
+  "id": 4874241451,
+  "lat": 60.0302869,
+  "lon": 30.3644201,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 15,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "historic": "memorial",
+    "memorial": "statue",
+    "name": "Военным дрессировщикам и служебным собакам Ленинградского фронта"
+  }
+},
+{
+  "type": "node",
+  "id": 4902325395,
+  "lat": 59.9927611,
+  "lon": 30.3246178,
+  "timestamp": "2025-06-20T09:08:17Z",
+  "version": 3,
+  "changeset": 167859802,
+  "user": "mystery2008",
+  "uid": 9329003,
+  "tags": {
+    "artwork_type": "statue",
+    "name": "Отец с ребёнком",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 4902325396,
+  "lat": 59.9929212,
+  "lon": 30.3251838,
+  "timestamp": "2023-06-10T14:42:38Z",
+  "version": 3,
+  "changeset": 137174871,
+  "user": "nyapo",
+  "uid": 18785733,
+  "tags": {
+    "artwork_type": "statue",
+    "name": "Дети",
+    "name:en": "Children",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 4963918521,
+  "lat": 60.0004239,
+  "lon": 30.4340121,
+  "timestamp": "2017-07-11T13:25:47Z",
+  "version": 1,
+  "changeset": 50202076,
+  "user": "Taya93",
+  "uid": 6291065,
+  "tags": {
+    "name": "Крокодил",
+    "name:en": "Crocodile",
+    "name:ru": "Крокодил",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 4965709983,
+  "lat": 60.0282239,
+  "lon": 30.3008219,
+  "timestamp": "2018-09-24T03:56:39Z",
+  "version": 2,
+  "changeset": 62866350,
+  "user": "Danidin9",
+  "uid": 395588,
+  "tags": {
+    "addr:city": "округ Коломяги",
+    "addr:street": "улица Щербакова",
+    "artwork_type": "statue",
+    "name": "Зелёный лев",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 5025728123,
+  "lat": 59.9927593,
+  "lon": 30.3632217,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 12,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "historic": "memorial",
+    "name": "Сто двадцать пять блокадных грамм",
+    "name:ru": "Сто двадцать пять блокадных грамм",
+    "wikipedia": "ru:Сто двадцать пять блокадных грамм с огнём и кровью пополам"
+  }
+},
+{
+  "type": "node",
+  "id": 5067302123,
+  "lat": 60.0521078,
+  "lon": 30.4339891,
+  "timestamp": "2025-09-21T20:51:52Z",
+  "version": 14,
+  "changeset": 172265763,
+  "user": "Nine-tailed",
+  "uid": 2006945,
+  "tags": {
+    "alt_name": "Сон Менделеева",
+    "artist_name": "Иван Зубарев и Владислав Муханов",
+    "historic": "memorial",
+    "inscription": "Менделееву Д. И.",
+    "memorial": "statue",
+    "name": "Д. И. Менделееву",
+    "name:en": "Dmitri Ivanovitch Mendeleev",
+    "name:ru": "Дмитрий Иванович Менделеев",
+    "source": "survey",
+    "start_date": "2017-10-05",
+    "subject": "Дмитрий Иванович Менделеев",
+    "subject:wikidata": "Q9106",
+    "subject:wikipedia": "ru:Менделеев, Дмитрий Иванович"
+  }
+},
+{
+  "type": "node",
+  "id": 5108364076,
+  "lat": 60.0454840,
+  "lon": 30.3180023,
+  "timestamp": "2024-09-26T10:55:30Z",
+  "version": 13,
+  "changeset": 157121748,
+  "user": "Afanasovich",
+  "uid": 2101839,
+  "tags": {
+    "historic": "memorial",
+    "inscription": "В память о кошках блокадного Ленинграда",
+    "memorial": "sculpture",
+    "name": "Памятник кошкам блокадного Ленинграда",
+    "wikidata": "Q113409169",
+    "wikipedia": "ru:Памятник кошкам блокадного Ленинграда"
+  }
+},
+{
+  "type": "node",
+  "id": 5231948325,
+  "lat": 60.0069532,
+  "lon": 30.3814535,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 15,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "historic": "memorial",
+    "memorial": "statue",
+    "name": "Пётр и Феврония",
+    "name:en": "Pyotr & Phevronia"
+  }
+},
+{
+  "type": "node",
+  "id": 5330267728,
+  "lat": 59.9929946,
+  "lon": 30.4291431,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 11,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "historic": "memorial",
+    "memorial": "war_memorial",
+    "name": "Слава героическим защитникам Родины"
+  }
+},
+{
+  "type": "node",
+  "id": 5474042824,
+  "lat": 60.0259017,
+  "lon": 30.3037677,
+  "timestamp": "2026-07-04T10:10:04Z",
+  "version": 6,
+  "changeset": 185083357,
+  "user": "TrickyFoxy",
+  "uid": 11528195,
+  "tags": {
+    "contact:vk": "https://vk.com/suntownspb",
+    "name": "Солнечный город",
+    "note": "Детский развлекательный центр",
+    "opening_hours": "Mo-Su 11:00-20:00",
+    "phone": "+7 812 5096013",
+    "tourism": "attraction",
+    "website": "https://suntownspb.ru/"
+  }
+},
+{
+  "type": "node",
+  "id": 5810252457,
+  "lat": 60.0080692,
+  "lon": 30.3941887,
+  "timestamp": "2018-08-05T12:51:54Z",
+  "version": 1,
+  "changeset": 61373377,
+  "user": "Michael Kuzmin",
+  "uid": 905469,
+  "tags": {
+    "name": "Садик Маленького принца",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5833171745,
+  "lat": 59.9700299,
+  "lon": 30.3264195,
+  "timestamp": "2019-12-08T00:42:11Z",
+  "version": 2,
+  "changeset": 78099632,
+  "user": "mini-me",
+  "uid": 3846961,
+  "tags": {
+    "artwork_type": "sculpture",
+    "name": "Посвящение композитору А. Шнитке",
+    "subject": "Альфред Гарриевич Шнитке",
+    "subject:wikidata": "Q158078",
+    "subject:wikipedia": "ru:Шнитке, Альфред Гарриевич",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 5833171747,
+  "lat": 59.9708644,
+  "lon": 30.3265469,
+  "timestamp": "2018-08-14T20:21:52Z",
+  "version": 1,
+  "changeset": 61669202,
+  "user": "Anton Khorev",
+  "uid": 437809,
+  "tags": {
+    "artwork_type": "sculpture",
+    "name": "Танец",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 5833171748,
+  "lat": 59.9708969,
+  "lon": 30.3267042,
+  "timestamp": "2022-04-17T14:47:52Z",
+  "version": 2,
+  "changeset": 119819654,
+  "user": "Afanasovich",
+  "uid": 2101839,
+  "tags": {
+    "artist_name": "Е. Духовный",
+    "artwork_type": "sculpture",
+    "material": "stone",
+    "name": "Северный ветер Борей",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 5833171749,
+  "lat": 59.9709144,
+  "lon": 30.3268337,
+  "timestamp": "2024-06-11T08:50:51Z",
+  "version": 2,
+  "changeset": 152531519,
+  "user": "mystery2008",
+  "uid": 9329003,
+  "tags": {
+    "artwork_type": "sculpture",
+    "name": "Волна тёплого воздуха",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 5863891889,
+  "lat": 60.0308097,
+  "lon": 30.3005773,
+  "timestamp": "2023-12-27T21:47:17Z",
+  "version": 12,
+  "changeset": 145593944,
+  "user": "Soshal Distan Singh",
+  "uid": 11327915,
+  "tags": {
+    "artwork_type": "statue",
+    "name": "Бегемот",
+    "statue": "animal",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 5982298887,
+  "lat": 60.0057662,
+  "lon": 30.3741965,
+  "timestamp": "2018-10-14T02:57:14Z",
+  "version": 1,
+  "changeset": 63498317,
+  "user": "Vladimir SPb RU",
+  "uid": 4724576,
+  "tags": {
+    "name": "Гидробашня СПбПУ",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6057829971,
+  "lat": 59.9724697,
+  "lon": 30.3250970,
+  "timestamp": "2025-04-01T09:39:40Z",
+  "version": 12,
+  "changeset": 164365985,
+  "user": "Afanasovich",
+  "uid": 2101839,
+  "tags": {
+    "historic": "memorial",
+    "memorial": "war_memorial",
+    "name": "Памятник студентам и сотрудникам ЛЭТИ, погибшим во время войны",
+    "wikidata": "Q113409126",
+    "wikipedia": "ru:Памятник электротехникам ЛЭТИ"
+  }
+},
+{
+  "type": "node",
+  "id": 6077576330,
+  "lat": 59.9842514,
+  "lon": 30.3358064,
+  "timestamp": "2026-01-26T19:06:08Z",
+  "version": 15,
+  "changeset": 177733362,
+  "user": "masmirnov",
+  "uid": 16256027,
+  "tags": {
+    "historic": "memorial",
+    "inscription": "Здесь с 1946 г. по 1960 г. работал генеральный конструктор авиационных двигателей академик Владимир Яковлевич Климов",
+    "memorial": "plaque",
+    "memorial:subject": "Владимир Яковлевич Климов",
+    "name": "В. Я. Климову",
+    "subject:wikidata": "Q562781",
+    "subject:wikipedia": "ru:Климов, Владимир Яковлевич"
+  }
+},
+{
+  "type": "node",
+  "id": 6177319404,
+  "lat": 60.0068053,
+  "lon": 30.3692311,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 14,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "historic": "memorial",
+    "memorial": "bust",
+    "memorial:subject": "Абрам Фёдорович Иоффе",
+    "name": "А. Ф. Иоффе",
+    "subject:wikidata": "Q331067",
+    "subject:wikipedia": "ru:Иоффе, Абрам Фёдорович"
+  }
+},
+{
+  "type": "node",
+  "id": 6297498387,
+  "lat": 59.9836485,
+  "lon": 30.4181438,
+  "timestamp": "2024-10-20T20:29:45Z",
+  "version": 13,
+  "changeset": 158144932,
+  "user": "mystery2008",
+  "uid": 9329003,
+  "tags": {
+    "historic": "memorial",
+    "memorial": "sculpture",
+    "name": "Памятник пионерскому значку",
+    "start_date": "1973"
+  }
+},
+{
+  "type": "node",
+  "id": 6307661826,
+  "lat": 60.0208097,
+  "lon": 30.4290667,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 13,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "historic": "memorial",
+    "memorial": "war_memorial",
+    "name": "Противотанковое препятствие",
+    "name:en": "Antitank obstacle"
+  }
+},
+{
+  "type": "node",
+  "id": 6442453185,
+  "lat": 59.9874017,
+  "lon": 30.4113291,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 14,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "historic": "memorial",
+    "inscription": "Основатель и первый главный врач Дорожной больницы, действительный статский советник Николай Константинович Ващенко",
+    "memorial:subject": "Николай Константинович Ващенко",
+    "name": "Н. К. Ващенко"
+  }
+},
+{
+  "type": "node",
+  "id": 6542096257,
+  "lat": 60.0005088,
+  "lon": 30.3841498,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 12,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "fixme": "add inscription",
+    "historic": "memorial",
+    "memorial": "plaque",
+    "name": "Мемориальная доска"
+  }
+},
+{
+  "type": "node",
+  "id": 6553489327,
+  "lat": 59.9710121,
+  "lon": 30.3883970,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 11,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "historic": "memorial",
+    "name": "Конструктор Васенко"
+  }
+},
+{
+  "type": "node",
+  "id": 6698087121,
+  "lat": 60.0157724,
+  "lon": 30.3948740,
+  "timestamp": "2019-08-09T22:05:02Z",
+  "version": 1,
+  "changeset": 73209102,
+  "user": "VlIvYur",
+  "uid": 345975,
+  "tags": {
+    "artwork_type": "mural",
+    "name": "Исаакиевский собор",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 6707856087,
+  "lat": 59.9921190,
+  "lon": 30.3877298,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 14,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "historic": "memorial",
+    "image": "https://yadi.sk/i/hxIVGuUoMr3e3w",
+    "material": "stone",
+    "memorial": "obelisk",
+    "name": "Дорога Жизни 16/17",
+    "name:ru": "Дорога Жизни 16/17"
+  }
+},
+{
+  "type": "node",
+  "id": 6707856088,
+  "lat": 59.9780349,
+  "lon": 30.3440721,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 11,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "historic": "memorial",
+    "name": "Дорога Жизни 20/21"
+  }
+},
+{
+  "type": "node",
+  "id": 6707856185,
+  "lat": 59.9883820,
+  "lon": 30.4224025,
+  "timestamp": "2023-10-12T17:02:52Z",
+  "version": 12,
+  "changeset": 142489372,
+  "user": "Bobropiton",
+  "uid": 2055718,
+  "tags": {
+    "historic": "memorial",
+    "name": "Дорога Жизни 14/15"
+  }
+},
+{
+  "type": "node",
+  "id": 6707856186,
+  "lat": 59.9905976,
+  "lon": 30.4049508,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 12,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "historic": "memorial",
+    "memorial": "war_memorial",
+    "name": "Дорога Жизни 15/16",
+    "name:ru": "Дорога Жизни 15/16"
+  }
+},
+{
+  "type": "node",
+  "id": 6707856385,
+  "lat": 59.9864011,
+  "lon": 30.3386902,
+  "timestamp": "2026-02-06T00:19:04Z",
+  "version": 12,
+  "changeset": 178162125,
+  "user": "vasagavavv",
+  "uid": 20180190,
+  "tags": {
+    "historic": "memorial",
+    "memorial": "war_memorial",
+    "name": "Дорога Жизни 19/20"
+  }
+},
+{
+  "type": "node",
+  "id": 6815251985,
+  "lat": 59.9701448,
+  "lon": 30.3529003,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 11,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "historic": "memorial",
+    "name": "Дорога Жизни 21/22"
+  }
+},
+{
+  "type": "node",
+  "id": 6815252285,
+  "lat": 59.9905248,
+  "lon": 30.3522948,
+  "timestamp": "2025-05-24T15:31:56Z",
+  "version": 13,
+  "changeset": 166702727,
+  "user": "h0rr0rrdrag0n",
+  "uid": 5718067,
+  "tags": {
+    "historic": "memorial",
+    "memorial": "obelisk",
+    "name": "Дорога Жизни 19/18"
+  }
+},
+{
+  "type": "node",
+  "id": 6837352286,
+  "lat": 59.9911037,
+  "lon": 30.3698873,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 13,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "historic": "memorial",
+    "inscription": "Дорога жизни 17/18",
+    "memorial": "war_memorial",
+    "name": "Дорога Жизни 17/18"
+  }
+},
+{
+  "type": "node",
+  "id": 7334500058,
+  "lat": 59.9774592,
+  "lon": 30.3101749,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 11,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "historic": "memorial",
+    "memorial": "statue",
+    "name": "Памятник собаке Павлова",
+    "wikidata": "Q4343591",
+    "wikipedia": "ru:Памятник собаке Павлова (Санкт-Петербург)"
+  }
+},
+{
+  "type": "node",
+  "id": 7355084690,
+  "lat": 60.0236836,
+  "lon": 30.3185447,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 14,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "historic": "memorial",
+    "memorial": "plaque",
+    "name": "Дача Калинина",
+    "name:ru": "Дача М. И. Калинина"
+  }
+},
+{
+  "type": "node",
+  "id": 7401615297,
+  "lat": 59.9867378,
+  "lon": 30.3001528,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 13,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "historic": "memorial",
+    "memorial": "bench",
+    "memorial:subject": "Александр Сергеевич Пушкин",
+    "name": "Пушкин ушёл",
+    "subject:wikidata": "Q7200",
+    "subject:wikipedia": "ru:Пушкин, Александр Сергеевич"
+  }
+},
+{
+  "type": "node",
+  "id": 7506131885,
+  "lat": 60.0056070,
+  "lon": 30.4074448,
+  "timestamp": "2023-09-04T12:39:56Z",
+  "version": 4,
+  "changeset": 140803339,
+  "user": "mini-me",
+  "uid": 3846961,
+  "tags": {
+    "artwork_type": "installation",
+    "material": "metal",
+    "name": "Памятник Самоизоляции",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 7599911064,
+  "lat": 60.0507129,
+  "lon": 30.4415016,
+  "timestamp": "2022-05-03T14:58:22Z",
+  "version": 3,
+  "changeset": 120503700,
+  "user": "Nine-tailed",
+  "uid": 2006945,
+  "tags": {
+    "artwork_type": "sculpture",
+    "material": "plastic",
+    "name": "Я люблю Мурино",
+    "start_date": "2018",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 7780748630,
+  "lat": 59.9949822,
+  "lon": 30.3018768,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 14,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "artist_name": "скульп. М. Г. Манизер, арх. А. И. Лапиров, Е. И. Катонин",
+    "historic": "memorial",
+    "inscription": "Место Дуэли А. С. Пушкина / 26/V-1799—29/I-1837 /",
+    "material": "granite",
+    "memorial": "stele",
+    "name": "Место дуэли А.С. Пушкина",
+    "name:ru": "место дуэли А.С. Пушкина",
+    "name:uk": "місце дуелі О. С. Пушкіна",
+    "start_date": "1937",
+    "subject:wikidata": "Q4373848",
+    "wikidata": "Q4291393"
+  }
+},
+{
+  "type": "node",
+  "id": 7834855785,
+  "lat": 60.0255002,
+  "lon": 30.3856556,
+  "timestamp": "2025-09-12T10:53:58Z",
+  "version": 3,
+  "changeset": 171825536,
+  "user": "Серый Еж",
+  "uid": 23034906,
+  "tags": {
+    "name": "Голубятня",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7895007286,
+  "lat": 60.0181632,
+  "lon": 30.3723848,
+  "timestamp": "2020-09-10T20:35:14Z",
+  "version": 1,
+  "changeset": 90721736,
+  "user": "Zavgor1990",
+  "uid": 11591067,
+  "tags": {
+    "name": "Порфировая ваза",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 7905857185,
+  "lat": 60.0033257,
+  "lon": 30.4228086,
+  "timestamp": "2020-09-14T16:25:19Z",
+  "version": 1,
+  "changeset": 90876128,
+  "user": "Zavgor1990",
+  "uid": 11591067,
+  "tags": {
+    "name": "Крокодил",
+    "name:en": "Crocodile",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7924411127,
+  "lat": 60.0067691,
+  "lon": 30.3801619,
+  "timestamp": "2024-07-08T05:12:58Z",
+  "version": 2,
+  "changeset": 153686207,
+  "user": "asdfwqer",
+  "uid": 20626553,
+  "tags": {
+    "artwork_subject": "Капица Пётр Леонидович",
+    "artwork_type": "mural",
+    "inscription": "Наука должна быть весёлая, увлекательная и простая. Таковыми же должны быть и учёные",
+    "name": "Капица Пётр Леонидович",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 8072558417,
+  "lat": 59.9786598,
+  "lon": 30.3006490,
+  "timestamp": "2020-11-01T21:21:50Z",
+  "version": 1,
+  "changeset": 93382621,
+  "user": "Denis  Sinytich",
+  "uid": 8224335,
+  "tags": {
+    "name": "Гауптвахта Каменноостровского дворца",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8105530944,
+  "lat": 60.0078295,
+  "lon": 30.3756414,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 13,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "historic": "memorial",
+    "inscription": "Здесь с 1918 по 1961 год работал выдающийся учёный-электротехник Герой социалистического труда Лауреат Ленинской и Государственной премий Академик АН СССР КОСТЕНКО Михаил Полиевтович (1889-1976)",
+    "memorial": "plaque",
+    "memorial:subject": "Михаил Полиевктович Костенко",
+    "name": "М. П. Костенко",
+    "subject:wikidata": "Q4235321",
+    "subject:wikipedia": "ru:Костенко, Михаил Полиевктович"
+  }
+},
+{
+  "type": "node",
+  "id": 8105539207,
+  "lat": 60.0077332,
+  "lon": 30.3762068,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 14,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "historic": "memorial",
+    "inscription": "Здесь учился и работал с 1935 по 1984 год известный учёный-энергетик ПОМЕРАНЦЕВ Виктор Владимирович (1906-1984)",
+    "memorial": "plaque",
+    "memorial:subject": "Виктор Владимирович Померанцев",
+    "name": "В. В. Померанцеву",
+    "subject:wikidata": "Q21154136",
+    "subject:wikipedia": "ru:Померанцев, Виктор Владимирович"
+  }
+},
+{
+  "type": "node",
+  "id": 8105539208,
+  "lat": 60.0077041,
+  "lon": 30.3763769,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 15,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "historic": "memorial",
+    "inscription": "Здесь учился и работал с 1929 по 1978 год видный учёный-двигателист ДЬЯЧЕНКО Николай Харитонович (1904-1978)",
+    "memorial": "plaque",
+    "memorial:subject": "Николай Харитонович Дьяченко",
+    "name": "Н. Х. Дьяченко"
+  }
+},
+{
+  "type": "node",
+  "id": 8195402613,
+  "lat": 60.0600644,
+  "lon": 30.4438525,
+  "timestamp": "2025-01-19T17:28:13Z",
+  "version": 11,
+  "changeset": 161533472,
+  "user": "masmirnov",
+  "uid": 16256027,
+  "tags": {
+    "historic": "memorial",
+    "name": "Авиаторам Балтики"
+  }
+},
+{
+  "type": "node",
+  "id": 8250792617,
+  "lat": 60.0440275,
+  "lon": 30.3491074,
+  "timestamp": "2023-06-17T12:55:32Z",
+  "version": 9,
+  "changeset": 137446656,
+  "user": "Zavgor1990",
+  "uid": 11591067,
+  "tags": {
+    "addr:street": "проспект Художников",
+    "artwork_type": "sculpture",
+    "material": "stone",
+    "name": "Карандаши",
+    "name:ru": "Карандаши",
+    "source": "local knowledge",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 8378309217,
+  "lat": 59.9768430,
+  "lon": 30.3089244,
+  "timestamp": "2026-06-03T18:37:45Z",
+  "version": 3,
+  "changeset": 183609035,
+  "user": "alekseev9955",
+  "uid": 19212426,
+  "tags": {
+    "artwork_type": "installation",
+    "name": "Резной кустарник \"Птицы\"",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 8408650317,
+  "lat": 59.9783218,
+  "lon": 30.3163768,
+  "timestamp": "2021-03-30T09:17:01Z",
+  "version": 2,
+  "changeset": 101970903,
+  "user": "mini-me",
+  "uid": 3846961,
+  "tags": {
+    "artist_name": "Антонина Фатхуллина",
+    "artwork_type": "sculpture",
+    "inscription": "Только те, кто предпринимает абсурдные попытки, смогут достичь невозможного",
+    "name": "Толкающий стену",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 8414607748,
+  "lat": 60.0042244,
+  "lon": 30.3631976,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 11,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "historic": "monument",
+    "inscription": "Указом президиума Верховного Совета СССР от 18 января 1971 года Всесоюзный научно-исследовательский институт телевидения за успешное выполнение пятилетнего плана и организацию производства новой техники награжден орденом Ленина.",
+    "name": "Стела \"Предприятие коммунистического труда\""
+  }
+},
+{
+  "type": "node",
+  "id": 8541281641,
+  "lat": 59.9787618,
+  "lon": 30.3008585,
+  "timestamp": "2026-10-07T10:45:59Z",
+  "version": 9,
+  "changeset": 190138649,
+  "user": "mavl",
+  "uid": 564990,
+  "tags": {
+    "name": "улица Лунных Кошек",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8550005270,
+  "lat": 59.9805110,
+  "lon": 30.3954926,
+  "timestamp": "2026-05-06T09:06:50Z",
+  "version": 3,
+  "changeset": 182285226,
+  "user": "TrickyFoxy",
+  "uid": 11528195,
+  "tags": {
+    "historic": "memorial",
+    "inscription": "Погибшим на дорогах велосипедистам. На этой улице жила Настя Кислая. Ехавшую на велосипеде девушку сбил автомобиль. В ночь с 30 на 31 августа 2017 года Настя умерла. Ей было 18 лет.",
+    "memorial": "ghost_bike",
+    "name": "Настя Кислая",
+    "source": "https://www.fontanka.ru/2020/08/12/69418417",
+    "start_date": "2020-08",
+    "wikimedia_commons": "File:Призрачный велосипед в Санкт-Петербурге.jpg"
+  }
+},
+{
+  "type": "node",
+  "id": 8583337310,
+  "lat": 60.0692949,
+  "lon": 30.3935777,
+  "timestamp": "2023-08-26T20:56:39Z",
+  "version": 8,
+  "changeset": 140428988,
+  "user": "avi32",
+  "uid": 285369,
+  "tags": {
+    "historic": "memorial",
+    "inscription": "Здесь жил почётный житель МО \"Бугровское сельское поселение\", Герой Социалистического труда Панов Геннадий Иванович 1930-2020",
+    "memorial": "plaque",
+    "name": "Панов Геннадий Иванович",
+    "subject:wikidata": "Q97316345",
+    "subject:wikipedia": "ru:Панов, Геннадий Иванович"
+  }
+},
+{
+  "type": "node",
+  "id": 8920360648,
+  "lat": 60.0070419,
+  "lon": 30.3702699,
+  "timestamp": "2021-07-15T08:49:47Z",
+  "version": 2,
+  "changeset": 108033495,
+  "user": "Zavgor1990",
+  "uid": 11591067,
+  "tags": {
+    "addr:city": "Санкт-Петербург",
+    "addr:street": "Политехническая улица",
+    "artwork_type": "statue",
+    "name": "Космонавт",
+    "start_date": "2021-07-09",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 8960526617,
+  "lat": 60.0139904,
+  "lon": 30.3303373,
+  "timestamp": "2024-07-07T21:02:26Z",
+  "version": 2,
+  "changeset": 153678966,
+  "user": "mystery2008",
+  "uid": 9329003,
+  "tags": {
+    "name": "Камень вилла Кумберга 1865",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9003321086,
+  "lat": 59.9710568,
+  "lon": 30.3065038,
+  "timestamp": "2024-05-04T17:43:35Z",
+  "version": 3,
+  "changeset": 150891564,
+  "user": "Anton Khorev",
+  "uid": 437809,
+  "tags": {
+    "historic": "memorial",
+    "inscription": "Здесь с 1875 года по 1918 год жил и работал скульптор академик Александр Михайлович Опекушин",
+    "memorial": "plaque",
+    "name": "А. М. Опекушину"
+  }
+},
+{
+  "type": "node",
+  "id": 9285901517,
+  "lat": 59.9833636,
+  "lon": 30.3194761,
+  "timestamp": "2026-09-16T20:54:27Z",
+  "version": 15,
+  "changeset": 189131023,
+  "user": "masmirnov",
+  "uid": 16256027,
+  "tags": {
+    "historic": "memorial",
+    "memorial": "statue",
+    "memorial:subject": "Владимир Ильич Ленин",
+    "name": "В. И. Ленину",
+    "subject:wikidata": "Q1394",
+    "subject:wikipedia": "ru:Ленин, Владимир Ильич"
+  }
+},
+{
+  "type": "node",
+  "id": 9483250706,
+  "lat": 59.9705784,
+  "lon": 30.3217826,
+  "timestamp": "2022-02-06T12:39:25Z",
+  "version": 1,
+  "changeset": 117077557,
+  "user": "Afanasovich",
+  "uid": 2101839,
+  "tags": {
+    "artwork_type": "sculpture",
+    "name": "Японский Фонарь",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 9727563370,
+  "lat": 60.0342170,
+  "lon": 30.3733054,
+  "timestamp": "2024-12-19T20:16:59Z",
+  "version": 2,
+  "changeset": 160409280,
+  "user": "LateGuest",
+  "uid": 6873752,
+  "tags": {
+    "artist:wikidata": "Q4513695",
+    "artist_name": "А. Н. Черницкий",
+    "artwork_type": "sculpture",
+    "description": "Каменная голова",
+    "material": "granite",
+    "name": "Людоед",
+    "start_date": "1986",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 9736284696,
+  "lat": 59.9862020,
+  "lon": 30.3032133,
+  "timestamp": "2022-05-13T07:03:52Z",
+  "version": 3,
+  "changeset": 120918494,
+  "user": "endrx",
+  "uid": 2797150,
+  "tags": {
+    "artwork_type": "sculpture",
+    "name": "Чернореченские львы",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 9739265918,
+  "lat": 59.9915331,
+  "lon": 30.3939890,
+  "timestamp": "2022-05-31T14:36:14Z",
+  "version": 2,
+  "changeset": 121771717,
+  "user": "Zavgor1990",
+  "uid": 11591067,
+  "tags": {
+    "name": "Жбот ЛенУр",
+    "name:ru": "Жбот ЛенУр",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9749276617,
+  "lat": 59.9903390,
+  "lon": 30.3993624,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 13,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "historic": "memorial",
+    "material": "stone",
+    "memorial": "public_person",
+    "name": "Могила Виктора Цоя",
+    "name:ru": "Могила Виктора Цоя",
+    "source": "local knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 9757486017,
+  "lat": 59.9906056,
+  "lon": 30.3945829,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 12,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "historic": "memorial",
+    "memorial": "war_memorial",
+    "name": "Доблестным советским воинам",
+    "name:ru": "Доблестным советским воинам"
+  }
+},
+{
+  "type": "node",
+  "id": 9804566910,
+  "lat": 59.9716255,
+  "lon": 30.3066712,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 13,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "historic": "memorial",
+    "inscription": "В этом доме с 1930 по 1962 год жил кинорежиссер народный артист СССР Фридрих Маркович Эрмлер",
+    "memorial": "plaque",
+    "memorial:subject": "Фридрих Маркович Эрмлер",
+    "name": "Ф. М. Эрмлеру",
+    "subject:wikidata": "Q1342183",
+    "subject:wikipedia": "ru:Эрмлер, Фридрих Маркович"
+  }
+},
+{
+  "type": "node",
+  "id": 9804566911,
+  "lat": 59.9715706,
+  "lon": 30.3067142,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 13,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "historic": "memorial",
+    "inscription": "В этом доме с 1931 по 1968 г. жил выдающийся советский зодчий Евгений Адольфович Левинсон",
+    "memorial": "plaque",
+    "memorial:subject": "Евгений Адольфович Левинсон",
+    "name": "Е. А. Левинсону",
+    "subject:wikidata": "Q4256543",
+    "subject:wikipedia": "ru:Левинсон, Евгений Адольфович"
+  }
+},
+{
+  "type": "node",
+  "id": 9830887500,
+  "lat": 60.0076599,
+  "lon": 30.3709520,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 13,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "historic": "memorial",
+    "inscription": "Здесь работал с 1988 по 2019 год академик Алфёров Жорес Иванович (1930 - 2019), лауреат Нобелевской премии, полный кавалер ордена \"За заслуги перед Отечеством\"",
+    "material": "granite",
+    "memorial": "plaque",
+    "memorial:subject": "Жорес Иванович Алфёров",
+    "name": "Ж.И. Алфёрову",
+    "subject:wikidata": "Q183279",
+    "subject:wikipedia": "ru:Алфёров, Жорес Иванович"
+  }
+},
+{
+  "type": "node",
+  "id": 9848267065,
+  "lat": 59.9712897,
+  "lon": 30.3063052,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 13,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "historic": "memorial",
+    "inscription": "Дом Р.И. Бершетейна (с курдонером и оградой) 1910-1911 гг. архитектор Д.А. Крыжановский",
+    "memorial": "plaque",
+    "name": "Дом Р. И. Берштейна"
+  }
+},
+{
+  "type": "node",
+  "id": 10201166128,
+  "lat": 60.0198365,
+  "lon": 30.3306050,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 12,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "direction": "233",
+    "fixme": "Проверить на местности, возможно у другого родника: https://www.openstreetmap.org/node/10149071764",
+    "historic": "memorial",
+    "inscription": "Сей источник посещала Августейшая семья св. мч. Николая II. Святые Царственные мученики, молите Бога о нас!",
+    "material": "stone",
+    "memorial": "plaque",
+    "name": "Августейшей семье св. мч. Николая II"
+  }
+},
+{
+  "type": "node",
+  "id": 10272936442,
+  "lat": 59.9725734,
+  "lon": 30.3233198,
+  "timestamp": "2023-01-01T01:17:51Z",
+  "version": 4,
+  "changeset": 130736258,
+  "user": "sshsh",
+  "uid": 5283791,
+  "tags": {
+    "artwork_type": "bust",
+    "inscription": "Профессор Валентин Петрович Вологдин 1881-1953",
+    "material": "metal",
+    "name": "Вологдин В.П.",
+    "source": "survey",
+    "subject:wikidata": "Q4123662",
+    "subject:wikipedia": "ru:Вологдин, Валентин Петрович",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 10272936450,
+  "lat": 59.9719475,
+  "lon": 30.3228902,
+  "timestamp": "2023-01-01T01:17:51Z",
+  "version": 4,
+  "changeset": 130736258,
+  "user": "sshsh",
+  "uid": 5283791,
+  "tags": {
+    "artwork_type": "bust",
+    "inscription": "Александру Степановичу Попову",
+    "material": "metal",
+    "name": "Попов А.С.",
+    "source": "survey",
+    "subject:wikidata": "Q191799",
+    "subject:wikipedia": "ru:Попов, Александр Степанович",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 10272936469,
+  "lat": 59.9738203,
+  "lon": 30.3226946,
+  "timestamp": "2022-12-19T09:57:01Z",
+  "version": 1,
+  "changeset": 130241113,
+  "user": "sshsh",
+  "uid": 5283791,
+  "tags": {
+    "artwork_type": "mural",
+    "name": "Попов А.С.",
+    "source": "survey",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 10287840774,
+  "lat": 59.9715694,
+  "lon": 30.3200732,
+  "timestamp": "2024-09-04T20:07:23Z",
+  "version": 3,
+  "changeset": 156203092,
+  "user": "s777n",
+  "uid": 615344,
+  "tags": {
+    "addr:door": "1252",
+    "addr:floor": "2",
+    "check_date": "2022-12-26",
+    "contact:phone": "+7 812 2345900",
+    "contact:website": "http://eltech.ru/ru/universitet/istoriya-universiteta/memorialnyy-muzey-as-popova",
+    "description": "В музее-лаборатории посетители могут проследить жизненный путь А.С. Попова (1859 – 1906), основные события в развитии электро- и радиотехники в России и в мире в конце XIX - начале ХХ вв.",
+    "description:ru": "В музее-лаборатории посетители могут проследить жизненный путь А.С. Попова (1859 – 1906), основные события в развитии электро- и радиотехники в России и в мире в конце XIX - начале ХХ вв.",
+    "full_name": "Мемориальный музей А.С. Попова Санкт-Петербургского государственного электротехнического университета \"ЛЭТИ\" им. В.И. Ульянова (Ленина)",
+    "full_name:en": "Memorial Museum of A.S. Popov at the Saint Petersburg Electrotechnical University \"LETI\"",
+    "full_name:ru": "Мемориальный музей А.С. Попова Санкт-Петербургского государственного электротехнического университета \"ЛЭТИ\" им. В.И. Ульянова (Ленина)",
+    "museum": "science",
+    "name": "Музей-лаборатория А. С. Попова",
+    "name:en": "Memorial Museum of A.S. Popov",
+    "name:ru": "Музей-лаборатория А. С. Попова",
+    "opening_hours": "Mo-Fr 11:00-16:00",
+    "operator:type": "university",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 10876656571,
+  "lat": 60.0117554,
+  "lon": 30.3675494,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 11,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "historic": "memorial",
+    "material": "granite",
+    "memorial": "stone",
+    "name": "Карл и Эмилия"
+  }
+},
+{
+  "type": "node",
+  "id": 10879029805,
+  "lat": 60.0447195,
+  "lon": 30.4472650,
+  "timestamp": "2026-10-07T10:44:43Z",
+  "version": 9,
+  "changeset": 190138569,
+  "user": "mavl",
+  "uid": 564990,
+  "tags": {
+    "historic": "memorial",
+    "name": "Бюст Александра II"
+  }
+},
+{
+  "type": "node",
+  "id": 10879163305,
+  "lat": 60.0215735,
+  "lon": 30.4367654,
+  "timestamp": "2025-11-29T09:54:13Z",
+  "version": 3,
+  "changeset": 175268453,
+  "user": "Серый Еж",
+  "uid": 23034906,
+  "tags": {
+    "name": "Противотанковые надолбы",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 10879163405,
+  "lat": 60.0223393,
+  "lon": 30.4334032,
+  "timestamp": "2025-11-29T09:54:13Z",
+  "version": 3,
+  "changeset": 175268453,
+  "user": "Серый Еж",
+  "uid": 23034906,
+  "tags": {
+    "name": "Надолбы (Муринский рубеж обороны)",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 10879376405,
+  "lat": 60.0413433,
+  "lon": 30.4520696,
+  "timestamp": "2023-05-08T18:11:12Z",
+  "version": 1,
+  "changeset": 135864398,
+  "user": "mystery2008",
+  "uid": 9329003,
+  "tags": {
+    "name": "Дом управляющего Нобеля (XIX век)",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 10929881410,
+  "lat": 60.0344005,
+  "lon": 30.3140303,
+  "timestamp": "2023-05-26T20:14:52Z",
+  "version": 1,
+  "changeset": 136603915,
+  "user": "mystery2008",
+  "uid": 9329003,
+  "tags": {
+    "name": "ЖБОТ Z-15 ЛенУР",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 10931477705,
+  "lat": 60.0445525,
+  "lon": 30.3027257,
+  "timestamp": "2023-05-27T11:32:18Z",
+  "version": 1,
+  "changeset": 136620983,
+  "user": "mystery2008",
+  "uid": 9329003,
+  "tags": {
+    "name": "ЖБОТ Z-5 ЛенУр",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 10931477706,
+  "lat": 60.0452928,
+  "lon": 30.3020880,
+  "timestamp": "2023-05-27T11:32:18Z",
+  "version": 1,
+  "changeset": 136620983,
+  "user": "mystery2008",
+  "uid": 9329003,
+  "tags": {
+    "name": "ЖБОТ Z-16 ЛенУР",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 10931477707,
+  "lat": 60.0504585,
+  "lon": 30.3033048,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 11,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "historic": "ruins",
+    "name": "Остатки ЖБОТа Z-7 ЛенУР"
+  }
+},
+{
+  "type": "node",
+  "id": 10931477805,
+  "lat": 60.0443401,
+  "lon": 30.3075502,
+  "timestamp": "2026-05-24T19:45:51Z",
+  "version": 2,
+  "changeset": 183124725,
+  "user": "Серый Еж",
+  "uid": 23034906,
+  "tags": {
+    "name": "ЖБОТ Z-4 ЛенУР",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 10931477806,
+  "lat": 60.0463957,
+  "lon": 30.3083027,
+  "timestamp": "2023-05-27T11:32:26Z",
+  "version": 1,
+  "changeset": 136620983,
+  "user": "mystery2008",
+  "uid": 9329003,
+  "tags": {
+    "name": "Дореволюционный дом",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 10931477807,
+  "lat": 60.0339051,
+  "lon": 30.3119379,
+  "timestamp": "2023-05-27T11:32:27Z",
+  "version": 1,
+  "changeset": 136620983,
+  "user": "mystery2008",
+  "uid": 9329003,
+  "tags": {
+    "name": "Дореволюционный дом",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 10931477905,
+  "lat": 60.0474449,
+  "lon": 30.3013268,
+  "timestamp": "2023-05-27T11:32:20Z",
+  "version": 1,
+  "changeset": 136620983,
+  "user": "mystery2008",
+  "uid": 9329003,
+  "tags": {
+    "name": "ЖБОТ Z-6 ЛенУР",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 10990203106,
+  "lat": 59.9901315,
+  "lon": 30.4003018,
+  "timestamp": "2026-09-21T15:40:21Z",
+  "version": 12,
+  "changeset": 189355244,
+  "user": "mystery2008",
+  "uid": 9329003,
+  "tags": {
+    "historic": "memorial",
+    "name": "Могила Михаила Горшенёва(КиШ)",
+    "name:en": "Mikhail Gorshenyov’s grave (The King and the jester)"
+  }
+},
+{
+  "type": "node",
+  "id": 11017234428,
+  "lat": 60.0536573,
+  "lon": 30.3283586,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 12,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "historic": "memorial",
+    "inscription": "ХО ШИ МИН HO CHI MINH",
+    "memorial": "statue",
+    "memorial:subject": "Хо Ши Мин",
+    "name": "Хо Ши Мин",
+    "subject:wikidata": "Q36014",
+    "subject:wikipedia": "ru:Хо Ши Мин"
+  }
+},
+{
+  "type": "node",
+  "id": 11043121476,
+  "lat": 60.0208476,
+  "lon": 30.4287533,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 11,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "historic": "memorial",
+    "inscription": "Здесь проходил передний край внешней полосы обороны Северного укрепрайона Ленинграда во время блокады города 1941-1945гг.",
+    "material": "concrete",
+    "memorial": "stone",
+    "name": "Передний край обороны"
+  }
+},
+{
+  "type": "node",
+  "id": 11049640705,
+  "lat": 60.0215509,
+  "lon": 30.4368423,
+  "timestamp": "2025-11-29T09:54:13Z",
+  "version": 13,
+  "changeset": 175268453,
+  "user": "Серый Еж",
+  "uid": 23034906,
+  "tags": {
+    "historic": "memorial",
+    "name": "Памятник линии блокады Ленинграда"
+  }
+},
+{
+  "type": "node",
+  "id": 11050384723,
+  "lat": 60.0344857,
+  "lon": 30.4132417,
+  "timestamp": "2023-07-17T05:02:10Z",
+  "version": 1,
+  "changeset": 138602576,
+  "user": "nyapo",
+  "uid": 18785733,
+  "tags": {
+    "artwork_type": "sculpture",
+    "name": "Грибы",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 11050384724,
+  "lat": 60.0345670,
+  "lon": 30.4134165,
+  "timestamp": "2023-07-17T05:02:10Z",
+  "version": 1,
+  "changeset": 138602576,
+  "user": "nyapo",
+  "uid": 18785733,
+  "tags": {
+    "artwork_type": "sculpture",
+    "name": "Крокодил",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 11055440182,
+  "lat": 60.1080315,
+  "lon": 30.3217023,
+  "timestamp": "2024-05-29T06:56:07Z",
+  "version": 10,
+  "changeset": 151973692,
+  "user": "vadim_ska",
+  "uid": 2803340,
+  "tags": {
+    "leisure": "park",
+    "name": "Огород. Старт с горы"
+  }
+},
+{
+  "type": "node",
+  "id": 11099028166,
+  "lat": 60.0199301,
+  "lon": 30.3801667,
+  "timestamp": "2023-08-08T09:01:06Z",
+  "version": 1,
+  "changeset": 139601996,
+  "user": "khavrenko",
+  "uid": 645607,
+  "tags": {
+    "artwork_type": "sculpture",
+    "name": "Черепаха",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 11172575554,
+  "lat": 59.9859848,
+  "lon": 30.3488195,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 3,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "historic": "memorial",
+    "inscription": "Герой Советского Союза Михаил Семёнович Харченко родился в 1918 году - партизан, командир отряда, участник сбора продовольствия на оккупированной врагом территории и доставки его в блокированный Ленинград. Погиб в 1942 году.",
+    "memorial": "plaque",
+    "memorial:subject": "Михаил Семёнович Харченко",
+    "name": "М. С. Харченко",
+    "subject:wikipedia": "ru:Харченко, Михаил Семёнович"
+  }
+},
+{
+  "type": "node",
+  "id": 11172575556,
+  "lat": 59.9861470,
+  "lon": 30.3497429,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 3,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "historic": "memorial",
+    "memorial": "plaque",
+    "memorial:subject": "Михаил Семёнович Харченко",
+    "name": "М. С. Харченко",
+    "subject:wikipedia": "ru:Харченко, Михаил Семёнович"
+  }
+},
+{
+  "type": "node",
+  "id": 11201886707,
+  "lat": 59.9868486,
+  "lon": 30.3479429,
+  "timestamp": "2023-09-19T18:19:26Z",
+  "version": 2,
+  "changeset": 141480887,
+  "user": "masmirnov",
+  "uid": 16256027,
+  "tags": {
+    "historic": "memorial",
+    "inscription": "В этом здании с 1 по 14 июля 1941 года формировалась 3-я дивизия Народного ополчения, участвовавшая в обороне Ленинграда",
+    "memorial": "plaque",
+    "name": "3-я дивизия Народного ополчнеия"
+  }
+},
+{
+  "type": "node",
+  "id": 11343328669,
+  "lat": 60.0765495,
+  "lon": 30.3006300,
+  "timestamp": "2023-11-12T13:07:32Z",
+  "version": 2,
+  "changeset": 143932601,
+  "user": "mystery2008",
+  "uid": 9329003,
+  "tags": {
+    "name": "Вход в катакомбы",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 11460634407,
+  "lat": 60.0368931,
+  "lon": 30.3063751,
+  "timestamp": "2023-12-27T20:17:11Z",
+  "version": 1,
+  "changeset": 145591187,
+  "user": "Soshal Distan Singh",
+  "uid": 11327915,
+  "tags": {
+    "description": "Объект культурного наследия.",
+    "name": "Дом Теленкова Ф.А.",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 11460634432,
+  "lat": 60.0380587,
+  "lon": 30.3042213,
+  "timestamp": "2023-12-27T20:17:11Z",
+  "version": 1,
+  "changeset": 145591187,
+  "user": "Soshal Distan Singh",
+  "uid": 11327915,
+  "tags": {
+    "description": "Здание гимназии для детей обоего пола Общества распространения среднего и низшего образования. Объект культурного наследия.",
+    "name": "Гимназия Общества распространения среднего и низшего образования (1911-1914)",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 11471916253,
+  "lat": 59.9808972,
+  "lon": 30.3380937,
+  "timestamp": "2023-12-31T03:36:17Z",
+  "version": 1,
+  "changeset": 145719428,
+  "user": "Soshal Distan Singh",
+  "uid": 11327915,
+  "tags": {
+    "description": "Архитектор А.Ф. Бубырь. Объект культурного наследия.",
+    "name": "Сборочная мастерская автомобильной фабрики «Русский Рено» (1914-1916)",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 11509686426,
+  "lat": 59.9879803,
+  "lon": 30.3900327,
+  "timestamp": "2024-01-11T22:59:23Z",
+  "version": 1,
+  "changeset": 146160864,
+  "user": "mystery2008",
+  "uid": 9329003,
+  "tags": {
+    "artwork_type": "sculpture",
+    "name": "Воин - красноармеец",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 11510705902,
+  "lat": 59.9822824,
+  "lon": 30.3466616,
+  "timestamp": "2026-10-07T10:45:25Z",
+  "version": 3,
+  "changeset": 190138599,
+  "user": "mavl",
+  "uid": 564990,
+  "tags": {
+    "name": "Бомбоубежище",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 11584672557,
+  "lat": 59.9758771,
+  "lon": 30.3054553,
+  "timestamp": "2024-12-04T06:51:46Z",
+  "version": 2,
+  "changeset": 159906079,
+  "user": "mini-me",
+  "uid": 3846961,
+  "tags": {
+    "historic": "memorial",
+    "inscription": "Здесь с 1954 по 1999 год жил и работал Евгений Иванович Юхнин, Герой Социалистического Труда, лауреат Ленинской премии, выдающийся кораблестроитель, главный конструктор многих боевых кораблей",
+    "memorial": "plaque",
+    "name": "Е. И. Юхнину"
+  }
+},
+{
+  "type": "node",
+  "id": 11861502121,
+  "lat": 60.0683539,
+  "lon": 30.3959774,
+  "timestamp": "2025-11-13T10:59:35Z",
+  "version": 2,
+  "changeset": 174599185,
+  "user": "Серый Еж",
+  "uid": 23034906,
+  "tags": {
+    "artwork_type": "sculpture",
+    "name": "Медведь",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 11861502122,
+  "lat": 60.0615690,
+  "lon": 30.3994703,
+  "timestamp": "2025-11-26T23:03:57Z",
+  "version": 2,
+  "changeset": 175175384,
+  "user": "Nine-tailed",
+  "uid": 2006945,
+  "tags": {
+    "artist_name": "Иван Зубарев, Владислав Муханов",
+    "historic": "memorial",
+    "inscription": "Ньютон",
+    "memorial": "statue",
+    "name": "Исаак Ньютон",
+    "start_date": "2023-06-10",
+    "subject:wikidata": "Q935",
+    "subject:wikipedia": "ru:Ньютон,_Исаак"
+  }
+},
+{
+  "type": "node",
+  "id": 12042530636,
+  "lat": 60.0664093,
+  "lon": 30.3919899,
+  "timestamp": "2025-11-13T09:10:56Z",
+  "version": 2,
+  "changeset": 174594395,
+  "user": "Серый Еж",
+  "uid": 23034906,
+  "tags": {
+    "name": "Я люблю Бугры",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12053133985,
+  "lat": 60.0748467,
+  "lon": 30.3287130,
+  "timestamp": "2024-07-15T20:28:47Z",
+  "version": 2,
+  "changeset": 153988650,
+  "user": "masmirnov",
+  "uid": 16256027,
+  "tags": {
+    "artwork_type": "installation",
+    "name": "Жизнь в корне изменилась",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 12156350825,
+  "lat": 59.9708920,
+  "lon": 30.3125037,
+  "timestamp": "2024-09-12T19:11:06Z",
+  "version": 2,
+  "changeset": 156542964,
+  "user": "s777n",
+  "uid": 615344,
+  "tags": {
+    "fee": "yes",
+    "internet_access": "no",
+    "name": "Музей петербургского авангарда",
+    "name:en": "St. Petersburg Museum of Avant-garde (Matyushin's House)",
+    "name:ru": "Музей петербургского авангарда",
+    "opening_hours": "Th-Mo 11:00-18:00; Tu 11:00-17:00",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "phone": "+7 812 3476898",
+    "tourism": "museum",
+    "wheelchair": "no",
+    "wikidata": "Q4306410"
+  }
+},
+{
+  "type": "node",
+  "id": 12159431330,
+  "lat": 59.9705282,
+  "lon": 30.3560561,
+  "timestamp": "2024-09-06T07:31:50Z",
+  "version": 1,
+  "changeset": 156260144,
+  "user": "s777n",
+  "uid": 615344,
+  "tags": {
+    "contact:website": "https://www.lomo.ru/company/muzey-lomo/",
+    "fixme": "position",
+    "full_name": "Музей истории Ленинградского оптико-механического объединения",
+    "full_name:en": "The Museum of the History of LOMO PLC St.Petersburg",
+    "full_name:ru": "Музей истории Ленинградского оптико-механического объединения",
+    "name": "Музей истории ЛОМО",
+    "name:en": "The Museum of the History of LOMO",
+    "name:ru": "Музей истории ЛОМО",
+    "reservation": "required",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 12202621737,
+  "lat": 59.9731173,
+  "lon": 30.4266640,
+  "timestamp": "2024-09-26T21:36:20Z",
+  "version": 1,
+  "changeset": 157146753,
+  "user": "mystery2008",
+  "uid": 9329003,
+  "tags": {
+    "artwork_type": "sculpture",
+    "name": "Лошадь",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 12229652302,
+  "lat": 59.9902820,
+  "lon": 30.3467151,
+  "timestamp": "2024-10-06T13:23:37Z",
+  "version": 1,
+  "changeset": 157540111,
+  "user": "КатеринаМ",
+  "uid": 11551011,
+  "tags": {
+    "name": "Красный дуб с круглыми жёлудями",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12229733702,
+  "lat": 59.9917788,
+  "lon": 30.3422639,
+  "timestamp": "2024-10-06T14:00:11Z",
+  "version": 1,
+  "changeset": 157541813,
+  "user": "КатеринаМ",
+  "uid": 11551011,
+  "tags": {
+    "name": "Красный дуб с круглыми жёлудями",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12361259386,
+  "lat": 60.0266812,
+  "lon": 30.3298542,
+  "timestamp": "2024-11-21T09:08:22Z",
+  "version": 1,
+  "changeset": 159400026,
+  "user": "asdfwqer",
+  "uid": 20626553,
+  "tags": {
+    "historic": "memorial",
+    "name": "В.И. Чуйков"
+  }
+},
+{
+  "type": "node",
+  "id": 12759524093,
+  "lat": 60.0223459,
+  "lon": 30.4338016,
+  "timestamp": "2025-11-29T09:54:13Z",
+  "version": 2,
+  "changeset": 175268453,
+  "user": "Серый Еж",
+  "uid": 23034906,
+  "tags": {
+    "name": "Надолбы (Муринский рубеж обороны)",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12759524230,
+  "lat": 60.0222537,
+  "lon": 30.4349161,
+  "timestamp": "2025-04-16T11:28:45Z",
+  "version": 1,
+  "changeset": 165024481,
+  "user": "asdfwqer",
+  "uid": 20626553,
+  "tags": {
+    "artwork_type": "sculpture",
+    "description": "Скульптурная композиция «Журавли» посвящена знаменитому стихотворению Расула Гамзатова.",
+    "name": "Журавли",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 12823815301,
+  "lat": 59.9965151,
+  "lon": 30.4253776,
+  "timestamp": "2025-05-09T16:06:57Z",
+  "version": 1,
+  "changeset": 166035379,
+  "user": "mystery2008",
+  "uid": 9329003,
+  "tags": {
+    "historic": "memorial",
+    "name": "Учащимся ремесленных училищ Ленинграда"
+  }
+},
+{
+  "type": "node",
+  "id": 12921130408,
+  "lat": 60.0093770,
+  "lon": 30.3067102,
+  "timestamp": "2025-06-17T13:02:04Z",
+  "version": 2,
+  "changeset": 167737692,
+  "user": "mystery2008",
+  "uid": 9329003,
+  "tags": {
+    "building": "bunker",
+    "military": "bunker",
+    "name": "ЖБОТ U-1 ЛенУР",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12921131602,
+  "lat": 60.0090632,
+  "lon": 30.3071196,
+  "timestamp": "2025-06-17T13:02:04Z",
+  "version": 2,
+  "changeset": 167737692,
+  "user": "mystery2008",
+  "uid": 9329003,
+  "tags": {
+    "building": "bunker",
+    "military": "bunker",
+    "name": "ЖБОТ U-2 ЛенУР",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12921158901,
+  "lat": 60.0034494,
+  "lon": 30.3153365,
+  "timestamp": "2025-06-17T13:02:04Z",
+  "version": 2,
+  "changeset": 167737692,
+  "user": "mystery2008",
+  "uid": 9329003,
+  "tags": {
+    "building": "bunker",
+    "military": "bunker",
+    "name": "ЖБОТ U-3 ЛенУР",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12959202903,
+  "lat": 59.9710710,
+  "lon": 30.3044235,
+  "timestamp": "2025-06-28T10:40:01Z",
+  "version": 1,
+  "changeset": 168221398,
+  "user": "mila iovovich",
+  "uid": 4274464,
+  "tags": {
+    "addr:housenumber": "28",
+    "addr:street": "улица Профессора Попова",
+    "name": "Дом Я.П. Смирницкого с палисадником и металлической оградой",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 13123014059,
+  "lat": 59.9964765,
+  "lon": 30.4153997,
+  "timestamp": "2025-09-06T07:57:33Z",
+  "version": 1,
+  "changeset": 171529277,
+  "user": "Серый Еж",
+  "uid": 23034906,
+  "tags": {
+    "historic": "memorial",
+    "name": "Аллея памяти морских пехотинцев"
+  }
+},
+{
+  "type": "node",
+  "id": 13230206032,
+  "lat": 59.9922763,
+  "lon": 30.3432621,
+  "timestamp": "2026-04-12T18:47:42Z",
+  "version": 2,
+  "changeset": 181245077,
+  "user": "vasagavavv",
+  "uid": 20180190,
+  "tags": {
+    "artwork_type": "statue",
+    "name": "Ваза с орнаментом",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 13233375935,
+  "lat": 60.0600247,
+  "lon": 30.4378004,
+  "timestamp": "2025-10-14T19:05:41Z",
+  "version": 1,
+  "changeset": 173290552,
+  "user": "Nine-tailed",
+  "uid": 2006945,
+  "tags": {
+    "artist_name": "Денис Третьяков",
+    "artwork_type": "sculpture",
+    "material": "bronze",
+    "name": "Хранитель чистоты и порядка",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 13233375936,
+  "lat": 60.0601636,
+  "lon": 30.4381562,
+  "timestamp": "2025-10-15T14:53:59Z",
+  "version": 2,
+  "changeset": 173324870,
+  "user": "Nine-tailed",
+  "uid": 2006945,
+  "tags": {
+    "artist_name": "Денис Третьяков",
+    "artwork_type": "sculpture",
+    "material": "bronze",
+    "name": "Хранитель растений",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 13233375937,
+  "lat": 60.0606558,
+  "lon": 30.4385649,
+  "timestamp": "2025-10-14T19:05:41Z",
+  "version": 1,
+  "changeset": 173290552,
+  "user": "Nine-tailed",
+  "uid": 2006945,
+  "tags": {
+    "artist_name": "Денис Третьяков",
+    "artwork_type": "sculpture",
+    "material": "bronze",
+    "name": "Хранитель сладостей",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 13234928336,
+  "lat": 60.0604575,
+  "lon": 30.4381875,
+  "timestamp": "2025-10-15T14:56:45Z",
+  "version": 1,
+  "changeset": 173324990,
+  "user": "Nine-tailed",
+  "uid": 2006945,
+  "tags": {
+    "artist_name": "Денис Третьяков",
+    "artwork_type": "sculpture",
+    "material": "bronze",
+    "name": "Хранитель домашних животных",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 13235054283,
+  "lat": 60.0685837,
+  "lon": 30.4476471,
+  "timestamp": "2025-10-15T15:41:38Z",
+  "version": 1,
+  "changeset": 173326820,
+  "user": "Nine-tailed",
+  "uid": 2006945,
+  "tags": {
+    "artist_name": "Денис Третьяков",
+    "artwork_type": "sculpture",
+    "material": "bronze",
+    "name": "Хранитель веселья и игр",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 13235055412,
+  "lat": 60.0655210,
+  "lon": 30.4421078,
+  "timestamp": "2025-10-15T15:40:43Z",
+  "version": 1,
+  "changeset": 173326787,
+  "user": "Nine-tailed",
+  "uid": 2006945,
+  "tags": {
+    "artist_name": "Денис Третьяков",
+    "artwork_type": "sculpture",
+    "material": "bronze",
+    "name": "Хранитель домашнего уюта",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 13235055413,
+  "lat": 60.0667838,
+  "lon": 30.4431023,
+  "timestamp": "2025-10-18T01:20:39Z",
+  "version": 2,
+  "changeset": 173432135,
+  "user": "Nine-tailed",
+  "uid": 2006945,
+  "tags": {
+    "artist_name": "Денис Третьяков",
+    "artwork_type": "sculpture",
+    "material": "bronze",
+    "name": "Хранитель вдохновения и творчества",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 13235055414,
+  "lat": 60.0671772,
+  "lon": 30.4435738,
+  "timestamp": "2025-10-15T15:40:43Z",
+  "version": 1,
+  "changeset": 173326787,
+  "user": "Nine-tailed",
+  "uid": 2006945,
+  "tags": {
+    "artist_name": "Денис Третьяков",
+    "artwork_type": "sculpture",
+    "material": "bronze",
+    "name": "Хранитель богатства и благополучия",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 13235055415,
+  "lat": 60.0677895,
+  "lon": 30.4441662,
+  "timestamp": "2025-10-18T01:20:39Z",
+  "version": 2,
+  "changeset": 173432135,
+  "user": "Nine-tailed",
+  "uid": 2006945,
+  "tags": {
+    "artist_name": "Денис Третьяков",
+    "artwork_type": "sculpture",
+    "material": "bronze",
+    "name": "Хранитель хорошей погоды",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 13235055416,
+  "lat": 60.0681891,
+  "lon": 30.4455141,
+  "timestamp": "2025-10-15T15:40:43Z",
+  "version": 1,
+  "changeset": 173326787,
+  "user": "Nine-tailed",
+  "uid": 2006945,
+  "tags": {
+    "artist_name": "Денис Третьяков",
+    "artwork_type": "sculpture",
+    "material": "bronze",
+    "name": "Хранитель сновидений",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 13289695600,
+  "lat": 60.0622174,
+  "lon": 30.4243937,
+  "timestamp": "2025-11-08T20:14:08Z",
+  "version": 1,
+  "changeset": 174392917,
+  "user": "Nine-tailed",
+  "uid": 2006945,
+  "tags": {
+    "artwork_type": "sculpture",
+    "name": "Шахматный конь",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 13504702445,
+  "lat": 60.1071819,
+  "lon": 30.3550678,
+  "timestamp": "2026-01-27T17:12:32Z",
+  "version": 1,
+  "changeset": 177772069,
+  "user": "BaltSeal",
+  "uid": 23675154,
+  "tags": {
+    "artwork_type": "installation",
+    "name": "Художественная инсталяция",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 13504702446,
+  "lat": 60.1071148,
+  "lon": 30.3552346,
+  "timestamp": "2026-01-27T17:12:32Z",
+  "version": 1,
+  "changeset": 177772069,
+  "user": "BaltSeal",
+  "uid": 23675154,
+  "tags": {
+    "artwork_type": "installation",
+    "name": "Художественная инсталяция",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 13707743555,
+  "lat": 59.9833170,
+  "lon": 30.3651542,
+  "timestamp": "2026-04-05T10:01:41Z",
+  "version": 1,
+  "changeset": 180888561,
+  "user": "ceekay80",
+  "uid": 130637,
+  "tags": {
+    "historic": "memorial",
+    "memorial": "sculpture",
+    "name": "Зубр"
+  }
+},
+{
+  "type": "node",
+  "id": 13707743556,
+  "lat": 59.9835129,
+  "lon": 30.3651461,
+  "timestamp": "2026-04-05T10:01:41Z",
+  "version": 1,
+  "changeset": 180888561,
+  "user": "ceekay80",
+  "uid": 130637,
+  "tags": {
+    "historic": "memorial",
+    "memorial": "sculpture",
+    "name": "Журавли"
+  }
+},
+{
+  "type": "node",
+  "id": 13807794875,
+  "lat": 59.9707063,
+  "lon": 30.3224927,
+  "timestamp": "2026-05-08T07:41:57Z",
+  "version": 1,
+  "changeset": 182369652,
+  "user": "deNULL",
+  "uid": 377188,
+  "tags": {
+    "artist_name": "Айдар Ишемгулов",
+    "artwork_type": "sculpture",
+    "material": "granite",
+    "name": "Мыслитель",
+    "start_date": "2014",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 14000638408,
+  "lat": 60.0510988,
+  "lon": 30.4244977,
+  "timestamp": "2026-07-09T16:52:31Z",
+  "version": 1,
+  "changeset": 185421400,
+  "user": "Nine-tailed",
+  "uid": 2006945,
+  "tags": {
+    "artwork_type": "mosaic",
+    "name": "Гопники",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 14000832847,
+  "lat": 60.0048660,
+  "lon": 30.3706712,
+  "timestamp": "2026-07-10T21:58:18Z",
+  "version": 2,
+  "changeset": 185506262,
+  "user": "masmirnov",
+  "uid": 16256027,
+  "tags": {
+    "historic": "memorial",
+    "inscription": "В этом здании с 1952 по 2023 год жил и работал Васильев Юрий Сергеевич, академик РАН, выдающийся учёный-гидротехник, ректор ЛПИ с 1983 по 1995 год, президент СПБПУ с 1995 по 2003 год",
+    "memorial": "plaque",
+    "name": "Ю. С. Васильеву"
+  }
+},
+{
+  "type": "node",
+  "id": 14000832848,
+  "lat": 60.0047978,
+  "lon": 30.3706255,
+  "timestamp": "2026-07-10T21:58:18Z",
+  "version": 2,
+  "changeset": 185506262,
+  "user": "masmirnov",
+  "uid": 16256027,
+  "tags": {
+    "historic": "memorial",
+    "inscription": "В этом здании с 1902 по 1957 год жил и работал Шателен Михаил Андреевич, член-корреспондент АН СССр, выдающийся учёный-электротехник, ректор ППИ с 1918 по 1919 год",
+    "memorial": "plaque",
+    "name": "М. А. Шателену"
+  }
+},
+{
+  "type": "node",
+  "id": 14000832849,
+  "lat": 60.0051010,
+  "lon": 30.3692687,
+  "timestamp": "2026-07-10T21:58:18Z",
+  "version": 2,
+  "changeset": 185506262,
+  "user": "masmirnov",
+  "uid": 16256027,
+  "tags": {
+    "historic": "memorial",
+    "inscription": "В этом здании с 1950 по 1973 год жил и работал Смирнов Василий Сергеевич, член-корреспондент АН СССР, выдающийся учёный-металлург, ректор ЛПИ с 1956 по 1973 год",
+    "memorial": "plaque",
+    "name": "В. С. Смирнову"
+  }
+},
+{
+  "type": "node",
+  "id": 14066794120,
+  "lat": 59.9711360,
+  "lon": 30.3056808,
+  "timestamp": "2026-08-31T21:41:07Z",
+  "version": 2,
+  "changeset": 188332229,
+  "user": "masmirnov",
+  "uid": 16256027,
+  "tags": {
+    "historic": "memorial",
+    "inscription": "В этом здании творческой мастерской академика скульптуры Александра Михайловича Опекушина создан первый в России памятник поэту А. С. Пушкину, открытый в Москве в 1880 году",
+    "memorial": "plaque",
+    "name": "А. М. Опекушину"
+  }
+},
+{
+  "type": "node",
+  "id": 14087201958,
+  "lat": 60.0078805,
+  "lon": 30.3763824,
+  "timestamp": "2026-08-12T21:33:38Z",
+  "version": 2,
+  "changeset": 187362049,
+  "user": "TrickyFoxy",
+  "uid": 11528195,
+  "tags": {
+    "artist_name": "tswet_art",
+    "artwork_type": "mural",
+    "image": "https://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6900ec0e9834884e109dcfed_691f708c630c3745778e4b8e/scale_1200",
+    "name": "И.В. Курчатов",
+    "name:en": "Igor Kurchatov",
+    "subject:wikidata": "Q185110",
+    "subject:wikipedia": "ru:Курчатов, Игорь Васильевич",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 14131650122,
+  "lat": 60.0299559,
+  "lon": 30.3921777,
+  "timestamp": "2026-08-28T17:38:12Z",
+  "version": 1,
+  "changeset": 188160241,
+  "user": "Nine-tailed",
+  "uid": 2006945,
+  "tags": {
+    "description": "Скульптура пограничника со служебной собакой",
+    "historic": "memorial",
+    "inscription": "Государственная граница священна и неприкосновенна!",
+    "material": "bronze",
+    "memorial": "sculpture",
+    "name": "Пограничникам"
+  }
+},
+{
+  "type": "way",
+  "id": 23013488,
+  "timestamp": "2023-09-16T23:10:34Z",
+  "version": 30,
+  "changeset": 141361523,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "center": {
+    "lat": 59.9931732,
+    "lon": 30.3035573
+  },
+  "nodes": [
+    248114154,
+    1268181509,
+    1268181475,
+    1269485018,
+    1369544434,
+    1269485162,
+    1269485116,
+    1569868582,
+    248114156,
+    1268181517,
+    1268181479,
+    1268181486,
+    1268181498,
+    1268181502,
+    1268181518,
+    1268181482,
+    1268181495,
+    1268181519,
+    248114157,
+    1269484844,
+    1269484851,
+    1269484828,
+    3698746836,
+    1274728830,
+    1268181496,
+    1268181481,
+    248114158,
+    1268181510,
+    1268181494,
+    1269485106,
+    1268181520,
+    1268181490,
+    248114154
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Новосибирский сквер",
+    "name:de": "Neusibirischer Platz"
+  }
+},
+{
+  "type": "way",
+  "id": 23772140,
+  "timestamp": "2023-09-16T23:10:34Z",
+  "version": 39,
+  "changeset": 141361523,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "center": {
+    "lat": 59.9880237,
+    "lon": 30.3507852
+  },
+  "nodes": [
+    1068070782,
+    1068070780,
+    257565096,
+    1068015368,
+    1769711345,
+    1068015349,
+    1068015473,
+    257565098,
+    257565099,
+    11136459719,
+    11136459718,
+    257565100,
+    257565101,
+    11136459717,
+    1068190741,
+    11136459716,
+    1068190791,
+    1068190755,
+    257565102,
+    11136459715,
+    257565105,
+    11136348228,
+    257565106,
+    11136348230,
+    257565107,
+    3736022272,
+    11136348233,
+    11136348232,
+    3190909911,
+    1668232762,
+    11136348299,
+    11136459703,
+    11136459713,
+    1068070782
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Полюстровский сад",
+    "source": "rgis"
+  }
+},
+{
+  "type": "way",
+  "id": 28055973,
+  "timestamp": "2023-11-05T14:26:14Z",
+  "version": 22,
+  "changeset": 143652372,
+  "user": "mini-me",
+  "uid": 3846961,
+  "center": {
+    "lat": 59.9798621,
+    "lon": 30.3045432
+  },
+  "nodes": [
+    308066769,
+    3700364923,
+    3700365200,
+    3700365197,
+    3700365198,
+    308066808,
+    308066684,
+    308066764,
+    308066736,
+    308066689,
+    308066675,
+    308066691,
+    308066803,
+    308066677,
+    308066718,
+    308066739,
+    308066672,
+    308066694,
+    308066782,
+    308066775,
+    308066769
+  ],
+  "tags": {
+    "addr:city": "Санкт-Петербург",
+    "addr:country": "RU",
+    "addr:housenumber": "1",
+    "addr:postcode": "197022",
+    "addr:street": "набережная реки Малой Невки",
+    "building": "yes",
+    "building:levels": "2",
+    "castle_type": "palace",
+    "historic": "castle",
+    "name": "Каменноостровский дворец",
+    "wikidata": "Q4211217",
+    "wikipedia": "ru:Каменноостровский дворец"
+  }
+},
+{
+  "type": "way",
+  "id": 28057341,
+  "timestamp": "2023-09-16T23:10:34Z",
+  "version": 21,
+  "changeset": 141361523,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "center": {
+    "lat": 59.9791155,
+    "lon": 30.3433924
+  },
+  "nodes": [
+    880305322,
+    11160706231,
+    11160706232,
+    11160706236,
+    308083050,
+    11160706237,
+    2520118610,
+    11160706239,
+    308083054,
+    2218388651,
+    2218388656,
+    880305302,
+    880305322
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Литовский сад"
+  }
+},
+{
+  "type": "way",
+  "id": 28057640,
+  "timestamp": "2025-05-14T11:38:32Z",
+  "version": 23,
+  "changeset": 166251127,
+  "user": "TrickyFoxy",
+  "uid": 11528195,
+  "center": {
+    "lat": 59.9805842,
+    "lon": 30.3524908
+  },
+  "nodes": [
+    308086429,
+    1918461888,
+    1918461874,
+    308086433,
+    308086429
+  ],
+  "tags": {
+    "leisure": "park",
+    "loc_name": "Колхозная площадь",
+    "name": "сквер Семёна Новгородова",
+    "source": "rgis",
+    "subject:wikidata": "Q2988412"
+  }
+},
+{
+  "type": "way",
+  "id": 28691883,
+  "timestamp": "2026-05-25T20:51:59Z",
+  "version": 32,
+  "changeset": 183177273,
+  "user": "Peter_Otp",
+  "uid": 11373580,
+  "center": {
+    "lat": 59.9768438,
+    "lon": 30.3059283
+  },
+  "nodes": [
+    4154082311,
+    1985924226,
+    1985924232,
+    1985924228,
+    1985924227,
+    1985924217,
+    12395424908,
+    1985924229,
+    1985924214,
+    1985924219,
+    1985924211,
+    1502859998,
+    1502859959,
+    1502859968,
+    315373560,
+    1502860076,
+    10933490885,
+    10933490884,
+    10933490878,
+    814049801,
+    344452161,
+    10933490877,
+    344451879,
+    344451877,
+    7715575047,
+    7715575048,
+    1389360216,
+    1389360222,
+    1389360215,
+    344451920,
+    344451918,
+    1985924210,
+    13878943694,
+    315373563,
+    1985924224,
+    1985924220,
+    315373564,
+    13878939467,
+    814049724,
+    1502860046,
+    4154082311
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Лопухинский сад",
+    "name:en": "Lopukhinsky Garden",
+    "wikidata": "Q4266865",
+    "wikipedia": "ru:Лопухинский сад"
+  }
+},
+{
+  "type": "way",
+  "id": 33229966,
+  "timestamp": "2026-10-07T10:46:19Z",
+  "version": 23,
+  "changeset": 190138649,
+  "user": "mavl",
+  "uid": 564990,
+  "center": {
+    "lat": 60.0483244,
+    "lon": 30.4545930
+  },
+  "nodes": [
+    376967917,
+    376967935,
+    1599278219,
+    2381336473,
+    376967956,
+    2381336484,
+    376968008,
+    4234627371,
+    4234627386,
+    2381336500,
+    376968490,
+    1983278803,
+    1985825467,
+    1985825487,
+    1985825496,
+    1985825541,
+    1985825500,
+    1988492991,
+    1988492994,
+    1908552490,
+    1988492993,
+    4234627439,
+    4234627433,
+    1908552494,
+    1983278794,
+    4234627413,
+    4234627351,
+    8868122436,
+    8868122440,
+    1978408353,
+    4234627293,
+    1978408341,
+    376968536,
+    376968557,
+    1978408311,
+    376968574,
+    7820222282,
+    376968618,
+    4234627201,
+    1978408279,
+    1978408280,
+    1978408273,
+    1978408276,
+    1978408284,
+    1978408287,
+    1983278495,
+    376968631,
+    376968644,
+    376967917
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Муринский парк"
+  }
+},
+{
+  "type": "way",
+  "id": 44171106,
+  "timestamp": "2019-10-28T16:55:24Z",
+  "version": 6,
+  "changeset": 76308256,
+  "user": "xronos",
+  "uid": 104972,
+  "center": {
+    "lat": 60.0777340,
+    "lon": 30.3027784
+  },
+  "nodes": [
+    561124786,
+    561124787,
+    561124789,
+    561124790,
+    561124791,
+    561124792,
+    561124793,
+    561124794,
+    561124786
+  ],
+  "tags": {
+    "addr:housenumber": "1В",
+    "addr:place": "Шуваловский парк",
+    "building": "yes",
+    "name": "Конюшни",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 50717585,
+  "timestamp": "2024-12-04T06:51:46Z",
+  "version": 19,
+  "changeset": 159906079,
+  "user": "mini-me",
+  "uid": 3846961,
+  "center": {
+    "lat": 59.9762980,
+    "lon": 30.3054134
+  },
+  "nodes": [
+    646304355,
+    12395424910,
+    12395424909,
+    1985924229,
+    1985924214,
+    12395424920,
+    12395424919,
+    12395424918,
+    12395424917,
+    12395424916,
+    12395424915,
+    12395424914,
+    12395424913,
+    646304391,
+    12395424907,
+    12395424905,
+    12395424902,
+    12395424903,
+    12395424904,
+    12395424906,
+    646304332,
+    12395424912,
+    12395424911,
+    12395424900,
+    12395424899,
+    12395424901,
+    646304350,
+    646304351,
+    646304352,
+    646304355
+  ],
+  "tags": {
+    "addr:city": "Санкт-Петербург",
+    "addr:country": "RU",
+    "addr:housenumber": "13",
+    "addr:street": "улица Академика Павлова",
+    "building": "detached",
+    "building:levels": "2",
+    "historic": "house",
+    "name": "Дача Громова",
+    "roof:shape": "gabled",
+    "source": "rgis",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 84037612,
+  "timestamp": "2025-06-13T20:59:56Z",
+  "version": 36,
+  "changeset": 167592227,
+  "user": "Pavel239",
+  "uid": 354001,
+  "center": {
+    "lat": 60.0095486,
+    "lon": 30.3984919
+  },
+  "nodes": [
+    977667535,
+    3305442101,
+    3305442100,
+    3305442097,
+    3305442096,
+    3823632338,
+    3305442098,
+    3305442099,
+    977667539,
+    10790943530,
+    977667695,
+    977667624,
+    977667692,
+    4111711536,
+    4111711537,
+    977667621,
+    11166964143,
+    5330432545,
+    12913417445,
+    11166964142,
+    12913417447,
+    12913417446,
+    977667597,
+    977667590,
+    977667545,
+    977667546,
+    2390147647,
+    977667535
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "сад Верности",
+    "note": "Эта часть - это официальные границы сквера (раньше предполагалось получит название \"Щигринский сквер\"). Поляна восточнее, вдоль Бутлерова - в границы сквера не входит и пойдет под застройку.",
+    "source": "http://companystatus.ru/ru/proekty/1/131/"
+  }
+},
+{
+  "type": "way",
+  "id": 95099171,
+  "timestamp": "2023-05-02T10:36:47Z",
+  "version": 7,
+  "changeset": 135610023,
+  "user": "mini-me",
+  "uid": 3846961,
+  "center": {
+    "lat": 60.0789042,
+    "lon": 30.3020923
+  },
+  "nodes": [
+    1103250044,
+    1103250043,
+    1103250045,
+    1103250054,
+    1103250044
+  ],
+  "tags": {
+    "addr:housenumber": "13",
+    "addr:place": "Шуваловский парк",
+    "building": "yes",
+    "building:levels": "2",
+    "name": "Дача Георга Месмахера",
+    "tourism": "attraction",
+    "wikidata": "Q104836521",
+    "wikipedia": "ru:Дача Месмахера"
+  }
+},
+{
+  "type": "way",
+  "id": 96385207,
+  "timestamp": "2023-09-16T23:10:34Z",
+  "version": 25,
+  "changeset": 141361523,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "center": {
+    "lat": 59.9858816,
+    "lon": 30.3354261
+  },
+  "nodes": [
+    1116978662,
+    4518520396,
+    3732087591,
+    3732087590,
+    5330549735,
+    1116978638,
+    10762081066,
+    3732087569,
+    3732087661,
+    3732087630,
+    3732087423,
+    3732060023,
+    3732060018,
+    1116978676,
+    3732087410,
+    4518520421,
+    4518520406,
+    4518520405,
+    4518520422,
+    4518520423,
+    1116978644,
+    1116978662
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Воронинский сквер",
+    "source": "rgis"
+  }
+},
+{
+  "type": "way",
+  "id": 96456049,
+  "timestamp": "2026-10-07T10:46:26Z",
+  "version": 33,
+  "changeset": 190138649,
+  "user": "mavl",
+  "uid": 564990,
+  "center": {
+    "lat": 60.0278333,
+    "lon": 30.3172753
+  },
+  "nodes": [
+    1573926392,
+    1573926387,
+    1448224372,
+    1117616441,
+    1117617285,
+    1436908252,
+    1117615586,
+    1117612319,
+    1117615984,
+    1117610858,
+    1117613062,
+    1117611796,
+    3687815030,
+    3687815029,
+    1117611398,
+    1117610962,
+    1573926392
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "парк Юннатов",
+    "source": "RGis"
+  }
+},
+{
+  "type": "way",
+  "id": 99153970,
+  "timestamp": "2023-09-16T23:10:34Z",
+  "version": 20,
+  "changeset": 141361523,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "center": {
+    "lat": 60.0126465,
+    "lon": 30.3273927
+  },
+  "nodes": [
+    1146912380,
+    1146912787,
+    255736219,
+    255736180,
+    255736218,
+    1146914661,
+    1146915093,
+    1146914421,
+    1146914852,
+    1664752578,
+    1146913389,
+    1146912380
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "сквер Валентины Котовой"
+  }
+},
+{
+  "type": "way",
+  "id": 99153982,
+  "timestamp": "2026-08-27T20:31:50Z",
+  "version": 24,
+  "changeset": 188117299,
+  "user": "Danidin9",
+  "uid": 395588,
+  "center": {
+    "lat": 60.0144385,
+    "lon": 30.3164590
+  },
+  "nodes": [
+    1146913461,
+    11043932514,
+    11043932513,
+    1146912904,
+    1146913518,
+    14129854365,
+    14129854362,
+    14129854363,
+    14129854364,
+    1146912130,
+    1146913461
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Вишнёвый сад"
+  }
+},
+{
+  "type": "way",
+  "id": 108497496,
+  "timestamp": "2023-09-16T23:10:34Z",
+  "version": 20,
+  "changeset": 141361523,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "center": {
+    "lat": 59.9917665,
+    "lon": 30.3522130
+  },
+  "nodes": [
+    1244711418,
+    1244711396,
+    1244711392,
+    1244711424,
+    1668052459,
+    1244711398,
+    1244711422,
+    1244711420,
+    1244711387,
+    1244711404,
+    3051790949,
+    1244711418
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Кушелевский сквер"
+  }
+},
+{
+  "type": "way",
+  "id": 113957799,
+  "timestamp": "2023-09-16T23:10:34Z",
+  "version": 22,
+  "changeset": 141361523,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "center": {
+    "lat": 59.9721609,
+    "lon": 30.3050150
+  },
+  "nodes": [
+    1291510037,
+    10196046715,
+    4976333980,
+    4976333978,
+    10196070359,
+    10196070360,
+    10674115316,
+    10196070363,
+    10196070362,
+    10196070361,
+    4976333977,
+    4976333979,
+    4908877659,
+    10196070354,
+    1291510035,
+    10196070263,
+    10196070262,
+    1291510037
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Аникушинский сквер"
+  }
+},
+{
+  "type": "way",
+  "id": 128874421,
+  "timestamp": "2023-09-16T23:16:38Z",
+  "version": 13,
+  "changeset": 141361632,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "center": {
+    "lat": 60.0063953,
+    "lon": 30.3288001
+  },
+  "nodes": [
+    1422943332,
+    1422943335,
+    1422943330,
+    1422943329,
+    1422943332
+  ],
+  "tags": {
+    "historic": "memorial",
+    "name": "Памятник работникам завода им.Энгельса, 1941-1945"
+  }
+},
+{
+  "type": "way",
+  "id": 138367161,
+  "timestamp": "2019-10-28T16:55:24Z",
+  "version": 7,
+  "changeset": 76308256,
+  "user": "xronos",
+  "uid": 104972,
+  "center": {
+    "lat": 60.0773222,
+    "lon": 30.3013349
+  },
+  "nodes": [
+    2002913222,
+    1517130012,
+    1517130046,
+    2002913235,
+    2002913227,
+    1517130006,
+    2002913218,
+    2002913204,
+    2002913205,
+    2002913201,
+    2002913191,
+    2002913188,
+    2002913185,
+    2002913190,
+    2002913197,
+    2002913202,
+    2002913222
+  ],
+  "tags": {
+    "addr:housenumber": "1Ж",
+    "addr:place": "Шуваловский парк",
+    "building": "yes",
+    "name": "Малый дворец",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 140597018,
+  "timestamp": "2023-09-16T23:10:34Z",
+  "version": 25,
+  "changeset": 141361523,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "center": {
+    "lat": 59.9924252,
+    "lon": 30.3241594
+  },
+  "nodes": [
+    1540213960,
+    10967877470,
+    10967877469,
+    2380657062,
+    10968775428,
+    10968775439,
+    10968785105,
+    10968775438,
+    10967877477,
+    10968775467,
+    10968775441,
+    10968775422,
+    10968775423,
+    10968775427,
+    10968775440,
+    10968775476,
+    1540213888,
+    10968775424,
+    10968775425,
+    10968775426,
+    2380657053,
+    4924099431,
+    2380657076,
+    2380657081,
+    274073426,
+    274073427,
+    1715939747,
+    274073430,
+    4924482622,
+    1540214077,
+    1540213960
+  ],
+  "tags": {
+    "alt_name": "Гагаринский парк",
+    "leisure": "park",
+    "name": "Пионерский сад"
+  }
+},
+{
+  "type": "way",
+  "id": 142340645,
+  "timestamp": "2026-09-15T23:03:18Z",
+  "version": 28,
+  "changeset": 189085717,
+  "user": "Beerron",
+  "uid": 17633141,
+  "center": {
+    "lat": 60.0483597,
+    "lon": 30.3648654
+  },
+  "nodes": [
+    1557926369,
+    14183924398,
+    12656248187,
+    14183924399,
+    3671119863,
+    3671119724,
+    1557909835,
+    1557909927,
+    541787304,
+    3671119628,
+    1557926364,
+    3775301867,
+    1557921072,
+    1557921032,
+    1557926367,
+    1557926361,
+    1557921051,
+    1557926365,
+    1557926369
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "сквер Конашевича",
+    "name:etymology:wikidata": "Q3655863",
+    "name:ru": "сквер Конашевича",
+    "source:name": "https://npa.gov.spb.ru/SpbGovSearch/Document/36654.html"
+  }
+},
+{
+  "type": "way",
+  "id": 142419427,
+  "timestamp": "2023-09-16T23:10:34Z",
+  "version": 23,
+  "changeset": 141361523,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "center": {
+    "lat": 60.0134197,
+    "lon": 30.4318272
+  },
+  "nodes": [
+    1558594179,
+    1558594186,
+    1558594188,
+    1558594183,
+    1558594161,
+    1558594156,
+    1558594154,
+    1558594151,
+    1287837169,
+    1558594120,
+    11079935900,
+    11079935899,
+    1558594118,
+    1558594115,
+    1558594123,
+    11079935898,
+    1558594126,
+    1558594145,
+    1558594159,
+    1558594164,
+    1558594167,
+    1558594179
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "сквер Чингиза Айтматова",
+    "name:etymology:wikidata": "Q484292",
+    "wikidata": "Q16698238",
+    "wikipedia": "ru:Сквер Чингиза Айтматова (Санкт-Петербург)"
+  }
+},
+{
+  "type": "way",
+  "id": 154991316,
+  "timestamp": "2026-10-07T10:46:26Z",
+  "version": 27,
+  "changeset": 190138649,
+  "user": "mavl",
+  "uid": 564990,
+  "center": {
+    "lat": 60.0000859,
+    "lon": 30.3561724
+  },
+  "nodes": [
+    3126280041,
+    1674398003,
+    880646421,
+    1674398110,
+    1674398098,
+    1674398085,
+    1674398076,
+    1674398099,
+    1674398070,
+    1674398055,
+    1674398041,
+    1674398028,
+    1674397976,
+    1674397968,
+    1674398014,
+    1674398040,
+    1674398024,
+    4064150813,
+    3126280041
+  ],
+  "tags": {
+    "addr:city": "Санкт-Петербург",
+    "addr:street": "2-й Муринский проспект",
+    "leisure": "park",
+    "name": "Сквер академика Лихачёва",
+    "name:source": "ПОСТАНОВЛЕНИЕ ПРАВИТЕЛЬСТВА САНКТ-ПЕТЕРБУРГА от 3 октября 2014 года N 922",
+    "wikidata": "Q125242248",
+    "wikipedia": "ru:Сквер Академика Лихачёва"
+  }
+},
+{
+  "type": "way",
+  "id": 158590791,
+  "timestamp": "2023-09-16T23:10:34Z",
+  "version": 19,
+  "changeset": 141361523,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "center": {
+    "lat": 59.9732128,
+    "lon": 30.3275215
+  },
+  "nodes": [
+    1707595026,
+    1707595031,
+    1707595034,
+    1707595028,
+    4119375302,
+    4119552851,
+    1707595026
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "сквер Столыпина"
+  }
+},
+{
+  "type": "way",
+  "id": 181417638,
+  "timestamp": "2026-10-07T10:46:26Z",
+  "version": 22,
+  "changeset": 190138649,
+  "user": "mavl",
+  "uid": 564990,
+  "center": {
+    "lat": 59.9781100,
+    "lon": 30.3464623
+  },
+  "nodes": [
+    1918461712,
+    1918461745,
+    1918461723,
+    1918461708,
+    1918461701,
+    11158487401,
+    11158487400,
+    11158487398,
+    1918461711,
+    1918461712
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Новолитовский сквер",
+    "source": "rgis"
+  }
+},
+{
+  "type": "way",
+  "id": 189700009,
+  "timestamp": "2019-10-28T16:56:33Z",
+  "version": 4,
+  "changeset": 76308284,
+  "user": "xronos",
+  "uid": 104972,
+  "center": {
+    "lat": 60.0772250,
+    "lon": 30.3025023
+  },
+  "nodes": [
+    2002913212,
+    2002913207,
+    2002913155,
+    2002913161,
+    2002913175,
+    2002913177,
+    2002913198,
+    2002913195,
+    2002913212
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Дом садовника",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 245659313,
+  "timestamp": "2023-09-16T23:10:34Z",
+  "version": 23,
+  "changeset": 141361523,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "center": {
+    "lat": 60.0022694,
+    "lon": 30.4287063
+  },
+  "nodes": [
+    2528133188,
+    7027350611,
+    7027350613,
+    7027350612,
+    7027350610,
+    3692573046,
+    2528133168,
+    3692572814,
+    2528133170,
+    2528133180,
+    2528133174,
+    2528133172,
+    2528133176,
+    2528133178,
+    2528133182,
+    2528133186,
+    7027335984,
+    7027366785,
+    2528133192,
+    2528133190,
+    7027366788,
+    7027366789,
+    2528133193,
+    2528133188
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "сад Жореса Алфёрова",
+    "name:etymology:wikidata": "Q183279",
+    "source:name": "https://npa.gov.spb.ru/SpbGovSearch/Document/36748.html"
+  }
+},
+{
+  "type": "way",
+  "id": 317247835,
+  "timestamp": "2024-06-24T11:59:27Z",
+  "version": 3,
+  "changeset": 153108992,
+  "user": "asdfwqer",
+  "uid": 20626553,
+  "center": {
+    "lat": 60.0573089,
+    "lon": 30.3368692
+  },
+  "nodes": [
+    1474444507,
+    3234944606,
+    3234944605,
+    3234944607,
+    1474444507
+  ],
+  "tags": {
+    "amenity": "fountain",
+    "description": "Цветомузыкальный",
+    "fountain": "dry",
+    "name": "Времена года",
+    "natural": "water",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "way",
+  "id": 413383044,
+  "timestamp": "2023-09-16T23:10:34Z",
+  "version": 19,
+  "changeset": 141361523,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "center": {
+    "lat": 59.9711692,
+    "lon": 30.3255643
+  },
+  "nodes": [
+    1546341586,
+    401417708,
+    4147072799,
+    4147072800,
+    4077392194,
+    4147187489,
+    4077392193,
+    5833171755,
+    1546341586
+  ],
+  "tags": {
+    "leisure": "garden",
+    "name": "Розарий"
+  }
+},
+{
+  "type": "way",
+  "id": 491762967,
+  "timestamp": "2026-08-21T15:28:32Z",
+  "version": 22,
+  "changeset": 187803196,
+  "user": "King10k",
+  "uid": 3188260,
+  "center": {
+    "lat": 60.0501336,
+    "lon": 30.4315734
+  },
+  "nodes": [
+    4838495602,
+    4840611225,
+    4838495586,
+    5363043494,
+    14110326058,
+    14110223071,
+    14110326059,
+    6484063714,
+    6484063713,
+    14110326052,
+    4838495578,
+    5259929079,
+    5277896201,
+    6484063711,
+    14110326057,
+    6484063712,
+    4838495603,
+    6484063717,
+    6929980209,
+    4838495602
+  ],
+  "tags": {
+    "description": "высажена 06.05.2017г",
+    "leisure": "park",
+    "name": "Аллея Славы",
+    "start_date": "2017-05-06"
+  }
+},
+{
+  "type": "way",
+  "id": 769365054,
+  "timestamp": "2024-05-07T10:45:02Z",
+  "version": 4,
+  "changeset": 151003639,
+  "user": "OSM FTW",
+  "uid": 17746333,
+  "center": {
+    "lat": 59.9995349,
+    "lon": 30.3642758
+  },
+  "nodes": [
+    7181557832,
+    7181557833,
+    7181557834,
+    7181557835,
+    7181557836,
+    11886304137,
+    7181557837,
+    7181557838,
+    7181557839,
+    11886304138,
+    7181557840,
+    7181557841,
+    7181557842,
+    7181557843,
+    7181557844,
+    7181557845,
+    7181557846,
+    7181557847,
+    7181557848,
+    7181557849,
+    7181557850,
+    7181557851,
+    7181557852,
+    7181557853,
+    7181557854,
+    7181557855,
+    7181557856,
+    7181557857,
+    7181557858,
+    7181557859,
+    7181557860,
+    7181557861,
+    7181557862,
+    7181557863,
+    7181557864,
+    7181557832
+  ],
+  "tags": {
+    "addr:city": "Санкт-Петербург",
+    "addr:place": "площадь Мужества",
+    "leaf_type": "mixed",
+    "leisure": "park",
+    "name": "Сквер блокадников"
+  }
+},
+{
+  "type": "way",
+  "id": 948265470,
+  "timestamp": "2023-09-16T23:10:34Z",
+  "version": 17,
+  "changeset": 141361523,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "center": {
+    "lat": 59.9916174,
+    "lon": 30.3180602
+  },
+  "nodes": [
+    1369544336,
+    8777454688,
+    8777454689,
+    8777454690,
+    1369544336
+  ],
+  "tags": {
+    "access": "yes",
+    "leisure": "park",
+    "name": "Луспекаевский сквер"
+  }
+},
+{
+  "type": "way",
+  "id": 1063261578,
+  "timestamp": "2022-05-24T12:48:30Z",
+  "version": 1,
+  "changeset": 121422646,
+  "user": "d-travel",
+  "uid": 5743410,
+  "center": {
+    "lat": 60.0876313,
+    "lon": 30.4574882
+  },
+  "nodes": [
+    9767082886,
+    9767082883,
+    9767082884,
+    9767082885,
+    9767082886
+  ],
+  "tags": {
+    "building": "house",
+    "name": "Дом-церковь",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 1083965027,
+  "timestamp": "2025-12-22T11:51:10Z",
+  "version": 19,
+  "changeset": 176259570,
+  "user": "Серый Еж",
+  "uid": 23034906,
+  "center": {
+    "lat": 60.0528801,
+    "lon": 30.3165099
+  },
+  "nodes": [
+    9933333042,
+    9933333043,
+    13395004629,
+    13395004623,
+    13395004624,
+    9933333044,
+    13395004644,
+    13395004646,
+    13395004647,
+    13395004650,
+    13395004649,
+    13395004648,
+    13395004645,
+    13395004654,
+    9933333055,
+    9933333056,
+    9933333057,
+    10580831528,
+    9933333045,
+    9933333046,
+    13395004662,
+    9933333047,
+    9933333048,
+    9933333049,
+    9933333050,
+    9933333051,
+    9933333052,
+    9933333053,
+    9933333042
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Сквер Соллертинского"
+  }
+},
+{
+  "type": "way",
+  "id": 1238967402,
+  "timestamp": "2026-03-10T10:42:37Z",
+  "version": 2,
+  "changeset": 179630767,
+  "user": "Константин Гам",
+  "uid": 392109,
+  "center": {
+    "lat": 59.9883574,
+    "lon": 30.3966202
+  },
+  "nodes": [
+    11162895659,
+    3037882963,
+    11162895667,
+    11162895666,
+    11162895704,
+    3037882962,
+    11162895665,
+    11162895664,
+    11162895686,
+    11162895684,
+    11162895661,
+    11162895660,
+    11162895659
+  ],
+  "tags": {
+    "historic": "memorial",
+    "name": "Братские захоронения защитников Ленинграда 1941-1943 гг."
+  }
+},
+{
+  "type": "way",
+  "id": 1272198908,
+  "timestamp": "2024-04-13T12:54:59Z",
+  "version": 1,
+  "changeset": 149950447,
+  "user": "м1т",
+  "uid": 3765990,
+  "center": {
+    "lat": 60.0029575,
+    "lon": 30.3203623
+  },
+  "nodes": [
+    11813658066,
+    11813658067
+  ],
+  "tags": {
+    "artwork_type": "installation",
+    "name": "Приморский район",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "way",
+  "id": 1317460724,
+  "timestamp": "2024-09-22T20:40:28Z",
+  "version": 1,
+  "changeset": 156968689,
+  "user": "Kaverzin3",
+  "uid": 381925,
+  "center": {
+    "lat": 59.9730481,
+    "lon": 30.3104709
+  },
+  "nodes": [
+    637322417,
+    12193348999,
+    12193349000,
+    12193400301,
+    12193400302,
+    12193400303,
+    12193400304,
+    12193400305,
+    12193400306,
+    12193400307,
+    12193400308,
+    12193400309,
+    12193400310,
+    12193400311,
+    12193400312,
+    5430802652,
+    637322401,
+    10189615564,
+    10189615563,
+    637322405,
+    637322412,
+    637322417
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "сквер Адмирала Дрозда"
+  }
+},
+{
+  "type": "way",
+  "id": 1457892047,
+  "timestamp": "2025-12-11T21:25:02Z",
+  "version": 1,
+  "changeset": 175820960,
+  "user": "Kaverzin3",
+  "uid": 381925,
+  "center": {
+    "lat": 59.9698130,
+    "lon": 30.3122678
+  },
+  "nodes": [
+    13370509363,
+    11176533361,
+    11176533360,
+    9070451062,
+    13370509364,
+    13370509365,
+    13370509366,
+    9070451164,
+    9070451163,
+    13370509367,
+    13370509368,
+    5975015942,
+    1300617506,
+    13370509369,
+    11176533349,
+    11176533348,
+    11176533347,
+    13370509363
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "сквер Павла Филонова"
+  }
+},
+{
+  "type": "way",
+  "id": 1458378521,
+  "timestamp": "2025-12-13T22:25:22Z",
+  "version": 1,
+  "changeset": 175901162,
+  "user": "Kaverzin3",
+  "uid": 381925,
+  "center": {
+    "lat": 60.0011103,
+    "lon": 30.3596807
+  },
+  "nodes": [
+    2409257477,
+    2409257475,
+    2409257452,
+    2409257448,
+    13374962838,
+    13374962839,
+    13374962840,
+    2409257488,
+    2409257486,
+    2409257485,
+    2409257496,
+    2409257477
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "сквер Петра Плетнёва"
+  }
+},
+{
+  "type": "relation",
+  "id": 1434538,
+  "timestamp": "2026-08-03T13:07:01Z",
+  "version": 75,
+  "changeset": 186869918,
+  "user": "BR_pebble",
+  "uid": 15458791,
+  "center": {
+    "lat": 60.0214974,
+    "lon": 30.3479215
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 131243299,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 100873832,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 131317151,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 100873913,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 131317145,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 100873859,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 100873876,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 100873840,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 100874101,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 100873818,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 770741683,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 770741682,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 770648885,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 770648886,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 770648887,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 100873769,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 100873795,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 100873820,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 770648871,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 100873863,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 770648867,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 770648866,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 770648880,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 770648881,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 770648883,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 770648864,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 770648865,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 770648889,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 770648890,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 770648891,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 770648892,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 770648894,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 770648893,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 770648895,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 770648896,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 770648898,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 770648905,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 770648897,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 770673251,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 100873827,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 770673252,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 105764644,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 100874069,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 105764513,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 105764561,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 100873864,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 100873974,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 105764482,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 105764630,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 770673315,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 132213507,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 132213506,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 132432428,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 100873895,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 131243263,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 100873960,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 37921151,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 100149947,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 101004107,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 37921162,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 472432025,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 100149961,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 100873929,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 130897170,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 100150026,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 100873981,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 100329180,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 100873803,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 100873778,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 100874037,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 100873783,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 101004109,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 100873900,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1543332206,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1543332205,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 100874003,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 100873922,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1546952286,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 38087242,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 100873780,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 131243270,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "парк Сосновка",
+    "name:en": "Sosnovka park",
+    "type": "multipolygon",
+    "wikidata": "Q4429631",
+    "wikipedia": "ru:Сосновка (парк)"
+  }
+},
+{
+  "type": "relation",
+  "id": 1692338,
+  "timestamp": "2025-03-14T13:48:43Z",
+  "version": 27,
+  "changeset": 163611140,
+  "user": "MosKartograf",
+  "uid": 382604,
+  "center": {
+    "lat": 60.0758285,
+    "lon": 30.3046766
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 1367333796,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1367333790,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1367333791,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1367333781,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1367333783,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1367333767,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 123874541,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1367333760,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 123874552,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 123874549,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 1367333771,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 123874544,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1367333797,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1367333798,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1367333757,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 123874546,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1367333774,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1367333769,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 123874545,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Шуваловский парк",
+    "note": "граница объекта Всемирного наследия в другом отношении",
+    "type": "multipolygon",
+    "wikidata": "Q2753218",
+    "wikipedia": "ru:Шуваловский парк"
+  }
+},
+{
+  "type": "relation",
+  "id": 1732877,
+  "timestamp": "2025-12-26T21:28:27Z",
+  "version": 2,
+  "changeset": 176458079,
+  "user": "Kaverzin3",
+  "uid": 381925,
+  "center": {
+    "lat": 59.9992055,
+    "lon": 30.4247209
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 128274409,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 128274406,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "парк Героев СВО",
+    "source": "rgis",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 1773211,
+  "timestamp": "2023-09-16T23:59:15Z",
+  "version": 28,
+  "changeset": 141362250,
+  "user": "Fizzie-DWG",
+  "uid": 461130,
+  "center": {
+    "lat": 59.9651134,
+    "lon": 30.4238908
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 1194222812,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1194222813,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 396736272,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1194222839,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1194224660,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1194224661,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 132052407,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1194222823,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Полюстровский парк",
+    "old_name": "парк 50-летия Октября",
+    "type": "multipolygon",
+    "wikidata": "Q4371292",
+    "wikipedia": "ru:Полюстровский парк"
+  }
+},
+{
+  "type": "relation",
+  "id": 1948570,
+  "timestamp": "2023-09-16T23:59:15Z",
+  "version": 22,
+  "changeset": 141362250,
+  "user": "Fizzie-DWG",
+  "uid": 461130,
+  "center": {
+    "lat": 60.0224875,
+    "lon": 30.3174923
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 143828989,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 96455976,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Берёзовый сад",
+    "source": "RGis",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 2055286,
+  "timestamp": "2023-09-16T23:59:15Z",
+  "version": 26,
+  "changeset": 141362250,
+  "user": "Fizzie-DWG",
+  "uid": 461130,
+  "center": {
+    "lat": 59.9849119,
+    "lon": 30.2992461
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 152199535,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 85285591,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 23155223,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Салтыковский сад",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 2149267,
+  "timestamp": "2023-09-16T23:59:15Z",
+  "version": 34,
+  "changeset": 141362250,
+  "user": "Fizzie-DWG",
+  "uid": 461130,
+  "center": {
+    "lat": 60.0077864,
+    "lon": 30.3125344
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 160689890,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 128954161,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 128960984,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 127724441,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 128954171,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 128954181,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 128960985,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 128954270,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 128954234,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 128954185,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 128954213,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 142909727,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 128954170,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 440196820,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 440196822,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 440196818,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 168839724,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 168839734,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 128954262,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 128954207,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 128954238,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 128954219,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 699029455,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 128954290,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 97317445,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 699029454,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 128954208,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 160689892,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 128954283,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 153231477,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 160689894,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 153231495,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 206788716,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 153231468,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 153231475,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 206788714,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 128954206,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 128954196,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 128954187,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 128954203,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 128954175,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 106983067,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 132594172,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Удельный парк",
+    "name:en": "Udelny park",
+    "name:ru": "Удельный парк",
+    "old_name": "парк Челюскинцев",
+    "source": "RGis",
+    "type": "multipolygon",
+    "wikidata": "Q13668122",
+    "wikipedia": "ru:Удельный парк"
+  }
+},
+{
+  "type": "relation",
+  "id": 2163883,
+  "timestamp": "2023-09-16T23:59:15Z",
+  "version": 27,
+  "changeset": 141362250,
+  "user": "Fizzie-DWG",
+  "uid": 461130,
+  "center": {
+    "lat": 60.0188226,
+    "lon": 30.3708413
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 22330876,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 161565476,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 161565486,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 161565492,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 161565488,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 22330877,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "сад Бенуа",
+    "name:etymology:wikidata": "Q3189839",
+    "type": "multipolygon",
+    "website": "https://benua1890.ru/",
+    "wikidata": "Q4404478",
+    "wikipedia": "ru:Сад Бенуа"
+  }
+},
+{
+  "type": "relation",
+  "id": 2917370,
+  "timestamp": "2026-10-07T10:46:35Z",
+  "version": 67,
+  "changeset": 190138649,
+  "user": "mavl",
+  "uid": 564990,
+  "center": {
+    "lat": 59.9780271,
+    "lon": 30.2882920
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 972224290,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 793290358,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 242402668,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1321668040,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 242402672,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1321668039,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1321668037,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 369375526,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 242402671,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 972224291,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 242401331,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 972224289,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 972224292,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 242050054,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 153723509,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 242050056,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 153723512,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 546166966,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 741702584,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 722921707,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1176854559,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 741702592,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 741702583,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 153723518,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 741702548,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 972224293,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 640543966,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 143828263,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 741702579,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 153723505,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 28055978,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 553610963,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 73016798,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 741702578,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 242395689,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 741702577,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 741702576,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 60703053,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 242395687,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 990968681,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 741702573,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 741702574,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 990968689,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 990968687,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 990968685,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 60703045,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 990968690,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 990968684,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 990968682,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 741702569,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 741702571,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 741702570,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 741702568,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 741702567,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 741702563,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 741702566,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 369375521,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 741702565,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 369375531,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 741702559,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 741702557,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 741702558,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1176854551,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1176854552,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 117112644,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 741702560,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1176854558,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1176854554,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 741702554,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 741702553,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1321668032,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 741702552,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 741702551,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 741702550,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "парк Тихий отдых",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 2917380,
+  "timestamp": "2025-08-13T11:53:35Z",
+  "version": 33,
+  "changeset": 170385938,
+  "user": "Andy_Morgan",
+  "uid": 221981,
+  "center": {
+    "lat": 60.0262400,
+    "lon": 30.3984296
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 104468859,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 104468847,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 104468960,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 1154418783,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1422030324,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 22586681,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 220623577,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1107566731,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 672948817,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 160690114,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 160690121,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 104372641,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 74327227,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 160690119,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 220623576,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 160690117,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 193854622,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 10222722,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 133661385,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 591851529,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Муринский парк",
+    "name:en": "Murinsky park",
+    "name:etymology:wikidata": "Q4308062",
+    "type": "multipolygon",
+    "wikidata": "Q4308059",
+    "wikipedia": "ru:Муринский парк"
+  }
+},
+{
+  "type": "relation",
+  "id": 3207129,
+  "timestamp": "2023-09-16T23:21:35Z",
+  "version": 11,
+  "changeset": 141361719,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "center": {
+    "lat": 60.0011421,
+    "lon": 30.3546606
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 23021541,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 237983217,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 237983219,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 237983223,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 237983222,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 237983220,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "addr:city": "Санкт-Петербург",
+    "addr:country": "RU",
+    "addr:housenumber": "13",
+    "addr:street": "Болотная улица",
+    "building": "yes",
+    "building:cladding": "wood",
+    "building:levels": "3",
+    "building:parts": "vertical",
+    "check_date:opening_hours": "2021-08-07",
+    "name": "Детский музейный центр исторического воспитания",
+    "note": "санитарный день - последний понедельник месяца",
+    "opening_hours": "Mo-Su 10:00-18:00; Th off",
+    "phone": "+7 812 2974259",
+    "roof:shape": "gabled",
+    "tourism": "museum",
+    "type": "multipolygon",
+    "website": "http://www.polithistory.ru/bolotnaya-13-detskiy-muzeynyy-centr-istoricheskogo-vospitaniya"
+  }
+},
+{
+  "type": "relation",
+  "id": 3793464,
+  "timestamp": "2023-09-16T23:59:15Z",
+  "version": 23,
+  "changeset": 141362250,
+  "user": "Fizzie-DWG",
+  "uid": 461130,
+  "center": {
+    "lat": 59.9673663,
+    "lon": 30.4008629
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 286055883,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 277777457,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 286055885,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 286055884,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Любашинский сад",
+    "type": "multipolygon",
+    "wikidata": "Q4271396",
+    "wikipedia": "ru:Любашинский сад"
+  }
+},
+{
+  "type": "relation",
+  "id": 4100083,
+  "timestamp": "2023-09-16T23:59:15Z",
+  "version": 25,
+  "changeset": 141362250,
+  "user": "Fizzie-DWG",
+  "uid": 461130,
+  "center": {
+    "lat": 60.0194602,
+    "lon": 30.3884143
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 199584970,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 199584983,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 199584980,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 199584978,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 199584972,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 199584979,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 199584984,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Вавиловский сквер",
+    "name:etymology:wikidata": "Q214926;Q324968",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 5622070,
+  "timestamp": "2023-09-16T23:59:15Z",
+  "version": 29,
+  "changeset": 141362250,
+  "user": "Fizzie-DWG",
+  "uid": 461130,
+  "center": {
+    "lat": 59.9937491,
+    "lon": 30.3423510
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 10225983,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 669381679,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 91936786,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 97852537,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 97852538,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 464921622,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 98573171,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 973967198,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 973967199,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 779943646,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 779943645,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 377365092,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 98573136,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 779943649,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 779943648,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 377365077,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 377365080,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 377365093,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 377365091,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 494158841,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 494158839,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 494158840,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 494158844,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "парк Лесотехнической академии",
+    "type": "multipolygon",
+    "wikidata": "Q50272464",
+    "wikipedia": "ru:Парк Лесотехнической академии"
+  }
+},
+{
+  "type": "relation",
+  "id": 6121253,
+  "timestamp": "2024-08-01T10:58:23Z",
+  "version": 34,
+  "changeset": 154688151,
+  "user": "dypa",
+  "uid": 385972,
+  "center": {
+    "lat": 60.0395841,
+    "lon": 30.3873889
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 10222411,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 690673975,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 751765967,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 751765966,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 751765970,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 408984882,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1185870135,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1305028730,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 300857212,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "сад Прометей",
+    "name:ru": "сад Прометей",
+    "source:name": "https://npa.gov.spb.ru/SpbGovSearch/Document/36654.html",
+    "type": "multipolygon",
+    "wikidata": "Q85865100",
+    "wikipedia": "ru:Прометей (сад)"
+  }
+},
+{
+  "type": "relation",
+  "id": 6282307,
+  "timestamp": "2023-09-16T23:59:15Z",
+  "version": 24,
+  "changeset": 141362250,
+  "user": "Fizzie-DWG",
+  "uid": 461130,
+  "center": {
+    "lat": 59.9833092,
+    "lon": 30.3064574
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 422597599,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 422597604,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 23155351,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Строгановский парк",
+    "name:de": "Stroganow-Park",
+    "type": "multipolygon",
+    "wikidata": "Q4444064",
+    "wikipedia": "ru:Строгановская дача"
+  }
+},
+{
+  "type": "relation",
+  "id": 7499371,
+  "timestamp": "2026-03-28T09:06:57Z",
+  "version": 24,
+  "changeset": 180533517,
+  "user": "Серый Еж",
+  "uid": 23034906,
+  "center": {
+    "lat": 60.0716111,
+    "lon": 30.3279452
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 506662473,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 158290708,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 566787564,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Аллея Северной долины",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 8801435,
+  "timestamp": "2026-08-27T09:31:02Z",
+  "version": 22,
+  "changeset": 188085748,
+  "user": "King10k",
+  "uid": 3188260,
+  "center": {
+    "lat": 59.9686594,
+    "lon": 30.3459881
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 632986237,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 27781773,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 239953845,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Сампсониевский сад",
+    "opening_hours": "24/7",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 10947864,
+  "timestamp": "2023-09-16T23:59:15Z",
+  "version": 24,
+  "changeset": 141362250,
+  "user": "Fizzie-DWG",
+  "uid": 461130,
+  "center": {
+    "lat": 59.9814347,
+    "lon": 30.4251999
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 1152294134,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 786585730,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 160807160,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1195878089,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1195878088,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 786585702,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 786585708,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1152294135,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 786585718,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 160807158,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 786585704,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1152294129,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1152294128,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "addr:city": "Санкт-Петербург",
+    "leisure": "park",
+    "name": "Бестужевский сад",
+    "source": "rgis",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 10947986,
+  "timestamp": "2023-09-16T23:59:15Z",
+  "version": 23,
+  "changeset": 141362250,
+  "user": "Fizzie-DWG",
+  "uid": 461130,
+  "center": {
+    "lat": 59.9823224,
+    "lon": 30.4184893
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 786598637,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 786598635,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Пионерский парк",
+    "name:de": "Pionierspark",
+    "name:en": "Pioneer Park",
+    "source": "rgis",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 11561805,
+  "timestamp": "2026-04-01T10:51:46Z",
+  "version": 29,
+  "changeset": 180715018,
+  "user": "Afanasovich",
+  "uid": 2101839,
+  "center": {
+    "lat": 59.9700433,
+    "lon": 30.3252898
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 141816492,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 842482039,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 405559543,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1013047876,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1013047873,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 842482037,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1495008060,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1013047884,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1013047837,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1013047836,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1013047885,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1013047896,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1013047895,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1013047881,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1013047900,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1013047882,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1013047901,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1013047894,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1013047897,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1012835935,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1013047832,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1013078879,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1013047827,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1013047824,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1013047817,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1012835934,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1013047801,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1013047803,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1013047847,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1013047843,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1013047851,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1013047850,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 141829406,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 405555634,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 842480051,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1013078860,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 141816491,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1013078859,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1013078866,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1013078869,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1013078868,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1013078864,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 419006539,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 28692700,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 405675299,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 842481067,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 405559542,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 405560709,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 405636608,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 842482040,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 405637323,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1013078863,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1013078862,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Парк-дендрарий Ботанического сада Петра Великого",
+    "type": "multipolygon",
+    "wikidata": "Q112054380"
+  }
+},
+{
+  "type": "relation",
+  "id": 11711397,
+  "timestamp": "2023-09-16T23:59:15Z",
+  "version": 22,
+  "changeset": 141362250,
+  "user": "Fizzie-DWG",
+  "uid": 461130,
+  "center": {
+    "lat": 60.0526974,
+    "lon": 30.3473819
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 9874933,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 854660393,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 230592852,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 143428761,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 854660392,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 854660388,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 854660396,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "сад Ивана Фомина",
+    "source": "RGis",
+    "type": "multipolygon",
+    "wikidata": "Q4404481",
+    "wikipedia": "ru:Сад Ивана Фомина"
+  }
+},
+{
+  "type": "relation",
+  "id": 12114536,
+  "timestamp": "2023-09-16T23:59:15Z",
+  "version": 22,
+  "changeset": 141362250,
+  "user": "Fizzie-DWG",
+  "uid": 461130,
+  "center": {
+    "lat": 60.0036995,
+    "lon": 30.3458615
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 38116784,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 9395851,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "сад Серебряный Пруд",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 13417031,
+  "timestamp": "2025-07-30T09:14:57Z",
+  "version": 26,
+  "changeset": 169709429,
+  "user": "Константин Гам",
+  "uid": 392109,
+  "center": {
+    "lat": 59.9997923,
+    "lon": 30.4067818
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 128272699,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1000451773,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1000451771,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1160308118,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1160308115,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1160308114,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1160308112,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1000451770,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Пискарёвский парк",
+    "name:etymology:wikidata": "Q16686380",
+    "type": "multipolygon",
+    "wikidata": "Q4363635",
+    "wikipedia": "ru:Пискарёвский парк"
+  }
+},
+{
+  "type": "relation",
+  "id": 13558162,
+  "timestamp": "2026-05-14T07:08:35Z",
+  "version": 34,
+  "changeset": 182632573,
+  "user": "Afanasovich",
+  "uid": 2101839,
+  "center": {
+    "lat": 59.9710944,
+    "lon": 30.3239949
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 1013091531,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1013099958,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1013103200,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1013103202,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 141816496,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1013047878,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1013047863,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1013047860,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1013047867,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1013103203,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "fee": "yes",
+    "garden:type": "botanical",
+    "landuse": "flowerbed",
+    "leisure": "garden",
+    "name": "120 — Сад непрерывного цветения",
+    "note": "Нумерация участков согласно плану ботанического сада. Границы участков не точные, по снимку Maxar. Не все участки в парке Ботсада являются злаковыми газонами, но почти на всех есть таблички «по газонам не ходить».",
+    "ref": "120",
+    "type": "multipolygon",
+    "wikidata": "Q139791800"
+  }
+},
+{
+  "type": "relation",
+  "id": 13561812,
+  "timestamp": "2023-10-26T16:33:05Z",
+  "version": 23,
+  "changeset": 143170511,
+  "user": "b-jazz-bot",
+  "uid": 9451067,
+  "center": {
+    "lat": 59.9708275,
+    "lon": 30.3221024
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 1013047844,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1013047849,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1013047852,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1013047854,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1013103206,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "fee": "yes",
+    "garden:type": "botanical",
+    "leisure": "garden",
+    "name": "119 — Иридарий",
+    "type": "multipolygon",
+    "website": "https://flower-iris.ru/"
+  }
+},
+{
+  "type": "relation",
+  "id": 14150174,
+  "timestamp": "2026-05-19T11:13:03Z",
+  "version": 23,
+  "changeset": 182874205,
+  "user": "Afanasovich",
+  "uid": 2101839,
+  "center": {
+    "lat": 59.9709725,
+    "lon": 30.3260599
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 413383847,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "access": "permit",
+    "leisure": "garden",
+    "name": "Японский сад",
+    "payment:cards": "yes",
+    "payment:cash": "yes",
+    "type": "multipolygon",
+    "wikidata": "Q139821337",
+    "wikipedia": "ru:Японский сад (Санкт-Петербург)"
+  }
+},
+{
+  "type": "relation",
+  "id": 14344031,
+  "timestamp": "2023-09-16T23:59:15Z",
+  "version": 22,
+  "changeset": 141362250,
+  "user": "Fizzie-DWG",
+  "uid": 461130,
+  "center": {
+    "lat": 59.9748673,
+    "lon": 30.3019209
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 128285437,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 128310822,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 128310821,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "сквер Рудольфа Фурманова",
+    "source:name": "https://npa.gov.spb.ru/SpbGovSearch/Document/48181.html",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 14482951,
+  "timestamp": "2025-09-04T16:29:57Z",
+  "version": 24,
+  "changeset": 171461156,
+  "user": "Серый Еж",
+  "uid": 23034906,
+  "center": {
+    "lat": 60.0391231,
+    "lon": 30.4480279
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 1087973599,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Новоохтинский парк",
+    "opening_hours": "24/7",
+    "operator": "Администрация Красногвардейского района",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 14902367,
+  "timestamp": "2023-09-16T23:59:15Z",
+  "version": 22,
+  "changeset": 141362250,
+  "user": "Fizzie-DWG",
+  "uid": 461130,
+  "center": {
+    "lat": 59.9741257,
+    "lon": 30.2977294
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 23349921,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1115069937,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1115069936,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Вяземский сад",
+    "type": "multipolygon",
+    "wikidata": "Q4130225",
+    "wikipedia": "ru:Вяземский сад"
+  }
+},
+{
+  "type": "relation",
+  "id": 15815222,
+  "timestamp": "2023-09-16T23:10:34Z",
+  "version": 17,
+  "changeset": 141361523,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "center": {
+    "lat": 59.9785939,
+    "lon": 30.4119181
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 143830049,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1169120798,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "парк Академика Сахарова",
+    "type": "multipolygon",
+    "wikidata": "Q4345292",
+    "wikipedia": "ru:Парк имени Академика Сахарова"
+  }
+},
+{
+  "type": "relation",
+  "id": 15879441,
+  "timestamp": "2023-09-16T23:10:34Z",
+  "version": 19,
+  "changeset": 141361523,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "center": {
+    "lat": 59.9841333,
+    "lon": 30.4283923
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 160807184,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1202751072,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 160807199,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1195878087,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 160807186,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "сад Милосердия",
+    "ref": "7105",
+    "source:geometry:ref": "Постановление Правительства Санкт-Петербурга № 434 от 15.05.2023",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 17987542,
+  "timestamp": "2024-08-31T17:03:41Z",
+  "version": 2,
+  "changeset": 156024785,
+  "user": "Cmapuk-noxa6bl4",
+  "uid": 20024786,
+  "center": {
+    "lat": 59.9826537,
+    "lon": 30.3412827
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 1312091139,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1312091138,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1312091136,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1312091135,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 239818878,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1312091140,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1312091144,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 1312091143,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 1312091145,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 1312091133,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 1312091130,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 1312091129,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 1312091132,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 1312091131,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "leaf_type": "broadleaved",
+    "leisure": "park",
+    "name": "cад Александра Матросова",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 19714856,
+  "timestamp": "2025-10-14T15:21:16Z",
+  "version": 1,
+  "changeset": 173281511,
+  "user": "Afanasovich",
+  "uid": 2101839,
+  "center": {
+    "lat": 60.0221108,
+    "lon": 30.4349474
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 1378026933,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1442163420,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1335603991,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1442163424,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 148612613,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Сквер Расула Гамзатова",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 20276219,
+  "timestamp": "2026-03-01T17:09:38Z",
+  "version": 1,
+  "changeset": 179218482,
+  "user": "masmirnov",
+  "uid": 16256027,
+  "center": {
+    "lat": 59.9968719,
+    "lon": 30.3277898
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 98573140,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1484324975,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1484324974,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 94160341,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Ланской сад",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 20395047,
+  "timestamp": "2026-03-31T13:20:31Z",
+  "version": 1,
+  "changeset": 180673536,
+  "user": "Afanasovich",
+  "uid": 2101839,
+  "center": {
+    "lat": 59.9703268,
+    "lon": 30.3235662
+  },
+  "members": [
+    {
+      "type": "relation",
+      "ref": 13561132,
+      "role": ""
+    },
+    {
+      "type": "relation",
+      "ref": 13561131,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 28692711,
+      "role": ""
+    }
+  ],
+  "tags": {
+    "name": "Оранжереи (три) № 22, 23, 24",
+    "tourism": "attraction",
+    "type": "site",
+    "wikidata": "Q137713824"
+  }
+},
+{
+  "type": "relation",
+  "id": 20398684,
+  "timestamp": "2026-09-16T20:45:27Z",
+  "version": 2,
+  "changeset": 189130744,
+  "user": "masmirnov",
+  "uid": 16256027,
+  "center": {
+    "lat": 59.9811029,
+    "lon": 30.3204999
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 1559402970,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1559402969,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 378144212,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1495049424,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Головинский сад",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 20420185,
+  "timestamp": "2026-04-07T14:08:49Z",
+  "version": 2,
+  "changeset": 181001396,
+  "user": "Afanasovich",
+  "uid": 2101839,
+  "center": {
+    "lat": 60.0049644,
+    "lon": 30.3488013
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 1497371302,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1497371299,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1497371300,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1497371304,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 103016709,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "historic": "manor",
+    "landuse": "retail",
+    "name": "Дом инженера-технолога А.И. Данилевского со службами и зелеными насаждениями",
+    "type": "multipolygon",
+    "wikidata": "Q117464576"
+  }
+},
+{
+  "type": "relation",
+  "id": 20773348,
+  "timestamp": "2026-05-28T22:07:34Z",
+  "version": 1,
+  "changeset": 183326203,
+  "user": "Kaverzin3",
+  "uid": 381925,
+  "center": {
+    "lat": 59.9735304,
+    "lon": 30.4121132
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 365589124,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 217903633,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "сквер Полюстровские Воды",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 20800944,
+  "timestamp": "2026-06-01T20:39:55Z",
+  "version": 1,
+  "changeset": 183518220,
+  "user": "Kaverzin3",
+  "uid": 381925,
+  "center": {
+    "lat": 59.9689455,
+    "lon": 30.4065866
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 1525312542,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 365589138,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Тепловодская аллея",
+    "type": "multipolygon"
+  }
+}
+
+  ]
+}

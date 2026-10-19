@@ -1,0 +1,145 @@
+[
+ {
+  "district": "central",
+  "endpoint": "https://overpass-api.de/api/interpreter",
+  "started_at": "2026-10-10T22:10:08.939276+00:00",
+  "status": "error: https://overpass-api.de/api/interpreter: HTTPError: HTTP Error 406: Not Acceptable"
+ },
+ {
+  "district": "central",
+  "endpoint": "https://overpass.kumi.systems/api/interpreter",
+  "started_at": "2026-10-10T22:10:12.158421+00:00",
+  "status": "error: https://overpass.kumi.systems/api/interpreter: HTTPError: HTTP Error 500: Internal Server Error"
+ },
+ {
+  "district": "central",
+  "endpoint": "https://overpass.mail.ru/api/interpreter",
+  "started_at": "2026-10-10T22:10:15.363289+00:00",
+  "status": "error: https://overpass.mail.ru/api/interpreter: JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
+ },
+ {
+  "district": "petrogradsky",
+  "endpoint": "https://overpass-api.de/api/interpreter",
+  "started_at": "2026-10-10T22:10:18.642831+00:00",
+  "status": "error: https://overpass-api.de/api/interpreter: HTTPError: HTTP Error 406: Not Acceptable"
+ },
+ {
+  "district": "petrogradsky",
+  "endpoint": "https://overpass.kumi.systems/api/interpreter",
+  "started_at": "2026-10-10T22:10:21.821197+00:00",
+  "status": "error: https://overpass.kumi.systems/api/interpreter: HTTPError: HTTP Error 500: Internal Server Error"
+ },
+ {
+  "district": "petrogradsky",
+  "endpoint": "https://overpass.mail.ru/api/interpreter",
+  "started_at": "2026-10-10T22:10:25.012585+00:00",
+  "status": "error: https://overpass.mail.ru/api/interpreter: JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
+ },
+ {
+  "district": "vasileostrovsky",
+  "endpoint": "https://overpass-api.de/api/interpreter",
+  "started_at": "2026-10-10T22:10:28.302731+00:00",
+  "status": "error: https://overpass-api.de/api/interpreter: HTTPError: HTTP Error 406: Not Acceptable"
+ },
+ {
+  "district": "vasileostrovsky",
+  "endpoint": "https://overpass.kumi.systems/api/interpreter",
+  "started_at": "2026-10-10T22:10:31.481037+00:00",
+  "status": "error: https://overpass.kumi.systems/api/interpreter: HTTPError: HTTP Error 500: Internal Server Error"
+ },
+ {
+  "district": "vasileostrovsky",
+  "endpoint": "https://overpass.mail.ru/api/interpreter",
+  "started_at": "2026-10-10T22:10:34.669352+00:00",
+  "status": "error: https://overpass.mail.ru/api/interpreter: JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
+ },
+ {
+  "district": "nevsky",
+  "endpoint": "https://overpass-api.de/api/interpreter",
+  "started_at": "2026-10-10T22:10:37.947013+00:00",
+  "status": "error: https://overpass-api.de/api/interpreter: HTTPError: HTTP Error 406: Not Acceptable"
+ },
+ {
+  "district": "nevsky",
+  "endpoint": "https://overpass.kumi.systems/api/interpreter",
+  "started_at": "2026-10-10T22:10:41.120882+00:00",
+  "status": "error: https://overpass.kumi.systems/api/interpreter: HTTPError: HTTP Error 500: Internal Server Error"
+ },
+ {
+  "district": "nevsky",
+  "endpoint": "https://overpass.mail.ru/api/interpreter",
+  "started_at": "2026-10-10T22:10:44.311671+00:00",
+  "status": "error: https://overpass.mail.ru/api/interpreter: JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
+ },
+ {
+  "district": "primorsky",
+  "endpoint": "https://overpass-api.de/api/interpreter",
+  "started_at": "2026-10-10T22:10:47.578008+00:00",
+  "status": "error: https://overpass-api.de/api/interpreter: HTTPError: HTTP Error 406: Not Acceptable"
+ },
+ {
+  "district": "primorsky",
+  "endpoint": "https://overpass.kumi.systems/api/interpreter",
+  "started_at": "2026-10-10T22:10:50.756357+00:00",
+  "status": "error: https://overpass.kumi.systems/api/interpreter: HTTPError: HTTP Error 500: Internal Server Error"
+ },
+ {
+  "district": "primorsky",
+  "endpoint": "https://overpass.mail.ru/api/interpreter",
+  "started_at": "2026-10-10T22:10:53.942519+00:00",
+  "status": "error: https://overpass.mail.ru/api/interpreter: JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
+ },
+ {
+  "district": "central",
+  "endpoint": "https://overpass-api.de/api/interpreter",
+  "started_at": "2026-10-10T22:11:56.946712+00:00",
+  "status": "ok",
+  "elements": 227
+ },
+ {
+  "district": "petrogradsky",
+  "endpoint": "https://overpass-api.de/api/interpreter",
+  "started_at": "2026-10-10T22:12:03.151854+00:00",
+  "status": "error: https://overpass-api.de/api/interpreter: HTTPError: HTTP Error 504: Gateway Timeout"
+ },
+ {
+  "district": "petrogradsky",
+  "endpoint": "https://overpass.kumi.systems/api/interpreter",
+  "started_at": "2026-10-10T22:12:14.723013+00:00",
+  "status": "error: https://overpass.kumi.systems/api/interpreter: HTTPError: HTTP Error 500: Internal Server Error"
+ },
+ {
+  "district": "petrogradsky",
+  "endpoint": "https://overpass.mail.ru/api/interpreter",
+  "started_at": "2026-10-10T22:12:17.909900+00:00",
+  "status": "error: https://overpass.mail.ru/api/interpreter: JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
+ },
+ {
+  "district": "vasileostrovsky",
+  "endpoint": "https://overpass-api.de/api/interpreter",
+  "started_at": "2026-10-10T22:12:21.142646+00:00",
+  "status": "ok",
+  "elements": 81
+ },
+ {
+  "district": "nevsky",
+  "endpoint": "https://overpass-api.de/api/interpreter",
+  "started_at": "2026-10-10T22:12:38.115369+00:00",
+  "status": "ok",
+  "elements": 31
+ },
+ {
+  "district": "primorsky",
+  "endpoint": "https://overpass-api.de/api/interpreter",
+  "started_at": "2026-10-10T22:12:44.603827+00:00",
+  "status": "ok",
+  "elements": 83
+ },
+ {
+  "district": "petrogradsky",
+  "endpoint": "https://overpass-api.de/api/interpreter",
+  "started_at": "2026-10-10T22:12:57.348825+00:00",
+  "status": "ok",
+  "elements": 80
+ }
+]

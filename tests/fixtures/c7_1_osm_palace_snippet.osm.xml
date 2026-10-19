@@ -1,0 +1,789 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osm version="0.6" generator="SmartNavigator C7.1 test-fixture extractor" provenance_source="centre_palace.osm.xml" provenance_source_sha256="c29de4bec2c1834a4c85c61d83a80938963d22dd5f469756bba661f0d2fa2d9f" provenance_bbox_s_w_n_e="59.9388,30.3105,59.942,30.318" provenance_extracted_at_utc="2026-10-11" license="ODbL 1.0 — © OpenStreetMap contributors"><bounds minlat="59.9388000" minlon="30.3105000" maxlat="59.9420000" maxlon="30.3180000" /><node id="312622772" visible="true" version="13" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9405077" lon="30.3112888" />
+ <node id="312622773" visible="true" version="13" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9407987" lon="30.3120850" />
+ <node id="312622775" visible="true" version="13" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9407509" lon="30.3121547" />
+ <node id="312622777" visible="true" version="13" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9412984" lon="30.3136524" />
+ <node id="312622778" visible="true" version="13" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9413417" lon="30.3135893" />
+ <node id="312622779" visible="true" version="14" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9416563" lon="30.3144497" />
+ <node id="312622780" visible="true" version="14" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9415885" lon="30.3145484" />
+ <node id="312622782" visible="true" version="13" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9416276" lon="30.3146553" />
+ <node id="312622783" visible="true" version="15" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9413571" lon="30.3150493" />
+ <node id="312622784" visible="true" version="14" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9413194" lon="30.3149460" />
+ <node id="312622785" visible="true" version="14" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9412657" lon="30.3150242" />
+ <node id="312622786" visible="true" version="13" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9410693" lon="30.3144871" />
+ <node id="312622788" visible="true" version="14" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9409203" lon="30.3147043" />
+ <node id="312622789" visible="true" version="14" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9411489" lon="30.3153298" />
+ <node id="312622791" visible="true" version="13" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9407463" lon="30.3149904" />
+ <node id="312622793" visible="true" version="12" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9405978" lon="30.3152068" />
+ <node id="312622794" visible="true" version="12" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9407931" lon="30.3157410" />
+ <node id="312622795" visible="true" version="12" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9407407" lon="30.3158175" />
+ <node id="312622796" visible="true" version="12" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9407690" lon="30.3158949" />
+ <node id="312622797" visible="true" version="13" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9405037" lon="30.3162814" />
+ <node id="312622798" visible="true" version="14" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9404667" lon="30.3161809" />
+ <node id="312622800" visible="true" version="13" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9404206" lon="30.3162480" />
+ <node id="312622801" visible="true" version="12" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9400401" lon="30.3152077" />
+ <node id="312622802" visible="true" version="12" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9399800" lon="30.3152952" />
+ <node id="312622804" visible="true" version="12" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9395751" lon="30.3141877" />
+ <node id="312622805" visible="true" version="12" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9396329" lon="30.3141035" />
+ <node id="312622806" visible="true" version="12" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9395627" lon="30.3139112" />
+ <node id="312622807" visible="true" version="13" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9395287" lon="30.3139606" />
+ <node id="312622809" visible="true" version="14" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9393212" lon="30.3133927" />
+ <node id="312622811" visible="true" version="13" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9393559" lon="30.3133421" />
+ <node id="312622812" visible="true" version="12" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9392755" lon="30.3131228" />
+ <node id="312622813" visible="true" version="12" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9395072" lon="30.3127853" />
+ <node id="312622815" visible="true" version="11" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9396255" lon="30.3131086" />
+ <node id="312622816" visible="true" version="11" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9403536" lon="30.3120477" />
+ <node id="312622817" visible="true" version="12" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9402295" lon="30.3117152" />
+ <node id="334775524" visible="true" version="10" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9401421" lon="30.3150064" />
+ <node id="334775527" visible="true" version="9" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9397583" lon="30.3139501" />
+ <node id="334775531" visible="true" version="9" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9399549" lon="30.3136654" />
+ <node id="334775534" visible="true" version="9" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9398736" lon="30.3134415" />
+ <node id="334775536" visible="true" version="9" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9404517" lon="30.3126042" />
+ <node id="334775538" visible="true" version="10" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9405322" lon="30.3128257" />
+ <node id="334775540" visible="true" version="9" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9406537" lon="30.3126497" />
+ <node id="334775543" visible="true" version="9" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9407899" lon="30.3130246" />
+ <node id="334775546" visible="true" version="9" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9406962" lon="30.3131603" />
+ <node id="334775549" visible="true" version="9" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9408011" lon="30.3134491" />
+ <node id="334775552" visible="true" version="9" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9408925" lon="30.3133167" />
+ <node id="334775555" visible="true" version="9" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9410303" lon="30.3136960" />
+ <node id="334775558" visible="true" version="9" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9409166" lon="30.3138607" />
+ <node id="334775561" visible="true" version="9" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9410007" lon="30.3140921" />
+ <node id="334775564" visible="true" version="9" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9409080" lon="30.3142263" />
+ <node id="334775567" visible="true" version="9" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9408668" lon="30.3141130" />
+ <node id="334775569" visible="true" version="9" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9404745" lon="30.3146812" />
+ <node id="334775572" visible="true" version="9" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9405176" lon="30.3147999" />
+ <node id="334775574" visible="true" version="9" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9404222" lon="30.3149380" />
+ <node id="334775578" visible="true" version="9" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9403419" lon="30.3147171" />
+ <node id="499364392" visible="true" version="7" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9413465" lon="30.3161308" />
+ <node id="499365740" visible="true" version="6" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9413677" lon="30.3140974" />
+ <node id="499365746" visible="true" version="6" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9415084" lon="30.3144854" />
+ <node id="499365750" visible="true" version="6" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9413286" lon="30.3147452" />
+ <node id="499365753" visible="true" version="6" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9411879" lon="30.3143572" />
+ <node id="504892661" visible="true" version="24" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9404585" lon="30.3170192" />
+ <node id="504892662" visible="true" version="24" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9407073" lon="30.3176304" />
+ <node id="504892664" visible="true" version="25" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9408197" lon="30.3174480" />
+ <node id="504893143" visible="true" version="8" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9404988" lon="30.3154461" />
+ <node id="504893144" visible="true" version="9" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9405961" lon="30.3157186" />
+ <node id="504893145" visible="true" version="9" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9404583" lon="30.3159147" />
+ <node id="504893146" visible="true" version="9" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9403610" lon="30.3156422" />
+ <node id="504893595" visible="true" version="9" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9403660" lon="30.3150854" />
+ <node id="504893596" visible="true" version="9" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9404305" lon="30.3152661" />
+ <node id="504893597" visible="true" version="9" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9402975" lon="30.3154553" />
+ <node id="504893598" visible="true" version="9" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9402330" lon="30.3152746" />
+ <node id="504893617" visible="true" version="9" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9395904" lon="30.3133643" />
+ <node id="504893618" visible="true" version="8" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9396731" lon="30.3135898" />
+ <node id="504893619" visible="true" version="8" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9397437" lon="30.3134866" />
+ <node id="504893620" visible="true" version="9" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9396610" lon="30.3132611" />
+ <node id="504893628" visible="true" version="7" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9404515" lon="30.3118042" />
+ <node id="504893630" visible="true" version="6" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9405686" lon="30.3121168" />
+ <node id="504893631" visible="true" version="6" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9405043" lon="30.3122127" />
+ <node id="504893632" visible="true" version="7" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9403872" lon="30.3119001" />
+ <node id="815545921" visible="true" version="6" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9417192" lon="30.3151952" />
+ <node id="815545935" visible="true" version="8" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9410337" lon="30.3156873" />
+ <node id="815545980" visible="true" version="5" changeset="54973380" timestamp="2017-12-28T05:11:34Z" user="Anton Khorev" uid="437809" lat="59.9417454" lon="30.3153594" />
+ <node id="815546011" visible="true" version="5" changeset="58021487" timestamp="2018-04-12T01:56:38Z" user="Anton Khorev" uid="437809" lat="59.9417579" lon="30.3153884" />
+ <node id="815546058" visible="true" version="5" changeset="54973380" timestamp="2017-12-28T05:11:34Z" user="Anton Khorev" uid="437809" lat="59.9417194" lon="30.3146291" />
+ <node id="815546114" visible="true" version="8" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9411678" lon="30.3154912" />
+ <node id="815546130" visible="true" version="5" changeset="58021487" timestamp="2018-04-12T01:56:38Z" user="Anton Khorev" uid="437809" lat="59.9419133" lon="30.3151501" />
+ <node id="815546145" visible="true" version="9" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9411229" lon="30.3153677" />
+ <node id="815546166" visible="true" version="6" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9405982" lon="30.3163242" />
+ <node id="815546209" visible="true" version="5" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9408067" lon="30.3162143" />
+ <node id="815546275" visible="true" version="6" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9407685" lon="30.3167882" />
+ <node id="815546320" visible="true" version="5" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9408911" lon="30.3164383" />
+ <node id="815546349" visible="true" version="6" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9416348" lon="30.3149711" />
+ <node id="815546381" visible="true" version="7" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9409318" lon="30.3165494" />
+ <node id="1161274258" visible="true" version="6" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9409672" lon="30.3155946" />
+ <node id="1161274260" visible="true" version="5" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9413034" lon="30.3160059" />
+ <node id="1161274263" visible="true" version="6" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9412968" lon="30.3162062" />
+ <node id="1161274265" visible="true" version="5" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9412509" lon="30.3160826" />
+ <node id="1161337668" visible="true" version="3" changeset="58021487" timestamp="2018-04-12T01:56:38Z" user="Anton Khorev" uid="437809" lat="59.9418278" lon="30.3152812" />
+ <node id="1161337670" visible="true" version="5" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9415663" lon="30.3147445" />
+ <node id="1161337678" visible="true" version="3" changeset="58100101" timestamp="2018-04-15T00:03:51Z" user="Anton Khorev" uid="437809" lat="59.9418567" lon="30.3153614" />
+ <node id="1161337681" visible="true" version="3" changeset="58100101" timestamp="2018-04-15T00:03:51Z" user="Anton Khorev" uid="437809" lat="59.9419041" lon="30.3152924" />
+ <node id="1161337684" visible="true" version="5" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9416112" lon="30.3146790" />
+ <node id="1161337686" visible="true" version="4" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9415686" lon="30.3149050" />
+ <node id="1161337689" visible="true" version="3" changeset="58021487" timestamp="2018-04-12T01:56:38Z" user="Anton Khorev" uid="437809" lat="59.9418738" lon="30.3152107" />
+ <node id="1161337691" visible="true" version="5" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9415922" lon="30.3148151" />
+ <node id="1161337692" visible="true" version="4" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9415554" lon="30.3148690" />
+ <node id="1161337695" visible="true" version="5" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9416370" lon="30.3147495" />
+ <node id="1162518204" visible="true" version="6" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9409827" lon="30.3166842" />
+ <node id="1162518210" visible="true" version="6" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9409488" lon="30.3167378" />
+ <node id="1162518212" visible="true" version="5" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9408971" lon="30.3166001" />
+ <node id="1309605545" visible="true" version="5" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9399753" lon="30.3124516" />
+ <node id="1309605792" visible="true" version="5" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9399410" lon="30.3125044" />
+ <node id="1380389448" visible="true" version="4" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9397249" lon="30.3145973">
+  <tag k="barrier" v="gate" />
+ </node>
+ <node id="1380389454" visible="true" version="4" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9397735" lon="30.3147302">
+  <tag k="barrier" v="gate" />
+ </node>
+ <node id="1380389457" visible="true" version="4" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9398235" lon="30.3148669">
+  <tag k="barrier" v="gate" />
+ </node>
+ <node id="1380389460" visible="true" version="4" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9399001" lon="30.3143404" />
+ <node id="1380389462" visible="true" version="4" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9399486" lon="30.3144738" />
+ <node id="1380389489" visible="true" version="4" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9399983" lon="30.3146106" />
+ <node id="1380438541" visible="true" version="6" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9407430" lon="30.3130925">
+  <tag k="entrance" v="main" />
+ </node>
+ <node id="1380438543" visible="true" version="5" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9408468" lon="30.3133829">
+  <tag k="entrance" v="main" />
+ </node>
+ <node id="1949927902" visible="true" version="5" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9390007" lon="30.3125003" />
+ <node id="1949927903" visible="true" version="5" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9390112" lon="30.3124661" />
+ <node id="1949927905" visible="true" version="5" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9390742" lon="30.3126798" />
+ <node id="1949927906" visible="true" version="5" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9390937" lon="30.3126733" />
+ <node id="2043144172" visible="true" version="6" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9409887" lon="30.3155633" />
+ <node id="2508056607" visible="true" version="17" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9405726" lon="30.3168460" />
+ <node id="4172123653" visible="true" version="5" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9409572" lon="30.3166168">
+  <tag k="barrier" v="gate" />
+  <tag k="foot" v="permissive" />
+ </node>
+ <node id="4172123655" visible="true" version="3" changeset="58021487" timestamp="2018-04-12T01:56:38Z" user="Anton Khorev" uid="437809" lat="59.9418886" lon="30.3152506">
+  <tag k="barrier" v="gate" />
+  <tag k="foot" v="permissive" />
+ </node>
+ <node id="4254524750" visible="true" version="4" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9409227" lon="30.3166683" />
+ <node id="4254524752" visible="true" version="4" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9412735" lon="30.3161436" />
+ <node id="4254524753" visible="true" version="4" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9413252" lon="30.3160689" />
+ <node id="4254524754" visible="true" version="2" changeset="58021487" timestamp="2018-04-12T01:56:38Z" user="Anton Khorev" uid="437809" lat="59.9418424" lon="30.3153216" />
+ <node id="5307693158" visible="true" version="4" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9407143" lon="30.3161544" />
+ <node id="5307693161" visible="true" version="4" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9407578" lon="30.3160908" />
+ <node id="5307693163" visible="true" version="4" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9405547" lon="30.3162070" />
+ <node id="5307743078" visible="true" version="3" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9401697" lon="30.3123156" />
+ <node id="5307743079" visible="true" version="3" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9402923" lon="30.3121370" />
+ <node id="5307743080" visible="true" version="3" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9396930" lon="30.3130102" />
+ <node id="5307743081" visible="true" version="3" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9398205" lon="30.3128244" />
+ <node id="5307743082" visible="true" version="3" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9398029" lon="30.3127761" />
+ <node id="5307743083" visible="true" version="3" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9396753" lon="30.3129620" />
+ <node id="5307743084" visible="true" version="3" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9402747" lon="30.3120887" />
+ <node id="5307743085" visible="true" version="3" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9401520" lon="30.3122674" />
+ <node id="5307743086" visible="true" version="3" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9402829" lon="30.3159932" />
+ <node id="5307743087" visible="true" version="4" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9400739" lon="30.3154231" />
+ <node id="5307743088" visible="true" version="3" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9403121" lon="30.3159506" />
+ <node id="5307743089" visible="true" version="4" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9401028" lon="30.3153809" />
+ <node id="5339421946" visible="true" version="4" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9414457" lon="30.3157977">
+  <tag k="description" v="вход для посетителей с ваучерами" />
+  <tag k="entrance" v="main" />
+ </node>
+ <node id="5464268930" visible="true" version="3" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9407150" lon="30.3159736" />
+ <node id="5464268931" visible="true" version="3" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9406712" lon="30.3160373" />
+ <node id="5464268932" visible="true" version="4" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9412543" lon="30.3151419" />
+ <node id="5464268933" visible="true" version="4" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9411713" lon="30.3152634" />
+ <node id="5464268934" visible="true" version="4" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9410211" lon="30.3148563" />
+ <node id="5464268935" visible="true" version="4" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9411050" lon="30.3147336" />
+ <node id="5546742985" visible="true" version="4" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9416251" lon="30.3147169">
+  <tag k="access" v="private" />
+  <tag k="barrier" v="gate" />
+ </node>
+ <node id="5546742989" visible="true" version="3" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9410054" lon="30.3164417">
+  <tag k="entrance" v="yes" />
+ </node>
+ <node id="5546742990" visible="true" version="3" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9412772" lon="30.3160442">
+  <tag k="entrance" v="yes" />
+ </node>
+ <node id="5546742991" visible="true" version="3" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9416270" lon="30.3155325">
+  <tag k="entrance" v="yes" />
+ </node>
+ <node id="5546742992" visible="true" version="1" changeset="58021487" timestamp="2018-04-12T01:56:36Z" user="Anton Khorev" uid="437809" lat="59.9417840" lon="30.3153485">
+  <tag k="entrance" v="yes" />
+ </node>
+ <node id="5546742995" visible="true" version="3" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9409144" lon="30.3165747">
+  <tag k="entrance" v="yes" />
+  <tag k="name" v="Библиотека" />
+ </node>
+ <node id="7410499086" visible="true" version="3" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9399900" lon="30.3124290" />
+ <node id="7410499087" visible="true" version="3" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9399295" lon="30.3125220" />
+ <node id="7410499088" visible="true" version="3" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9399650" lon="30.3126135" />
+ <node id="7410499089" visible="true" version="3" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9400256" lon="30.3125256" />
+ <node id="7410499090" visible="true" version="4" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9399579" lon="30.3124800" />
+ <node id="7410499099" visible="true" version="4" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9390562" lon="30.3126796" />
+ <node id="7410499100" visible="true" version="4" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9390374" lon="30.3126644">
+  <tag k="entrance" v="yes" />
+  <tag k="wheelchair" v="no" />
+ </node>
+ <node id="7410499101" visible="true" version="4" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9390242" lon="30.3126454" />
+ <node id="7410499102" visible="true" version="4" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9390146" lon="30.3126255" />
+ <node id="7410499103" visible="true" version="4" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9390068" lon="30.3125965" />
+ <node id="7410499104" visible="true" version="4" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9390011" lon="30.3125654">
+  <tag k="entrance" v="yes" />
+  <tag k="wheelchair" v="no" />
+ </node>
+ <node id="7410499105" visible="true" version="4" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9389989" lon="30.3125316" />
+ <node id="7801186371" visible="true" version="3" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9394201" lon="30.3137628" />
+ <node id="7801186372" visible="true" version="3" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9393800" lon="30.3136556" />
+ <node id="7801186383" visible="true" version="3" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9401753" lon="30.3157987" />
+ <node id="7801186384" visible="true" version="3" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9401393" lon="30.3157023" />
+ <node id="7801226991" visible="true" version="3" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9401157" lon="30.3157371" />
+ <node id="7801226992" visible="true" version="3" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9401515" lon="30.3158338" />
+ <node id="7801226993" visible="true" version="3" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9401992" lon="30.3157635" />
+ <node id="7801226994" visible="true" version="3" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9401634" lon="30.3156668" />
+ <node id="7801226996" visible="true" version="3" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9393954" lon="30.3137989" />
+ <node id="7801226997" visible="true" version="3" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9393559" lon="30.3136907" />
+ <node id="7801226998" visible="true" version="3" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9394043" lon="30.3136202" />
+ <node id="7801226999" visible="true" version="3" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9394438" lon="30.3137284" />
+ <node id="7801277248" visible="true" version="3" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9415805" lon="30.3147833" />
+ <node id="7801277249" visible="true" version="3" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9411455" lon="30.3154300" />
+ <node id="7801277250" visible="true" version="3" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9410109" lon="30.3156245" />
+ <node id="7801277251" visible="true" version="3" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9407377" lon="30.3160358" />
+ <node id="7801277252" visible="true" version="3" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9406944" lon="30.3161002" />
+ <node id="7806227587" visible="true" version="3" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9416157" lon="30.3146913" />
+ <node id="7806227588" visible="true" version="3" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9410018" lon="30.3126876" />
+ <node id="7806227589" visible="true" version="3" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9411198" lon="30.3130148" />
+ <node id="7806227590" visible="true" version="3" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9410841" lon="30.3130661" />
+ <node id="7806227591" visible="true" version="3" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9409649" lon="30.3127401" />
+ <node id="11414434014" visible="true" version="3" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9408689" lon="30.3140590" />
+ <node id="11414434015" visible="true" version="3" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9408016" lon="30.3141564" />
+ <node id="11414434016" visible="true" version="3" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9407738" lon="30.3140798" />
+ <node id="11414434017" visible="true" version="3" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9408411" lon="30.3139824" />
+ <node id="11414434018" visible="true" version="3" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9412450" lon="30.3151167" />
+ <node id="11414434019" visible="true" version="3" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9411629" lon="30.3152406" />
+ <node id="11414434020" visible="true" version="3" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9412149" lon="30.3150329" />
+ <node id="11414434021" visible="true" version="3" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9411331" lon="30.3151613" />
+ <node id="11414434022" visible="true" version="3" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9412544" lon="30.3151029" />
+ <node id="11414434023" visible="true" version="3" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9412238" lon="30.3150198" />
+ <node id="11414434024" visible="true" version="3" changeset="166740727" timestamp="2025-05-25T15:40:10Z" user="kmpoppe_repair" uid="22393420" lat="59.9411526" lon="30.3152557" />
+ <node id="11414434025" visible="true" version="3" changeset="166740727" timestamp="2025-05-25T15:40:11Z" user="kmpoppe_repair" uid="22393420" lat="59.9411232" lon="30.3151758" />
+ <node id="12182923658" visible="true" version="1" changeset="156748379" timestamp="2024-09-17T21:42:06Z" user="Zkir" uid="100812" lat="59.9390527" lon="30.3156894" />
+ <node id="12182923661" visible="true" version="1" changeset="156748379" timestamp="2024-09-17T21:42:06Z" user="Zkir" uid="100812" lat="59.9391068" lon="30.3158351" />
+ <node id="12182923665" visible="true" version="1" changeset="156748379" timestamp="2024-09-17T21:42:06Z" user="Zkir" uid="100812" lat="59.9390339" lon="30.3159433" />
+ <node id="12182943724" visible="true" version="1" changeset="156748379" timestamp="2024-09-17T21:42:06Z" user="Zkir" uid="100812" lat="59.9389797" lon="30.3157976" />
+ <way id="28455288" visible="true" version="31" changeset="166740727" timestamp="2025-05-25T15:40:12Z" user="kmpoppe_repair" uid="22393420">
+  <nd ref="7801226994" />
+  <nd ref="5307743087" />
+  <nd ref="5307743089" />
+  <nd ref="312622801" />
+  <nd ref="312622802" />
+  <nd ref="1380389457" />
+  <nd ref="1380389454" />
+  <nd ref="1380389448" />
+  <nd ref="312622804" />
+  <nd ref="312622805" />
+  <nd ref="312622806" />
+  <nd ref="312622807" />
+  <nd ref="7801226999" />
+ </way>
+ <way id="30352753" visible="true" version="8" changeset="166740727" timestamp="2025-05-25T15:40:12Z" user="kmpoppe_repair" uid="22393420">
+  <nd ref="334775524" />
+  <nd ref="1380389489" />
+  <nd ref="1380389462" />
+  <nd ref="1380389460" />
+  <nd ref="334775527" />
+  <nd ref="334775531" />
+  <nd ref="334775534" />
+  <nd ref="334775536" />
+  <nd ref="334775538" />
+  <nd ref="334775540" />
+  <nd ref="334775543" />
+  <nd ref="1380438541" />
+  <nd ref="334775546" />
+  <nd ref="334775549" />
+  <nd ref="1380438543" />
+  <nd ref="334775552" />
+  <nd ref="334775555" />
+  <nd ref="334775558" />
+  <nd ref="334775561" />
+  <nd ref="334775564" />
+  <nd ref="334775567" />
+  <nd ref="334775569" />
+  <nd ref="334775572" />
+  <nd ref="334775574" />
+  <nd ref="334775578" />
+  <nd ref="334775524" />
+ </way>
+ <way id="40977448" visible="true" version="3" changeset="166740727" timestamp="2025-05-25T15:40:12Z" user="kmpoppe_repair" uid="22393420">
+  <nd ref="499365740" />
+  <nd ref="499365746" />
+  <nd ref="499365750" />
+  <nd ref="499365753" />
+  <nd ref="499365740" />
+ </way>
+ <way id="41289500" visible="true" version="3" changeset="166740727" timestamp="2025-05-25T15:40:12Z" user="kmpoppe_repair" uid="22393420">
+  <nd ref="504893143" />
+  <nd ref="504893144" />
+  <nd ref="504893145" />
+  <nd ref="504893146" />
+  <nd ref="504893143" />
+ </way>
+ <way id="41289564" visible="true" version="3" changeset="166740727" timestamp="2025-05-25T15:40:12Z" user="kmpoppe_repair" uid="22393420">
+  <nd ref="504893595" />
+  <nd ref="504893596" />
+  <nd ref="504893597" />
+  <nd ref="504893598" />
+  <nd ref="504893595" />
+ </way>
+ <way id="41289570" visible="true" version="3" changeset="166740727" timestamp="2025-05-25T15:40:12Z" user="kmpoppe_repair" uid="22393420">
+  <nd ref="504893617" />
+  <nd ref="504893618" />
+  <nd ref="504893619" />
+  <nd ref="504893620" />
+  <nd ref="504893617" />
+ </way>
+ <way id="41289571" visible="true" version="3" changeset="166740727" timestamp="2025-05-25T15:40:12Z" user="kmpoppe_repair" uid="22393420">
+  <nd ref="504893628" />
+  <nd ref="504893630" />
+  <nd ref="504893631" />
+  <nd ref="504893632" />
+  <nd ref="504893628" />
+ </way>
+ <way id="67548566" visible="true" version="20" changeset="166740727" timestamp="2025-05-25T15:40:12Z" user="kmpoppe_repair" uid="22393420">
+  <nd ref="815546349" />
+  <nd ref="815545921" />
+  <nd ref="815546320" />
+  <nd ref="815546209" />
+  <nd ref="815546349" />
+  <tag k="layer" v="1" />
+  <tag k="leisure" v="garden" />
+  <tag k="name" v="Висячий сад" />
+  <tag k="wikidata" v="Q4112270" />
+  <tag k="wikipedia" v="ru:Висячий сад Малого Эрмитажа" />
+ </way>
+ <way id="184496243" visible="true" version="6" changeset="166740727" timestamp="2025-05-25T15:40:12Z" user="kmpoppe_repair" uid="22393420">
+  <nd ref="1949927902" />
+  <nd ref="7410499105" />
+  <nd ref="7410499104" />
+  <nd ref="7410499103" />
+  <nd ref="7410499102" />
+  <nd ref="7410499101" />
+  <nd ref="7410499100" />
+  <nd ref="7410499099" />
+  <nd ref="1949927905" />
+  <nd ref="1949927906" />
+  <nd ref="1949927903" />
+  <nd ref="1949927902" />
+  <tag k="building" v="yes" />
+  <tag k="building:levels" v="1" />
+  <tag k="information" v="office" />
+  <tag k="name:zh" v="旅游咨询中心" />
+  <tag k="source" v="survey" />
+  <tag k="tourism" v="information" />
+ </way>
+ <way id="193803889" visible="true" version="8" changeset="166740727" timestamp="2025-05-25T15:40:12Z" user="kmpoppe_repair" uid="22393420">
+  <nd ref="1162518212" />
+  <nd ref="815546275" />
+  <nd ref="815546166" />
+ </way>
+ <way id="243384461" visible="true" version="16" changeset="166740727" timestamp="2025-05-25T15:40:12Z" user="kmpoppe_repair" uid="22393420">
+  <nd ref="2508056607" />
+  <nd ref="504892661" />
+  <nd ref="504892662" />
+  <nd ref="504892664" />
+  <nd ref="2508056607" />
+  <tag k="addr:housenumber" v="38" />
+  <tag k="addr:postcode" v="191186" />
+  <tag k="addr:street" v="Миллионная улица" />
+  <tag k="building" v="office" />
+  <tag k="building:levels" v="4" />
+  <tag k="source" v="rgis" />
+ </way>
+ <way id="549454801" visible="true" version="6" changeset="166740727" timestamp="2025-05-25T15:40:12Z" user="kmpoppe_repair" uid="22393420">
+  <nd ref="5307693161" />
+  <nd ref="7801277251" />
+  <nd ref="5464268930" />
+  <nd ref="5464268931" />
+  <nd ref="7801277252" />
+  <nd ref="5307693158" />
+  <nd ref="5307693161" />
+  <tag k="building" v="yes" />
+  <tag k="building:levels" v="2" />
+  <tag k="building:min_level" v="1" />
+ </way>
+ <way id="549454802" visible="true" version="8" changeset="166740727" timestamp="2025-05-25T15:40:12Z" user="kmpoppe_repair" uid="22393420">
+  <nd ref="2043144172" />
+  <nd ref="7801277250" />
+  <nd ref="815545935" />
+  <nd ref="815546114" />
+  <nd ref="7801277249" />
+  <nd ref="815546145" />
+  <nd ref="2043144172" />
+  <tag k="building" v="bridge" />
+  <tag k="building:levels" v="2" />
+  <tag k="building:min_level" v="1" />
+  <tag k="roof:shape" v="gabled" />
+ </way>
+ <way id="549454805" visible="true" version="4" changeset="166740727" timestamp="2025-05-25T15:40:12Z" user="kmpoppe_repair" uid="22393420">
+  <nd ref="1162518210" />
+  <nd ref="4254524750" />
+  <nd ref="1162518212" />
+ </way>
+ <way id="549454806" visible="true" version="5" changeset="166740727" timestamp="2025-05-25T15:40:12Z" user="kmpoppe_repair" uid="22393420">
+  <nd ref="1161274260" />
+  <nd ref="4254524753" />
+  <nd ref="499364392" />
+  <nd ref="1161274263" />
+  <nd ref="4254524752" />
+  <nd ref="1161274265" />
+  <nd ref="5546742990" />
+  <nd ref="1161274260" />
+  <tag k="building" v="yes" />
+  <tag k="building:levels" v="2" />
+  <tag k="building:min_level" v="1" />
+ </way>
+ <way id="549454807" visible="true" version="2" changeset="58021487" timestamp="2018-04-12T01:56:40Z" user="Anton Khorev" uid="437809">
+  <nd ref="1161337668" />
+  <nd ref="4254524754" />
+  <nd ref="1161337678" />
+ </way>
+ <way id="567779774" visible="true" version="5" changeset="166740727" timestamp="2025-05-25T15:40:12Z" user="kmpoppe_repair" uid="22393420">
+  <nd ref="1161337668" />
+  <nd ref="5546742992" />
+  <nd ref="815546011" />
+  <nd ref="815545980" />
+  <nd ref="5546742991" />
+  <nd ref="5339421946" />
+  <nd ref="1161274260" />
+  <nd ref="5546742990" />
+  <nd ref="1161274265" />
+  <nd ref="5546742989" />
+  <nd ref="815546381" />
+ </way>
+ <way id="567779779" visible="true" version="4" changeset="166740727" timestamp="2025-05-25T15:40:12Z" user="kmpoppe_repair" uid="22393420">
+  <nd ref="815546381" />
+  <nd ref="4172123653" />
+  <nd ref="1162518204" />
+  <tag k="barrier" v="fence" />
+ </way>
+ <way id="567779780" visible="true" version="4" changeset="166740727" timestamp="2025-05-25T15:40:12Z" user="kmpoppe_repair" uid="22393420">
+  <nd ref="1162518212" />
+  <nd ref="5546742995" />
+  <nd ref="815546381" />
+ </way>
+ <way id="567779781" visible="true" version="5" changeset="166740727" timestamp="2025-05-25T15:40:12Z" user="kmpoppe_repair" uid="22393420">
+  <nd ref="1162518204" />
+  <nd ref="1162518210" />
+ </way>
+ <way id="567780968" visible="true" version="4" changeset="166740727" timestamp="2025-05-25T15:40:12Z" user="kmpoppe_repair" uid="22393420">
+  <nd ref="1161337670" />
+  <nd ref="312622783" />
+  <nd ref="312622784" />
+  <nd ref="312622785" />
+  <nd ref="312622786" />
+  <nd ref="312622788" />
+  <nd ref="312622789" />
+  <nd ref="815546145" />
+  <nd ref="2043144172" />
+  <nd ref="1161274258" />
+  <nd ref="312622791" />
+  <nd ref="312622793" />
+  <nd ref="312622794" />
+  <nd ref="312622795" />
+  <nd ref="312622796" />
+  <nd ref="5464268930" />
+  <nd ref="5464268931" />
+  <nd ref="5307693163" />
+ </way>
+ <way id="567780970" visible="true" version="5" changeset="166740727" timestamp="2025-05-25T15:40:12Z" user="kmpoppe_repair" uid="22393420">
+  <nd ref="1161337695" />
+  <nd ref="5546742985" />
+  <nd ref="7806227587" />
+  <tag k="barrier" v="fence" />
+ </way>
+ <way id="567780974" visible="true" version="4" changeset="166740727" timestamp="2025-05-25T15:40:12Z" user="kmpoppe_repair" uid="22393420">
+  <nd ref="1161337695" />
+  <nd ref="815546058" />
+  <nd ref="815546130" />
+  <nd ref="1161337689" />
+ </way>
+ <way id="567780980" visible="true" version="4" changeset="166740727" timestamp="2025-05-25T15:40:12Z" user="kmpoppe_repair" uid="22393420">
+  <nd ref="815546166" />
+  <nd ref="5307693158" />
+  <nd ref="5307693161" />
+  <nd ref="815545935" />
+  <nd ref="815546114" />
+  <nd ref="1161337686" />
+  <nd ref="1161337692" />
+  <nd ref="1161337691" />
+ </way>
+ <way id="567780991" visible="true" version="3" changeset="166740727" timestamp="2025-05-25T15:40:12Z" user="kmpoppe_repair" uid="22393420">
+  <nd ref="1161337684" />
+  <nd ref="1161337670" />
+ </way>
+ <way id="567780994" visible="true" version="3" changeset="166740727" timestamp="2025-05-25T15:40:12Z" user="kmpoppe_repair" uid="22393420">
+  <nd ref="1161337691" />
+  <nd ref="1161337695" />
+ </way>
+ <way id="567780995" visible="true" version="4" changeset="166740727" timestamp="2025-05-25T15:40:12Z" user="kmpoppe_repair" uid="22393420">
+  <nd ref="1161337691" />
+  <nd ref="7801277248" />
+  <nd ref="1161337670" />
+ </way>
+ <way id="567780996" visible="true" version="7" changeset="166740727" timestamp="2025-05-25T15:40:12Z" user="kmpoppe_repair" uid="22393420">
+  <nd ref="5464268935" />
+  <nd ref="5464268934" />
+  <nd ref="11414434021" />
+  <nd ref="11414434025" />
+  <nd ref="11414434024" />
+  <nd ref="11414434019" />
+  <nd ref="5464268933" />
+  <nd ref="5464268932" />
+  <nd ref="11414434018" />
+  <nd ref="11414434022" />
+  <nd ref="11414434023" />
+  <nd ref="11414434020" />
+  <nd ref="5464268935" />
+  <tag k="addr:housenumber" v="38 литБ" />
+  <tag k="addr:postcode" v="190000" />
+  <tag k="addr:street" v="Дворцовая набережная" />
+  <tag k="building" v="yes" />
+ </way>
+ <way id="579071823" visible="true" version="1" changeset="58021487" timestamp="2018-04-12T01:56:36Z" user="Anton Khorev" uid="437809">
+  <nd ref="1161337678" />
+  <nd ref="1161337681" />
+ </way>
+ <way id="579071824" visible="true" version="1" changeset="58021487" timestamp="2018-04-12T01:56:36Z" user="Anton Khorev" uid="437809">
+  <nd ref="1161337689" />
+  <nd ref="1161337668" />
+ </way>
+ <way id="579071825" visible="true" version="1" changeset="58021487" timestamp="2018-04-12T01:56:36Z" user="Anton Khorev" uid="437809">
+  <nd ref="1161337681" />
+  <nd ref="4172123655" />
+  <nd ref="1161337689" />
+  <tag k="barrier" v="fence" />
+ </way>
+ <way id="835784017" visible="true" version="3" changeset="166740727" timestamp="2025-05-25T15:40:12Z" user="kmpoppe_repair" uid="22393420">
+  <nd ref="312622812" />
+  <nd ref="312622813" />
+  <nd ref="312622815" />
+  <nd ref="5307743080" />
+  <nd ref="5307743083" />
+  <nd ref="5307743082" />
+  <nd ref="5307743081" />
+  <nd ref="7410499088" />
+ </way>
+ <way id="835784021" visible="true" version="3" changeset="166740727" timestamp="2025-05-25T15:40:12Z" user="kmpoppe_repair" uid="22393420">
+  <nd ref="7410499086" />
+  <nd ref="7410499089" />
+ </way>
+ <way id="835784022" visible="true" version="3" changeset="166740727" timestamp="2025-05-25T15:40:12Z" user="kmpoppe_repair" uid="22393420">
+  <nd ref="1309605545" />
+  <nd ref="7410499086" />
+ </way>
+ <way id="835784024" visible="true" version="3" changeset="166740727" timestamp="2025-05-25T15:40:12Z" user="kmpoppe_repair" uid="22393420">
+  <nd ref="7410499087" />
+  <nd ref="1309605792" />
+ </way>
+ <way id="835784025" visible="true" version="3" changeset="166740727" timestamp="2025-05-25T15:40:12Z" user="kmpoppe_repair" uid="22393420">
+  <nd ref="7410499088" />
+  <nd ref="7410499087" />
+ </way>
+ <way id="835784029" visible="true" version="3" changeset="166740727" timestamp="2025-05-25T15:40:12Z" user="kmpoppe_repair" uid="22393420">
+  <nd ref="7410499089" />
+  <nd ref="5307743078" />
+  <nd ref="5307743085" />
+  <nd ref="5307743084" />
+  <nd ref="5307743079" />
+  <nd ref="312622816" />
+  <nd ref="312622817" />
+  <nd ref="312622772" />
+ </way>
+ <way id="835784030" visible="true" version="4" changeset="166740727" timestamp="2025-05-25T15:40:12Z" user="kmpoppe_repair" uid="22393420">
+  <nd ref="7806227590" />
+  <nd ref="312622777" />
+  <nd ref="312622778" />
+  <nd ref="312622779" />
+  <nd ref="312622780" />
+  <nd ref="312622782" />
+  <nd ref="1161337684" />
+ </way>
+ <way id="835784031" visible="true" version="4" changeset="166740727" timestamp="2025-05-25T15:40:12Z" user="kmpoppe_repair" uid="22393420">
+  <nd ref="1309605792" />
+  <nd ref="7410499090" />
+  <nd ref="1309605545" />
+ </way>
+ <way id="835789708" visible="true" version="3" changeset="166740727" timestamp="2025-05-25T15:40:12Z" user="kmpoppe_repair" uid="22393420">
+  <nd ref="7801226993" />
+  <nd ref="7801186383" />
+  <nd ref="7801226992" />
+  <nd ref="7801226991" />
+  <nd ref="7801186384" />
+  <nd ref="7801226994" />
+ </way>
+ <way id="835789709" visible="true" version="3" changeset="166740727" timestamp="2025-05-25T15:40:12Z" user="kmpoppe_repair" uid="22393420">
+  <nd ref="5307693163" />
+  <nd ref="312622797" />
+  <nd ref="312622798" />
+  <nd ref="312622800" />
+  <nd ref="5307743088" />
+  <nd ref="5307743086" />
+  <nd ref="7801226993" />
+ </way>
+ <way id="835789712" visible="true" version="3" changeset="166740727" timestamp="2025-05-25T15:40:12Z" user="kmpoppe_repair" uid="22393420">
+  <nd ref="7801226998" />
+  <nd ref="312622809" />
+  <nd ref="312622811" />
+  <nd ref="312622812" />
+ </way>
+ <way id="835789713" visible="true" version="3" changeset="166740727" timestamp="2025-05-25T15:40:12Z" user="kmpoppe_repair" uid="22393420">
+  <nd ref="7801226999" />
+  <nd ref="7801186371" />
+  <nd ref="7801226996" />
+  <nd ref="7801226997" />
+  <nd ref="7801186372" />
+  <nd ref="7801226998" />
+ </way>
+ <way id="836357474" visible="true" version="3" changeset="166740727" timestamp="2025-05-25T15:40:12Z" user="kmpoppe_repair" uid="22393420">
+  <nd ref="7806227587" />
+  <nd ref="1161337684" />
+  <tag k="barrier" v="fence" />
+ </way>
+ <way id="836357475" visible="true" version="3" changeset="166740727" timestamp="2025-05-25T15:40:12Z" user="kmpoppe_repair" uid="22393420">
+  <nd ref="7806227591" />
+  <nd ref="7806227588" />
+  <nd ref="7806227589" />
+  <nd ref="7806227590" />
+ </way>
+ <way id="836357476" visible="true" version="3" changeset="166740727" timestamp="2025-05-25T15:40:12Z" user="kmpoppe_repair" uid="22393420">
+  <nd ref="312622772" />
+  <nd ref="312622773" />
+  <nd ref="312622775" />
+  <nd ref="7806227591" />
+ </way>
+ <way id="1230807517" visible="true" version="3" changeset="166740727" timestamp="2025-05-25T15:40:12Z" user="kmpoppe_repair" uid="22393420">
+  <nd ref="11414434014" />
+  <nd ref="11414434015" />
+  <nd ref="11414434016" />
+  <nd ref="11414434017" />
+  <nd ref="11414434014" />
+  <tag k="building" v="yes" />
+ </way>
+ <way id="1316244732" visible="true" version="1" changeset="156748379" timestamp="2024-09-17T21:42:06Z" user="Zkir" uid="100812">
+  <nd ref="12182943724" />
+  <nd ref="12182923665" />
+  <nd ref="12182923661" />
+  <nd ref="12182923658" />
+  <nd ref="12182943724" />
+ </way>
+ <relation id="69424" visible="true" version="70" changeset="186224875" timestamp="2026-07-23T10:14:03Z" user="zavala2" uid="24341823">
+  <member type="way" ref="835784030" role="outer" />
+  <member type="way" ref="836357475" role="outer" />
+  <member type="way" ref="836357476" role="outer" />
+  <member type="way" ref="835784029" role="outer" />
+  <member type="way" ref="835784021" role="outer" />
+  <member type="way" ref="835784022" role="outer" />
+  <member type="way" ref="835784031" role="outer" />
+  <member type="way" ref="835784024" role="outer" />
+  <member type="way" ref="835784025" role="outer" />
+  <member type="way" ref="835784017" role="outer" />
+  <member type="way" ref="835789712" role="outer" />
+  <member type="way" ref="835789713" role="outer" />
+  <member type="way" ref="28455288" role="outer" />
+  <member type="way" ref="835789708" role="outer" />
+  <member type="way" ref="835789709" role="outer" />
+  <member type="way" ref="567780968" role="outer" />
+  <member type="way" ref="567780991" role="outer" />
+  <member type="way" ref="30352753" role="inner" />
+  <member type="way" ref="40977448" role="inner" />
+  <member type="way" ref="41289500" role="inner" />
+  <member type="way" ref="41289564" role="inner" />
+  <member type="way" ref="41289570" role="inner" />
+  <member type="way" ref="41289571" role="inner" />
+  <tag k="addr:housenumber" v="38 литА" />
+  <tag k="addr:postcode" v="190000" />
+  <tag k="addr:street" v="Дворцовая набережная" />
+  <tag k="building" v="yes" />
+  <tag k="building:colour" v="aquamarine" />
+  <tag k="building:levels" v="3" />
+  <tag k="building:part" v="base" />
+  <tag k="castle_type" v="palace" />
+  <tag k="height" v="22" />
+  <tag k="historic" v="castle" />
+  <tag k="name" v="Зимний дворец" />
+  <tag k="name:ar" v="القصر الشتوي" />
+  <tag k="name:ca" v="Palau d'Hivern" />
+  <tag k="name:cs" v="Zimní palác" />
+  <tag k="name:de" v="Winterpalast" />
+  <tag k="name:en" v="Winter Palace" />
+  <tag k="name:es" v="Palacio de Invierno" />
+  <tag k="name:fi" v="Talvipalatsi" />
+  <tag k="name:fr" v="Palais d'Hiver" />
+  <tag k="name:it" v="Palazzo d'Inverno" />
+  <tag k="name:ko" v="겨울궁전" />
+  <tag k="name:lt" v="Ermitažas" />
+  <tag k="name:nl" v="Winterpaleis" />
+  <tag k="name:pl" v="Pałac Zimowy" />
+  <tag k="name:ru" v="Зимний дворец" />
+  <tag k="type" v="multipolygon" />
+  <tag k="website" v="https://ermitazh.org/" />
+  <tag k="wikidata" v="Q182147" />
+  <tag k="wikipedia" v="ru:Зимний дворец" />
+ </relation>
+ <relation id="1067948" visible="true" version="31" changeset="166740727" timestamp="2025-05-25T15:40:13Z" user="kmpoppe_repair" uid="22393420">
+  <member type="way" ref="567779774" role="outer" />
+  <member type="way" ref="567779780" role="outer" />
+  <member type="way" ref="193803889" role="outer" />
+  <member type="way" ref="567780980" role="outer" />
+  <member type="way" ref="567780994" role="outer" />
+  <member type="way" ref="567780974" role="outer" />
+  <member type="way" ref="579071824" role="outer" />
+  <member type="way" ref="67548566" role="inner" />
+  <tag k="addr:housenumber" v="36" />
+  <tag k="addr:postcode" v="191186" />
+  <tag k="addr:street" v="Дворцовая набережная" />
+  <tag k="architect" v="Жан-Батист Деламот" />
+  <tag k="architect:wikidata" v="Q2719614" />
+  <tag k="building" v="yes" />
+  <tag k="building:levels" v="3" />
+  <tag k="name" v="Малый Эрмитаж" />
+  <tag k="name:de" v="Kleine Eremitage" />
+  <tag k="name:en" v="Small Hermitage" />
+  <tag k="name:fr" v="Petit Ermitage" />
+  <tag k="name:nl" v="Kleine Hermitage" />
+  <tag k="start_date" v="1767" />
+  <tag k="type" v="multipolygon" />
+  <tag k="website" v="https://www.hermitagemuseum.org/wps/portal/hermitage/explore/buildings/locations/building/B20/" />
+  <tag k="wikidata" v="Q4279216" />
+  <tag k="wikipedia" v="ru:Малый Эрмитаж" />
+ </relation>
+ <relation id="2000648" visible="true" version="34" changeset="176236494" timestamp="2025-12-21T21:44:12Z" user="Jobigutenburg" uid="10504312">
+  <member type="way" ref="1316244732" role="outer" />
+  <tag k="alt_name" v="Александрийский столп" />
+  <tag k="building" v="yes" />
+  <tag k="building:architecture" v="empire" />
+  <tag k="building:parts" v="vertical" />
+  <tag k="height" v="47.5" />
+  <tag k="historic" v="monument" />
+  <tag k="name" v="Александровская колонна" />
+  <tag k="name:ar" v="العمود الإسكندري" />
+  <tag k="name:de" v="Alexandersäule" />
+  <tag k="name:en" v="Alexander Column" />
+  <tag k="name:fr" v="Colonne d'Alexandre" />
+  <tag k="name:ru" v="Александровская колонна" />
+  <tag k="start_date" v="1834" />
+  <tag k="tourism" v="attraction" />
+  <tag k="type" v="multipolygon" />
+  <tag k="wheelchair" v="yes" />
+  <tag k="wikidata" v="Q907366" />
+  <tag k="wikipedia" v="ru:Александровская колонна" />
+ </relation>
+ <relation id="8092312" visible="true" version="3" changeset="166740727" timestamp="2025-05-25T15:40:13Z" user="kmpoppe_repair" uid="22393420">
+  <member type="way" ref="567779781" role="outer" />
+  <member type="way" ref="549454805" role="outer" />
+  <member type="way" ref="567779780" role="outer" />
+  <member type="way" ref="567779779" role="outer" />
+  <tag k="building" v="yes" />
+  <tag k="building:levels" v="2" />
+  <tag k="building:min_level" v="1" />
+  <tag k="type" v="multipolygon" />
+ </relation>
+ <relation id="8092328" visible="true" version="5" changeset="166740727" timestamp="2025-05-25T15:40:13Z" user="kmpoppe_repair" uid="22393420">
+  <member type="way" ref="567780991" role="outer" />
+  <member type="way" ref="567780995" role="outer" />
+  <member type="way" ref="567780994" role="outer" />
+  <member type="way" ref="567780970" role="outer" />
+  <member type="way" ref="836357474" role="outer" />
+  <tag k="building" v="bridge" />
+  <tag k="building:levels" v="2" />
+  <tag k="building:min_level" v="1" />
+  <tag k="type" v="multipolygon" />
+ </relation>
+ <relation id="8201892" visible="true" version="1" changeset="58021487" timestamp="2018-04-12T01:56:37Z" user="Anton Khorev" uid="437809">
+  <member type="way" ref="579071824" role="outer" />
+  <member type="way" ref="549454807" role="outer" />
+  <member type="way" ref="579071823" role="outer" />
+  <member type="way" ref="579071825" role="outer" />
+  <tag k="building" v="yes" />
+  <tag k="building:levels" v="2" />
+  <tag k="building:min_level" v="1" />
+  <tag k="type" v="multipolygon" />
+ </relation>
+ </osm>

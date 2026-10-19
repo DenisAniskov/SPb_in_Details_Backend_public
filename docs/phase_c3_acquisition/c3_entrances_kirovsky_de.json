@@ -1,0 +1,5767 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-10T17:00:36Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 561414225,
+  "lat": 59.8869051,
+  "lon": 30.3191205,
+  "timestamp": "2015-12-28T10:38:48Z",
+  "version": 6,
+  "changeset": 36216205,
+  "user": "Pavel47",
+  "uid": 472653,
+  "tags": {
+    "entrance": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2077872812,
+  "lat": 59.8953169,
+  "lon": 30.2696480,
+  "timestamp": "2022-10-29T16:04:35Z",
+  "version": 5,
+  "changeset": 128217386,
+  "user": "masmirnov",
+  "uid": 16256027,
+  "tags": {
+    "addr:flats": "7-12",
+    "entrance": "staircase",
+    "ref": "2"
+  }
+},
+{
+  "type": "node",
+  "id": 2755003556,
+  "lat": 59.8544396,
+  "lon": 30.3322989,
+  "timestamp": "2024-12-04T06:49:52Z",
+  "version": 5,
+  "changeset": 159906051,
+  "user": "asdfwqer",
+  "uid": 20626553,
+  "tags": {
+    "entrance": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2755003558,
+  "lat": 59.8544482,
+  "lon": 30.3333310,
+  "timestamp": "2024-12-04T06:49:52Z",
+  "version": 5,
+  "changeset": 159906051,
+  "user": "asdfwqer",
+  "uid": 20626553,
+  "tags": {
+    "entrance": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2766353595,
+  "lat": 59.8544464,
+  "lon": 30.3331200,
+  "timestamp": "2024-12-04T06:49:52Z",
+  "version": 5,
+  "changeset": 159906051,
+  "user": "asdfwqer",
+  "uid": 20626553,
+  "tags": {
+    "entrance": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3914314740,
+  "lat": 59.8868975,
+  "lon": 30.3182964,
+  "timestamp": "2015-12-28T10:38:42Z",
+  "version": 1,
+  "changeset": 36216205,
+  "user": "Pavel47",
+  "uid": 472653,
+  "tags": {
+    "entrance": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3914314741,
+  "lat": 59.8868987,
+  "lon": 30.3184258,
+  "timestamp": "2015-12-28T10:38:42Z",
+  "version": 1,
+  "changeset": 36216205,
+  "user": "Pavel47",
+  "uid": 472653,
+  "tags": {
+    "entrance": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4049031043,
+  "lat": 59.8870040,
+  "lon": 30.3180324,
+  "timestamp": "2023-09-16T23:12:49Z",
+  "version": 18,
+  "changeset": 141361569,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "tags": {
+    "entrance": "yes",
+    "name": "Акварим",
+    "opening_hours": "Mo-Fr 10:00-20:00; Sa-Su 11:00-19:00",
+    "shop": "bathroom_furnishing"
+  }
+},
+{
+  "type": "node",
+  "id": 4049031075,
+  "lat": 59.8873161,
+  "lon": 30.3180286,
+  "timestamp": "2016-03-08T20:46:34Z",
+  "version": 1,
+  "changeset": 37695200,
+  "user": "Pavel47",
+  "uid": 472653,
+  "tags": {
+    "entrance": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4112895208,
+  "lat": 59.8874432,
+  "lon": 30.3190250,
+  "timestamp": "2016-04-11T00:00:34Z",
+  "version": 1,
+  "changeset": 38463011,
+  "user": "Pavel47",
+  "uid": 472653,
+  "tags": {
+    "entrance": "main"
+  }
+},
+{
+  "type": "node",
+  "id": 4165962896,
+  "lat": 59.8996191,
+  "lon": 30.4263245,
+  "timestamp": "2026-05-03T13:52:40Z",
+  "version": 2,
+  "changeset": 182161183,
+  "user": "masmirnov",
+  "uid": 16256027,
+  "tags": {
+    "addr:flats": "3-4",
+    "entrance": "staircase",
+    "ref": "1"
+  }
+},
+{
+  "type": "node",
+  "id": 4165962924,
+  "lat": 59.8998095,
+  "lon": 30.4278200,
+  "timestamp": "2016-05-04T16:25:36Z",
+  "version": 1,
+  "changeset": 39099596,
+  "user": "Pavel47",
+  "uid": 472653,
+  "tags": {
+    "entrance": "main"
+  }
+},
+{
+  "type": "node",
+  "id": 4165963004,
+  "lat": 59.9005305,
+  "lon": 30.4266487,
+  "timestamp": "2016-05-04T16:25:38Z",
+  "version": 1,
+  "changeset": 39099596,
+  "user": "Pavel47",
+  "uid": 472653,
+  "tags": {
+    "addr:flats": "8-11",
+    "entrance": "staircase",
+    "ref": "2"
+  }
+},
+{
+  "type": "node",
+  "id": 4165963008,
+  "lat": 59.9005656,
+  "lon": 30.4267633,
+  "timestamp": "2016-05-04T16:25:38Z",
+  "version": 1,
+  "changeset": 39099596,
+  "user": "Pavel47",
+  "uid": 472653,
+  "tags": {
+    "addr:flats": "2-6",
+    "entrance": "staircase",
+    "ref": "1"
+  }
+},
+{
+  "type": "node",
+  "id": 4203252397,
+  "lat": 59.9183151,
+  "lon": 30.3226628,
+  "timestamp": "2021-02-11T14:11:12Z",
+  "version": 4,
+  "changeset": 99112925,
+  "user": "Anton Khorev",
+  "uid": 437809,
+  "tags": {
+    "addr:flats": "1-6",
+    "entrance": "staircase",
+    "ref": "1"
+  }
+},
+{
+  "type": "node",
+  "id": 4221182321,
+  "lat": 59.8757168,
+  "lon": 30.4402433,
+  "timestamp": "2019-09-06T15:37:07Z",
+  "version": 3,
+  "changeset": 74182961,
+  "user": "mini-me",
+  "uid": 3846961,
+  "tags": {
+    "access": "private",
+    "addr:flats": "27-42",
+    "entrance": "staircase",
+    "ref": "3"
+  }
+},
+{
+  "type": "node",
+  "id": 4221182322,
+  "lat": 59.8758319,
+  "lon": 30.4405228,
+  "timestamp": "2019-09-06T15:37:07Z",
+  "version": 3,
+  "changeset": 74182961,
+  "user": "mini-me",
+  "uid": 3846961,
+  "tags": {
+    "access": "private",
+    "addr:flats": "12-26",
+    "entrance": "staircase",
+    "ref": "2"
+  }
+},
+{
+  "type": "node",
+  "id": 4221182324,
+  "lat": 59.8759489,
+  "lon": 30.4408069,
+  "timestamp": "2019-09-06T15:37:07Z",
+  "version": 3,
+  "changeset": 74182961,
+  "user": "mini-me",
+  "uid": 3846961,
+  "tags": {
+    "access": "private",
+    "addr:flats": "1-11",
+    "entrance": "staircase",
+    "ref": "1"
+  }
+},
+{
+  "type": "node",
+  "id": 4285006123,
+  "lat": 59.8840945,
+  "lon": 30.4373815,
+  "timestamp": "2020-08-18T15:00:29Z",
+  "version": 6,
+  "changeset": 89582512,
+  "user": "mini-me",
+  "uid": 3846961,
+  "tags": {
+    "entrance": "main"
+  }
+},
+{
+  "type": "node",
+  "id": 4285006124,
+  "lat": 59.8841784,
+  "lon": 30.4372077,
+  "timestamp": "2020-08-18T15:00:29Z",
+  "version": 4,
+  "changeset": 89582512,
+  "user": "mini-me",
+  "uid": 3846961,
+  "tags": {
+    "entrance": "service"
+  }
+},
+{
+  "type": "node",
+  "id": 4285127149,
+  "lat": 59.8840922,
+  "lon": 30.4434840,
+  "timestamp": "2024-05-26T19:17:14Z",
+  "version": 4,
+  "changeset": 151866709,
+  "user": "masmirnov",
+  "uid": 16256027,
+  "tags": {
+    "addr:flats": "2-10",
+    "entrance": "staircase",
+    "ref": "1"
+  }
+},
+{
+  "type": "node",
+  "id": 4400336290,
+  "lat": 59.8756800,
+  "lon": 30.4401541,
+  "timestamp": "2016-09-13T22:36:09Z",
+  "version": 1,
+  "changeset": 42137460,
+  "user": "mini-me",
+  "uid": 3846961,
+  "tags": {
+    "entrance": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4400336291,
+  "lat": 59.8757926,
+  "lon": 30.4404272,
+  "timestamp": "2016-09-13T22:36:09Z",
+  "version": 1,
+  "changeset": 42137460,
+  "user": "mini-me",
+  "uid": 3846961,
+  "tags": {
+    "entrance": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4400336292,
+  "lat": 59.8759127,
+  "lon": 30.4407188,
+  "timestamp": "2016-09-13T22:36:09Z",
+  "version": 1,
+  "changeset": 42137460,
+  "user": "mini-me",
+  "uid": 3846961,
+  "tags": {
+    "entrance": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4400336293,
+  "lat": 59.8759884,
+  "lon": 30.4409026,
+  "timestamp": "2019-09-06T15:37:07Z",
+  "version": 2,
+  "changeset": 74182961,
+  "user": "mini-me",
+  "uid": 3846961,
+  "tags": {
+    "entrance": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4441794140,
+  "lat": 59.9130779,
+  "lon": 30.4052821,
+  "timestamp": "2020-09-18T20:11:41Z",
+  "version": 2,
+  "changeset": 91130750,
+  "user": "mini-me",
+  "uid": 3846961,
+  "tags": {
+    "addr:flats": "5-16",
+    "entrance": "staircase",
+    "ref": "2"
+  }
+},
+{
+  "type": "node",
+  "id": 4559288546,
+  "lat": 59.9044400,
+  "lon": 30.3191435,
+  "timestamp": "2024-05-22T15:55:53Z",
+  "version": 24,
+  "changeset": 151683550,
+  "user": "Anton Khorev",
+  "uid": 437809,
+  "tags": {
+    "amenity": "bank",
+    "branch": "Северо-Западный банк",
+    "brand": "Сбербанк Первый",
+    "check_date": "2024-05-22",
+    "check_date:opening_hours": "2021-08-08",
+    "contact:phone": "+7 812 4090175",
+    "contact:website": "https://www.sberbank.ru/ru/person/sb1",
+    "entrance": "yes",
+    "name": "Сбер Первый",
+    "opening_hours": "Mo-Fr 10:00-19:00",
+    "operator": "ПАО Сбербанк",
+    "ref": "9055/01926"
+  }
+},
+{
+  "type": "node",
+  "id": 4561369748,
+  "lat": 59.8945618,
+  "lon": 30.4110398,
+  "timestamp": "2016-12-20T20:13:30Z",
+  "version": 2,
+  "changeset": 44550332,
+  "user": "Re-re",
+  "uid": 2064119,
+  "tags": {
+    "entrance": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4660973156,
+  "lat": 59.8765838,
+  "lon": 30.4402391,
+  "timestamp": "2019-11-08T20:28:46Z",
+  "version": 2,
+  "changeset": 76829304,
+  "user": "mini-me",
+  "uid": 3846961,
+  "tags": {
+    "entrance": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5371010152,
+  "lat": 59.9099334,
+  "lon": 30.2980102,
+  "timestamp": "2019-01-26T18:58:56Z",
+  "version": 2,
+  "changeset": 66661875,
+  "user": "fims7",
+  "uid": 584771,
+  "tags": {
+    "entrance": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5572218382,
+  "lat": 59.9134119,
+  "lon": 30.2927391,
+  "timestamp": "2018-10-16T19:23:57Z",
+  "version": 2,
+  "changeset": 63587677,
+  "user": "fims7",
+  "uid": 584771,
+  "tags": {
+    "entrance": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5603195607,
+  "lat": 59.9133794,
+  "lon": 30.2878468,
+  "timestamp": "2019-11-10T12:47:32Z",
+  "version": 3,
+  "changeset": 76867157,
+  "user": "Anton Khorev",
+  "uid": 437809,
+  "tags": {
+    "entrance": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5603195608,
+  "lat": 59.9134924,
+  "lon": 30.2878624,
+  "timestamp": "2019-11-10T12:47:32Z",
+  "version": 4,
+  "changeset": 76867157,
+  "user": "Anton Khorev",
+  "uid": 437809,
+  "tags": {
+    "entrance": "staircase"
+  }
+},
+{
+  "type": "node",
+  "id": 5603195609,
+  "lat": 59.9134535,
+  "lon": 30.2878641,
+  "timestamp": "2019-11-10T12:47:32Z",
+  "version": 3,
+  "changeset": 76867157,
+  "user": "Anton Khorev",
+  "uid": 437809,
+  "tags": {
+    "entrance": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5612022900,
+  "lat": 59.9126337,
+  "lon": 30.3460456,
+  "timestamp": "2022-02-22T11:18:51Z",
+  "version": 3,
+  "changeset": 117722262,
+  "user": "GaM&Ko",
+  "uid": 14115937,
+  "tags": {
+    "entrance": "staircase"
+  }
+},
+{
+  "type": "node",
+  "id": 5612580153,
+  "lat": 59.9134623,
+  "lon": 30.2892889,
+  "timestamp": "2020-05-13T19:52:11Z",
+  "version": 2,
+  "changeset": 85162526,
+  "user": "Anton Khorev",
+  "uid": 437809,
+  "tags": {
+    "entrance": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5612580166,
+  "lat": 59.9133763,
+  "lon": 30.2890314,
+  "timestamp": "2020-05-13T19:52:11Z",
+  "version": 2,
+  "changeset": 85162526,
+  "user": "Anton Khorev",
+  "uid": 437809,
+  "tags": {
+    "entrance": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5661005185,
+  "lat": 59.9133984,
+  "lon": 30.2878463,
+  "timestamp": "2019-10-29T13:22:42Z",
+  "version": 2,
+  "changeset": 76346116,
+  "user": "Anton Khorev",
+  "uid": 437809,
+  "tags": {
+    "entrance": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5751845279,
+  "lat": 59.9197993,
+  "lon": 30.3118407,
+  "timestamp": "2018-07-10T13:26:16Z",
+  "version": 1,
+  "changeset": 60577594,
+  "user": "Anton Khorev",
+  "uid": 437809,
+  "tags": {
+    "addr:flats": "1-16",
+    "entrance": "staircase",
+    "ref": "1"
+  }
+},
+{
+  "type": "node",
+  "id": 5819196743,
+  "lat": 59.8992131,
+  "lon": 30.2579567,
+  "timestamp": "2025-05-21T00:59:28Z",
+  "version": 2,
+  "changeset": 166546474,
+  "user": "misha yakin",
+  "uid": 384109,
+  "tags": {
+    "access": "private",
+    "entrance": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6778385062,
+  "lat": 59.8873613,
+  "lon": 30.4411432,
+  "timestamp": "2020-10-17T12:42:58Z",
+  "version": 2,
+  "changeset": 92627266,
+  "user": "mini-me",
+  "uid": 3846961,
+  "tags": {
+    "entrance": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6778385067,
+  "lat": 59.8873595,
+  "lon": 30.4414690,
+  "timestamp": "2020-10-17T12:42:58Z",
+  "version": 2,
+  "changeset": 92627266,
+  "user": "mini-me",
+  "uid": 3846961,
+  "tags": {
+    "entrance": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7029753413,
+  "lat": 59.8926381,
+  "lon": 30.4377082,
+  "timestamp": "2024-05-26T11:08:35Z",
+  "version": 3,
+  "changeset": 151846108,
+  "user": "masmirnov",
+  "uid": 16256027,
+  "tags": {
+    "access": "private",
+    "addr:flats": "1-17;61-62",
+    "entrance": "staircase",
+    "ref": "1"
+  }
+},
+{
+  "type": "node",
+  "id": 7029753414,
+  "lat": 59.8927914,
+  "lon": 30.4386055,
+  "timestamp": "2024-05-26T11:08:35Z",
+  "version": 3,
+  "changeset": 151846108,
+  "user": "masmirnov",
+  "uid": 16256027,
+  "tags": {
+    "access": "private",
+    "addr:flats": "48-60",
+    "entrance": "staircase",
+    "ref": "4"
+  }
+},
+{
+  "type": "node",
+  "id": 7547402099,
+  "lat": 59.8880549,
+  "lon": 30.3299428,
+  "timestamp": "2024-06-25T12:52:32Z",
+  "version": 2,
+  "changeset": 153156064,
+  "user": "TrickyFoxy",
+  "uid": 11528195,
+  "tags": {
+    "entrance": "exit"
+  }
+},
+{
+  "type": "node",
+  "id": 7547402109,
+  "lat": 59.8879897,
+  "lon": 30.3305087,
+  "timestamp": "2020-05-22T07:38:06Z",
+  "version": 1,
+  "changeset": 85594088,
+  "user": "mini-me",
+  "uid": 3846961,
+  "tags": {
+    "entrance": "main"
+  }
+},
+{
+  "type": "node",
+  "id": 7547402114,
+  "lat": 59.8879960,
+  "lon": 30.3299750,
+  "timestamp": "2020-05-22T07:38:06Z",
+  "version": 1,
+  "changeset": 85594088,
+  "user": "mini-me",
+  "uid": 3846961,
+  "tags": {
+    "entrance": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7568665828,
+  "lat": 59.9136353,
+  "lon": 30.2931561,
+  "timestamp": "2020-05-29T08:28:27Z",
+  "version": 1,
+  "changeset": 85931174,
+  "user": "mini-me",
+  "uid": 3846961,
+  "tags": {
+    "entrance": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7725041528,
+  "lat": 59.9094365,
+  "lon": 30.3441126,
+  "timestamp": "2023-02-02T20:32:04Z",
+  "version": 3,
+  "changeset": 132018187,
+  "user": "misha yakin",
+  "uid": 384109,
+  "tags": {
+    "access": "private",
+    "addr:flats": "1-3",
+    "entrance": "staircase",
+    "ref": "1",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7767184325,
+  "lat": 59.9095352,
+  "lon": 30.3454838,
+  "timestamp": "2022-02-08T12:51:11Z",
+  "version": 3,
+  "changeset": 117159857,
+  "user": "GaM&Ko",
+  "uid": 14115937,
+  "tags": {
+    "addr:flats": "17-39",
+    "entrance": "staircase",
+    "ref": "4"
+  }
+},
+{
+  "type": "node",
+  "id": 7810671313,
+  "lat": 59.9133398,
+  "lon": 30.3448084,
+  "timestamp": "2025-05-14T05:53:10Z",
+  "version": 3,
+  "changeset": 166236130,
+  "user": "misha yakin",
+  "uid": 384109,
+  "tags": {
+    "access": "private",
+    "addr:flats": "9-30",
+    "entrance": "staircase",
+    "ref": "2",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7810671318,
+  "lat": 59.9132707,
+  "lon": 30.3451237,
+  "timestamp": "2025-05-14T05:53:10Z",
+  "version": 3,
+  "changeset": 166236130,
+  "user": "misha yakin",
+  "uid": 384109,
+  "tags": {
+    "access": "private",
+    "addr:flats": "1-8",
+    "entrance": "staircase",
+    "ref": "1",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7811089093,
+  "lat": 59.9191465,
+  "lon": 30.3120149,
+  "timestamp": "2020-08-13T22:06:59Z",
+  "version": 1,
+  "changeset": 89376928,
+  "user": "mini-me",
+  "uid": 3846961,
+  "tags": {
+    "access": "private",
+    "entrance": "service"
+  }
+},
+{
+  "type": "node",
+  "id": 7811089094,
+  "lat": 59.9192248,
+  "lon": 30.3121349,
+  "timestamp": "2020-08-13T22:06:59Z",
+  "version": 1,
+  "changeset": 89376928,
+  "user": "mini-me",
+  "uid": 3846961,
+  "tags": {
+    "entrance": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7811089095,
+  "lat": 59.9193000,
+  "lon": 30.3118262,
+  "timestamp": "2024-01-27T13:06:45Z",
+  "version": 2,
+  "changeset": 146743351,
+  "user": "TrickyFoxy",
+  "uid": 11528195,
+  "tags": {
+    "access": "private",
+    "addr:flats": "28-43",
+    "entrance": "staircase",
+    "ref": "3"
+  }
+},
+{
+  "type": "node",
+  "id": 7816755879,
+  "lat": 59.8769351,
+  "lon": 30.4402764,
+  "timestamp": "2020-08-16T07:57:32Z",
+  "version": 1,
+  "changeset": 89464745,
+  "user": "mini-me",
+  "uid": 3846961,
+  "tags": {
+    "entrance": "main"
+  }
+},
+{
+  "type": "node",
+  "id": 7844491633,
+  "lat": 59.9141436,
+  "lon": 30.4010291,
+  "timestamp": "2023-01-09T23:11:37Z",
+  "version": 3,
+  "changeset": 131082670,
+  "user": "Константин Гам",
+  "uid": 392109,
+  "tags": {
+    "entrance": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7844491634,
+  "lat": 59.9143181,
+  "lon": 30.4016519,
+  "timestamp": "2023-01-09T23:11:37Z",
+  "version": 3,
+  "changeset": 131082670,
+  "user": "Константин Гам",
+  "uid": 392109,
+  "tags": {
+    "entrance": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7880059517,
+  "lat": 59.9103403,
+  "lon": 30.3487401,
+  "timestamp": "2026-04-13T09:27:38Z",
+  "version": 4,
+  "changeset": 181266138,
+  "user": "Константин Гам",
+  "uid": 392109,
+  "tags": {
+    "entrance": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7880059518,
+  "lat": 59.9104039,
+  "lon": 30.3487814,
+  "timestamp": "2026-04-13T09:27:38Z",
+  "version": 4,
+  "changeset": 181266138,
+  "user": "Константин Гам",
+  "uid": 392109,
+  "tags": {
+    "access": "private",
+    "entrance": "staircase"
+  }
+},
+{
+  "type": "node",
+  "id": 7893089468,
+  "lat": 59.9116847,
+  "lon": 30.3088412,
+  "timestamp": "2020-09-10T10:47:43Z",
+  "version": 1,
+  "changeset": 90696332,
+  "user": "Anton Khorev",
+  "uid": 437809,
+  "tags": {
+    "entrance": "main",
+    "note": "ещё висит табличка Леонтьевского центра, но он уже с другой стороны отмечен"
+  }
+},
+{
+  "type": "node",
+  "id": 7984187204,
+  "lat": 59.9040009,
+  "lon": 30.4210979,
+  "timestamp": "2021-04-05T12:21:09Z",
+  "version": 2,
+  "changeset": 102333313,
+  "user": "Константин Гам",
+  "uid": 392109,
+  "tags": {
+    "entrance": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7984187207,
+  "lat": 59.9041822,
+  "lon": 30.4211568,
+  "timestamp": "2021-04-05T12:21:09Z",
+  "version": 2,
+  "changeset": 102333313,
+  "user": "Константин Гам",
+  "uid": 392109,
+  "tags": {
+    "entrance": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7992543764,
+  "lat": 59.9197014,
+  "lon": 30.3313132,
+  "timestamp": "2020-10-09T15:03:03Z",
+  "version": 1,
+  "changeset": 92244565,
+  "user": "mini-me",
+  "uid": 3846961,
+  "tags": {
+    "access": "private",
+    "entrance": "staircase"
+  }
+},
+{
+  "type": "node",
+  "id": 7992543765,
+  "lat": 59.9196689,
+  "lon": 30.3311992,
+  "timestamp": "2020-10-09T15:03:03Z",
+  "version": 1,
+  "changeset": 92244565,
+  "user": "mini-me",
+  "uid": 3846961,
+  "tags": {
+    "entrance": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7995542447,
+  "lat": 59.9202679,
+  "lon": 30.3393160,
+  "timestamp": "2025-01-24T11:25:34Z",
+  "version": 2,
+  "changeset": 161708173,
+  "user": "s777n",
+  "uid": 615344,
+  "tags": {
+    "access": "private",
+    "entrance": "staircase"
+  }
+},
+{
+  "type": "node",
+  "id": 8028469165,
+  "lat": 59.8480596,
+  "lon": 30.3766420,
+  "timestamp": "2023-11-09T19:31:08Z",
+  "version": 3,
+  "changeset": 143836484,
+  "user": "ComradeSukhov",
+  "uid": 9059129,
+  "tags": {
+    "addr:flats": "1-36",
+    "entrance": "staircase",
+    "ref": "1"
+  }
+},
+{
+  "type": "node",
+  "id": 8028469166,
+  "lat": 59.8479818,
+  "lon": 30.3763385,
+  "timestamp": "2023-11-09T19:30:47Z",
+  "version": 3,
+  "changeset": 143836484,
+  "user": "ComradeSukhov",
+  "uid": 9059129,
+  "tags": {
+    "addr:flats": "37-72",
+    "entrance": "staircase",
+    "ref": "2"
+  }
+},
+{
+  "type": "node",
+  "id": 8028469167,
+  "lat": 59.8479034,
+  "lon": 30.3760330,
+  "timestamp": "2023-11-09T19:30:25Z",
+  "version": 3,
+  "changeset": 143836484,
+  "user": "ComradeSukhov",
+  "uid": 9059129,
+  "tags": {
+    "addr:flats": "73-108",
+    "entrance": "staircase",
+    "ref": "3"
+  }
+},
+{
+  "type": "node",
+  "id": 8028469168,
+  "lat": 59.8478256,
+  "lon": 30.3757296,
+  "timestamp": "2023-11-09T19:29:54Z",
+  "version": 3,
+  "changeset": 143836484,
+  "user": "ComradeSukhov",
+  "uid": 9059129,
+  "tags": {
+    "addr:flats": "109-144",
+    "entrance": "staircase",
+    "ref": "4"
+  }
+},
+{
+  "type": "node",
+  "id": 8028469171,
+  "lat": 59.8475869,
+  "lon": 30.3747991,
+  "timestamp": "2023-11-09T19:28:33Z",
+  "version": 3,
+  "changeset": 143836484,
+  "user": "ComradeSukhov",
+  "uid": 9059129,
+  "tags": {
+    "addr:flats": "217-252",
+    "entrance": "staircase",
+    "ref": "7"
+  }
+},
+{
+  "type": "node",
+  "id": 8028469172,
+  "lat": 59.8475099,
+  "lon": 30.3744989,
+  "timestamp": "2023-11-09T19:26:04Z",
+  "version": 3,
+  "changeset": 143836484,
+  "user": "ComradeSukhov",
+  "uid": 9059129,
+  "tags": {
+    "addr:flats": "253-288",
+    "entrance": "staircase",
+    "ref": "8"
+  }
+},
+{
+  "type": "node",
+  "id": 8028487724,
+  "lat": 59.8479586,
+  "lon": 30.3699322,
+  "timestamp": "2022-07-18T18:50:11Z",
+  "version": 3,
+  "changeset": 123775975,
+  "user": "Константин Гам",
+  "uid": 392109,
+  "tags": {
+    "entrance": "staircase",
+    "ref": "1"
+  }
+},
+{
+  "type": "node",
+  "id": 8060726424,
+  "lat": 59.9179259,
+  "lon": 30.3235153,
+  "timestamp": "2020-10-29T00:17:47Z",
+  "version": 1,
+  "changeset": 93205109,
+  "user": "Sergey Astakhov",
+  "uid": 143266,
+  "tags": {
+    "entrance": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8097730650,
+  "lat": 59.8774833,
+  "lon": 30.3935528,
+  "timestamp": "2020-11-09T17:01:25Z",
+  "version": 1,
+  "changeset": 93810872,
+  "user": "sleemp",
+  "uid": 8660675,
+  "tags": {
+    "entrance": "staircase"
+  }
+},
+{
+  "type": "node",
+  "id": 8097730651,
+  "lat": 59.8775762,
+  "lon": 30.3934117,
+  "timestamp": "2020-11-09T17:01:25Z",
+  "version": 1,
+  "changeset": 93810872,
+  "user": "sleemp",
+  "uid": 8660675,
+  "tags": {
+    "entrance": "staircase"
+  }
+},
+{
+  "type": "node",
+  "id": 8097730657,
+  "lat": 59.8781354,
+  "lon": 30.3921340,
+  "timestamp": "2020-11-09T17:01:25Z",
+  "version": 1,
+  "changeset": 93810872,
+  "user": "sleemp",
+  "uid": 8660675,
+  "tags": {
+    "entrance": "staircase"
+  }
+},
+{
+  "type": "node",
+  "id": 8097730671,
+  "lat": 59.8772604,
+  "lon": 30.3898530,
+  "timestamp": "2020-11-09T17:01:25Z",
+  "version": 1,
+  "changeset": 93810872,
+  "user": "sleemp",
+  "uid": 8660675,
+  "tags": {
+    "entrance": "staircase"
+  }
+},
+{
+  "type": "node",
+  "id": 8097730709,
+  "lat": 59.8769870,
+  "lon": 30.3933679,
+  "timestamp": "2020-11-09T17:01:25Z",
+  "version": 1,
+  "changeset": 93810872,
+  "user": "sleemp",
+  "uid": 8660675,
+  "tags": {
+    "entrance": "staircase"
+  }
+},
+{
+  "type": "node",
+  "id": 8097730710,
+  "lat": 59.8771309,
+  "lon": 30.3937441,
+  "timestamp": "2020-11-09T17:01:25Z",
+  "version": 1,
+  "changeset": 93810872,
+  "user": "sleemp",
+  "uid": 8660675,
+  "tags": {
+    "entrance": "staircase"
+  }
+},
+{
+  "type": "node",
+  "id": 9214318727,
+  "lat": 59.9052913,
+  "lon": 30.3561478,
+  "timestamp": "2021-10-31T13:41:02Z",
+  "version": 1,
+  "changeset": 113193544,
+  "user": "mini-me",
+  "uid": 3846961,
+  "tags": {
+    "entrance": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9214318728,
+  "lat": 59.9052079,
+  "lon": 30.3570735,
+  "timestamp": "2023-07-14T07:16:32Z",
+  "version": 3,
+  "changeset": 138493013,
+  "user": "masmirnov",
+  "uid": 16256027,
+  "tags": {
+    "access": "private",
+    "addr:flats": "15-17",
+    "entrance": "staircase",
+    "ref": "2"
+  }
+},
+{
+  "type": "node",
+  "id": 9214318729,
+  "lat": 59.9053390,
+  "lon": 30.3565297,
+  "timestamp": "2023-07-14T07:16:32Z",
+  "version": 3,
+  "changeset": 138493013,
+  "user": "masmirnov",
+  "uid": 16256027,
+  "tags": {
+    "access": "private",
+    "addr:flats": "18-20",
+    "entrance": "staircase",
+    "ref": "3"
+  }
+},
+{
+  "type": "node",
+  "id": 9214318730,
+  "lat": 59.9052551,
+  "lon": 30.3562927,
+  "timestamp": "2021-10-31T13:41:02Z",
+  "version": 1,
+  "changeset": 113193544,
+  "user": "mini-me",
+  "uid": 3846961,
+  "tags": {
+    "entrance": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9216499073,
+  "lat": 59.8935328,
+  "lon": 30.4378646,
+  "timestamp": "2024-05-26T11:08:35Z",
+  "version": 2,
+  "changeset": 151846108,
+  "user": "masmirnov",
+  "uid": 16256027,
+  "tags": {
+    "access": "private",
+    "addr:flats": "1-12",
+    "entrance": "staircase",
+    "ref": "1"
+  }
+},
+{
+  "type": "node",
+  "id": 9306922655,
+  "lat": 59.9198952,
+  "lon": 30.2762720,
+  "timestamp": "2024-05-27T18:35:48Z",
+  "version": 3,
+  "changeset": 151913907,
+  "user": "mini-me",
+  "uid": 3846961,
+  "tags": {
+    "access": "private",
+    "addr:flats": "1-13",
+    "entrance": "staircase",
+    "ref": "1"
+  }
+},
+{
+  "type": "node",
+  "id": 9306922664,
+  "lat": 59.9197803,
+  "lon": 30.2754879,
+  "timestamp": "2023-06-27T18:39:48Z",
+  "version": 2,
+  "changeset": 137848102,
+  "user": "sshsh",
+  "uid": 5283791,
+  "tags": {
+    "access": "private",
+    "addr:flats": "1-15",
+    "entrance": "staircase",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9493998500,
+  "lat": 59.9066716,
+  "lon": 30.3546279,
+  "timestamp": "2025-05-21T05:38:15Z",
+  "version": 2,
+  "changeset": 166550424,
+  "user": "misha yakin",
+  "uid": 384109,
+  "tags": {
+    "access": "no",
+    "entrance": "service",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9493998517,
+  "lat": 59.9064492,
+  "lon": 30.3544637,
+  "timestamp": "2025-05-21T05:38:15Z",
+  "version": 2,
+  "changeset": 166550424,
+  "user": "misha yakin",
+  "uid": 384109,
+  "tags": {
+    "entrance": "main",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9493998567,
+  "lat": 59.9060906,
+  "lon": 30.3538620,
+  "timestamp": "2022-02-09T22:46:20Z",
+  "version": 1,
+  "changeset": 117221944,
+  "user": "mini-me",
+  "uid": 3846961,
+  "tags": {
+    "entrance": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9493998578,
+  "lat": 59.9058046,
+  "lon": 30.3535918,
+  "timestamp": "2022-02-09T22:46:20Z",
+  "version": 1,
+  "changeset": 117221944,
+  "user": "mini-me",
+  "uid": 3846961,
+  "tags": {
+    "entrance": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9493998579,
+  "lat": 59.9058384,
+  "lon": 30.3533822,
+  "timestamp": "2022-02-09T22:46:20Z",
+  "version": 1,
+  "changeset": 117221944,
+  "user": "mini-me",
+  "uid": 3846961,
+  "tags": {
+    "entrance": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9523726403,
+  "lat": 59.9097785,
+  "lon": 30.3444785,
+  "timestamp": "2022-11-15T20:32:43Z",
+  "version": 2,
+  "changeset": 128958457,
+  "user": "misha yakin",
+  "uid": 384109,
+  "tags": {
+    "entrance": "service"
+  }
+},
+{
+  "type": "node",
+  "id": 9523736109,
+  "lat": 59.9110737,
+  "lon": 30.3414760,
+  "timestamp": "2022-02-21T08:53:12Z",
+  "version": 1,
+  "changeset": 117669937,
+  "user": "mini-me",
+  "uid": 3846961,
+  "tags": {
+    "entrance": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9523736110,
+  "lat": 59.9110461,
+  "lon": 30.3414103,
+  "timestamp": "2022-02-21T08:53:12Z",
+  "version": 1,
+  "changeset": 117669937,
+  "user": "mini-me",
+  "uid": 3846961,
+  "tags": {
+    "entrance": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9523736115,
+  "lat": 59.9108753,
+  "lon": 30.3416146,
+  "timestamp": "2025-05-22T20:29:54Z",
+  "version": 2,
+  "changeset": 166629213,
+  "user": "misha yakin",
+  "uid": 384109,
+  "tags": {
+    "entrance": "main"
+  }
+},
+{
+  "type": "node",
+  "id": 10013884329,
+  "lat": 59.9143856,
+  "lon": 30.3179630,
+  "timestamp": "2025-01-20T00:04:26Z",
+  "version": 2,
+  "changeset": 161544103,
+  "user": "s777n",
+  "uid": 615344,
+  "tags": {
+    "addr:flats": "1-16",
+    "entrance": "staircase",
+    "ref": "1"
+  }
+},
+{
+  "type": "node",
+  "id": 10119523940,
+  "lat": 59.9098698,
+  "lon": 30.3490218,
+  "timestamp": "2022-12-19T12:17:29Z",
+  "version": 2,
+  "changeset": 130246610,
+  "user": "Константин Гам",
+  "uid": 392109,
+  "tags": {
+    "entrance": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10119523943,
+  "lat": 59.9097297,
+  "lon": 30.3489293,
+  "timestamp": "2022-12-19T12:17:29Z",
+  "version": 2,
+  "changeset": 130246610,
+  "user": "Константин Гам",
+  "uid": 392109,
+  "tags": {
+    "entrance": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10119523944,
+  "lat": 59.9099794,
+  "lon": 30.3490941,
+  "timestamp": "2022-12-19T12:17:29Z",
+  "version": 2,
+  "changeset": 130246610,
+  "user": "Константин Гам",
+  "uid": 392109,
+  "tags": {
+    "entrance": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10137968396,
+  "lat": 59.8948770,
+  "lon": 30.2694035,
+  "timestamp": "2026-01-08T10:22:54Z",
+  "version": 5,
+  "changeset": 176977914,
+  "user": "dypa",
+  "uid": 385972,
+  "tags": {
+    "entrance": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10170014620,
+  "lat": 59.9126028,
+  "lon": 30.3482454,
+  "timestamp": "2022-11-08T20:13:34Z",
+  "version": 1,
+  "changeset": 128656368,
+  "user": "misha yakin",
+  "uid": 384109,
+  "tags": {
+    "access": "private",
+    "addr:flats": "1-3;5-14",
+    "entrance": "staircase",
+    "ref": "1",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 10170014621,
+  "lat": 59.9124623,
+  "lon": 30.3481567,
+  "timestamp": "2022-11-08T20:13:34Z",
+  "version": 1,
+  "changeset": 128656368,
+  "user": "misha yakin",
+  "uid": 384109,
+  "tags": {
+    "access": "private",
+    "addr:flats": "15-26",
+    "entrance": "staircase",
+    "ref": "2",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 10170014622,
+  "lat": 59.9123418,
+  "lon": 30.3480806,
+  "timestamp": "2022-11-08T20:13:34Z",
+  "version": 1,
+  "changeset": 128656368,
+  "user": "misha yakin",
+  "uid": 384109,
+  "tags": {
+    "access": "private",
+    "addr:flats": "27-42",
+    "entrance": "staircase",
+    "ref": "3"
+  }
+},
+{
+  "type": "node",
+  "id": 10170016137,
+  "lat": 59.9128697,
+  "lon": 30.3471073,
+  "timestamp": "2022-11-08T20:10:59Z",
+  "version": 1,
+  "changeset": 128656291,
+  "user": "misha yakin",
+  "uid": 384109,
+  "tags": {
+    "access": "private",
+    "addr:flats": "40-41;43-58",
+    "entrance": "staircase",
+    "ref": "1",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 10170016138,
+  "lat": 59.9127936,
+  "lon": 30.3475785,
+  "timestamp": "2022-11-08T20:10:59Z",
+  "version": 1,
+  "changeset": 128656291,
+  "user": "misha yakin",
+  "uid": 384109,
+  "tags": {
+    "access": "private",
+    "addr:flats": "60-61;63-79",
+    "entrance": "staircase",
+    "ref": "1",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 10178853982,
+  "lat": 59.9127172,
+  "lon": 30.3480098,
+  "timestamp": "2022-11-12T20:17:43Z",
+  "version": 1,
+  "changeset": 128826094,
+  "user": "misha yakin",
+  "uid": 384109,
+  "tags": {
+    "access": "private",
+    "addr:flats": "81-98",
+    "entrance": "staircase",
+    "ref": "1",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 10861941613,
+  "lat": 59.9013149,
+  "lon": 30.3650146,
+  "timestamp": "2023-05-02T08:45:00Z",
+  "version": 1,
+  "changeset": 135605672,
+  "user": "masmirnov",
+  "uid": 16256027,
+  "tags": {
+    "addr:flats": "17",
+    "entrance": "staircase",
+    "ref": "5"
+  }
+},
+{
+  "type": "node",
+  "id": 10861941614,
+  "lat": 59.9011669,
+  "lon": 30.3646934,
+  "timestamp": "2023-05-02T08:45:00Z",
+  "version": 1,
+  "changeset": 135605672,
+  "user": "masmirnov",
+  "uid": 16256027,
+  "tags": {
+    "entrance": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10969581219,
+  "lat": 59.9181233,
+  "lon": 30.3226541,
+  "timestamp": "2023-06-11T18:28:56Z",
+  "version": 1,
+  "changeset": 137215379,
+  "user": "masmirnov",
+  "uid": 16256027,
+  "tags": {
+    "addr:flats": "29",
+    "entrance": "staircase",
+    "ref": "3"
+  }
+},
+{
+  "type": "node",
+  "id": 10969581221,
+  "lat": 59.9179437,
+  "lon": 30.3226126,
+  "timestamp": "2023-06-11T18:28:56Z",
+  "version": 1,
+  "changeset": 137215379,
+  "user": "masmirnov",
+  "uid": 16256027,
+  "tags": {
+    "addr:flats": "30",
+    "entrance": "staircase",
+    "ref": "4"
+  }
+},
+{
+  "type": "node",
+  "id": 10969581226,
+  "lat": 59.9178375,
+  "lon": 30.3230512,
+  "timestamp": "2023-06-11T18:28:56Z",
+  "version": 1,
+  "changeset": 137215379,
+  "user": "masmirnov",
+  "uid": 16256027,
+  "tags": {
+    "entrance": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11001213184,
+  "lat": 59.9018637,
+  "lon": 30.4256779,
+  "timestamp": "2026-03-28T07:43:56Z",
+  "version": 2,
+  "changeset": 180531327,
+  "user": "Серый Еж",
+  "uid": 23034906,
+  "tags": {
+    "addr:flats": "1-16",
+    "entrance": "staircase",
+    "ref": "1"
+  }
+},
+{
+  "type": "node",
+  "id": 11045868782,
+  "lat": 59.9111043,
+  "lon": 30.3415014,
+  "timestamp": "2023-07-14T07:16:32Z",
+  "version": 1,
+  "changeset": 138493013,
+  "user": "masmirnov",
+  "uid": 16256027,
+  "tags": {
+    "addr:flats": "10-15",
+    "entrance": "staircase",
+    "ref": "1"
+  }
+},
+{
+  "type": "node",
+  "id": 11045868790,
+  "lat": 59.9114147,
+  "lon": 30.3441866,
+  "timestamp": "2023-07-14T09:36:46Z",
+  "version": 2,
+  "changeset": 138498884,
+  "user": "masmirnov",
+  "uid": 16256027,
+  "tags": {
+    "addr:flats": "16-35",
+    "entrance": "staircase",
+    "ref": "2"
+  }
+},
+{
+  "type": "node",
+  "id": 11574551929,
+  "lat": 59.9063870,
+  "lon": 30.3539216,
+  "timestamp": "2024-01-31T20:33:11Z",
+  "version": 1,
+  "changeset": 146920439,
+  "user": "mini-me",
+  "uid": 3846961,
+  "tags": {
+    "entrance": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11698732572,
+  "lat": 59.9156084,
+  "lon": 30.3605169,
+  "timestamp": "2024-03-06T20:27:16Z",
+  "version": 1,
+  "changeset": 148314097,
+  "user": "ghostofc",
+  "uid": 384838,
+  "tags": {
+    "addr:flats": "41-60",
+    "entrance": "staircase",
+    "ref": "3"
+  }
+},
+{
+  "type": "node",
+  "id": 11698732573,
+  "lat": 59.9154647,
+  "lon": 30.3604239,
+  "timestamp": "2024-03-06T20:27:16Z",
+  "version": 1,
+  "changeset": 148314097,
+  "user": "ghostofc",
+  "uid": 384838,
+  "tags": {
+    "addr:flats": "61-80",
+    "entrance": "staircase",
+    "ref": "4"
+  }
+},
+{
+  "type": "node",
+  "id": 11698732574,
+  "lat": 59.9153073,
+  "lon": 30.3603221,
+  "timestamp": "2024-03-06T20:27:16Z",
+  "version": 1,
+  "changeset": 148314097,
+  "user": "ghostofc",
+  "uid": 384838,
+  "tags": {
+    "addr:flats": "81-100",
+    "entrance": "staircase",
+    "ref": "5"
+  }
+},
+{
+  "type": "node",
+  "id": 11934739798,
+  "lat": 59.8938887,
+  "lon": 30.4376525,
+  "timestamp": "2024-05-26T19:17:14Z",
+  "version": 2,
+  "changeset": 151866709,
+  "user": "masmirnov",
+  "uid": 16256027,
+  "tags": {
+    "addr:flats": "1-2",
+    "entrance": "staircase",
+    "ref": "1"
+  }
+},
+{
+  "type": "node",
+  "id": 11937986247,
+  "lat": 59.9195393,
+  "lon": 30.2763895,
+  "timestamp": "2024-05-27T18:35:48Z",
+  "version": 1,
+  "changeset": 151913907,
+  "user": "mini-me",
+  "uid": 3846961,
+  "tags": {
+    "entrance": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11950825398,
+  "lat": 59.9119102,
+  "lon": 30.4056701,
+  "timestamp": "2024-06-01T21:44:19Z",
+  "version": 1,
+  "changeset": 152139418,
+  "user": "mini-me",
+  "uid": 3846961,
+  "tags": {
+    "access": "private",
+    "entrance": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11950825399,
+  "lat": 59.9115726,
+  "lon": 30.4060553,
+  "timestamp": "2024-06-01T21:44:19Z",
+  "version": 1,
+  "changeset": 152139418,
+  "user": "mini-me",
+  "uid": 3846961,
+  "tags": {
+    "access": "private",
+    "entrance": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11955932179,
+  "lat": 59.9135432,
+  "lon": 30.2810011,
+  "timestamp": "2024-06-04T14:04:05Z",
+  "version": 1,
+  "changeset": 152246021,
+  "user": "mini-me",
+  "uid": 3846961,
+  "tags": {
+    "entrance": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11955932180,
+  "lat": 59.9135459,
+  "lon": 30.2810918,
+  "timestamp": "2024-06-04T14:04:05Z",
+  "version": 1,
+  "changeset": 152246021,
+  "user": "mini-me",
+  "uid": 3846961,
+  "tags": {
+    "access": "private",
+    "entrance": "staircase",
+    "ref": "1"
+  }
+},
+{
+  "type": "node",
+  "id": 11955954489,
+  "lat": 59.9138193,
+  "lon": 30.2803291,
+  "timestamp": "2024-06-04T14:23:14Z",
+  "version": 1,
+  "changeset": 152246780,
+  "user": "mini-me",
+  "uid": 3846961,
+  "tags": {
+    "entrance": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11964630556,
+  "lat": 59.9136934,
+  "lon": 30.2810015,
+  "timestamp": "2024-06-08T16:09:24Z",
+  "version": 1,
+  "changeset": 152421467,
+  "user": "mini-me",
+  "uid": 3846961,
+  "tags": {
+    "access": "private",
+    "entrance": "staircase",
+    "ref": "4"
+  }
+},
+{
+  "type": "node",
+  "id": 11964630557,
+  "lat": 59.9138420,
+  "lon": 30.2810829,
+  "timestamp": "2024-06-08T16:09:24Z",
+  "version": 1,
+  "changeset": 152421467,
+  "user": "mini-me",
+  "uid": 3846961,
+  "tags": {
+    "access": "private",
+    "entrance": "staircase",
+    "ref": "5"
+  }
+},
+{
+  "type": "node",
+  "id": 11964775761,
+  "lat": 59.9062302,
+  "lon": 30.2757986,
+  "timestamp": "2024-06-08T17:38:36Z",
+  "version": 1,
+  "changeset": 152425318,
+  "user": "mini-me",
+  "uid": 3846961,
+  "tags": {
+    "entrance": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12174854271,
+  "lat": 59.9146428,
+  "lon": 30.3592620,
+  "timestamp": "2024-09-13T13:16:35Z",
+  "version": 1,
+  "changeset": 156571851,
+  "user": "sshsh",
+  "uid": 5283791,
+  "tags": {
+    "addr:flats": "1-16",
+    "entrance": "staircase",
+    "ref": "1"
+  }
+},
+{
+  "type": "node",
+  "id": 12218433888,
+  "lat": 59.9151127,
+  "lon": 30.3595536,
+  "timestamp": "2024-10-03T11:34:02Z",
+  "version": 1,
+  "changeset": 157414163,
+  "user": "sshsh",
+  "uid": 5283791,
+  "tags": {
+    "addr:flats": "38-57",
+    "entrance": "staircase",
+    "ref": "3"
+  }
+},
+{
+  "type": "node",
+  "id": 12218433890,
+  "lat": 59.9153623,
+  "lon": 30.3596770,
+  "timestamp": "2024-10-03T11:34:02Z",
+  "version": 1,
+  "changeset": 157414163,
+  "user": "sshsh",
+  "uid": 5283791,
+  "tags": {
+    "addr:flats": "80-99",
+    "entrance": "staircase",
+    "ref": "5"
+  }
+},
+{
+  "type": "node",
+  "id": 12482516347,
+  "lat": 59.9180321,
+  "lon": 30.2885455,
+  "timestamp": "2025-01-08T01:55:23Z",
+  "version": 1,
+  "changeset": 161116896,
+  "user": "Soshal Distan Singh",
+  "uid": 11327915,
+  "tags": {
+    "access": "yes",
+    "door": "hinged",
+    "entrance": "main",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12517108042,
+  "lat": 59.9143009,
+  "lon": 30.3179665,
+  "timestamp": "2025-01-20T00:04:26Z",
+  "version": 1,
+  "changeset": 161544103,
+  "user": "s777n",
+  "uid": 615344,
+  "tags": {
+    "entrance": "shop"
+  }
+},
+{
+  "type": "node",
+  "id": 12517108043,
+  "lat": 59.9143432,
+  "lon": 30.3179647,
+  "timestamp": "2025-01-20T00:04:26Z",
+  "version": 1,
+  "changeset": 161544103,
+  "user": "s777n",
+  "uid": 615344,
+  "tags": {
+    "entrance": "shop"
+  }
+},
+{
+  "type": "way",
+  "id": 23094526,
+  "timestamp": "2023-10-27T22:10:45Z",
+  "version": 38,
+  "changeset": 143231986,
+  "user": "b-jazz-bot",
+  "uid": 9451067,
+  "bounds": {
+    "minlat": 59.8812571,
+    "minlon": 30.4339378,
+    "maxlat": 59.8845115,
+    "maxlon": 30.4442606
+  },
+  "nodes": [
+    249303499,
+    249303500,
+    4285006099,
+    4285006100,
+    1213499693,
+    4285006110,
+    4285006111,
+    4285006127,
+    4285006130,
+    249303501,
+    5199369347,
+    5199369342,
+    5199369338,
+    4904138808,
+    249303502,
+    249303503,
+    249303504,
+    7820751052,
+    7820751051,
+    249303505,
+    7820751049,
+    249303506,
+    727336654,
+    727336640,
+    7820751039,
+    6778455818,
+    7820751040,
+    7820751041,
+    6778455817,
+    4931699116,
+    4934341945,
+    4931699119,
+    6778455819,
+    7820751036,
+    7820751037,
+    7820751038,
+    727336732,
+    727336609,
+    249303507,
+    563698033,
+    563698035,
+    563698005,
+    563698007,
+    563698009,
+    249303508,
+    249303509,
+    4931699490,
+    1196061696,
+    4931699484,
+    249303510,
+    727336587,
+    4934341500,
+    249303499
+  ],
+  "tags": {
+    "barrier": "fence",
+    "fence_type": "metal",
+    "leisure": "park",
+    "name": "парк имени Бабушкина",
+    "name:en": "Park Babushkina",
+    "name:ru": "Парк культуры и отдыха им. Бабушкина",
+    "opening_hours": "09:00-21:00",
+    "website": "https://www.parkskazok.ru/",
+    "wikidata": "Q4345299",
+    "wikipedia": "ru:Парк имени И. В. Бабушкина"
+  }
+},
+{
+  "type": "way",
+  "id": 23241233,
+  "timestamp": "2025-02-09T16:03:16Z",
+  "version": 31,
+  "changeset": 162320180,
+  "user": "mavl",
+  "uid": 564990,
+  "bounds": {
+    "minlat": 59.8604914,
+    "minlon": 30.3603178,
+    "maxlat": 59.8666094,
+    "maxlon": 30.3671911
+  },
+  "nodes": [
+    1023996890,
+    5178527567,
+    5178527568,
+    5178527569,
+    1358617555,
+    1358617563,
+    1358617554,
+    5178529438,
+    5178529437,
+    5178529434,
+    5178529433,
+    5178529432,
+    5178529435,
+    5178529436,
+    1358617548,
+    1023996995,
+    4475827519,
+    1023996890
+  ],
+  "tags": {
+    "addr:city": "округ Купчино",
+    "addr:housenumber": "16",
+    "addr:postcode": "192212",
+    "addr:street": "Белградская улица",
+    "leisure": "park",
+    "name": "Яблоневый сад",
+    "name:en": "Apple orchard",
+    "opening_hours": "24/7",
+    "surface": "grass",
+    "wikidata": "Q21026987",
+    "wikipedia": "ru:Яблоневый сад"
+  }
+},
+{
+  "type": "way",
+  "id": 23243126,
+  "timestamp": "2025-01-14T11:03:06Z",
+  "version": 39,
+  "changeset": 161340639,
+  "user": "Константин Гам",
+  "uid": 392109,
+  "bounds": {
+    "minlat": 59.9171360,
+    "minlon": 30.4087106,
+    "maxlat": 59.9218546,
+    "maxlon": 30.4161712
+  },
+  "nodes": [
+    2428733369,
+    10720250212,
+    10720250211,
+    10720250351,
+    10720250347,
+    2428733368,
+    251439989,
+    930205798,
+    10658863005,
+    10658863006,
+    656822035,
+    656822038,
+    1291588131,
+    1291588153,
+    1291588190,
+    1291588245,
+    251439991,
+    251439992,
+    4777398818,
+    10720249935,
+    10720249934,
+    10720244196,
+    10720244203,
+    10720249933,
+    10720244204,
+    10658863158,
+    10658863156,
+    10658863157,
+    251439994,
+    251439997,
+    4922683653,
+    10721147948,
+    10721147949,
+    4940414449,
+    251439998,
+    10721147950,
+    4777398820,
+    10721920073,
+    12500587732,
+    10721920075,
+    10721920077,
+    10721920079,
+    10721920076,
+    12500587733,
+    10721920074,
+    12500587731,
+    10721920072,
+    2428733369
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Заневский парк"
+  }
+},
+{
+  "type": "way",
+  "id": 23566651,
+  "timestamp": "2026-05-05T12:47:36Z",
+  "version": 29,
+  "changeset": 182248048,
+  "user": "Серый Еж",
+  "uid": 23034906,
+  "bounds": {
+    "minlat": 59.8789587,
+    "minlon": 30.3695540,
+    "maxlat": 59.8848235,
+    "maxlon": 30.3773016
+  },
+  "nodes": [
+    5749101633,
+    5758458988,
+    5758458987,
+    5758458986,
+    5758458985,
+    5758458984,
+    5758458983,
+    5758458982,
+    5758458981,
+    5758458980,
+    5758458979,
+    5758458978,
+    255214759,
+    5749101807,
+    255214732,
+    1496772437,
+    5749101488,
+    5749101487,
+    5749101489,
+    2106114543,
+    5749101805,
+    1500546407,
+    5749101806,
+    1500546406,
+    1496772487,
+    1496772479,
+    1496772457,
+    1496772452,
+    1496772451,
+    1496772432,
+    5749101759,
+    1496772427,
+    12756598866,
+    12756598867,
+    5749101758,
+    12756598872,
+    12756598873,
+    1496772423,
+    12756598874,
+    12756598876,
+    12756598875,
+    255214753,
+    5749101757,
+    5749101756,
+    5749101755,
+    5749101754,
+    5749101633
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "cквер Спасателей",
+    "note": "заседание топонемич.комиссси от 23.09.2020"
+  }
+},
+{
+  "type": "way",
+  "id": 23649849,
+  "timestamp": "2023-09-16T23:10:34Z",
+  "version": 34,
+  "changeset": 141361523,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "bounds": {
+    "minlat": 59.8757738,
+    "minlon": 30.4377278,
+    "maxlat": 59.8783868,
+    "maxlon": 30.4416928
+  },
+  "nodes": [
+    2039117200,
+    4399782119,
+    4399782118,
+    2661295652,
+    256218815,
+    2661295656,
+    2661295654,
+    2661295648,
+    2661295644,
+    2661295640,
+    6958639550,
+    2661295638,
+    2661295636,
+    6958639541,
+    2661295634,
+    2286288025,
+    2286288010,
+    6958639540,
+    256218817,
+    2286287988,
+    6958639539,
+    6958639533,
+    6958639538,
+    6958639534,
+    2286287991,
+    2286287989,
+    6958639535,
+    6958639537,
+    6958639536,
+    2286287985,
+    1902329305,
+    6958639531,
+    2661042578,
+    2661042577,
+    2661042572,
+    7120648503,
+    7120648502,
+    7120648501,
+    7120648500,
+    7120648499,
+    7120648498,
+    2663032398,
+    2286287839,
+    1902329117,
+    7816815225,
+    6958639579,
+    4399782133,
+    6958639578,
+    6958639577,
+    6958639576,
+    2286287820,
+    6958639575,
+    6958639574,
+    6958639573,
+    6958639572,
+    6958639571,
+    6958639570,
+    6958639569,
+    4399782134,
+    256218823,
+    4399782135,
+    2286287787,
+    6958640490,
+    6958640491,
+    4399782136,
+    256218824,
+    2664614771,
+    4399782132,
+    4399782141,
+    256218825,
+    6958640558,
+    1902329102,
+    6958640557,
+    4399782131,
+    2663032365,
+    2661295623,
+    2661295626,
+    4399782128,
+    2661295627,
+    2286287945,
+    2286287960,
+    4399782122,
+    6958640532,
+    4399782123,
+    6958640533,
+    4399782124,
+    2286287971,
+    6958640534,
+    4399782127,
+    2661042583,
+    4399782121,
+    2661042587,
+    2661042595,
+    2039117200
+  ],
+  "tags": {
+    "int_name": "Lomonosovsky Garden",
+    "leisure": "park",
+    "name": "Ломоносовский сад",
+    "name:de": "Lomonossow-Garten",
+    "name:en": "Lomonosov Garden",
+    "name:etymology:wikidata": "Q58720",
+    "wikidata": "Q4266352",
+    "wikipedia": "ru:Ломоносовский сад"
+  }
+},
+{
+  "type": "way",
+  "id": 28683142,
+  "timestamp": "2023-09-16T23:10:34Z",
+  "version": 40,
+  "changeset": 141361523,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "bounds": {
+    "minlat": 59.9180814,
+    "minlon": 30.3798367,
+    "maxlat": 59.9212894,
+    "maxlon": 30.3866467
+  },
+  "nodes": [
+    315271996,
+    2370917053,
+    6660597414,
+    6660597413,
+    6660597412,
+    8214061380,
+    1480464888,
+    1480464902,
+    5693012727,
+    803245704,
+    315272000,
+    315271993,
+    315271994,
+    315271995,
+    315273755,
+    8607431278,
+    2370917054,
+    315271996
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Митрополичий сад",
+    "name:etymology:wikidata": "Q189854"
+  }
+},
+{
+  "type": "way",
+  "id": 30826409,
+  "timestamp": "2023-09-16T23:10:34Z",
+  "version": 28,
+  "changeset": 141361523,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "bounds": {
+    "minlat": 59.8512439,
+    "minlon": 30.3271379,
+    "maxlat": 59.8532309,
+    "maxlon": 30.3294835
+  },
+  "nodes": [
+    569573257,
+    2542600103,
+    342324420,
+    342324425,
+    1103100295,
+    342324431,
+    1325285400,
+    569573417,
+    342324407,
+    569573378,
+    342324411,
+    2395066091,
+    3052732319,
+    3052732320,
+    569573257
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "сквер Архитектора Троцкого",
+    "source": "https://npa.gov.spb.ru/SpbGovSearch/Document/41611.html"
+  }
+},
+{
+  "type": "way",
+  "id": 31302378,
+  "timestamp": "2023-09-16T23:10:34Z",
+  "version": 21,
+  "changeset": 141361523,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "bounds": {
+    "minlat": 59.8576188,
+    "minlon": 30.3215460,
+    "maxlat": 59.8580927,
+    "maxlon": 30.3239484
+  },
+  "nodes": [
+    348252374,
+    348252376,
+    348252378,
+    348252380,
+    348252374
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Сквер Евгения Зиничева"
+  }
+},
+{
+  "type": "way",
+  "id": 31314595,
+  "timestamp": "2023-09-16T23:10:34Z",
+  "version": 24,
+  "changeset": 141361523,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "bounds": {
+    "minlat": 59.8620219,
+    "minlon": 30.3282838,
+    "maxlat": 59.8633046,
+    "maxlon": 30.3302405
+  },
+  "nodes": [
+    348476688,
+    348476695,
+    348476697,
+    2395067086,
+    2395067083,
+    348476704,
+    348476688
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "сквер Полярника Корнилова"
+  }
+},
+{
+  "type": "way",
+  "id": 32702194,
+  "timestamp": "2023-10-01T11:46:06Z",
+  "version": 26,
+  "changeset": 141984522,
+  "user": "mini-me",
+  "uid": 3846961,
+  "bounds": {
+    "minlat": 59.8732224,
+    "minlon": 30.2586053,
+    "maxlat": 59.8753568,
+    "maxlon": 30.2618218
+  },
+  "nodes": [
+    1184715584,
+    367972283,
+    7212375742,
+    10247529418,
+    7212375743,
+    367972290,
+    1184715583,
+    2288746542,
+    367972293,
+    1184715627,
+    1184715679,
+    1184715584
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Комсомольский сквер",
+    "name:ru": "Комсомольский сквер"
+  }
+},
+{
+  "type": "way",
+  "id": 34394875,
+  "timestamp": "2025-11-08T04:41:59Z",
+  "version": 25,
+  "changeset": 174359637,
+  "user": "mini-me",
+  "uid": 3846961,
+  "bounds": {
+    "minlat": 59.9169726,
+    "minlon": 30.2786348,
+    "maxlat": 59.9178192,
+    "maxlon": 30.2799524
+  },
+  "nodes": [
+    394918628,
+    10964088081,
+    394918629,
+    13288481242,
+    394918630,
+    5923158087,
+    2506321727,
+    394918631,
+    2506321728,
+    2000980481,
+    2000980462,
+    2000980459,
+    394918628
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Калинкинский сквер"
+  }
+},
+{
+  "type": "way",
+  "id": 35567774,
+  "timestamp": "2023-09-16T23:10:34Z",
+  "version": 25,
+  "changeset": 141361523,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "bounds": {
+    "minlat": 59.9168770,
+    "minlon": 30.3353488,
+    "maxlat": 59.9189633,
+    "maxlon": 30.3391327
+  },
+  "nodes": [
+    416787095,
+    7968760938,
+    4464292453,
+    8165998922,
+    8165998963,
+    7968760959,
+    8165998962,
+    8165998961,
+    8165998958,
+    8165998959,
+    8165998960,
+    416787096,
+    416787097,
+    8165998944,
+    8165998945,
+    8165998946,
+    8165998947,
+    8165998954,
+    8165998949,
+    8165998950,
+    8165998951,
+    8165998953,
+    8165998952,
+    416787098,
+    8165998948,
+    4464292444,
+    4464292441,
+    416787095
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Багратионовский сквер",
+    "source": "http://www.fontanka.ru/2013/03/04/144/",
+    "wikidata": "Q16273553",
+    "wikipedia": "ru:Багратионовский сквер"
+  }
+},
+{
+  "type": "way",
+  "id": 44718901,
+  "timestamp": "2023-09-16T23:10:34Z",
+  "version": 21,
+  "changeset": 141361523,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "bounds": {
+    "minlat": 59.8870251,
+    "minlon": 30.3181571,
+    "maxlat": 59.8873743,
+    "maxlon": 30.3191074
+  },
+  "nodes": [
+    567355849,
+    567355851,
+    567355853,
+    567355850,
+    567355849
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Колмовский сад"
+  }
+},
+{
+  "type": "way",
+  "id": 45032941,
+  "timestamp": "2023-09-16T23:10:34Z",
+  "version": 24,
+  "changeset": 141361523,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "bounds": {
+    "minlat": 59.8882626,
+    "minlon": 30.4396221,
+    "maxlat": 59.8927982,
+    "maxlon": 30.4427250
+  },
+  "nodes": [
+    1446954041,
+    1446954045,
+    571111725,
+    1446954032,
+    8016222920,
+    2932807308,
+    1446954013,
+    2932807307,
+    2932807303,
+    2932807302,
+    1446954006,
+    571111715,
+    1446954005,
+    1446954003,
+    1446954000,
+    1446953998,
+    8016222921,
+    1446953994,
+    571111705,
+    1446953973,
+    8016108317,
+    1446953974,
+    1446953975,
+    1446953976,
+    1446953978,
+    1446953980,
+    1446953988,
+    1446953992,
+    1446953990,
+    571111707,
+    1446953996,
+    1446954004,
+    571111717,
+    1446954007,
+    1446954009,
+    1446954011,
+    1446954022,
+    1446954024,
+    1446954034,
+    1446954041
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "сад Крупской",
+    "name:en": "Krupskoi Garden",
+    "source": "RGis"
+  }
+},
+{
+  "type": "way",
+  "id": 46041696,
+  "timestamp": "2024-12-31T13:40:41Z",
+  "version": 27,
+  "changeset": 160833149,
+  "user": "Константин Гам",
+  "uid": 392109,
+  "bounds": {
+    "minlat": 59.9181257,
+    "minlon": 30.4174550,
+    "maxlat": 59.9199924,
+    "maxlon": 30.4229497
+  },
+  "nodes": [
+    251493403,
+    10659969159,
+    10659969160,
+    10659969161,
+    10659969162,
+    10659969158,
+    10659969156,
+    10659969157,
+    586926803,
+    10659969155,
+    10659969154,
+    10659969153,
+    586926801,
+    251493397,
+    8282139867,
+    4941795912,
+    8282139863,
+    8282139862,
+    10659969163,
+    4941795911,
+    8282139861,
+    8282139864,
+    251493403
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Сквер Юрия Кнорозова",
+    "ref": "7042",
+    "source:geometry:ref": "Постановление Правительства Санкт-Петербурга № 434 от 15.05.2023"
+  }
+},
+{
+  "type": "way",
+  "id": 52959591,
+  "timestamp": "2025-12-18T21:42:10Z",
+  "version": 44,
+  "changeset": 176114511,
+  "user": "Константин Гам",
+  "uid": 392109,
+  "bounds": {
+    "minlat": 59.8470617,
+    "minlon": 30.3697257,
+    "maxlat": 59.8496394,
+    "maxlon": 30.3765821
+  },
+  "nodes": [
+    5209054693,
+    5209054696,
+    5209054697,
+    4845094022,
+    4845094023,
+    4845094024,
+    4845094025,
+    5049662953,
+    671044733,
+    1358516900,
+    5043824668,
+    4845039712,
+    5043824669,
+    5245778063,
+    5245778064,
+    5245778065,
+    671044735,
+    4845039711,
+    4845039994,
+    13250173792,
+    13250173791,
+    671044727,
+    5041588186,
+    4845039710,
+    671044728,
+    4845091653,
+    671044729,
+    1257707713,
+    4845091654,
+    1358516999,
+    1358517024,
+    4475827498,
+    671044741,
+    1257707726,
+    671044762,
+    5049663066,
+    671044779,
+    7399192550,
+    5209054700,
+    1358517076,
+    671044769,
+    5049662952,
+    671044770,
+    671044775,
+    4845039713,
+    1358517010,
+    5209054698,
+    5209054694,
+    13387480832,
+    5209054695,
+    5209054692,
+    5210612570,
+    5210612571,
+    5209054693
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Купчинский сквер",
+    "name:etymology:wikidata": "Q48948593",
+    "name:ru": "Купчинский сквер",
+    "source:name": "https://npa.gov.spb.ru/SpbGovSearch/Document/36654.html"
+  }
+},
+{
+  "type": "way",
+  "id": 57384516,
+  "timestamp": "2024-01-05T11:47:15Z",
+  "version": 23,
+  "changeset": 145918588,
+  "user": "Soshal Distan Singh",
+  "uid": 11327915,
+  "bounds": {
+    "minlat": 59.9100251,
+    "minlon": 30.2978548,
+    "maxlat": 59.9111104,
+    "maxlon": 30.2984362
+  },
+  "nodes": [
+    713589380,
+    1558100404,
+    7515896190,
+    7515896191,
+    1558100407,
+    1558100406,
+    713589384,
+    713589391,
+    1558100246,
+    1558100257,
+    1558100258,
+    713589396,
+    1558100283,
+    1558100285,
+    7515891983,
+    7515891984,
+    1558100362,
+    7515896189,
+    7515896188,
+    1558100381,
+    713589380
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Лермонтовский сквер",
+    "wikidata": "Q4421718",
+    "wikipedia": "ru:Лермонтовский сквер (Санкт-Петербург)"
+  }
+},
+{
+  "type": "way",
+  "id": 59997997,
+  "timestamp": "2023-09-16T23:10:34Z",
+  "version": 21,
+  "changeset": 141361523,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "bounds": {
+    "minlat": 59.8866435,
+    "minlon": 30.4487156,
+    "maxlat": 59.8885285,
+    "maxlon": 30.4502857
+  },
+  "nodes": [
+    2776503255,
+    2626830716,
+    2776503119,
+    2776503120,
+    2776503208,
+    2776503206,
+    2776503255
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "сквер Текстильщиков"
+  }
+},
+{
+  "type": "way",
+  "id": 70574633,
+  "timestamp": "2025-01-21T11:25:51Z",
+  "version": 26,
+  "changeset": 161596512,
+  "user": "mini-me",
+  "uid": 3846961,
+  "bounds": {
+    "minlat": 59.9184654,
+    "minlon": 30.3118492,
+    "maxlat": 59.9201244,
+    "maxlon": 30.3137020
+  },
+  "nodes": [
+    842214069,
+    1548727091,
+    842213853,
+    7811089094,
+    842212999,
+    842214912,
+    842214261,
+    1548649295,
+    12520418594,
+    12520418591,
+    1548727051,
+    12520418590,
+    12520418589,
+    1548649300,
+    12520418595,
+    1481280391,
+    1481280393,
+    6828927823,
+    6828927822,
+    6828927821,
+    6828927824,
+    842214475,
+    842212651,
+    6828927828,
+    6828927826,
+    6828927825,
+    6828927827,
+    842214324,
+    842213640,
+    842213344,
+    12520342997,
+    1481280398,
+    1481280409,
+    842214056,
+    842213803,
+    1480250931,
+    1480250928,
+    1480250924,
+    1480250926,
+    841586866,
+    1481280404,
+    1481280406,
+    1548727225,
+    842213932,
+    1480250923,
+    842214069
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Измайловский сад",
+    "wikidata": "Q4198652",
+    "wikipedia": "ru:Измайловский сад (Санкт-Петербург)"
+  }
+},
+{
+  "type": "way",
+  "id": 77361127,
+  "timestamp": "2024-09-10T16:55:05Z",
+  "version": 31,
+  "changeset": 156449719,
+  "user": "Kaverzin3",
+  "uid": 381925,
+  "bounds": {
+    "minlat": 59.8335774,
+    "minlon": 30.1601302,
+    "maxlat": 59.8440046,
+    "maxlon": 30.1670352
+  },
+  "nodes": [
+    910635271,
+    9170432867,
+    910635273,
+    910635274,
+    6040409270,
+    7217181412,
+    7217181411,
+    6040409271,
+    6040409272,
+    6040409273,
+    910635276,
+    6040409274,
+    910635277,
+    930208409,
+    930208525,
+    930208527,
+    10861124661,
+    930208436,
+    2463438630,
+    10861124837,
+    10861125024,
+    7217181419,
+    910635279,
+    7217181417,
+    7217181418,
+    10861125032,
+    10861124844,
+    10861124843,
+    910635280,
+    910635281,
+    910635282,
+    2463438648,
+    2463438649,
+    910635283,
+    910635284,
+    910635285,
+    910635290,
+    910635291,
+    2463438660,
+    910635295,
+    2463438663,
+    2463438665,
+    1899558317,
+    2023073798,
+    2023073800,
+    2023073804,
+    2023073806,
+    2023073814,
+    2023073812,
+    2023073816,
+    9170432868,
+    910635299,
+    6580376654,
+    9264948568,
+    9264948567,
+    910635271
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Нижне-Ивановский сквер"
+  }
+},
+{
+  "type": "way",
+  "id": 77363698,
+  "timestamp": "2023-10-20T21:40:08Z",
+  "version": 30,
+  "changeset": 142896160,
+  "user": "VovanWing",
+  "uid": 14231853,
+  "bounds": {
+    "minlat": 59.8334084,
+    "minlon": 30.1654840,
+    "maxlat": 59.8350063,
+    "maxlon": 30.1725089
+  },
+  "nodes": [
+    910662644,
+    910662645,
+    3814255892,
+    3814255897,
+    910662646,
+    910662648,
+    910662650,
+    910662651,
+    910662652,
+    910662654,
+    11278358533,
+    930208532,
+    910662667,
+    1709906168,
+    910662655,
+    9300603207,
+    9300603206,
+    910662657,
+    7217181423,
+    7217181422,
+    910662658,
+    7217181424,
+    9300603192,
+    9300603215,
+    910662644
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Егоровский сквер",
+    "name:ru": "Егоровский сквер"
+  }
+},
+{
+  "type": "way",
+  "id": 83730011,
+  "timestamp": "2023-09-16T23:10:34Z",
+  "version": 21,
+  "changeset": 141361523,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "bounds": {
+    "minlat": 59.8995417,
+    "minlon": 30.4258657,
+    "maxlat": 59.9005915,
+    "maxlon": 30.4279468
+  },
+  "nodes": [
+    975223860,
+    1635954196,
+    975224037,
+    1635954175,
+    975223913,
+    1635953990,
+    975224004,
+    1635953966,
+    975223860
+  ],
+  "tags": {
+    "barrier": "fence",
+    "leisure": "park",
+    "name": "сад Фонтанчик",
+    "source": "RGis"
+  }
+},
+{
+  "type": "way",
+  "id": 91225945,
+  "timestamp": "2023-09-16T23:10:34Z",
+  "version": 19,
+  "changeset": 141361523,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "bounds": {
+    "minlat": 59.9139559,
+    "minlon": 30.3175067,
+    "maxlat": 59.9142532,
+    "maxlon": 30.3179667
+  },
+  "nodes": [
+    1058877441,
+    1058877426,
+    1058877443,
+    1058877412,
+    1058877435,
+    1058877450,
+    1555698708,
+    1058877422,
+    1058877421,
+    1058877441
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Сад дома Вольного экономического общества",
+    "source": "http://kulturnoe-nasledie.ru/monuments.php?id=7810081002"
+  }
+},
+{
+  "type": "way",
+  "id": 91864298,
+  "timestamp": "2023-09-16T23:10:34Z",
+  "version": 21,
+  "changeset": 141361523,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "bounds": {
+    "minlat": 59.9116770,
+    "minlon": 30.3077396,
+    "maxlat": 59.9122390,
+    "maxlon": 30.3085959
+  },
+  "nodes": [
+    1067546919,
+    6518281134,
+    6518281139,
+    1067546926,
+    1067546911,
+    6518281138,
+    6518281137,
+    1067546927,
+    6518281136,
+    6518281135,
+    1067546919
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "сад Валентина Пикуля",
+    "name:etymology:wikidata": "Q2364621",
+    "name:source": "ПОСТАНОВЛЕНИЕ ПРАВИТЕЛЬСТВА САНКТ-ПЕТЕРБУРГА от 3 октября 2014 года N 922"
+  }
+},
+{
+  "type": "way",
+  "id": 92866056,
+  "timestamp": "2024-04-22T15:15:47Z",
+  "version": 27,
+  "changeset": 150352380,
+  "user": "mini-me",
+  "uid": 3846961,
+  "bounds": {
+    "minlat": 59.8920537,
+    "minlon": 30.4149643,
+    "maxlat": 59.8944265,
+    "maxlon": 30.4196789
+  },
+  "nodes": [
+    1076806763,
+    2852319435,
+    2852319431,
+    2852319436,
+    2852319430,
+    1446947574,
+    371323342,
+    2852319429,
+    2852319445,
+    2850243971,
+    2852319437,
+    11837794987,
+    661071523,
+    2852319443,
+    1446947544,
+    2852319442,
+    2852319438,
+    1446947550,
+    2852319433,
+    371323345,
+    4392363614,
+    4392363615,
+    2852319428,
+    2852319444,
+    2852319432,
+    2852319427,
+    2852319434,
+    1076806763
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Палевский сад",
+    "source": "RGis"
+  }
+},
+{
+  "type": "way",
+  "id": 93330289,
+  "timestamp": "2023-09-16T23:10:34Z",
+  "version": 21,
+  "changeset": 141361523,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "bounds": {
+    "minlat": 59.9134496,
+    "minlon": 30.2926649,
+    "maxlat": 59.9137209,
+    "maxlon": 30.2931600
+  },
+  "nodes": [
+    1082103810,
+    1082103860,
+    1082103826,
+    1082103866,
+    1082103810
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Дровяной сквер"
+  }
+},
+{
+  "type": "way",
+  "id": 96364629,
+  "timestamp": "2024-06-08T22:15:58Z",
+  "version": 29,
+  "changeset": 152433902,
+  "user": "mini-me",
+  "uid": 3846961,
+  "bounds": {
+    "minlat": 59.8970985,
+    "minlon": 30.2564694,
+    "maxlat": 59.9003529,
+    "maxlon": 30.2635936
+  },
+  "nodes": [
+    1116767758,
+    1122207967,
+    2174930680,
+    1122208019,
+    3814405409,
+    3814405410,
+    2174930674,
+    1116767759,
+    2174930669,
+    3814405408,
+    1116767760,
+    1116767761,
+    1116767762,
+    1116767763,
+    1116767764,
+    1116767765,
+    1116767766,
+    1141402684,
+    2174930636,
+    2174930645,
+    2174930648,
+    2174930650,
+    1141402719,
+    2207146647,
+    2207146648,
+    2207146649,
+    1116767767,
+    2207146650,
+    1141402686,
+    1116767768,
+    1116767769,
+    1116767770,
+    2174930676,
+    2174930678,
+    5644547840,
+    1116767771,
+    2174930681,
+    1141402691,
+    1116767758
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Молвинский сад",
+    "wikidata": "Q124287003"
+  }
+},
+{
+  "type": "way",
+  "id": 97985443,
+  "timestamp": "2024-06-08T17:38:36Z",
+  "version": 22,
+  "changeset": 152425318,
+  "user": "mini-me",
+  "uid": 3846961,
+  "bounds": {
+    "minlat": 59.9061959,
+    "minlon": 30.2747770,
+    "maxlat": 59.9071429,
+    "maxlon": 30.2757855
+  },
+  "nodes": [
+    1129441917,
+    1133980812,
+    1133980642,
+    5746008698,
+    1133980611,
+    11964775764,
+    1129441888,
+    1129442018,
+    1129441917
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "сквер Василия Косякова",
+    "ref": "1162"
+  }
+},
+{
+  "type": "way",
+  "id": 97988312,
+  "timestamp": "2023-09-16T23:10:34Z",
+  "version": 20,
+  "changeset": 141361523,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "bounds": {
+    "minlat": 59.8701814,
+    "minlon": 30.2586176,
+    "maxlat": 59.8704238,
+    "maxlon": 30.2593733
+  },
+  "nodes": [
+    1134008356,
+    1134008436,
+    1134008470,
+    1134008552,
+    10913184915,
+    10913184914,
+    1134008356
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "сквер Маринеско",
+    "ref": "5164",
+    "source:geometry:ref": "Постановление Правительства Санкт-Петербурга № 434 от 15.05.2023"
+  }
+},
+{
+  "type": "way",
+  "id": 98285122,
+  "timestamp": "2023-09-16T23:10:34Z",
+  "version": 23,
+  "changeset": 141361523,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "bounds": {
+    "minlat": 59.9132710,
+    "minlon": 30.2880668,
+    "maxlat": 59.9135841,
+    "maxlon": 30.2890465
+  },
+  "nodes": [
+    1022885571,
+    1456021429,
+    1456021439,
+    1022885728,
+    7515752695,
+    1137221008,
+    1137229279,
+    7515752693,
+    7515752692,
+    1456021500,
+    1456021498,
+    1137221011,
+    1456021504,
+    1137221014,
+    1456021447,
+    1137229294,
+    1456021442,
+    1022885571
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Дерптский сквер"
+  }
+},
+{
+  "type": "way",
+  "id": 100755532,
+  "timestamp": "2024-06-04T14:04:05Z",
+  "version": 22,
+  "changeset": 152246021,
+  "user": "mini-me",
+  "uid": 3846961,
+  "bounds": {
+    "minlat": 59.9135241,
+    "minlon": 30.2802381,
+    "maxlat": 59.9141194,
+    "maxlon": 30.2808665
+  },
+  "nodes": [
+    1164545667,
+    5993712731,
+    1164545109,
+    1164545235,
+    1164545630,
+    10913157280,
+    10913157278,
+    10913157279,
+    10913157281,
+    10913157277,
+    10913157274,
+    10913157275,
+    10913157276,
+    11955932183,
+    1535409881,
+    1164545667
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "сад особняка Кирштена",
+    "ref": "1004",
+    "source:geometry:ref": "Постановление Правительства Санкт-Петербурга № 434 от 15.05.2023"
+  }
+},
+{
+  "type": "way",
+  "id": 100788219,
+  "timestamp": "2025-12-08T17:58:29Z",
+  "version": 6,
+  "changeset": 175679829,
+  "user": "Kaverzin3",
+  "uid": 381925,
+  "bounds": {
+    "minlat": 59.9193623,
+    "minlon": 30.2752373,
+    "maxlat": 59.9200089,
+    "maxlon": 30.2763215
+  },
+  "nodes": [
+    1164946364,
+    7359803990,
+    7359803989,
+    7359803988,
+    7359803987,
+    1164946384,
+    7359803986,
+    1164946397,
+    1164946361,
+    11937986175,
+    11937986174,
+    7359774881,
+    1164946366,
+    1164946374,
+    1164946401,
+    1164946381,
+    11937986184,
+    11937986183,
+    11937986185,
+    1164946396,
+    7359774880,
+    11937986182,
+    1164946364
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "сквер Лоцмана Трофимова"
+  }
+},
+{
+  "type": "way",
+  "id": 105580200,
+  "timestamp": "2023-09-16T23:10:34Z",
+  "version": 22,
+  "changeset": 141361523,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "bounds": {
+    "minlat": 59.8881198,
+    "minlon": 30.3297202,
+    "maxlat": 59.8888349,
+    "maxlon": 30.3316544
+  },
+  "nodes": [
+    1215815995,
+    7547599877,
+    7547599876,
+    1215815993,
+    1215815996,
+    5128507723,
+    1215815991,
+    1215815995
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "сад Динамо"
+  }
+},
+{
+  "type": "way",
+  "id": 120719644,
+  "timestamp": "2023-09-16T23:10:34Z",
+  "version": 23,
+  "changeset": 141361523,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "bounds": {
+    "minlat": 59.9104511,
+    "minlon": 30.3414116,
+    "maxlat": 59.9117076,
+    "maxlon": 30.3443640
+  },
+  "nodes": [
+    1352824524,
+    7797224055,
+    7797224067,
+    8323177624,
+    1735724279,
+    1735724277,
+    8323177626,
+    8323177632,
+    1352824562,
+    1480066062,
+    7734572672,
+    7797224048,
+    7797224047,
+    3906317200,
+    3906317198,
+    1478122893,
+    1352824516,
+    1352824524
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Воронежский сад",
+    "name:etymology:wikidata": "Q3426"
+  }
+},
+{
+  "type": "way",
+  "id": 121506085,
+  "timestamp": "2023-09-16T23:10:34Z",
+  "version": 21,
+  "changeset": 141361523,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "bounds": {
+    "minlat": 59.8122947,
+    "minlon": 30.2941034,
+    "maxlat": 59.8132026,
+    "maxlon": 30.2959089
+  },
+  "nodes": [
+    1360039328,
+    1360039318,
+    1360039306,
+    1360039313,
+    1360039323,
+    1360039325,
+    1360039327,
+    1360039328
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "сквер Викентия Грязнова",
+    "name:etymology:wikidata": "Q4151112"
+  }
+},
+{
+  "type": "way",
+  "id": 123318764,
+  "timestamp": "2023-09-16T23:10:34Z",
+  "version": 21,
+  "changeset": 141361523,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "bounds": {
+    "minlat": 59.8414998,
+    "minlon": 30.3874761,
+    "maxlat": 59.8440046,
+    "maxlon": 30.3924165
+  },
+  "nodes": [
+    1375635613,
+    5084826745,
+    1375635640,
+    1375635545,
+    1375635531,
+    1375635613
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Будапештский сквер",
+    "name:etymology:wikidata": "Q1781",
+    "note": "заседание топонемич.комиссии от 23.09.2020"
+  }
+},
+{
+  "type": "way",
+  "id": 131484429,
+  "timestamp": "2023-09-16T23:10:34Z",
+  "version": 24,
+  "changeset": 141361523,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "bounds": {
+    "minlat": 59.8879212,
+    "minlon": 30.4310339,
+    "maxlat": 59.8901739,
+    "maxlon": 30.4334618
+  },
+  "nodes": [
+    1446948472,
+    8011052439,
+    8011052443,
+    1446948473,
+    1446948462,
+    8011279064,
+    1446948460,
+    8011244271,
+    5069362840,
+    8011052442,
+    8011052441,
+    8011052440,
+    1446948472
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Заводской сад",
+    "name:de": "Fabrikgarten",
+    "name:en": "Factory Garden",
+    "name:ru": "Заводской сад",
+    "source": "RGis"
+  }
+},
+{
+  "type": "way",
+  "id": 131484582,
+  "timestamp": "2023-09-16T23:10:34Z",
+  "version": 20,
+  "changeset": 141361523,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "bounds": {
+    "minlat": 59.8864637,
+    "minlon": 30.4406880,
+    "maxlat": 59.8873551,
+    "maxlon": 30.4423184
+  },
+  "nodes": [
+    1446949259,
+    1446949252,
+    1446949240,
+    1446949241,
+    1446949246,
+    1446949248,
+    2776503124,
+    1446949251,
+    1446949261,
+    1446949259
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "сад Дудко"
+  }
+},
+{
+  "type": "way",
+  "id": 131485250,
+  "timestamp": "2024-04-22T14:17:48Z",
+  "version": 21,
+  "changeset": 150349616,
+  "user": "mini-me",
+  "uid": 3846961,
+  "bounds": {
+    "minlat": 59.8932329,
+    "minlon": 30.4280199,
+    "maxlat": 59.8944473,
+    "maxlon": 30.4304051
+  },
+  "nodes": [
+    1446954837,
+    11837640712,
+    1446954835,
+    1446954836,
+    1446954840,
+    1574095056,
+    1446954837
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "сад Ткачей",
+    "source": "RGis"
+  }
+},
+{
+  "type": "way",
+  "id": 131485852,
+  "timestamp": "2026-05-03T13:52:40Z",
+  "version": 24,
+  "changeset": 182161183,
+  "user": "masmirnov",
+  "uid": 16256027,
+  "bounds": {
+    "minlat": 59.9011374,
+    "minlon": 30.4258182,
+    "maxlat": 59.9026993,
+    "maxlon": 30.4290947
+  },
+  "nodes": [
+    1446958348,
+    1446958357,
+    1446958352,
+    8004673182,
+    13789967786,
+    13789967787,
+    1446958368,
+    1446958363,
+    1446958365,
+    8004675485,
+    1446958360,
+    8004675490,
+    8004675492,
+    3201455384,
+    8004675491,
+    1446958355,
+    8004634086,
+    646593637,
+    13685996643,
+    1446958346,
+    1446958343,
+    1446958344,
+    8004673171,
+    1446958323,
+    1446958321,
+    1446958348
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Смоленский сад",
+    "source": "RGis"
+  }
+},
+{
+  "type": "way",
+  "id": 131486091,
+  "timestamp": "2023-09-16T23:10:34Z",
+  "version": 19,
+  "changeset": 141361523,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "bounds": {
+    "minlat": 59.9033809,
+    "minlon": 30.4211590,
+    "maxlat": 59.9041049,
+    "maxlon": 30.4222847
+  },
+  "nodes": [
+    1446960011,
+    11001602100,
+    7981182146,
+    11001602099,
+    7981182145,
+    1446960012,
+    1446960008,
+    1446960006,
+    7981182139,
+    7981182140,
+    7981182141,
+    7981182142,
+    7981182143,
+    1446960009,
+    1446960010,
+    1446960011
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "сквер ДОСААФ",
+    "source": "RGis"
+  }
+},
+{
+  "type": "way",
+  "id": 134638080,
+  "timestamp": "2023-10-08T01:23:18Z",
+  "version": 21,
+  "changeset": 142288045,
+  "user": "Soshal Distan Singh",
+  "uid": 11327915,
+  "bounds": {
+    "minlat": 59.8923888,
+    "minlon": 30.3198406,
+    "maxlat": 59.8933626,
+    "maxlon": 30.3223428
+  },
+  "nodes": [
+    1480066057,
+    1480066060,
+    1480066059,
+    1480066058,
+    1813064983,
+    10722200752,
+    1480066057
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Московский сад"
+  }
+},
+{
+  "type": "way",
+  "id": 141623677,
+  "timestamp": "2023-09-16T23:10:34Z",
+  "version": 23,
+  "changeset": 141361523,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "bounds": {
+    "minlat": 59.8974137,
+    "minlon": 30.2874978,
+    "maxlat": 59.8992088,
+    "maxlon": 30.2889627
+  },
+  "nodes": [
+    1550197554,
+    5589321129,
+    8447157715,
+    8447157714,
+    8447157713,
+    8447157716,
+    2313254905,
+    2313254895,
+    2301474055,
+    1550197367,
+    1550197294,
+    8447172820,
+    8447172819,
+    2313254499,
+    8447172818,
+    8447172817,
+    1550197554
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Тентелевский сквер",
+    "source": "rgis"
+  }
+},
+{
+  "type": "way",
+  "id": 141629692,
+  "timestamp": "2023-09-16T23:10:34Z",
+  "version": 22,
+  "changeset": 141361523,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "bounds": {
+    "minlat": 59.9024527,
+    "minlon": 30.2836626,
+    "maxlat": 59.9036622,
+    "maxlon": 30.2862799
+  },
+  "nodes": [
+    2311595691,
+    1550303915,
+    5744394527,
+    5744394528,
+    1550303928,
+    1550303931,
+    1550303930,
+    2318825741,
+    1550303924,
+    1550303919,
+    5744394452,
+    5744394451,
+    5744394450,
+    5744394448,
+    5744394449,
+    5744394447,
+    2311595722,
+    5744394445,
+    5744394446,
+    2311595691
+  ],
+  "tags": {
+    "addr:city": "Санкт-Петербург",
+    "addr:housenumber": "20",
+    "addr:postcode": "198020",
+    "addr:street": "улица Ивана Черных",
+    "leisure": "park",
+    "name": "сквер Сергия Радонежского",
+    "old_name": "сквер Студенческих Отрядов"
+  }
+},
+{
+  "type": "way",
+  "id": 142516077,
+  "timestamp": "2024-01-22T17:40:53Z",
+  "version": 25,
+  "changeset": 146563413,
+  "user": "Noktoborus",
+  "uid": 540529,
+  "bounds": {
+    "minlat": 59.9177913,
+    "minlon": 30.2872036,
+    "maxlat": 59.9190140,
+    "maxlon": 30.2910608
+  },
+  "nodes": [
+    1559587260,
+    1668931688,
+    1668931659,
+    1668931738,
+    1668931747,
+    1559587341,
+    1559587345,
+    1559587348,
+    1559587352,
+    1559587355,
+    1559587353,
+    1559587351,
+    1559587347,
+    1559587343,
+    1559587340,
+    1559587338,
+    1559587334,
+    1559587324,
+    1559587316,
+    1559587313,
+    1559587309,
+    1559587305,
+    1559587301,
+    1559587296,
+    1559587292,
+    1559587289,
+    1559587288,
+    1559587285,
+    1559587282,
+    6139299145,
+    1559587279,
+    6139299146,
+    1559587276,
+    1559587273,
+    1559587270,
+    1559587265,
+    6139299147,
+    1559587259,
+    1559587253,
+    1559587248,
+    1559587245,
+    1668931597,
+    1668931590,
+    1668931551,
+    1668931544,
+    1668931543,
+    1668931527,
+    1559587165,
+    1559587160,
+    1559587157,
+    1559587150,
+    1559587139,
+    1559587142,
+    1559587151,
+    1559587158,
+    1559587163,
+    1559587166,
+    1559587168,
+    1559587172,
+    1559587181,
+    1559587189,
+    1559587192,
+    1559587196,
+    1559587200,
+    1559587204,
+    1559587209,
+    1559587213,
+    1559587216,
+    1559587217,
+    6139299443,
+    6139299444,
+    6139299445,
+    6139299446,
+    6139299447,
+    6139299448,
+    6139299449,
+    1559587260
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Покровский сквер",
+    "name:etymology:wikidata": "Q4369269"
+  }
+},
+{
+  "type": "way",
+  "id": 143193185,
+  "timestamp": "2023-09-16T23:10:34Z",
+  "version": 20,
+  "changeset": 141361523,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "bounds": {
+    "minlat": 59.9039420,
+    "minlon": 30.3189544,
+    "maxlat": 59.9044736,
+    "maxlon": 30.3208970
+  },
+  "nodes": [
+    1566848504,
+    1566848489,
+    1584837185,
+    1584837192,
+    1566848516,
+    1566848515,
+    1566848510,
+    1566848488,
+    1566848484,
+    5579380398,
+    1566848478,
+    1566848455,
+    1566848461,
+    1566848465,
+    1566848480,
+    1566848459,
+    1566848457,
+    1566848448,
+    1566848453,
+    1566848504
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Смоленский сквер"
+  }
+},
+{
+  "type": "way",
+  "id": 146196219,
+  "timestamp": "2023-09-16T23:10:34Z",
+  "version": 19,
+  "changeset": 141361523,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "bounds": {
+    "minlat": 59.9176344,
+    "minlon": 30.2920029,
+    "maxlat": 59.9179961,
+    "maxlon": 30.2925884
+  },
+  "nodes": [
+    1594708146,
+    1594708163,
+    1594708161,
+    1594708103,
+    1594708086,
+    1594708085,
+    1594708083,
+    1594708146
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Прядильный сквер",
+    "ref": "1094",
+    "source:geometry:ref": "Постановление Правительства Санкт-Петербурга № 434 от 15.05.2023"
+  }
+},
+{
+  "type": "way",
+  "id": 146649427,
+  "timestamp": "2023-09-16T23:10:34Z",
+  "version": 25,
+  "changeset": 141361523,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "bounds": {
+    "minlat": 59.9047879,
+    "minlon": 30.3549348,
+    "maxlat": 59.9057572,
+    "maxlon": 30.3584797
+  },
+  "nodes": [
+    1599162819,
+    4323824803,
+    4323824810,
+    4323824793,
+    1599162822,
+    9494081738,
+    4323824806,
+    9494081737,
+    1599162816,
+    1599162796,
+    9494081736,
+    9494081729,
+    9494081735,
+    1599162801,
+    1599162800,
+    1599162809,
+    1599162797,
+    9494081734,
+    9494081733,
+    6525682765,
+    1599162825,
+    1599162803,
+    6525687729,
+    6525687730,
+    1599162808,
+    1599162815,
+    1599162823,
+    1599162810,
+    1599162817,
+    1599162824,
+    1599162821,
+    1599162811,
+    1599162798,
+    1599162819
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Расстанный сквер",
+    "name:ru": "Расстанный сквер",
+    "source": "rgis.spb.ru",
+    "source:name": "https://npa.gov.spb.ru/SpbGovSearch/Document/36654.html"
+  }
+},
+{
+  "type": "way",
+  "id": 153072190,
+  "timestamp": "2023-09-16T23:10:34Z",
+  "version": 19,
+  "changeset": 141361523,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "bounds": {
+    "minlat": 59.8075388,
+    "minlon": 30.3819962,
+    "maxlat": 59.8081503,
+    "maxlon": 30.3839812
+  },
+  "nodes": [
+    1658169744,
+    1658169790,
+    1658169853,
+    1658169757,
+    1658169747,
+    1658169755,
+    1658169744
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "сквер Николая Ивасюка"
+  }
+},
+{
+  "type": "way",
+  "id": 154855800,
+  "timestamp": "2025-03-30T02:57:49Z",
+  "version": 8,
+  "changeset": 164271689,
+  "user": "Soshal Distan Singh",
+  "uid": 11327915,
+  "bounds": {
+    "minlat": 59.8488366,
+    "minlon": 30.1049530,
+    "maxlat": 59.8505198,
+    "maxlon": 30.1067310
+  },
+  "nodes": [
+    1673213285,
+    2272820469,
+    1673213281,
+    2272820461,
+    9315869129,
+    1673213278,
+    1673213275,
+    9150229573,
+    9150229574,
+    1673213258,
+    9315865528,
+    9315865529,
+    1673213252,
+    9316852637,
+    1673213251,
+    9316852636,
+    1673213243,
+    1673213245,
+    1673213285
+  ],
+  "tags": {
+    "access": "yes",
+    "leisure": "park",
+    "name": "сквер Генерала Духанова",
+    "name:etymology": "Генерал-лейтенант Михаил Павлович Духанов",
+    "name:etymology:wikidata": "Q4171258",
+    "name:etymology:wikipedia": "ru:Духанов, Михаил Павлович"
+  }
+},
+{
+  "type": "way",
+  "id": 164938674,
+  "timestamp": "2026-07-21T06:45:26Z",
+  "version": 4,
+  "changeset": 186098478,
+  "user": "Afanasovich",
+  "uid": 2101839,
+  "bounds": {
+    "minlat": 59.9178597,
+    "minlon": 30.3226346,
+    "maxlat": 59.9184504,
+    "maxlon": 30.3235196
+  },
+  "nodes": [
+    8050796054,
+    1765304371,
+    8050796056,
+    8050796055,
+    12173302357,
+    9587653993,
+    9587653996,
+    9587653995,
+    9587653994,
+    12173302358,
+    12173302356,
+    12173302355,
+    8050796054
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "сквер Мамина-Сибиряка",
+    "wikidata": "Q140635391",
+    "wikipedia": "ru:Сквер Мамина-Сибиряка (Санкт-Петербург)"
+  }
+},
+{
+  "type": "way",
+  "id": 168771181,
+  "timestamp": "2023-09-16T23:10:34Z",
+  "version": 20,
+  "changeset": 141361523,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "bounds": {
+    "minlat": 59.9087317,
+    "minlon": 30.2509272,
+    "maxlat": 59.9090442,
+    "maxlon": 30.2519215
+  },
+  "nodes": [
+    1799859279,
+    1799859238,
+    1799859230,
+    1799859281,
+    1799859285,
+    1799859279
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "сквер Нины Соколовой",
+    "ref": "5115",
+    "source:geometry:ref": "Постановление Правительства Санкт-Петербурга № 434 от 15.05.2023"
+  }
+},
+{
+  "type": "way",
+  "id": 174092701,
+  "timestamp": "2023-09-16T23:10:34Z",
+  "version": 20,
+  "changeset": 141361523,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "bounds": {
+    "minlat": 59.8678171,
+    "minlon": 30.4162392,
+    "maxlat": 59.8703624,
+    "maxlon": 30.4203956
+  },
+  "nodes": [
+    1848330197,
+    1848330182,
+    1848330183,
+    1848330185,
+    1848330186,
+    1848330188,
+    1848330195,
+    1848330180,
+    5692954754,
+    5692954753,
+    5692954752,
+    5692954755,
+    5692954756,
+    1848330190,
+    5692954750,
+    5692954751,
+    6356732795,
+    1848330191,
+    1848330193,
+    1848330197
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Плодовый сад"
+  }
+},
+{
+  "type": "way",
+  "id": 181449820,
+  "timestamp": "2023-09-16T23:10:34Z",
+  "version": 18,
+  "changeset": 141361523,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "bounds": {
+    "minlat": 59.9199653,
+    "minlon": 30.3392836,
+    "maxlat": 59.9203431,
+    "maxlon": 30.3400667
+  },
+  "nodes": [
+    1918724296,
+    7984385415,
+    1918724271,
+    1918724268,
+    1918724275,
+    1918724279,
+    1918724303,
+    1918724296
+  ],
+  "tags": {
+    "barrier": "fence",
+    "leisure": "park",
+    "name": "Звенигородский сквер",
+    "source": "http://www.fontanka.ru/2013/03/04/144/"
+  }
+},
+{
+  "type": "way",
+  "id": 192060298,
+  "timestamp": "2025-12-02T09:37:35Z",
+  "version": 23,
+  "changeset": 175393496,
+  "user": "Константин Гам",
+  "uid": 392109,
+  "bounds": {
+    "minlat": 59.9144178,
+    "minlon": 30.3593695,
+    "maxlat": 59.9155755,
+    "maxlon": 30.3606048
+  },
+  "nodes": [
+    2026198762,
+    2026198768,
+    13347507648,
+    2026198769,
+    2026198771,
+    2026198772,
+    2026198766,
+    2026198767,
+    2026198765,
+    2026198764,
+    13347507647,
+    2026198763,
+    2026198762
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Днепропетровский сквер",
+    "name:etymology:wikidata": "Q48256",
+    "name:ru": "Днепропетровский сквер"
+  }
+},
+{
+  "type": "way",
+  "id": 193578225,
+  "timestamp": "2024-06-01T21:44:19Z",
+  "version": 26,
+  "changeset": 152139418,
+  "user": "mini-me",
+  "uid": 3846961,
+  "bounds": {
+    "minlat": 59.9100115,
+    "minlon": 30.3987079,
+    "maxlat": 59.9147494,
+    "maxlon": 30.4062223
+  },
+  "nodes": [
+    2040932201,
+    1865634691,
+    6691717729,
+    6691717730,
+    7913613886,
+    7913599582,
+    7913599584,
+    7913613885,
+    1865634715,
+    6691717731,
+    6691717728,
+    6691717727,
+    6691717732,
+    6691717734,
+    1446964422,
+    7841601031,
+    1865634712,
+    7921293913,
+    7921293907,
+    7921293908,
+    7921293909,
+    7921293910,
+    7921293911,
+    7921293912,
+    1865634711,
+    6688264869,
+    1446964416,
+    1446964407,
+    11950825419,
+    11950825420,
+    1446964408,
+    1446964409,
+    1446964418,
+    2040932201
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Сад имени 30-летия Октября"
+  }
+},
+{
+  "type": "way",
+  "id": 215253195,
+  "timestamp": "2023-09-16T23:10:34Z",
+  "version": 22,
+  "changeset": 141361523,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "bounds": {
+    "minlat": 59.9011044,
+    "minlon": 30.3640672,
+    "maxlat": 59.9015814,
+    "maxlon": 30.3649064
+  },
+  "nodes": [
+    2246576749,
+    2246576744,
+    2246576739,
+    2246576728,
+    2246576726,
+    2246576723,
+    7965857299,
+    2246576720,
+    2246576716,
+    7965857300,
+    7965857301,
+    2246576718,
+    2246576729,
+    2246576732,
+    2246576735,
+    2246576742,
+    2246576747,
+    2246576753,
+    2246576750,
+    2246576749
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Мгинский сквер",
+    "name:ru": "Мгинский сквер",
+    "source:name": "https://npa.gov.spb.ru/SpbGovSearch/Document/36654.html"
+  }
+},
+{
+  "type": "way",
+  "id": 224902551,
+  "timestamp": "2023-09-16T23:10:34Z",
+  "version": 25,
+  "changeset": 141361523,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "bounds": {
+    "minlat": 59.9095999,
+    "minlon": 30.3475217,
+    "maxlat": 59.9106419,
+    "maxlon": 30.3492017
+  },
+  "nodes": [
+    2337460366,
+    2337460374,
+    2337460452,
+    2337460447,
+    7880044522,
+    7880044523,
+    7880044524,
+    2337460441,
+    2337460435,
+    7880044525,
+    7880044526,
+    7880044527,
+    7880044528,
+    2337460430,
+    7880044529,
+    7880044530,
+    2337460427,
+    9580220103,
+    7181913742,
+    2337460366
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Прилукский сквер",
+    "name:etymology:wikidata": "Q1000404",
+    "name:ru": "Прилукский сквер",
+    "source:name": "https://npa.gov.spb.ru/SpbGovSearch/Document/30051.html"
+  }
+},
+{
+  "type": "way",
+  "id": 252937042,
+  "timestamp": "2025-01-15T11:35:16Z",
+  "version": 30,
+  "changeset": 161377300,
+  "user": "Константин Гам",
+  "uid": 392109,
+  "bounds": {
+    "minlat": 59.9178229,
+    "minlon": 30.4459047,
+    "maxlat": 59.9206037,
+    "maxlon": 30.4532793
+  },
+  "nodes": [
+    441361643,
+    2589460016,
+    1432605645,
+    2589460017,
+    3133039535,
+    3133039537,
+    3084289388,
+    441361650,
+    2559956940,
+    3084288765,
+    9923854992,
+    9923854991,
+    9923854990,
+    441361664,
+    441361643
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "парк Боевого Братства",
+    "source:name": "https://kanoner.com/2011/11/16/29213/",
+    "wikidata": "Q28113348",
+    "wikipedia": "ru:Парк Боевого Братства"
+  }
+},
+{
+  "type": "way",
+  "id": 253368587,
+  "timestamp": "2023-09-16T23:10:34Z",
+  "version": 21,
+  "changeset": 141361523,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "bounds": {
+    "minlat": 59.8896792,
+    "minlon": 30.3565077,
+    "maxlat": 59.8910656,
+    "maxlon": 30.3601329
+  },
+  "nodes": [
+    2593028819,
+    2593028821,
+    2593028820,
+    2593028822,
+    2593028823,
+    2593028824,
+    5867780913,
+    2593028825,
+    2593028826,
+    2593028827,
+    2593028829,
+    255470483,
+    2283695003,
+    255470474,
+    5867780952,
+    2593028819
+  ],
+  "tags": {
+    "addr:city": "Санкт-Петербург",
+    "addr:street": "Бухарестская улица",
+    "leisure": "park",
+    "name": "Геодезический сквер"
+  }
+},
+{
+  "type": "way",
+  "id": 281667076,
+  "timestamp": "2023-09-28T13:04:30Z",
+  "version": 27,
+  "changeset": 141863831,
+  "user": "Pavel239",
+  "uid": 354001,
+  "bounds": {
+    "minlat": 59.8945628,
+    "minlon": 30.4090219,
+    "maxlat": 59.8961715,
+    "maxlon": 30.4118194
+  },
+  "nodes": [
+    2856539207,
+    2856539208,
+    3095851578,
+    3037531663,
+    2856539205,
+    11224880447,
+    3095851591,
+    3095851600,
+    11224880446,
+    2856539207
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "сквер Полярных Конвоев",
+    "name:ru": "сквер Полярных Конвоев",
+    "source:name": "https://npa.gov.spb.ru/SpbGovSearch/Document/36654.html"
+  }
+},
+{
+  "type": "way",
+  "id": 437165341,
+  "timestamp": "2023-09-16T23:10:34Z",
+  "version": 19,
+  "changeset": 141361523,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "bounds": {
+    "minlat": 59.8921843,
+    "minlon": 30.4378393,
+    "maxlat": 59.8927589,
+    "maxlon": 30.4390727
+  },
+  "nodes": [
+    4349863870,
+    4349863861,
+    10028311709,
+    4349863875,
+    4349863870
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "сквер Екатерины Демидовой",
+    "ref": "12245"
+  }
+},
+{
+  "type": "way",
+  "id": 460964056,
+  "timestamp": "2024-10-20T19:06:33Z",
+  "version": 23,
+  "changeset": 158142197,
+  "user": "ilia_2s",
+  "uid": 2092093,
+  "bounds": {
+    "minlat": 59.9022740,
+    "minlon": 30.4219528,
+    "maxlat": 59.9034286,
+    "maxlon": 30.4231974
+  },
+  "nodes": [
+    4565357930,
+    4565357928,
+    4565357927,
+    4565357926,
+    4565357925,
+    4565357924,
+    4565357923,
+    4565357922,
+    4565357921,
+    4565357920,
+    4704976414,
+    7981182131,
+    7981182130,
+    4704976413,
+    7981182129,
+    7981182128,
+    4565357919,
+    12271701809,
+    4565357918,
+    4565357930
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "сквер ДОСААФ",
+    "source": "RGis"
+  }
+},
+{
+  "type": "way",
+  "id": 692406919,
+  "timestamp": "2025-12-28T17:18:06Z",
+  "version": 16,
+  "changeset": 176539993,
+  "user": "Kaverzin3",
+  "uid": 381925,
+  "bounds": {
+    "minlat": 59.8357898,
+    "minlon": 30.1169773,
+    "maxlat": 59.8404543,
+    "maxlon": 30.1185188
+  },
+  "nodes": [
+    4603827282,
+    5282183905,
+    4603827270,
+    9160823368,
+    10571345695,
+    3137156819,
+    9183594389,
+    9160823369,
+    6499614594,
+    9445736492,
+    6499614591,
+    6499614592,
+    6499614593,
+    9501235871,
+    8143204676,
+    9501235865,
+    9445736505,
+    12917724146,
+    9501235872,
+    9148666969,
+    9288900422,
+    9160823344,
+    9160823345,
+    9288900438,
+    4603827282
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "сквер Комиссара Грушко"
+  }
+},
+{
+  "type": "way",
+  "id": 737187898,
+  "timestamp": "2023-09-16T23:10:34Z",
+  "version": 19,
+  "changeset": 141361523,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "bounds": {
+    "minlat": 59.9196847,
+    "minlon": 30.3307911,
+    "maxlat": 59.9199649,
+    "maxlon": 30.3314860
+  },
+  "nodes": [
+    6901603828,
+    6901603827,
+    6901603826,
+    6901603825,
+    6901603828
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Винокурцевский сквер",
+    "name:ru": "Винокурцевский сквер",
+    "ref": "1058"
+  }
+},
+{
+  "type": "way",
+  "id": 748805877,
+  "timestamp": "2024-06-09T21:34:25Z",
+  "version": 20,
+  "changeset": 152472254,
+  "user": "mini-me",
+  "uid": 3846961,
+  "bounds": {
+    "minlat": 59.8942808,
+    "minlon": 30.2691517,
+    "maxlat": 59.8958272,
+    "maxlon": 30.2712993
+  },
+  "nodes": [
+    2077872341,
+    2077872301,
+    2077871589,
+    2077871559,
+    2077871614,
+    2077871637,
+    2077871621,
+    2077872593,
+    2077872663,
+    2077873030,
+    2077873175,
+    2077872869,
+    2077872844,
+    2077872341
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Ушаковский сквер",
+    "source:name": "https://npa.gov.spb.ru/SpbGovSearch/Document/36654.html"
+  }
+},
+{
+  "type": "way",
+  "id": 749663604,
+  "timestamp": "2025-09-11T16:17:17Z",
+  "version": 24,
+  "changeset": 171793003,
+  "user": "Константин Гам",
+  "uid": 392109,
+  "bounds": {
+    "minlat": 59.9128098,
+    "minlon": 30.3433032,
+    "maxlat": 59.9133407,
+    "maxlon": 30.3448884
+  },
+  "nodes": [
+    8272737638,
+    7003358868,
+    7003358869,
+    7003358870,
+    7003358872,
+    7810671302,
+    7810671286,
+    7810671303,
+    7003358873,
+    7810671373,
+    7810671351,
+    7873989269,
+    7810671323,
+    7873989270,
+    7003358874,
+    8272737629,
+    8272737628,
+    7810671292,
+    7810659082,
+    7810671295,
+    7810671322,
+    7003358877,
+    13136634614,
+    8272737558,
+    7003358878,
+    1478122997,
+    7810671332,
+    7810671296,
+    8272737638
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Курский сквер",
+    "name:etymology:wikidata": "Q3159",
+    "name:ru": "Курский сквер",
+    "source:name": "https://npa.gov.spb.ru/SpbGovSearch/Document/36654.html"
+  }
+},
+{
+  "type": "way",
+  "id": 761681844,
+  "timestamp": "2023-09-16T23:10:34Z",
+  "version": 18,
+  "changeset": 141361523,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "bounds": {
+    "minlat": 59.8814126,
+    "minlon": 30.2629777,
+    "maxlat": 59.8823189,
+    "maxlon": 30.2640376
+  },
+  "nodes": [
+    7116458052,
+    7116458055,
+    7116458056,
+    7116458053,
+    7116458050,
+    7116458051,
+    7116458052
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "сквер Исаака Зальцмана"
+  }
+},
+{
+  "type": "way",
+  "id": 967622888,
+  "timestamp": "2026-05-27T20:02:15Z",
+  "version": 6,
+  "changeset": 183273465,
+  "user": "Kaverzin3",
+  "uid": 381925,
+  "bounds": {
+    "minlat": 59.9135054,
+    "minlon": 30.3319910,
+    "maxlat": 59.9141316,
+    "maxlon": 30.3335520
+  },
+  "nodes": [
+    8951910478,
+    10995509894,
+    10995509869,
+    10995509858,
+    10995509852,
+    10995509845,
+    10995509884,
+    10995509826,
+    10995509840,
+    10995509857,
+    10995509824,
+    10995509853,
+    10995509825,
+    10995509849,
+    8951910476,
+    10995509836,
+    10995509893,
+    10995509842,
+    10541850744,
+    10995509885,
+    10995509822,
+    8951910475,
+    10995509872,
+    11682253628,
+    10995509877,
+    10995509862,
+    11682253630,
+    5375130860,
+    10995509844,
+    8951910474,
+    5375130861,
+    10995509863,
+    8951910478
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Мирониевский сквер"
+  }
+},
+{
+  "type": "way",
+  "id": 998242957,
+  "timestamp": "2024-02-24T18:54:13Z",
+  "version": 19,
+  "changeset": 147867239,
+  "user": "mini-me",
+  "uid": 3846961,
+  "bounds": {
+    "minlat": 59.9164900,
+    "minlon": 30.3520416,
+    "maxlat": 59.9171771,
+    "maxlon": 30.3534849
+  },
+  "nodes": [
+    2342206122,
+    2342206121,
+    1501785279,
+    1501785295,
+    1501785260,
+    1501785234,
+    1501785248,
+    1501785224,
+    1501785250,
+    1501785240,
+    1501785262,
+    1501785275,
+    7020771691,
+    7020771690,
+    9217058687,
+    7020771689,
+    7020771688,
+    9217058690,
+    9217058685,
+    2751753605,
+    9217058686,
+    2342206122
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Предтеченский садик"
+  }
+},
+{
+  "type": "way",
+  "id": 1006790808,
+  "timestamp": "2026-03-10T14:11:51Z",
+  "version": 20,
+  "changeset": 179641535,
+  "user": "Константин Гам",
+  "uid": 392109,
+  "bounds": {
+    "minlat": 59.8410533,
+    "minlon": 30.1349402,
+    "maxlat": 59.8417151,
+    "maxlon": 30.1396423
+  },
+  "nodes": [
+    9288603187,
+    9288603189,
+    9288603190,
+    9288603191,
+    9288603200,
+    10676389431,
+    9288603192,
+    9211170286,
+    9211170285,
+    9933093085,
+    9288603194,
+    9288603195,
+    9288603198,
+    9288603199,
+    9288603185,
+    9288603186,
+    9288603187
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "сквер Михаила Ашика",
+    "opening_hours": "24/7"
+  }
+},
+{
+  "type": "way",
+  "id": 1030080798,
+  "timestamp": "2026-03-30T15:25:38Z",
+  "version": 3,
+  "changeset": 180635696,
+  "user": "Константин Гам",
+  "uid": 392109,
+  "bounds": {
+    "minlat": 59.9095193,
+    "minlon": 30.3507744,
+    "maxlat": 59.9099494,
+    "maxlon": 30.3519538
+  },
+  "nodes": [
+    9495680853,
+    9495680852,
+    9495680851,
+    9495680850,
+    9495680853
+  ],
+  "tags": {
+    "access": "private",
+    "leisure": "park",
+    "name": "сквер Графини Паниной"
+  }
+},
+{
+  "type": "way",
+  "id": 1090576322,
+  "timestamp": "2025-12-21T16:58:24Z",
+  "version": 20,
+  "changeset": 176226281,
+  "user": "mini-me",
+  "uid": 3846961,
+  "bounds": {
+    "minlat": 59.8763529,
+    "minlon": 30.3901035,
+    "maxlat": 59.8780470,
+    "maxlon": 30.3936108
+  },
+  "nodes": [
+    10130405911,
+    13393151762,
+    13393151760,
+    9989036687,
+    13393151732,
+    13393151756,
+    13393151748,
+    13393151728,
+    13393151727,
+    13393151758,
+    13393151749,
+    13393151750,
+    13393151751,
+    13393151752,
+    13393151753,
+    13393151754,
+    10130405912,
+    9989036679,
+    13393151733,
+    13393151734,
+    13393151735,
+    9989036677,
+    13393151726,
+    13393151724,
+    13393151725,
+    9989036689,
+    10130405911
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "сквер Псковских Десантников"
+  }
+},
+{
+  "type": "way",
+  "id": 1095207052,
+  "timestamp": "2025-04-04T18:37:00Z",
+  "version": 19,
+  "changeset": 164523923,
+  "user": "trolleway",
+  "uid": 397326,
+  "bounds": {
+    "minlat": 59.8544392,
+    "minlon": 30.3322346,
+    "maxlat": 59.8549376,
+    "maxlon": 30.3334294
+  },
+  "nodes": [
+    10030041271,
+    2755003554,
+    2755003556,
+    2766353595,
+    2755003558,
+    2755003560,
+    10030041270,
+    10030041271
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "сквер Василия Ракова",
+    "wikidata": "Q110318757"
+  }
+},
+{
+  "type": "way",
+  "id": 1197496092,
+  "timestamp": "2025-08-02T22:28:16Z",
+  "version": 19,
+  "changeset": 169882486,
+  "user": "VovanWing",
+  "uid": 14231853,
+  "bounds": {
+    "minlat": 59.8249448,
+    "minlon": 30.1601509,
+    "maxlat": 59.8338052,
+    "maxlon": 30.1671907
+  },
+  "nodes": [
+    6040417564,
+    6040417570,
+    6040417569,
+    6040417568,
+    6040417567,
+    6040417566,
+    9890706560,
+    9890706566,
+    9890706652,
+    2309936793,
+    2309936795,
+    9890706567,
+    3847512444,
+    3847512446,
+    3847512425,
+    3847512426,
+    3847512412,
+    9890706651,
+    9890706650,
+    9890706649,
+    9890706602,
+    9890706603,
+    9890706604,
+    590553289,
+    9890706605,
+    9890706594,
+    9215019038,
+    3847515236,
+    910613119,
+    9215019029,
+    9215019025,
+    9215019015,
+    9215019012,
+    9215019014,
+    6040417554,
+    6040417553,
+    6040417552,
+    3847513838,
+    3847513851,
+    6040417549,
+    6040417548,
+    6040417564
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Верхне-Ивановский сквер"
+  }
+},
+{
+  "type": "way",
+  "id": 1223720910,
+  "timestamp": "2026-02-13T15:45:59Z",
+  "version": 10,
+  "changeset": 178511011,
+  "user": "Серый Еж",
+  "uid": 23034906,
+  "bounds": {
+    "minlat": 59.8646380,
+    "minlon": 30.3372174,
+    "maxlat": 59.8684447,
+    "maxlon": 30.3469888
+  },
+  "nodes": [
+    11350577093,
+    11350577092,
+    13366290558,
+    13366290557,
+    13366290559,
+    11350577090,
+    11592258248,
+    11592495073,
+    11592258243,
+    11592258244,
+    11592258247,
+    11829829236,
+    11592258246,
+    11592258245,
+    13366330139,
+    13366330140,
+    13366330141,
+    13366330142,
+    13366330144,
+    13366330143,
+    11730184693,
+    1833196217,
+    13366306044,
+    13366306045,
+    11730184692,
+    1524576339,
+    13366330182,
+    1524576342,
+    13366306090,
+    13556155111,
+    1524576357,
+    1524576361,
+    1524576355,
+    13366306563,
+    13366306562,
+    13556154909,
+    13556154910,
+    13366306564,
+    13556154911,
+    13366306213,
+    6957312687,
+    11350577093
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "парк Арены"
+  }
+},
+{
+  "type": "way",
+  "id": 1292316232,
+  "timestamp": "2024-06-14T09:09:42Z",
+  "version": 1,
+  "changeset": 152666652,
+  "user": "Константин Гам",
+  "uid": 392109,
+  "bounds": {
+    "minlat": 59.8397085,
+    "minlon": 30.0959449,
+    "maxlat": 59.8408351,
+    "maxlon": 30.0979471
+  },
+  "nodes": [
+    11980426126,
+    11980426125,
+    11980426124,
+    11980426123,
+    11980426126
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Площадь Солнца"
+  }
+},
+{
+  "type": "way",
+  "id": 1292316254,
+  "timestamp": "2024-06-14T09:09:42Z",
+  "version": 1,
+  "changeset": 152666652,
+  "user": "Константин Гам",
+  "uid": 392109,
+  "bounds": {
+    "minlat": 59.8751207,
+    "minlon": 30.2517651,
+    "maxlat": 59.8763174,
+    "maxlon": 30.2539887
+  },
+  "nodes": [
+    11980426208,
+    11980426207,
+    11980426206,
+    11980426205,
+    11980426204,
+    11980426203,
+    11980426202,
+    11980426201,
+    11980426200,
+    11980426199,
+    11980426198,
+    11980426197,
+    11980426196,
+    11980426195,
+    11980426194,
+    11980426208
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Емельяновский сквер"
+  }
+},
+{
+  "type": "way",
+  "id": 1311710378,
+  "timestamp": "2025-04-03T08:10:17Z",
+  "version": 2,
+  "changeset": 164452158,
+  "user": "Константин Гам",
+  "uid": 392109,
+  "bounds": {
+    "minlat": 59.8327900,
+    "minlon": 30.2530362,
+    "maxlat": 59.8336052,
+    "maxlon": 30.2552011
+  },
+  "nodes": [
+    12141595405,
+    12141595406,
+    12141595407,
+    12141595408,
+    12141595415,
+    12141595420,
+    12141595419,
+    12141595418,
+    12141595417,
+    12141595416,
+    12141595405
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "сквер Ополченцев-Кировцев"
+  }
+},
+{
+  "type": "way",
+  "id": 1316790846,
+  "timestamp": "2024-09-19T20:12:19Z",
+  "version": 1,
+  "changeset": 156838834,
+  "user": "Kaverzin3",
+  "uid": 381925,
+  "bounds": {
+    "minlat": 59.8934899,
+    "minlon": 30.4366524,
+    "maxlat": 59.8938531,
+    "maxlon": 30.4379711
+  },
+  "nodes": [
+    12186888294,
+    12186888295,
+    12186888296,
+    12186888297,
+    12186888298,
+    12186888299,
+    12186888300,
+    12187018301,
+    12187018302,
+    12187018303,
+    12186888294
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Варгунинский сквер"
+  }
+},
+{
+  "type": "way",
+  "id": 1454236222,
+  "timestamp": "2025-11-27T18:37:11Z",
+  "version": 1,
+  "changeset": 175210745,
+  "user": "Kaverzin3",
+  "uid": 381925,
+  "bounds": {
+    "minlat": 59.9122314,
+    "minlon": 30.3462282,
+    "maxlat": 59.9129739,
+    "maxlon": 30.3480516
+  },
+  "nodes": [
+    7965984632,
+    7965984631,
+    7965984636,
+    7965984639,
+    7965984640,
+    7965984641,
+    7965984642,
+    7965984643,
+    7965984644,
+    7982065063,
+    7982065062,
+    7982065067,
+    7965984690,
+    7965984682,
+    7965984686,
+    7965984687,
+    9943342001,
+    9943342013,
+    9943341995,
+    9943345633,
+    7965984701,
+    7965984700,
+    9943342007,
+    9943345635,
+    7982065057,
+    7982065056,
+    7965984699,
+    7965984698,
+    7965984697,
+    7965984696,
+    7965984695,
+    7965984694,
+    7965984655,
+    7965984654,
+    7965984664,
+    7965984663,
+    7965984633,
+    7965984632
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "сквер Алые Паруса"
+  }
+},
+{
+  "type": "way",
+  "id": 1454778360,
+  "timestamp": "2025-11-29T22:24:23Z",
+  "version": 1,
+  "changeset": 175293027,
+  "user": "Kaverzin3",
+  "uid": 381925,
+  "bounds": {
+    "minlat": 59.9092221,
+    "minlon": 30.3440986,
+    "maxlat": 59.9099609,
+    "maxlon": 30.3455311
+  },
+  "nodes": [
+    6644170061,
+    7725041519,
+    7725041557,
+    6644170062,
+    6644170063,
+    7725041566,
+    7752560260,
+    6644170064,
+    7725041510,
+    7725041581,
+    7725041520,
+    7725041544,
+    6644170065,
+    1737385438,
+    7725041563,
+    6644170066,
+    8169272989,
+    1013306812,
+    6638549365,
+    6638549364,
+    6638549363,
+    6638549366,
+    1013306832,
+    1013306856,
+    6644170050,
+    6644170051,
+    7725041565,
+    7725041579,
+    7725041512,
+    7725041553,
+    7725041572,
+    7725041514,
+    7725041495,
+    7725041501,
+    7824008048,
+    7824008053,
+    7824008017,
+    7824008061,
+    7725041543,
+    7824008047,
+    7824008032,
+    7824008025,
+    6644170054,
+    7824008013,
+    9489790394,
+    9489790393,
+    9489790392,
+    9489790391,
+    8169261212,
+    6644170059,
+    6644170060,
+    7752560251,
+    7725041552,
+    7752560241,
+    7725041533,
+    6644170061
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "сквер Архитектора Аплаксина"
+  }
+},
+{
+  "type": "way",
+  "id": 1455562333,
+  "timestamp": "2025-12-02T21:34:36Z",
+  "version": 1,
+  "changeset": 175420851,
+  "user": "Kaverzin3",
+  "uid": 381925,
+  "bounds": {
+    "minlat": 59.9179748,
+    "minlon": 30.3084242,
+    "maxlat": 59.9188908,
+    "maxlon": 30.3098759
+  },
+  "nodes": [
+    8746100239,
+    1480201966,
+    1480201984,
+    1480201986,
+    1480201978,
+    12339492129,
+    8746100232,
+    8746100231,
+    8746100228,
+    1480210995,
+    12339492132,
+    8746100229,
+    8746100230,
+    1480210994,
+    1104397887,
+    1480210991,
+    8746100239
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Гарновский сквер"
+  }
+},
+{
+  "type": "way",
+  "id": 1456368808,
+  "timestamp": "2025-12-05T22:07:38Z",
+  "version": 1,
+  "changeset": 175566428,
+  "user": "Kaverzin3",
+  "uid": 381925,
+  "bounds": {
+    "minlat": 59.8696337,
+    "minlon": 30.3893178,
+    "maxlat": 59.8708368,
+    "maxlon": 30.3924004
+  },
+  "nodes": [
+    1973798444,
+    13356514392,
+    1092143816,
+    1092143806,
+    5648063251,
+    5648063252,
+    5648063253,
+    13356514393,
+    1973798439,
+    1973798444
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Ивовый сквер"
+  }
+},
+{
+  "type": "way",
+  "id": 1533604164,
+  "timestamp": "2026-06-29T18:31:52Z",
+  "version": 1,
+  "changeset": 184812099,
+  "user": "Kaverzin3",
+  "uid": 381925,
+  "bounds": {
+    "minlat": 59.9056700,
+    "minlon": 30.3536253,
+    "maxlat": 59.9066935,
+    "maxlon": 30.3547981
+  },
+  "nodes": [
+    9493998444,
+    9493998445,
+    9493998440,
+    9493998441,
+    9493998442,
+    9493998439,
+    9493998429,
+    9493998428,
+    9493998430,
+    9493998431,
+    9493998425,
+    9493998426,
+    9493998432,
+    9493998433,
+    9493998434,
+    9493998435,
+    9493998436,
+    9493998437,
+    9493998427,
+    9493998438,
+    9493998443,
+    9493998444
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "сквер Ленинградского Автобуса"
+  }
+}
+
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "museum-of-optics-itmo": {
+    "catalog_key": "museum-of-optics-itmo",
+    "title": "Музей оптики ИТМО",
+    "latitude": 59.9441958,
+    "longitude": 30.295452,
+    "district": "Василеостровский район",
+    "osm_boundary_url": "https://www.openstreetmap.org/relation/1114252",
+    "assignment_method": "osm_boundary_point_in_polygon",
+    "source_checked_on": "2026-10-11"
+  },
+  "glushko-space-museum": {
+    "catalog_key": "glushko-space-museum",
+    "title": "Музей космонавтики и ракетной техники им. В. П. Глушко",
+    "latitude": 59.9518817,
+    "longitude": 30.3212726,
+    "district": "Петроградский район",
+    "osm_boundary_url": "https://www.openstreetmap.org/relation/1114905",
+    "assignment_method": "osm_boundary_point_in_polygon",
+    "source_checked_on": "2026-10-11"
+  },
+  "vselennaya-vody": {
+    "catalog_key": "vselennaya-vody",
+    "title": "Музей «Вселенная воды»",
+    "latitude": 59.9501043,
+    "longitude": 30.3753068,
+    "district": "Центральный район",
+    "osm_boundary_url": "https://www.openstreetmap.org/relation/1114902",
+    "assignment_method": "osm_boundary_point_in_polygon",
+    "source_checked_on": "2026-10-11"
+  },
+  "etagi-loft-project": {
+    "catalog_key": "etagi-loft-project",
+    "title": "Лофт-проект «Этажи»",
+    "latitude": 59.9218844,
+    "longitude": 30.3562674,
+    "district": "Центральный район",
+    "osm_boundary_url": "https://www.openstreetmap.org/relation/1114902",
+    "assignment_method": "osm_boundary_point_in_polygon",
+    "source_checked_on": "2026-10-11"
+  },
+  "pushkinskaya-10-art-centre": {
+    "catalog_key": "pushkinskaya-10-art-centre",
+    "title": "Арт-центр «Пушкинская-10»",
+    "latitude": 59.9292066,
+    "longitude": 30.359036,
+    "district": "Центральный район",
+    "osm_boundary_url": "https://www.openstreetmap.org/relation/1114902",
+    "assignment_method": "osm_boundary_point_in_polygon",
+    "source_checked_on": "2026-10-11"
+  },
+  "elagin-island-central-park": {
+    "catalog_key": "elagin-island-central-park",
+    "title": "ЦПКиО им. С. М. Кирова (Елагин остров)",
+    "latitude": 59.9788276,
+    "longitude": 30.2551019,
+    "district": "Петроградский район",
+    "osm_boundary_url": "https://www.openstreetmap.org/relation/1114905",
+    "assignment_method": "osm_boundary_point_in_polygon",
+    "source_checked_on": "2026-10-11"
+  },
+  "volshebnaya-milya-park": {
+    "catalog_key": "volshebnaya-milya-park",
+    "title": "Парк «Волшебная миля»",
+    "latitude": 60.0586919,
+    "longitude": 30.3341041,
+    "district": "Выборгский район",
+    "osm_boundary_url": "https://www.openstreetmap.org/relation/1114354",
+    "assignment_method": "osm_boundary_point_in_polygon",
+    "source_checked_on": "2026-10-11"
+  }
+}

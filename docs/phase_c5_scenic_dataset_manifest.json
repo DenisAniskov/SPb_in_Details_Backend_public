@@ -1,0 +1,52 @@
+{
+ "datasetVersion": "2026.10.11+1",
+ "generatedOn": "2026-10-11",
+ "featureCount": 187,
+ "byDistrict": {
+  "central": {
+   "_source_sha256": "f017ee277cbc1fd0894cc3be6e11930978d2d32fc8a1dbc762930de743b8e1af",
+   "_elements": 227,
+   "embankment": 8,
+   "pedestrianStreet": 36,
+   "square": 32
+  },
+  "petrogradsky": {
+   "_source_sha256": "aa44065729219a13fec463164245498cbd227f19c47af24ac47964a9713ea781",
+   "_elements": 80,
+   "embankment": 26,
+   "pedestrianStreet": 3,
+   "square": 4
+  },
+  "vasileostrovsky": {
+   "_source_sha256": "b976d901486c2ccf14719ed7dba8eb6713779f5bcab1b458df544ac57029d6b4",
+   "_elements": 81,
+   "embankment": 11,
+   "pedestrianStreet": 3,
+   "square": 16
+  },
+  "nevsky": {
+   "_source_sha256": "6aa61f3893fd8638d28a6682b4470af8c890ed3b241308018b02611b0959904b",
+   "_elements": 31,
+   "embankment": 1,
+   "square": 5
+  },
+  "primorsky": {
+   "_source_sha256": "ce6483523ce018d99bb2a57413763d333ef48f7a3ba70bfa41ec21899f3e4d07",
+   "_elements": 83,
+   "embankment": 27,
+   "square": 10,
+   "pedestrianStreet": 5
+  }
+ },
+ "excluded": {
+  "unnamed": 0,
+  "blocked_access": 130,
+  "park_context_only": 185,
+  "degenerate": 0
+ },
+ "policy": {
+  "parkWaypoints": "excluded (no verified public entrances, C3 audit)",
+  "accessFilter": "access/foot in private|permit|no|military excluded",
+  "waypointBasis": "point on a named public pedestrian way, never an area centroid"
+ }
+}

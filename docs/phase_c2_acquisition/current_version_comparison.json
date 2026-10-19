@@ -1,0 +1,31 @@
+{
+  "checked_on": "2026-10-10",
+  "mirror_timestamp": "2026-07-24T11:04:51Z",
+  "changed_objects": [
+    {
+      "type": "relation",
+      "id": 10005007,
+      "mirror_version": 49,
+      "current_version": 51,
+      "mirror_tags": {
+        "leisure": "park",
+        "name": "парк Героев-Пожарных",
+        "name:ru": "парк Героев-Пожарных",
+        "ref": "17096",
+        "type": "multipolygon",
+        "wikidata": "Q56310240",
+        "wikipedia": "ru:Парк Героев-Пожарных"
+      },
+      "current_tags": {
+        "leisure": "park",
+        "name": "парк Героев-Пожарных",
+        "name:ru": "парк Героев-Пожарных",
+        "ref": "17096",
+        "type": "multipolygon",
+        "wikidata": "Q56310240",
+        "wikipedia": "ru:Парк Героев-Пожарных"
+      },
+      "current_timestamp": "2026-10-07T10:46:35Z"
+    }
+  ]
+}

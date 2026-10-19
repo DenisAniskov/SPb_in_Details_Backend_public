@@ -1,0 +1,218 @@
+{
+ "dataset_version": "c7_1_pilot_v1",
+ "generated_at_utc": "2026-10-11T17:29:15.530525+00:00",
+ "source": "OpenStreetMap via the official OSM API 0.6 map call",
+ "license": "ODbL 1.0 — © OpenStreetMap contributors",
+ "snapshot_note": "source_snapshot_date is the acquisition date recorded in docs/phase_c7_1_acquisition/manifest.json; per-building OSM element versions are stored in source_version",
+ "floor_height_assumption_m": 3.3,
+ "zones": {
+  "centre_palace": {
+   "buildings_total": 204,
+   "with_osm_height": 2,
+   "with_verified_height": 0,
+   "with_levels_estimate": 136,
+   "without_height": 66,
+   "invalid_geometries": 9,
+   "repaired_geometries": 0,
+   "multipolygon_buildings": 88,
+   "parts_excluded": 82,
+   "roof_only_excluded": 2,
+   "incomplete_relations": 8,
+   "implausible_height_tags": 0,
+   "vertex_count_total": 3642,
+   "status_counts": {
+    "ok": 203,
+    "invalid_degenerate": 1,
+    "relation_incomplete": 8
+   },
+   "source_sha256": "c29de4bec2c1834a4c85c61d83a80938963d22dd5f469756bba661f0d2fa2d9f",
+   "source_bytes": 5168768
+  },
+  "centre_nevsky": {
+   "buildings_total": 240,
+   "with_osm_height": 0,
+   "with_verified_height": 0,
+   "with_levels_estimate": 149,
+   "without_height": 91,
+   "invalid_geometries": 12,
+   "repaired_geometries": 0,
+   "multipolygon_buildings": 72,
+   "parts_excluded": 76,
+   "roof_only_excluded": 7,
+   "incomplete_relations": 9,
+   "implausible_height_tags": 0,
+   "vertex_count_total": 4123,
+   "status_counts": {
+    "ok": 237,
+    "invalid_degenerate": 3,
+    "relation_incomplete": 9
+   },
+   "source_sha256": "688aa09a3deaa065a6d6995f17b51a6f3173ee7d471993eaee8a3c7cf6bb1703",
+   "source_bytes": 4561420
+  },
+  "admiralteysky": {
+   "buildings_total": 350,
+   "with_osm_height": 1,
+   "with_verified_height": 0,
+   "with_levels_estimate": 243,
+   "without_height": 106,
+   "invalid_geometries": 11,
+   "repaired_geometries": 0,
+   "multipolygon_buildings": 135,
+   "parts_excluded": 120,
+   "roof_only_excluded": 4,
+   "incomplete_relations": 10,
+   "implausible_height_tags": 0,
+   "vertex_count_total": 5110,
+   "status_counts": {
+    "ok": 349,
+    "invalid_degenerate": 1,
+    "relation_incomplete": 10
+   },
+   "source_sha256": "468e3e75fd3c293b3f10745b1630aa797de12ebda89c5d881477578adf82bf8d",
+   "source_bytes": 5157483
+  },
+  "petrogradsky": {
+   "buildings_total": 325,
+   "with_osm_height": 3,
+   "with_verified_height": 0,
+   "with_levels_estimate": 227,
+   "without_height": 95,
+   "invalid_geometries": 8,
+   "repaired_geometries": 0,
+   "multipolygon_buildings": 77,
+   "parts_excluded": 8,
+   "roof_only_excluded": 0,
+   "incomplete_relations": 8,
+   "implausible_height_tags": 0,
+   "vertex_count_total": 5238,
+   "status_counts": {
+    "ok": 325,
+    "relation_incomplete": 8
+   },
+   "source_sha256": "116cd6b614d17966a496a78bf092339fb166dc51c9724a6e96cb8f6cc60e1cba",
+   "source_bytes": 4812016
+  },
+  "vasileostrovsky": {
+   "buildings_total": 172,
+   "with_osm_height": 5,
+   "with_verified_height": 0,
+   "with_levels_estimate": 100,
+   "without_height": 67,
+   "invalid_geometries": 3,
+   "repaired_geometries": 0,
+   "multipolygon_buildings": 25,
+   "parts_excluded": 386,
+   "roof_only_excluded": 18,
+   "incomplete_relations": 3,
+   "implausible_height_tags": 0,
+   "vertex_count_total": 2657,
+   "status_counts": {
+    "ok": 172,
+    "relation_incomplete": 3
+   },
+   "source_sha256": "a8addc921c2a8a33f5fb3771e56175d0c2888a8825d16d026d92405cd9a007e7",
+   "source_bytes": 5189923
+  },
+  "control_kupchino": {
+   "buildings_total": 118,
+   "with_osm_height": 6,
+   "with_verified_height": 0,
+   "with_levels_estimate": 80,
+   "without_height": 32,
+   "invalid_geometries": 1,
+   "repaired_geometries": 0,
+   "multipolygon_buildings": 10,
+   "parts_excluded": 12,
+   "roof_only_excluded": 6,
+   "incomplete_relations": 1,
+   "implausible_height_tags": 0,
+   "vertex_count_total": 1597,
+   "status_counts": {
+    "ok": 118,
+    "relation_incomplete": 1
+   },
+   "source_sha256": "8fda9e668e889ee543508ee588e6913db3719b0f799ef4bc55782a0f0ff57874",
+   "source_bytes": 5054474
+  }
+ },
+ "zone_boxes": [
+  {
+   "zone_id": "centre_palace",
+   "description": "Пилот 1 — Исторический центр: Дворцовая площадь и Эрмитаж (плотная застройка, дворы, открытая площадь)",
+   "bbox": [
+    59.9358,
+    30.3075,
+    59.9438,
+    30.3245
+   ]
+  },
+  {
+   "zone_id": "centre_nevsky",
+   "description": "Пилот 2 — Исторический центр: Невский проспект у Гостиного двора (прямая улица-коридор, непрерывный фронт застройки)",
+   "bbox": [
+    59.9305,
+    30.3265,
+    59.9385,
+    30.3435
+   ]
+  },
+  {
+   "zone_id": "admiralteysky",
+   "description": "Пилот 3 — Адмиралтейская часть: Исаакиевский собор и окрестные кварталы (дворы-колодцы, разновысотная застройка)",
+   "bbox": [
+    59.928,
+    30.2975,
+    59.936,
+    30.3145
+   ]
+  },
+  {
+   "zone_id": "petrogradsky",
+   "description": "Пилот 4 — Петроградская сторона: Петропавловская крепость и Аврора (набережные, крепостные стены, зелень)",
+   "bbox": [
+    59.954,
+    30.3085,
+    59.962,
+    30.3255
+   ]
+  },
+  {
+   "zone_id": "vasileostrovsky",
+   "description": "Пилот 5 — Васильевский остров: Университетская набережная и Стрелка (набережная, широкие проспекты, исторические корпуса)",
+   "bbox": [
+    59.938,
+    30.29,
+    59.946,
+    30.307
+   ]
+  },
+  {
+   "zone_id": "control_kupchino",
+   "description": "Контрольная территория вне исторического центра: Купчино (типовая жилая застройка, свободная планировка)",
+   "bbox": [
+    59.849,
+    30.3915,
+    59.857,
+    30.4085
+   ]
+  }
+ ],
+ "totals": {
+  "buildings_total": 1409,
+  "with_osm_height": 17,
+  "with_verified_height": 0,
+  "with_levels_estimate": 935,
+  "without_height": 457,
+  "invalid_geometries": 5,
+  "repaired_geometries": 0,
+  "multipolygon_buildings": 407,
+  "parts_excluded": 684,
+  "roof_only_excluded": 37,
+  "incomplete_relations": 39,
+  "implausible_height_tags": 0,
+  "vertex_count_total": 22367,
+  "source_bytes": 29944084,
+  "buildings_stored": 1409
+ }
+}

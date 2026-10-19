@@ -1,0 +1,26 @@
+{
+  "endpoint": "https://api.open-meteo.com/v1/forecast?latitude=59.9405&longitude=30.3165&hourly=precipitation%2Crain%2Cshowers%2Csnowfall%2Ctemperature_2m&past_days=2&forecast_days=2&models=icon_global&timezone=UTC&timeformat=unixtime&precipitation_unit=mm",
+  "requested_model": "icon_global",
+  "retrieved_at_utc": "2026-10-16T12:36:24.607119Z",
+  "data_kind": "model_forecast_and_recent_archived_forecast",
+  "observed_at_utc": null,
+  "model_issued_at_utc": null,
+  "model_grid_degrees": 0.1,
+  "nominal_model_resolution_meters": 11000,
+  "interval_seconds": 3600,
+  "precipitation_interval": "(timestamp-3600,timestamp]",
+  "license": "CC-BY-4.0",
+  "service_use": "noncommercial_research_probe",
+  "not_a_runtime_weather_cache": true,
+  "response_date_header": "Fri, 16 Oct 2026 12:36:26 GMT",
+  "status": "verified_response",
+  "raw_bytes": 3743,
+  "raw_sha256": "82ced8080552d7a8b5cfb8210b150f7ced33fc2cca68b8e5e78a0855b93c1607",
+  "response_grid_center": [
+    30.375,
+    60.0
+  ],
+  "hour_count": 96,
+  "first_interval_end_utc": "2026-10-14T00:00:00+00:00",
+  "last_interval_end_utc": "2026-10-17T23:00:00+00:00"
+}

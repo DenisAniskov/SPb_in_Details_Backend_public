@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "dataset_version": "c11_quiet_spb_central_v1",
+  "source_url": "https://download.geofabrik.de/russia/northwestern-fed-district-261016.osm.pbf",
+  "source_sha256": "3051f24dd1dc0ab6efc63f0a015781ef8380d1523c02a0f09c1e6c5ed52d7fb7",
+  "source_bytes": 655141467,
+  "source_last_modified_utc": "2026-10-17T02:13:55Z",
+  "osm_base_timestamp": "2026-10-16T20:21:21Z",
+  "pilot_bbox": [
+    30.28,
+    59.915,
+    30.38,
+    59.965
+  ],
+  "license": "ODbL-1.0",
+  "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+  "attribution": "© OpenStreetMap contributors",
+  "way_count": 3638,
+  "class_counts": {
+    "living_street": 23,
+    "primary": 678,
+    "primary_link": 14,
+    "residential": 1064,
+    "secondary": 776,
+    "secondary_link": 28,
+    "tertiary": 868,
+    "tertiary_link": 26,
+    "unclassified": 161
+  },
+  "total_way_length_meters": 398710.005,
+  "dataset_bytes": 1417674,
+  "dataset_sha256": "c191b22a2df93b89c9ea513e02d020682ca43e68209d7f5a344a5e8c5be11ce3",
+  "gzip_bytes": 249779,
+  "gzip_sha256": "90e395f4e2208e933098bd1f1ba09e270209dd946e171f634d89eccb27940b92",
+  "built_at_utc": "2026-10-17T18:18:25.237051Z"
+}

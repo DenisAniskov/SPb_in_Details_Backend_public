@@ -1,0 +1,346 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-05-31T22:37:44Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 5844613927,
+  "lat": 59.9294162,
+  "lon": 30.3572487,
+  "timestamp": "2023-11-10T17:06:57Z",
+  "version": 2,
+  "changeset": 143872382,
+  "user": "b-jazz-bot",
+  "uid": 9451067,
+  "tags": {
+    "name": "Пушкинская 10",
+    "tourism": "hotel",
+    "website": "https://www.hotelsteam.ru/rooms/otel-pushkinskaya-10/"
+  }
+},
+{
+  "type": "node",
+  "id": 5844613928,
+  "lat": 59.9292066,
+  "lon": 30.3590360,
+  "timestamp": "2025-10-17T19:19:32Z",
+  "version": 19,
+  "changeset": 173425262,
+  "user": "TrickyFoxy",
+  "uid": 11528195,
+  "tags": {
+    "amenity": "arts_centre",
+    "check_date": "2025-10-17",
+    "contact:vk": "https://vk.com/pushkinskaya10",
+    "name": "Пушкинская-10",
+    "start_date": "1989",
+    "website": "https://p-10.ru/",
+    "wikidata": "Q11996510",
+    "wikipedia": "ru:Пушкинская, 10 (арт-центр)"
+  }
+},
+{
+  "type": "node",
+  "id": 6533612689,
+  "lat": 59.9294913,
+  "lon": 30.3586166,
+  "timestamp": "2025-08-23T18:33:57Z",
+  "version": 3,
+  "changeset": 170894757,
+  "user": "Beerron",
+  "uid": 17633141,
+  "tags": {
+    "museum": "art",
+    "name": "Арт-центр Пушкинская 10",
+    "name:en": "Art center Pushkinskaya 10",
+    "opening_hours": "We-Fr 16:00-20:00; Sa-Su 12:00-20:00",
+    "phone": "+78127645371",
+    "tourism": "museum",
+    "website": "https://p-10.ru/"
+  }
+},
+{
+  "type": "way",
+  "id": 31403711,
+  "timestamp": "2024-12-11T05:02:13Z",
+  "version": 38,
+  "changeset": 160153498,
+  "user": "ComradeSukhov",
+  "uid": 9059129,
+  "center": {
+    "lat": 59.9286425,
+    "lon": 30.3566537
+  },
+  "nodes": [
+    1908472453,
+    1286941368
+  ],
+  "tags": {
+    "foot": "no",
+    "highway": "residential",
+    "lanes": "1",
+    "lit": "yes",
+    "maxspeed": "RU:urban",
+    "name": "Пушкинская улица",
+    "name:etymology:wikidata": "Q7200",
+    "oneway": "yes",
+    "postal_code": "191040",
+    "sidewalk:left": "no",
+    "sidewalk:right": "separate",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 75045350,
+  "timestamp": "2024-12-11T05:01:21Z",
+  "version": 35,
+  "changeset": 160153498,
+  "user": "ComradeSukhov",
+  "uid": 9059129,
+  "center": {
+    "lat": 59.9292669,
+    "lon": 30.3568655
+  },
+  "nodes": [
+    1908472456,
+    1286941400
+  ],
+  "tags": {
+    "foot": "no",
+    "highway": "residential",
+    "lanes": "1",
+    "lit": "yes",
+    "maxspeed": "RU:urban",
+    "name": "Пушкинская улица",
+    "name:etymology:wikidata": "Q7200",
+    "oneway": "yes",
+    "postal_code": "191040",
+    "sidewalk:both": "separate",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 121643135,
+  "timestamp": "2023-09-16T23:16:04Z",
+  "version": 36,
+  "changeset": 141361621,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "center": {
+    "lat": 59.9303214,
+    "lon": 30.3574805
+  },
+  "nodes": [
+    1570574351,
+    1304505122,
+    8641735153,
+    10763599648,
+    10763610113,
+    10763599643,
+    3689523358,
+    10763599634,
+    10763599627,
+    10763610122,
+    10763610132,
+    2060784491,
+    10763610137,
+    8621350948,
+    1908472456
+  ],
+  "tags": {
+    "foot": "no",
+    "highway": "residential",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "RU:urban",
+    "name": "Пушкинская улица",
+    "name:etymology:wikidata": "Q7200",
+    "oneway": "no",
+    "postal_code": "191040",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 177223195,
+  "timestamp": "2024-12-11T05:00:00Z",
+  "version": 30,
+  "changeset": 160153498,
+  "user": "ComradeSukhov",
+  "uid": 9059129,
+  "center": {
+    "lat": 59.9289482,
+    "lon": 30.3569151
+  },
+  "nodes": [
+    1286941368,
+    8621351014,
+    8621350947,
+    21729305,
+    21729304,
+    4026355741,
+    1286941291,
+    1286941321,
+    10763523088,
+    1286941296
+  ],
+  "tags": {
+    "foot": "no",
+    "highway": "residential",
+    "junction": "roundabout",
+    "lanes": "1",
+    "lit": "yes",
+    "maxspeed": "RU:urban",
+    "name": "Пушкинская улица",
+    "name:etymology:wikidata": "Q7200",
+    "oneway": "yes",
+    "postal_code": "191040",
+    "sidewalk:both": "separate",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 177223196,
+  "timestamp": "2024-12-11T05:00:06Z",
+  "version": 26,
+  "changeset": 160153498,
+  "user": "ComradeSukhov",
+  "uid": 9059129,
+  "center": {
+    "lat": 59.9289729,
+    "lon": 30.3566214
+  },
+  "nodes": [
+    1286941400,
+    1286941355,
+    1286941325,
+    21729307,
+    4026355733,
+    21729306,
+    8621351013,
+    8641735152,
+    1286941338
+  ],
+  "tags": {
+    "foot": "no",
+    "highway": "residential",
+    "junction": "roundabout",
+    "lanes": "1",
+    "lit": "yes",
+    "maxspeed": "RU:urban",
+    "name": "Пушкинская улица",
+    "name:etymology:wikidata": "Q7200",
+    "oneway": "yes",
+    "postal_code": "191040",
+    "sidewalk:both": "separate",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 180399551,
+  "timestamp": "2023-09-16T23:16:04Z",
+  "version": 23,
+  "changeset": 141361621,
+  "user": "traveleditor",
+  "uid": 8726248,
+  "center": {
+    "lat": 59.9277548,
+    "lon": 30.3561196
+  },
+  "nodes": [
+    1908472453,
+    3971264277,
+    3619565491,
+    8621350973,
+    3619565488,
+    8621350988,
+    3619565484,
+    6582345713,
+    8641735149,
+    3627204559,
+    1562060896
+  ],
+  "tags": {
+    "foot": "no",
+    "highway": "residential",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "RU:urban",
+    "name": "Пушкинская улица",
+    "name:etymology:wikidata": "Q7200",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 222259426,
+  "timestamp": "2024-12-11T05:02:19Z",
+  "version": 21,
+  "changeset": 160153498,
+  "user": "ComradeSukhov",
+  "uid": 9059129,
+  "center": {
+    "lat": 59.9286557,
+    "lon": 30.3565649
+  },
+  "nodes": [
+    1286941338,
+    1908472453
+  ],
+  "tags": {
+    "foot": "no",
+    "highway": "residential",
+    "lanes": "1",
+    "lit": "yes",
+    "maxspeed": "RU:urban",
+    "name": "Пушкинская улица",
+    "name:etymology:wikidata": "Q7200",
+    "oneway": "yes",
+    "postal_code": "191040",
+    "sidewalk:left": "no",
+    "sidewalk:right": "separate",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 222259428,
+  "timestamp": "2024-12-11T05:01:24Z",
+  "version": 22,
+  "changeset": 160153498,
+  "user": "ComradeSukhov",
+  "uid": 9059129,
+  "center": {
+    "lat": 59.9292554,
+    "lon": 30.3569553
+  },
+  "nodes": [
+    1286941296,
+    1908472456
+  ],
+  "tags": {
+    "foot": "no",
+    "highway": "residential",
+    "lanes": "1",
+    "lit": "yes",
+    "maxspeed": "RU:urban",
+    "name": "Пушкинская улица",
+    "name:etymology:wikidata": "Q7200",
+    "oneway": "yes",
+    "postal_code": "191040",
+    "sidewalk:both": "separate",
+    "surface": "asphalt"
+  }
+}
+
+  ]
+}

@@ -1,0 +1,398 @@
+{
+  "candidate_count": 49,
+  "accepted_count": 7,
+  "reviews": [
+    {
+      "query_id": "c61_elagin_park",
+      "osm_type": "node",
+      "osm_id": 2022962538,
+      "name": "На Елагином",
+      "status": "not_accepted",
+      "reason": "Not selected: outside the seven reviewed places or not an independent visitor stop; no claim about access."
+    },
+    {
+      "query_id": "c61_elagin_park",
+      "osm_type": "relation",
+      "osm_id": 1445800,
+      "name": "Центральный парк культуры и отдыха имени С. М. Кирова",
+      "status": "accepted",
+      "reason": "Explicit editorial selection; representative coordinate and access uncertainty retained."
+    },
+    {
+      "query_id": "c61_elagin_park",
+      "osm_type": "relation",
+      "osm_id": 1576343,
+      "name": "Елагин остров",
+      "status": "not_accepted",
+      "reason": "Not selected: outside the seven reviewed places or not an independent visitor stop; no claim about access."
+    },
+    {
+      "query_id": "c61_elagin_park",
+      "osm_type": "relation",
+      "osm_id": 2965059,
+      "name": "памятник природы «Елагин остров»",
+      "status": "not_accepted",
+      "reason": "Not selected: outside the seven reviewed places or not an independent visitor stop; no claim about access."
+    },
+    {
+      "query_id": "c61_elagin_park",
+      "osm_type": "relation",
+      "osm_id": 5633666,
+      "name": "2-й Елагин мост",
+      "status": "not_accepted",
+      "reason": "Not selected: outside the seven reviewed places or not an independent visitor stop; no claim about access."
+    },
+    {
+      "query_id": "c61_elagin_park",
+      "osm_type": "relation",
+      "osm_id": 5633667,
+      "name": "3-й Елагин мост",
+      "status": "not_accepted",
+      "reason": "Not selected: outside the seven reviewed places or not an independent visitor stop; no claim about access."
+    },
+    {
+      "query_id": "c61_elagin_park",
+      "osm_type": "relation",
+      "osm_id": 5633668,
+      "name": "1-й Елагин мост",
+      "status": "not_accepted",
+      "reason": "Not selected: outside the seven reviewed places or not an independent visitor stop; no claim about access."
+    },
+    {
+      "query_id": "c61_elagin_park",
+      "osm_type": "relation",
+      "osm_id": 8613894,
+      "name": "Елагинские пруды",
+      "status": "not_accepted",
+      "reason": "Not selected: outside the seven reviewed places or not an independent visitor stop; no claim about access."
+    },
+    {
+      "query_id": "c61_elagin_park",
+      "osm_type": "relation",
+      "osm_id": 16106558,
+      "name": "ЖК «Елагин апарт»",
+      "status": "not_accepted",
+      "reason": "Not selected: outside the seven reviewed places or not an independent visitor stop; no claim about access."
+    },
+    {
+      "query_id": "c61_elagin_park",
+      "osm_type": "relation",
+      "osm_id": 21389222,
+      "name": "ЖК «Дом у Елагина острова»",
+      "status": "not_accepted",
+      "reason": "Not selected: outside the seven reviewed places or not an independent visitor stop; no claim about access."
+    },
+    {
+      "query_id": "c61_elagin_park",
+      "osm_type": "way",
+      "osm_id": 4461337,
+      "name": "2-й Елагин мост",
+      "status": "not_accepted",
+      "reason": "Not selected: outside the seven reviewed places or not an independent visitor stop; no claim about access."
+    },
+    {
+      "query_id": "c61_elagin_park",
+      "osm_type": "way",
+      "osm_id": 100868959,
+      "name": "Елагин остров",
+      "status": "not_accepted",
+      "reason": "Not selected: outside the seven reviewed places or not an independent visitor stop; no claim about access."
+    },
+    {
+      "query_id": "c61_elagin_park",
+      "osm_type": "way",
+      "osm_id": 105637186,
+      "name": "Касса Елагин остров",
+      "status": "not_accepted",
+      "reason": "Not selected: outside the seven reviewed places or not an independent visitor stop; no claim about access."
+    },
+    {
+      "query_id": "c61_elagin_park",
+      "osm_type": "way",
+      "osm_id": 149248553,
+      "name": "3-й Елагин мост",
+      "status": "not_accepted",
+      "reason": "Not selected: outside the seven reviewed places or not an independent visitor stop; no claim about access."
+    },
+    {
+      "query_id": "c61_elagin_park",
+      "osm_type": "way",
+      "osm_id": 368503777,
+      "name": "2-й Елагин мост",
+      "status": "not_accepted",
+      "reason": "Not selected: outside the seven reviewed places or not an independent visitor stop; no claim about access."
+    },
+    {
+      "query_id": "c61_elagin_park",
+      "osm_type": "way",
+      "osm_id": 368506891,
+      "name": "3-й Елагин мост",
+      "status": "not_accepted",
+      "reason": "Not selected: outside the seven reviewed places or not an independent visitor stop; no claim about access."
+    },
+    {
+      "query_id": "c61_elagin_park",
+      "osm_type": "way",
+      "osm_id": 369563617,
+      "name": "1-й Елагин мост",
+      "status": "not_accepted",
+      "reason": "Not selected: outside the seven reviewed places or not an independent visitor stop; no claim about access."
+    },
+    {
+      "query_id": "c61_elagin_park",
+      "osm_type": "way",
+      "osm_id": 549549558,
+      "name": "1-й Елагин мост",
+      "status": "not_accepted",
+      "reason": "Not selected: outside the seven reviewed places or not an independent visitor stop; no claim about access."
+    },
+    {
+      "query_id": "c61_elagin_park",
+      "osm_type": "way",
+      "osm_id": 717881701,
+      "name": "Елагин дворец",
+      "status": "not_accepted",
+      "reason": "Not selected: outside the seven reviewed places or not an independent visitor stop; no claim about access."
+    },
+    {
+      "query_id": "c61_elagin_park",
+      "osm_type": "way",
+      "osm_id": 1283399395,
+      "name": "1-й Елагин мост",
+      "status": "not_accepted",
+      "reason": "Not selected: outside the seven reviewed places or not an independent visitor stop; no claim about access."
+    },
+    {
+      "query_id": "c61_elagin_park",
+      "osm_type": "way",
+      "osm_id": 1283399396,
+      "name": "1-й Елагин мост",
+      "status": "not_accepted",
+      "reason": "Not selected: outside the seven reviewed places or not an independent visitor stop; no claim about access."
+    },
+    {
+      "query_id": "c61_etagi",
+      "osm_type": "way",
+      "osm_id": 56077126,
+      "name": "Этажи",
+      "status": "accepted",
+      "reason": "Explicit editorial selection; representative coordinate and access uncertainty retained."
+    },
+    {
+      "query_id": "c61_glushko_museum",
+      "osm_type": "node",
+      "osm_id": 501596014,
+      "name": "Музей космонавтики и ракетной техники им. В. П. Глушко",
+      "status": "accepted",
+      "reason": "Explicit editorial selection; representative coordinate and access uncertainty retained."
+    },
+    {
+      "query_id": "c61_glushko_museum",
+      "osm_type": "node",
+      "osm_id": 1521311711,
+      "name": "Музей тюрьмы Трубецкого бастиона",
+      "status": "not_accepted",
+      "reason": "Not selected: outside the seven reviewed places or not an independent visitor stop; no claim about access."
+    },
+    {
+      "query_id": "c61_glushko_museum",
+      "osm_type": "node",
+      "osm_id": 4171192716,
+      "name": "Орудия пыток средневековья",
+      "status": "not_accepted",
+      "reason": "Not selected: outside the seven reviewed places or not an independent visitor stop; no claim about access."
+    },
+    {
+      "query_id": "c61_glushko_museum",
+      "osm_type": "node",
+      "osm_id": 5774146592,
+      "name": "Восковые фигуры",
+      "status": "not_accepted",
+      "reason": "Not selected: outside the seven reviewed places or not an independent visitor stop; no claim about access."
+    },
+    {
+      "query_id": "c61_glushko_museum",
+      "osm_type": "node",
+      "osm_id": 8655323872,
+      "name": "Музей истории денег",
+      "status": "not_accepted",
+      "reason": "Not selected: outside the seven reviewed places or not an independent visitor stop; no claim about access."
+    },
+    {
+      "query_id": "c61_glushko_museum",
+      "osm_type": "node",
+      "osm_id": 11426709418,
+      "name": "Потерна",
+      "status": "not_accepted",
+      "reason": "Not selected: outside the seven reviewed places or not an independent visitor stop; no claim about access."
+    },
+    {
+      "query_id": "c61_glushko_museum",
+      "osm_type": "node",
+      "osm_id": 12481595031,
+      "name": "Керамарх",
+      "status": "not_accepted",
+      "reason": "Not selected: outside the seven reviewed places or not an independent visitor stop; no claim about access."
+    },
+    {
+      "query_id": "c61_glushko_museum",
+      "osm_type": "node",
+      "osm_id": 12481595032,
+      "name": "Музей истории Петропавловской крепости",
+      "status": "not_accepted",
+      "reason": "«Музей истории Петропавловской крепости» — не входил в список семи мест; отдельно не добавлен."
+    },
+    {
+      "query_id": "c61_glushko_museum",
+      "osm_type": "relation",
+      "osm_id": 227970,
+      "name": "Комендантский дом",
+      "status": "not_accepted",
+      "reason": "Not selected: outside the seven reviewed places or not an independent visitor stop; no claim about access."
+    },
+    {
+      "query_id": "c61_glushko_museum",
+      "osm_type": "relation",
+      "osm_id": 2594678,
+      "name": "Великокняжеская усыпальница",
+      "status": "not_accepted",
+      "reason": "Not selected: outside the seven reviewed places or not an independent visitor stop; no claim about access."
+    },
+    {
+      "query_id": "c61_glushko_museum",
+      "osm_type": "relation",
+      "osm_id": 2594680,
+      "name": "Монетный двор",
+      "status": "not_accepted",
+      "reason": "Not selected: outside the seven reviewed places or not an independent visitor stop; no claim about access."
+    },
+    {
+      "query_id": "c61_glushko_museum",
+      "osm_type": "relation",
+      "osm_id": 2594681,
+      "name": "Петропавловский собор",
+      "status": "not_accepted",
+      "reason": "Not selected: outside the seven reviewed places or not an independent visitor stop; no claim about access."
+    },
+    {
+      "query_id": "c61_glushko_museum",
+      "osm_type": "relation",
+      "osm_id": 3213835,
+      "name": "Государственный музей истории Санкт-Петербурга",
+      "status": "not_accepted",
+      "reason": "Not selected: outside the seven reviewed places or not an independent visitor stop; no claim about access."
+    },
+    {
+      "query_id": "c61_museum_of_optics",
+      "osm_type": "node",
+      "osm_id": 1938744254,
+      "name": "Музей оптики",
+      "status": "accepted",
+      "reason": "Explicit editorial selection; representative coordinate and access uncertainty retained."
+    },
+    {
+      "query_id": "c61_pushkinskaya_10",
+      "osm_type": "node",
+      "osm_id": 5844613927,
+      "name": "Пушкинская 10",
+      "status": "not_accepted",
+      "reason": "Not selected: outside the seven reviewed places or not an independent visitor stop; no claim about access."
+    },
+    {
+      "query_id": "c61_pushkinskaya_10",
+      "osm_type": "node",
+      "osm_id": 5844613928,
+      "name": "Пушкинская-10",
+      "status": "accepted",
+      "reason": "Explicit editorial selection; representative coordinate and access uncertainty retained."
+    },
+    {
+      "query_id": "c61_pushkinskaya_10",
+      "osm_type": "node",
+      "osm_id": 6533612689,
+      "name": "Арт-центр Пушкинская 10",
+      "status": "not_accepted",
+      "reason": "«Арт-центр Пушкинская 10» — второй узел того же арт-центра; принят более полный канонический объект node/5844613928 (amenity=arts_centre, wikidata, wikipedia)."
+    },
+    {
+      "query_id": "c61_pushkinskaya_10",
+      "osm_type": "way",
+      "osm_id": 31403711,
+      "name": "Пушкинская улица",
+      "status": "not_accepted",
+      "reason": "Not selected: outside the seven reviewed places or not an independent visitor stop; no claim about access."
+    },
+    {
+      "query_id": "c61_pushkinskaya_10",
+      "osm_type": "way",
+      "osm_id": 75045350,
+      "name": "Пушкинская улица",
+      "status": "not_accepted",
+      "reason": "Not selected: outside the seven reviewed places or not an independent visitor stop; no claim about access."
+    },
+    {
+      "query_id": "c61_pushkinskaya_10",
+      "osm_type": "way",
+      "osm_id": 121643135,
+      "name": "Пушкинская улица",
+      "status": "not_accepted",
+      "reason": "Not selected: outside the seven reviewed places or not an independent visitor stop; no claim about access."
+    },
+    {
+      "query_id": "c61_pushkinskaya_10",
+      "osm_type": "way",
+      "osm_id": 177223195,
+      "name": "Пушкинская улица",
+      "status": "not_accepted",
+      "reason": "Not selected: outside the seven reviewed places or not an independent visitor stop; no claim about access."
+    },
+    {
+      "query_id": "c61_pushkinskaya_10",
+      "osm_type": "way",
+      "osm_id": 177223196,
+      "name": "Пушкинская улица",
+      "status": "not_accepted",
+      "reason": "Not selected: outside the seven reviewed places or not an independent visitor stop; no claim about access."
+    },
+    {
+      "query_id": "c61_pushkinskaya_10",
+      "osm_type": "way",
+      "osm_id": 180399551,
+      "name": "Пушкинская улица",
+      "status": "not_accepted",
+      "reason": "Not selected: outside the seven reviewed places or not an independent visitor stop; no claim about access."
+    },
+    {
+      "query_id": "c61_pushkinskaya_10",
+      "osm_type": "way",
+      "osm_id": 222259426,
+      "name": "Пушкинская улица",
+      "status": "not_accepted",
+      "reason": "Not selected: outside the seven reviewed places or not an independent visitor stop; no claim about access."
+    },
+    {
+      "query_id": "c61_pushkinskaya_10",
+      "osm_type": "way",
+      "osm_id": 222259428,
+      "name": "Пушкинская улица",
+      "status": "not_accepted",
+      "reason": "Not selected: outside the seven reviewed places or not an independent visitor stop; no claim about access."
+    },
+    {
+      "query_id": "c61_volshebnaya_milya",
+      "osm_type": "node",
+      "osm_id": 9961754793,
+      "name": "Волшебная миля",
+      "status": "accepted",
+      "reason": "Explicit editorial selection; representative coordinate and access uncertainty retained."
+    },
+    {
+      "query_id": "c61_vselennaya_vody",
+      "osm_type": "node",
+      "osm_id": 3937153654,
+      "name": "Вселенная воды",
+      "status": "accepted",
+      "reason": "Explicit editorial selection; representative coordinate and access uncertainty retained."
+    }
+  ]
+}
