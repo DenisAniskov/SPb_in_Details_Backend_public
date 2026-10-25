@@ -35,6 +35,7 @@ from app.services.assistant.openrouter import (
     StreamSummary,
 )
 from app.services.assistant.quota import (
+    PAID_REASONS,
     AssistantQuotaExceeded,
     AssistantQuotaLedger,
     AssistantStorageUnavailable,
@@ -91,6 +92,14 @@ STREAM_UNAVAILABLE = ("ИИ-помощник временно недоступе
 STREAM_BUSY = ("ИИ-помощник сейчас перегружен. "
                "Повторите запрос через минуту.")
 
+# Model-level failures that may fall through to the reserve model. Auth and
+# pricing errors are deliberately absent: they must trip the kill switch and
+# never switch to another model.
+RESERVE_FALLBACK_CODES = frozenset({
+    "model_not_available", "model_metadata_unavailable",
+    "timeout", "network", "provider_error",
+})
+
 
 @dataclass
 class _StreamLease:
@@ -126,6 +135,12 @@ class AssistantService:
         self._semaphore = asyncio.Semaphore(
             int(self._settings.AI_ASSISTANT_MAX_CONCURRENT))
         self._emergency_disabled = False
+        # Monotonic count of emergency trips and the reason of the latest one.
+        # An operator reset reads both to notice that a *new* latch landed
+        # while it was running, so it cannot credit itself with clearing a
+        # block it never reviewed.
+        self._trip_sequence = 0
+        self._last_trip_reason: str | None = None
 
     async def close(self) -> None:
         await self._client.close()
@@ -143,11 +158,97 @@ class AssistantService:
 
     async def _trip(self, reason: str) -> None:
         # In-process guard first: it works even when the durable write fails.
+        # The flags and the counter move in one synchronous step, before the
+        # first await, so a reset that is already running can always tell a
+        # fresh trip apart from the latch it set out to clear.
         self._emergency_disabled = True
+        self._trip_sequence += 1
+        self._last_trip_reason = reason
         try:
             await self._quota.trip_kill_switch(reason)
         except AssistantStorageUnavailable:
             pass
+
+    async def reset_kill_switch(
+        self, *, acknowledge_paid_usage: bool = False,
+    ) -> dict[str, Any]:
+        """Operator-controlled recovery from a tripped durable kill switch.
+
+        The latch is only cleared when the assistant would actually be usable
+        again: the OpenRouter key must authenticate, and every enabled model
+        must still verify as free and available. Resetting into a still-broken
+        configuration would trip the switch again on the next request, so it
+        is refused with a short reason code instead. No key, budget or
+        conversation detail ever leaves this method.
+
+        Two barriers guard a latch that recorded money (see `PAID_REASONS`):
+        it is not cleared unless the operator acknowledged the review, and the
+        acknowledgement is checked against the stored reason inside the same
+        transaction that deletes it. A trip that lands while this reset is
+        running is re-asserted rather than cleared, so the newest emergency
+        block always survives an operator reset.
+        """
+        sequence_at_entry = self._trip_sequence
+        if not (getattr(self._settings, "OPENROUTER_API_KEY", None) or "").strip():
+            return {"reset": False, "reason": "key_not_configured"}
+        if (self._emergency_disabled
+                and self._last_trip_reason in PAID_REASONS
+                and not acknowledge_paid_usage):
+            # A latch that survived only in memory — the durable write failed
+            # when it tripped — is still a money record. The barrier must see
+            # it before anything is verified or deleted.
+            return {
+                "reset": False,
+                "reason": "paid_usage_review_required",
+                "previous_reason": self._last_trip_reason,
+            }
+        try:
+            await self._client.key_status()
+        except OpenRouterError as error:
+            return {"reset": False, "reason": error.code}
+        except Exception:
+            return {"reset": False, "reason": "unavailable"}
+        try:
+            await self._client.verify_model(
+                str(self._settings.AI_ASSISTANT_MODEL_PRIMARY))
+            if self._settings.AI_ASSISTANT_RESERVE_ENABLED:
+                await self._client.verify_model(
+                    str(self._settings.AI_ASSISTANT_MODEL_RESERVE))
+        except OpenRouterError as error:
+            if error.code in ("model_is_paid", "model_price_missing",
+                              "model_price_invalid"):
+                await self._trip("paid_model_configuration")
+            return {"reset": False, "reason": error.code}
+        except Exception:
+            return {"reset": False, "reason": "unavailable"}
+        try:
+            outcome = await self._quota.reset_kill_switch(
+                acknowledge_paid_usage=acknowledge_paid_usage)
+        except AssistantStorageUnavailable:
+            return {"reset": False, "reason": "storage_unavailable"}
+        if not outcome.cleared:
+            return {
+                "reset": False,
+                "reason": outcome.refusal,
+                "previous_reason": outcome.stored_reason,
+            }
+        if self._trip_sequence != sequence_at_entry:
+            # A request that was already in flight when the reviewed latch was
+            # written has now tripped the switch itself. Its latch was written
+            # after — or deleted with — the value just cleared, so it is
+            # re-asserted here and reported as a failed reset: the operator
+            # must look at the new reason instead of assuming recovery.
+            await self._trip(self._last_trip_reason or "concurrent_trip")
+            return {
+                "reset": False,
+                "reason": "concurrent_trip",
+                "previous_reason": self._last_trip_reason,
+            }
+        # Same instance serves chat and stream: clearing the in-process latch
+        # lets the assistant recover without a container restart.
+        self._emergency_disabled = False
+        self._last_trip_reason = None
+        return {"reset": True, "previous_reason": outcome.stored_reason}
 
     async def _settle(
         self,
@@ -250,9 +351,8 @@ class AssistantService:
                     if error.code in ("model_is_paid", "model_price_missing",
                                       "model_price_invalid"):
                         await self._trip("paid_model_configuration")
-                    if (index == 0 and len(attempts) > 1 and error.code in (
-                            "model_not_available", "model_metadata_unavailable",
-                            "timeout", "network", "provider_error")):
+                    if (index == 0 and len(attempts) > 1
+                            and error.code in RESERVE_FALLBACK_CODES):
                         continue
                     raise self._mapped(error) from None
 
@@ -356,17 +456,30 @@ class AssistantService:
             raise AssistantBusy()
         await self._semaphore.acquire()
         try:
-            # Streaming intentionally uses only the primary free model. A
-            # fallback after any fragment has been emitted is forbidden, and
-            # the reserve model stays disabled unless an operator enables it.
+            # A model switch is allowed only BEFORE any SSE fragment exists:
+            # after `started` names a model, substituting another one would
+            # contradict the already emitted event. Here nothing was emitted
+            # yet, so the same reserve check as `chat` is safe. The reserve
+            # stays disabled unless an operator enables it.
             model_id = str(self._settings.AI_ASSISTANT_MODEL_PRIMARY)
-            try:
-                await self._client.verify_model(model_id)
-            except OpenRouterError as error:
-                if error.code in ("model_is_paid", "model_price_missing",
-                                  "model_price_invalid"):
-                    await self._trip("paid_model_configuration")
-                raise self._mapped(error) from None
+            candidates = [model_id]
+            if self._settings.AI_ASSISTANT_RESERVE_ENABLED:
+                reserve = str(self._settings.AI_ASSISTANT_MODEL_RESERVE)
+                if reserve != model_id:
+                    candidates.append(reserve)
+            for index, candidate in enumerate(candidates):
+                try:
+                    await self._client.verify_model(candidate)
+                except OpenRouterError as error:
+                    if error.code in ("model_is_paid", "model_price_missing",
+                                      "model_price_invalid"):
+                        await self._trip("paid_model_configuration")
+                    if (index == 0 and len(candidates) > 1
+                            and error.code in RESERVE_FALLBACK_CODES):
+                        continue
+                    raise self._mapped(error) from None
+                model_id = candidate
+                break
             try:
                 reservation_id = await self._quota.reserve(
                     source_hash=source_hash,
@@ -615,10 +728,16 @@ class AssistantService:
             except Exception:
                 key_status_reason = "unavailable"
         try:
-            kill_switch = await self._quota.kill_switch_reason() is not None
+            stored_kill_reason = await self._quota.kill_switch_reason()
             stats = await self._quota.stats()
         except AssistantStorageUnavailable:
             raise AssistantUnavailable("storage_unavailable") from None
+        # Report the state the service actually acts on. A latch that survived
+        # only in memory (its durable write failed) blocks requests exactly
+        # like the durable one, and the operator needs the reason to tell
+        # whether the paid-usage review applies before resetting.
+        kill_switch_reason = stored_kill_reason or (
+            self._last_trip_reason if self._emergency_disabled else None)
         evidence = read_backup_evidence()
         return AssistantStatusResponse(
             enabled=bool(self._settings.AI_ASSISTANT_ENABLED),
@@ -636,7 +755,8 @@ class AssistantService:
             key_usage_usd=key_info.get("usage_usd"),
             key_remaining_usd=key_info.get("remaining_usd"),
             key_free_tier=key_info.get("is_free_tier"),
-            kill_switch_tripped=kill_switch,
+            kill_switch_tripped=kill_switch_reason is not None,
+            kill_switch_reason=kill_switch_reason,
             quota=AssistantQuotaStatus(**stats),
             backup_available=evidence is not None,
             backup_sha256=evidence.get("sha256") if evidence else None,

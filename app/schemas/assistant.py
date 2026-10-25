@@ -116,6 +116,32 @@ class AssistantCapabilitiesResponse(BaseModel):
     retry_after_seconds: int | None = Field(default=None, ge=1)
 
 
+class AssistantKillSwitchResetRequest(BaseModel):
+    """Optional operator body for the recovery endpoint.
+
+    `paid_usage_review` is the paid-usage barrier. A latch that records money
+    (detected spend, a payment-required response, or a paid model in the
+    configuration) is only cleared when the operator states that the cause and
+    the possible charges were reviewed; any other value is rejected outright,
+    so a routine reset cannot clear spending by accident.
+    """
+
+    model_config = ConfigDict(extra="forbid")
+
+    paid_usage_review: Literal["acknowledged"] | None = None
+
+
+class AssistantKillSwitchResetResponse(BaseModel):
+    """Operator-only reset result. Only short internal reason codes; the
+    OpenRouter key, budget and provider error bodies never appear here."""
+
+    model_config = ConfigDict(extra="forbid")
+
+    reset: bool
+    reason: str | None = Field(default=None, max_length=64)
+    previous_reason: str | None = Field(default=None, max_length=64)
+
+
 class AssistantStatusResponse(BaseModel):
     enabled: bool
     access_mode: Literal["private_test", "guest_limited", "disabled"]
@@ -133,6 +159,7 @@ class AssistantStatusResponse(BaseModel):
     key_remaining_usd: float | None = Field(default=None, ge=0, allow_inf_nan=False)
     key_free_tier: bool | None = None
     kill_switch_tripped: bool = False
+    kill_switch_reason: str | None = Field(default=None, max_length=64)
     quota: AssistantQuotaStatus
     backup_available: bool = False
     backup_sha256: str | None = None

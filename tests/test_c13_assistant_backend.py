@@ -14,7 +14,7 @@ import httpx
 import pytest
 import pytest_asyncio
 from pydantic import ValidationError
-from sqlalchemy import select, update
+from sqlalchemy import select, text, update
 from sqlalchemy.ext.asyncio import create_async_engine
 
 from app.api.v1.endpoints import assistant as assistant_endpoint
@@ -35,6 +35,7 @@ from app.services.assistant.openrouter import (
 from app.services.assistant.quota import (
     AssistantQuotaExceeded,
     AssistantQuotaLedger,
+    AssistantStorageUnavailable,
     initialize_assistant_schema,
 )
 from app.services.assistant.service import (
@@ -345,6 +346,418 @@ async def test_paid_usage_trips_kill_switch(
         await service.chat(db_session, _request(), source_hash="i" * 32)
     assert raised.value.code == "kill_switch"
     assert len(fake.calls) == calls
+
+
+@pytest.mark.asyncio
+async def test_auth_error_trips_durable_kill_switch(
+        db_session, assistant_ledger, monkeypatch):
+    _enable(monkeypatch)
+    fake = FakeClient(errors=[OpenRouterError("auth_error", status_code=401)])
+    service = _service(fake, assistant_ledger)
+    with pytest.raises(AssistantUnavailable) as raised:
+        await service.chat(db_session, _request(), source_hash="i" * 32)
+    assert raised.value.status_code == 503
+    assert await AssistantQuotaLedger(engine=assistant_ledger).kill_switch_reason() \
+        == "auth_error"
+    calls = len(fake.calls)
+    with pytest.raises(AssistantUnavailable) as latched:
+        await service.chat(db_session, _request(), source_hash="i" * 32)
+    assert latched.value.code == "kill_switch"
+    assert len(fake.calls) == calls
+
+
+@pytest.mark.asyncio
+async def test_kill_switch_reset_requires_operator_code(
+        client, db_session, assistant_ledger, monkeypatch):
+    _enable(monkeypatch)
+    ledger = AssistantQuotaLedger(engine=assistant_ledger)
+    await ledger.trip_kill_switch("auth_error")
+    fake = FakeClient()
+    monkeypatch.setattr(
+        assistant_endpoint, "get_assistant_service",
+        lambda: _service(fake, assistant_ledger))
+
+    denied = await client.post("/api/v1/assistant/kill-switch/reset")
+    assert denied.status_code == 401
+    wrong = await client.post(
+        "/api/v1/assistant/kill-switch/reset",
+        headers={"x-assistant-access-code": "wrong-code"})
+    assert wrong.status_code == 401
+    assert await ledger.kill_switch_reason() == "auth_error"
+    assert fake.calls == [] and fake.verified == []
+
+
+@pytest.mark.asyncio
+async def test_kill_switch_reset_refused_while_key_invalid(
+        db_session, assistant_ledger, monkeypatch):
+    _enable(monkeypatch)
+    ledger = AssistantQuotaLedger(engine=assistant_ledger)
+    await ledger.trip_kill_switch("auth_error")
+    fake = FakeClient()
+
+    async def broken_key_status():
+        raise OpenRouterError("auth_error")
+
+    fake.key_status = broken_key_status
+    service = _service(fake, assistant_ledger)
+    result = await service.reset_kill_switch()
+    assert result == {"reset": False, "reason": "auth_error"}
+    assert await ledger.kill_switch_reason() == "auth_error"
+    assert fake.verified == []
+
+
+@pytest.mark.asyncio
+async def test_kill_switch_reset_refused_when_model_verification_fails(
+        db_session, assistant_ledger, monkeypatch):
+    _enable(monkeypatch, reserve=True)
+    ledger = AssistantQuotaLedger(engine=assistant_ledger)
+    await ledger.trip_kill_switch("paid_usage_detected")
+    fake = FakeClient()
+
+    async def missing_model(model_id):
+        raise OpenRouterError("model_not_available")
+
+    fake.verify_model = missing_model
+    service = _service(fake, assistant_ledger)
+    result = await service.reset_kill_switch()
+    assert result == {"reset": False, "reason": "model_not_available"}
+    assert await ledger.kill_switch_reason() == "paid_usage_detected"
+
+
+@pytest.mark.asyncio
+async def test_kill_switch_reset_success_recovers_assistant(
+        db_session, assistant_ledger, monkeypatch):
+    _enable(monkeypatch, reserve=True)
+    ledger = AssistantQuotaLedger(engine=assistant_ledger)
+    await ledger.trip_kill_switch("auth_error")
+    fake = FakeClient()
+    service = _service(fake, assistant_ledger)
+
+    result = await service.reset_kill_switch()
+    assert result == {"reset": True, "previous_reason": "auth_error"}
+    assert await ledger.kill_switch_reason() is None
+    assert service._emergency_disabled is False
+    # Every enabled model was re-verified before the latch was cleared.
+    assert fake.verified == [PRIMARY, RESERVE]
+
+    reply = await service.chat(db_session, _request(), source_hash="i" * 32)
+    assert reply.answer == "Ответ помощника."
+    assert fake.calls[0]["model_id"] == PRIMARY
+
+
+@pytest.mark.asyncio
+async def test_kill_switch_reset_api_recovers_guest_availability(
+        client, db_session, assistant_ledger, monkeypatch):
+    _enable(monkeypatch)
+    ledger = AssistantQuotaLedger(engine=assistant_ledger)
+    await ledger.trip_kill_switch("auth_error")
+    fake = FakeClient()
+    monkeypatch.setattr(
+        assistant_endpoint, "get_assistant_service",
+        lambda: _service(fake, assistant_ledger))
+
+    response = await client.post(
+        "/api/v1/assistant/kill-switch/reset",
+        headers={"x-assistant-access-code": CODE})
+    assert response.status_code == 200
+    body = response.json()
+    assert body["reset"] is True
+    assert body["previous_reason"] == "auth_error"
+    assert await ledger.kill_switch_reason() is None
+    # The key stayed secret and no upstream chat ran during the reset.
+    assert "sk-or-v1" not in response.text
+    assert fake.calls == []
+    assert fake.verified == [PRIMARY]
+
+
+async def _ledger_rows(engine):
+    async with engine.connect() as connection:
+        return list((await connection.execute(text(
+            "SELECT outcome, error_code, provider_cost "
+            "FROM assistant_quota_ledger ORDER BY id"))).all())
+
+
+def _gated_client(*, gate: asyncio.Event, release: asyncio.Event,
+                  entered: asyncio.Event):
+    """A client whose first model check parks, so a trip can land mid-reset."""
+
+    class GatedClient(FakeClient):
+        async def verify_model(self, model_id):
+            self.verified.append(model_id)
+            if not gate.is_set():
+                gate.set()
+                entered.set()
+                await release.wait()
+            return FreeModelInfo(model_id, Decimal(0), Decimal(0), 0.0)
+
+    return GatedClient()
+
+
+@pytest.mark.asyncio
+async def test_kill_switch_reset_requires_paid_usage_acknowledgement(
+        db_session, assistant_ledger, monkeypatch):
+    """A latch that recorded real spending cannot be cleared by a plain reset."""
+    _enable(monkeypatch)
+    ledger = AssistantQuotaLedger(engine=assistant_ledger)
+    # The spending record the operator must still see after the reset.
+    reservation = await ledger.reserve(
+        source_hash="f" * 32, model_id=PRIMARY,
+        request_id="paid-request-0001", attempt=1)
+    await ledger.settle(
+        reservation, outcome="paid_usage", provider_cost=0.02,
+        error_code="paid_usage")
+    await ledger.trip_kill_switch("paid_usage_detected")
+    fake = FakeClient()
+    service = _service(fake, assistant_ledger)
+    audit_before = await _ledger_rows(assistant_ledger)
+
+    refused = await service.reset_kill_switch()
+    assert refused == {
+        "reset": False,
+        "reason": "paid_usage_review_required",
+        "previous_reason": "paid_usage_detected",
+    }
+    assert await ledger.kill_switch_reason() == "paid_usage_detected"
+    with pytest.raises(AssistantUnavailable) as latched:
+        await service.chat(db_session, _request(), source_hash="f" * 32)
+    assert latched.value.code == "kill_switch"
+    assert fake.calls == []
+
+    cleared = await service.reset_kill_switch(acknowledge_paid_usage=True)
+    assert cleared == {"reset": True, "previous_reason": "paid_usage_detected"}
+    assert await ledger.kill_switch_reason() is None
+    # Clearing the latch must never erase the evidence of the spending.
+    assert await _ledger_rows(assistant_ledger) == audit_before
+    assert audit_before == [("paid_usage", "paid_usage", 0.02)]
+
+
+@pytest.mark.asyncio
+@pytest.mark.parametrize("reason", [
+    "paid_usage_detected", "payment_required", "paid_model_configuration",
+])
+async def test_every_paid_latch_reason_needs_the_acknowledgement(
+        db_session, assistant_ledger, monkeypatch, reason):
+    _enable(monkeypatch)
+    ledger = AssistantQuotaLedger(engine=assistant_ledger)
+    await ledger.trip_kill_switch(reason)
+    service = _service(FakeClient(), assistant_ledger)
+
+    refused = await service.reset_kill_switch()
+    assert refused["reason"] == "paid_usage_review_required"
+    assert refused["previous_reason"] == reason
+    assert await ledger.kill_switch_reason() == reason
+
+
+@pytest.mark.asyncio
+async def test_in_memory_paid_latch_also_needs_the_acknowledgement(
+        db_session, assistant_ledger, monkeypatch):
+    """A paid latch whose durable write failed is still a money record."""
+    _enable(monkeypatch)
+    service = _service(FakeClient(), assistant_ledger)
+
+    async def unavailable(reason_code):
+        raise AssistantStorageUnavailable()
+
+    service._quota.trip_kill_switch = unavailable
+    await service._trip("paid_usage_detected")
+    assert await AssistantQuotaLedger(
+        engine=assistant_ledger).kill_switch_reason() is None
+
+    refused = await service.reset_kill_switch()
+    assert refused == {
+        "reset": False,
+        "reason": "paid_usage_review_required",
+        "previous_reason": "paid_usage_detected",
+    }
+    assert service._emergency_disabled is True
+
+    cleared = await service.reset_kill_switch(acknowledge_paid_usage=True)
+    assert cleared == {"reset": True, "previous_reason": None}
+    assert service._emergency_disabled is False
+
+
+@pytest.mark.asyncio
+async def test_reset_does_not_lose_a_trip_that_lands_while_it_runs(
+        db_session, assistant_ledger, monkeypatch):
+    """A request already in flight can trip the switch mid-reset.
+
+    Its latch is newer than the one the operator reviewed, so the reset must
+    report failure and leave the emergency block in force.
+    """
+    _enable(monkeypatch)
+    ledger = AssistantQuotaLedger(engine=assistant_ledger)
+    await ledger.trip_kill_switch("auth_error")
+    gate, release, entered = asyncio.Event(), asyncio.Event(), asyncio.Event()
+    fake = _gated_client(gate=gate, release=release, entered=entered)
+    service = _service(fake, assistant_ledger)
+
+    reset = asyncio.create_task(service.reset_kill_switch())
+    await entered.wait()
+    await service._trip("auth_error")
+    release.set()
+    result = await reset
+
+    assert result == {
+        "reset": False,
+        "reason": "concurrent_trip",
+        "previous_reason": "auth_error",
+    }
+    # The newest latch survived in both places, and the assistant stays shut.
+    assert await ledger.kill_switch_reason() == "auth_error"
+    assert service._emergency_disabled is True
+    with pytest.raises(AssistantUnavailable) as latched:
+        await service.chat(db_session, _request(), source_hash="g" * 32)
+    assert latched.value.code == "kill_switch"
+    assert fake.calls == []
+
+
+@pytest.mark.asyncio
+async def test_reset_refuses_when_a_paid_trip_lands_while_it_runs(
+        db_session, assistant_ledger, monkeypatch):
+    """The paid barrier is judged on the value the reset is about to delete.
+
+    The reviewed latch said `auth_error`; the in-flight request replaced it
+    with a money record while the operator path was running. What is stored at
+    the moment of the delete is what the barrier must react to.
+    """
+    _enable(monkeypatch)
+    ledger = AssistantQuotaLedger(engine=assistant_ledger)
+    await ledger.trip_kill_switch("auth_error")
+    gate, release, entered = asyncio.Event(), asyncio.Event(), asyncio.Event()
+    service = _service(
+        _gated_client(gate=gate, release=release, entered=entered),
+        assistant_ledger)
+
+    reset = asyncio.create_task(service.reset_kill_switch())
+    await entered.wait()
+    await service._trip("paid_usage_detected")
+    release.set()
+    result = await reset
+
+    assert result == {
+        "reset": False,
+        "reason": "paid_usage_review_required",
+        "previous_reason": "paid_usage_detected",
+    }
+    assert await ledger.kill_switch_reason() == "paid_usage_detected"
+    assert service._emergency_disabled is True
+
+
+@pytest.mark.asyncio
+async def test_reset_does_not_clear_quotas_or_the_audit_ledger(
+        db_session, assistant_ledger, monkeypatch):
+    """The reset clears the latch only: quotas and settled rows stay."""
+    _enable(monkeypatch, AI_ASSISTANT_GLOBAL_PER_MINUTE=1)
+    ledger = AssistantQuotaLedger(engine=assistant_ledger)
+    service = _service(FakeClient(), assistant_ledger)
+    await service.chat(db_session, _request(), source_hash="h" * 32)
+    audit_before = await _ledger_rows(assistant_ledger)
+    await ledger.trip_kill_switch("auth_error")
+
+    result = await service.reset_kill_switch()
+
+    assert result == {"reset": True, "previous_reason": "auth_error"}
+    assert audit_before == [("ok", None, 0.0)]
+    assert await _ledger_rows(assistant_ledger) == audit_before
+    # The window that was already exhausted is still exhausted.
+    with pytest.raises(AssistantUnavailable) as exceeded:
+        await service.chat(db_session, _request(), source_hash="h" * 32)
+    assert exceeded.value.code == "quota_exceeded"
+
+
+@pytest.mark.asyncio
+async def test_ledger_reset_locks_before_reading_the_latch(assistant_ledger):
+    """Clear-atomically is a property of the statement order, not a hope.
+
+    Reading the latch under a deferred lock would let a concurrent emergency
+    trip commit between the read and the delete, and the delete would then
+    erase the newest latch. `BEGIN IMMEDIATE` before the read is what prevents
+    it, so this pins that order against a future refactor.
+    """
+    from sqlalchemy import event
+
+    statements: list[str] = []
+
+    def record(conn, cursor, statement, parameters, context, executemany):
+        statements.append(statement.strip().upper())
+
+    ledger = AssistantQuotaLedger(engine=assistant_ledger)
+    await ledger.trip_kill_switch("auth_error")
+    event.listen(assistant_ledger.sync_engine, "before_cursor_execute", record)
+    try:
+        statements.clear()
+        outcome = await ledger.reset_kill_switch()
+    finally:
+        event.remove(
+            assistant_ledger.sync_engine, "before_cursor_execute", record)
+
+    assert outcome.cleared is True
+    assert outcome.stored_reason == "auth_error"
+    lock = next(i for i, sql in enumerate(statements)
+                if sql.startswith("BEGIN IMMEDIATE"))
+    read = next(i for i, sql in enumerate(statements)
+                if sql.startswith("SELECT"))
+    delete = next(i for i, sql in enumerate(statements)
+                  if sql.startswith("DELETE"))
+    assert lock < read < delete
+
+
+@pytest.mark.asyncio
+async def test_operator_status_reports_the_latch_reason(
+        client, db_session, assistant_ledger, monkeypatch):
+    """The operator must be able to read the cause before deciding to reset."""
+    _enable(monkeypatch)
+    ledger = AssistantQuotaLedger(engine=assistant_ledger)
+    await ledger.trip_kill_switch("paid_usage_detected")
+    monkeypatch.setattr(
+        assistant_endpoint, "get_assistant_service",
+        lambda: _service(FakeClient(), assistant_ledger))
+
+    response = await client.get(
+        "/api/v1/assistant/status",
+        headers={"x-assistant-access-code": CODE})
+    assert response.status_code == 200
+    data = response.json()
+    assert data["kill_switch_tripped"] is True
+    assert data["kill_switch_reason"] == "paid_usage_detected"
+    assert "sk-or-v1" not in response.text
+
+
+@pytest.mark.asyncio
+async def test_kill_switch_reset_api_requires_the_paid_acknowledgement(
+        client, db_session, assistant_ledger, monkeypatch):
+    _enable(monkeypatch)
+    ledger = AssistantQuotaLedger(engine=assistant_ledger)
+    await ledger.trip_kill_switch("paid_usage_detected")
+    monkeypatch.setattr(
+        assistant_endpoint, "get_assistant_service",
+        lambda: _service(FakeClient(), assistant_ledger))
+    headers = {"x-assistant-access-code": CODE}
+
+    refused = await client.post(
+        "/api/v1/assistant/kill-switch/reset", headers=headers)
+    assert refused.status_code == 200
+    assert refused.json() == {
+        "reset": False,
+        "reason": "paid_usage_review_required",
+        "previous_reason": "paid_usage_detected",
+    }
+    assert await ledger.kill_switch_reason() == "paid_usage_detected"
+
+    # An unexplained value is a validation error, never a silent review.
+    invalid = await client.post(
+        "/api/v1/assistant/kill-switch/reset", headers=headers,
+        json={"paid_usage_review": "yes"})
+    assert invalid.status_code == 422
+    assert await ledger.kill_switch_reason() == "paid_usage_detected"
+
+    acknowledged = await client.post(
+        "/api/v1/assistant/kill-switch/reset", headers=headers,
+        json={"paid_usage_review": "acknowledged"})
+    assert acknowledged.status_code == 200
+    assert acknowledged.json()["reset"] is True
+    assert await ledger.kill_switch_reason() is None
+    assert "sk-or-v1" not in acknowledged.text
 
 
 @pytest.mark.asyncio
