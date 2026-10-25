@@ -191,6 +191,8 @@ def test_streaming_endpoint_is_wired_without_weakening_config():
     paths = {route.path for route in assistant_endpoint.router.routes}
     assert "/chat" in paths
     assert "/chat/stream" in paths
+    # The operator recovery route exists and stays code-protected.
+    assert "/kill-switch/reset" in paths
 
 
 @pytest.mark.asyncio
@@ -512,3 +514,150 @@ async def test_api_stream_preflight_keeps_http_quota_contract(
     assert second.status_code == 429
     assert int(second.headers["retry-after"]) >= 1
     assert len(fake.stream_calls) == 1
+
+
+class SelectiveVerifyClient(FakeStreamingClient):
+    """Fails model verification for chosen ids; passes every other check."""
+
+    def __init__(self, *, fail_for, error, **kwargs):
+        super().__init__(**kwargs)
+        self._fail_for = fail_for
+        self._error = error
+
+    async def verify_model(self, model_id):
+        self.verified.append(model_id)
+        if model_id == self._fail_for:
+            raise self._error
+        return FreeModelInfo(model_id, Decimal(0), Decimal(0), 0.0)
+
+
+@pytest.mark.asyncio
+async def test_service_stream_preflight_falls_back_to_reserve_model(
+        db_session, assistant_ledger, monkeypatch):
+    _enable(monkeypatch, AI_ASSISTANT_RESERVE_ENABLED=True)
+    fake = SelectiveVerifyClient(
+        fail_for=PRIMARY, error=OpenRouterError("model_not_available"),
+        chunks=[StreamDelta("Резерв ", RESERVE), _summary(model_id=RESERVE)])
+    service = _service(fake, assistant_ledger)
+
+    lease = await service.prepare_stream(
+        db_session, _request(), source_hash="p" * 32)
+    assert lease.model_id == RESERVE
+    # The fallback happened before any SSE event, so both models were checked.
+    assert fake.verified == [PRIMARY, RESERVE]
+
+    events = [event async for event in service.stream(lease)]
+    assert [event["event"] for event in events] == [
+        "started", "delta", "completed"]
+    assert events[0]["data"] == {"model": RESERVE}
+    assert events[-1]["data"]["model"] == RESERVE
+    assert service._semaphore.locked() is False
+    async with assistant_ledger.connect() as connection:
+        model_row = (await connection.execute(text(
+            "SELECT model_id, attempt FROM assistant_quota_ledger"))).first()
+    assert model_row == (RESERVE, 1)
+
+
+@pytest.mark.asyncio
+async def test_service_stream_preflight_does_not_fallback_when_reserve_disabled(
+        db_session, assistant_ledger, monkeypatch):
+    _enable(monkeypatch, AI_ASSISTANT_RESERVE_ENABLED=False)
+    fake = SelectiveVerifyClient(
+        fail_for=PRIMARY, error=OpenRouterError("model_not_available"))
+    service = _service(fake, assistant_ledger)
+    from app.services.assistant.service import AssistantUnavailable
+
+    with pytest.raises(AssistantUnavailable) as raised:
+        await service.prepare_stream(
+            db_session, _request(), source_hash="q" * 32)
+    assert raised.value.status_code == 503
+    assert fake.verified == [PRIMARY]
+    assert fake.stream_calls == []
+    assert service._semaphore.locked() is False
+
+
+@pytest.mark.asyncio
+async def test_service_stream_preflight_never_falls_back_on_auth_error(
+        db_session, assistant_ledger, monkeypatch):
+    _enable(monkeypatch, AI_ASSISTANT_RESERVE_ENABLED=True)
+    fake = SelectiveVerifyClient(
+        fail_for=PRIMARY, error=OpenRouterError("auth_error", status_code=401))
+    service = _service(fake, assistant_ledger)
+    from app.services.assistant.service import AssistantUnavailable
+
+    with pytest.raises(AssistantUnavailable):
+        await service.prepare_stream(
+            db_session, _request(), source_hash="r" * 32)
+    # An auth failure must never switch models. Preflight verification keeps
+    # the chat-path contract: the kill switch trips on chat-time auth errors,
+    # and the preflight fails closed before any upstream chat call.
+    assert fake.verified == [PRIMARY]
+    assert await AssistantQuotaLedger(engine=assistant_ledger).kill_switch_reason() \
+        is None
+    assert fake.stream_calls == []
+    assert service._semaphore.locked() is False
+
+
+@pytest.mark.asyncio
+async def test_api_stream_preflight_falls_back_to_reserve_model(
+        client, db_session, assistant_ledger, monkeypatch):
+    _guest(monkeypatch, AI_ASSISTANT_RESERVE_ENABLED=True)
+    fake = SelectiveVerifyClient(
+        fail_for=PRIMARY, error=OpenRouterError("model_not_available"),
+        chunks=[StreamDelta("Резервный ответ", RESERVE),
+                _summary(model_id=RESERVE)])
+    service = _service(fake, assistant_ledger)
+    monkeypatch.setattr(assistant_endpoint, "get_assistant_service", lambda: service)
+
+    async with client.stream(
+            "POST", "/api/v1/assistant/chat/stream",
+            json={"message": "Расскажи о городе"}) as response:
+        assert response.status_code == 200
+        raw = "".join([chunk async for chunk in response.aiter_text()])
+
+    events = _parse_sse(raw)
+    assert [name for name, _ in events] == ["started", "delta", "completed"]
+    assert events[0][1] == {"model": RESERVE}
+    assert events[-1][1]["model"] == RESERVE
+    assert "sk-or-v1" not in raw and CODE not in raw
+
+
+@pytest.mark.asyncio
+async def test_stream_never_switches_model_after_started(
+        db_session, assistant_ledger, monkeypatch):
+    """A model switch is legal only before any SSE event exists.
+
+    With the reserve enabled, a retryable upstream failure *after* `started`
+    stays a failure of the model that was already named: the client is never
+    left with fragments from one model and a completion from another, and the
+    error is reported instead of being hidden behind a silent substitution.
+    """
+    _enable(monkeypatch, AI_ASSISTANT_RESERVE_ENABLED=True)
+
+    async def chunks():
+        yield StreamDelta("Предварительный текст", PRIMARY)
+        raise OpenRouterError("provider_error", retryable=True)
+
+    fake = FakeStreamingClient()
+
+    def stream_chat(*, model_id, messages):
+        fake.stream_calls.append({"model_id": model_id, "messages": messages})
+        return chunks()
+
+    fake.stream_chat = stream_chat
+    service = _service(fake, assistant_ledger)
+    lease = await service.prepare_stream(
+        db_session, _request(), source_hash="s" * 32)
+    assert lease.model_id == PRIMARY
+    events = [event async for event in service.stream(lease)]
+
+    assert [event["event"] for event in events] == [
+        "started", "delta", "error"]
+    assert events[0]["data"] == {"model": PRIMARY}
+    assert events[-1]["data"]["code"] == "unavailable"
+    # One upstream call, on the model `started` already announced.
+    assert [call["model_id"] for call in fake.stream_calls] == [PRIMARY]
+    assert await _rows(assistant_ledger) == [
+        ("provider_error", "provider_error", None)]
+    assert await AssistantQuotaLedger(
+        engine=assistant_ledger).kill_switch_reason() is None

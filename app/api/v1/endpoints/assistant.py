@@ -29,6 +29,8 @@ from app.schemas.assistant import (
     AssistantCapabilitiesResponse,
     AssistantChatRequest,
     AssistantChatResponse,
+    AssistantKillSwitchResetRequest,
+    AssistantKillSwitchResetResponse,
     AssistantStatusResponse,
 )
 from app.services.assistant.backup import backup_export_file
@@ -362,6 +364,30 @@ async def assistant_status(_source_ip: str = Depends(_require_operator_access)):
         return await service.status()
     except AssistantUnavailable as error:
         raise _as_http(error) from None
+
+
+@router.post(
+    "/kill-switch/reset",
+    response_model=AssistantKillSwitchResetResponse,
+    summary="Сброс постоянного kill switch (только оператор)",
+)
+async def assistant_kill_switch_reset(
+    payload: AssistantKillSwitchResetRequest | None = None,
+    _source_ip: str = Depends(_require_operator_access),
+):
+    """Operator recovery path for the durable emergency latch.
+
+    The reset refuses while the underlying problem persists: the OpenRouter
+    key must authenticate and the enabled models must verify as free before
+    the latch is cleared. A latch that recorded money additionally requires the
+    `paid_usage_review` acknowledgement in the body, so spending is never
+    cleared by a routine reset. The response carries only short reason codes.
+    """
+    service = get_assistant_service()
+    result = await service.reset_kill_switch(
+        acknowledge_paid_usage=bool(
+            payload and payload.paid_usage_review == "acknowledged"))
+    return AssistantKillSwitchResetResponse(**result)
 
 
 async def _require_export_token(request: Request) -> None:

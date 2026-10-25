@@ -14,6 +14,7 @@ from __future__ import annotations
 import math
 import time
 from collections.abc import Callable
+from dataclasses import dataclass
 from typing import Any
 
 from sqlalchemy import text
@@ -24,6 +25,7 @@ from app.core.config import settings
 
 QUOTA_TABLE = "assistant_quota_ledger"
 STATE_TABLE = "assistant_runtime_state"
+KILL_SWITCH_KEY = "kill_switch"
 MINUTE_SECONDS = 60
 DAY_SECONDS = 24 * 60 * 60
 
@@ -31,6 +33,16 @@ OUTCOMES = {
     "reserved", "ok", "provider_error", "timeout", "cancelled",
     "guard_error", "paid_usage", "auth_error", "quota_error",
 }
+
+# Latch reasons that record money. Clearing one of them is a spending
+# decision, not a restart decision: the cause may already have cost real funds
+# and the configuration may be able to spend again, so an operator reset needs
+# an explicit acknowledgement and must never erase one by accident.
+PAID_REASONS = frozenset({
+    "paid_usage_detected",      # OpenRouter reported a non-zero cost
+    "payment_required",         # HTTP 402: the request needed payment
+    "paid_model_configuration", # an enabled model is not free
+})
 
 
 class AssistantQuotaError(Exception):
@@ -46,6 +58,20 @@ class AssistantQuotaExceeded(AssistantQuotaError):
 
 class AssistantStorageUnavailable(AssistantQuotaError):
     """The durable guard cannot be read or written; no upstream call is allowed."""
+
+
+@dataclass(frozen=True)
+class KillSwitchReset:
+    """Outcome of one operator reset attempt on the durable latch.
+
+    `stored_reason` is the reason the latch carried when it was read, and is
+    also reported when the reset was refused, so the operator learns what the
+    barrier reacted to. No key, address or conversation text is involved.
+    """
+
+    cleared: bool
+    stored_reason: str | None
+    refusal: str | None = None
 
 
 async def initialize_assistant_schema(db_engine: AsyncEngine) -> None:
@@ -244,6 +270,50 @@ class AssistantQuotaLedger:
                 ))
                 row = result.first()
                 return row[0] if row else None
+        except SQLAlchemyError:
+            raise AssistantStorageUnavailable() from None
+
+    async def reset_kill_switch(
+        self, *, acknowledge_paid_usage: bool = False,
+    ) -> KillSwitchReset:
+        """Operator-controlled recovery: clear the durable latch atomically.
+
+        The read and the delete run inside one `BEGIN IMMEDIATE` transaction,
+        which is what makes the clear atomic against a concurrent `_trip()`.
+        Without it an emergency trip that commits between the read and the
+        delete would be erased by this call — the newest latch silently
+        destroyed by the reset that was reviewing an older one. With the write
+        lock taken up front, a trip either commits before the read (and is then
+        the value this call reports and evaluates) or waits for this
+        transaction to commit and stays in place afterwards.
+
+        A latch whose reason records money is left untouched unless the
+        operator has explicitly acknowledged reviewing the cause and the
+        possible charges, and the barrier is evaluated on the same value that
+        is deleted, inside the same transaction.
+        """
+        try:
+            async with (self._engine or _get_engine()).connect() as connection:
+                await connection.exec_driver_sql('BEGIN IMMEDIATE')
+                row = (await connection.execute(text(
+                    f"SELECT value FROM {STATE_TABLE} WHERE key = :key"
+                ), {"key": KILL_SWITCH_KEY})).first()
+                if row is None:
+                    await connection.commit()
+                    return KillSwitchReset(cleared=True, stored_reason=None)
+                stored_reason = str(row[0])
+                if stored_reason in PAID_REASONS and not acknowledge_paid_usage:
+                    await connection.rollback()
+                    return KillSwitchReset(
+                        cleared=False,
+                        stored_reason=stored_reason,
+                        refusal="paid_usage_review_required",
+                    )
+                await connection.execute(text(
+                    f"DELETE FROM {STATE_TABLE} WHERE key = :key"
+                ), {"key": KILL_SWITCH_KEY})
+                await connection.commit()
+                return KillSwitchReset(cleared=True, stored_reason=stored_reason)
         except SQLAlchemyError:
             raise AssistantStorageUnavailable() from None
 
